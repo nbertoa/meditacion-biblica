@@ -30,15 +30,14 @@ El versículo 8 reúne tres elementos: el libro de la Ley debe permanecer en su 
 
 La referencia a la boca merece atención. El texto no habla solamente de tener información guardada en la mente. La enseñanza debe estar presente también en las palabras de Josué.
 
-Una explicación sólida es que se trata de leer o recitar el texto para sí mismo, posiblemente en voz baja. Las notas de la NET Bible destacan ese sentido. Sin embargo, existe una diferencia de énfasis entre los especialistas: algunos subrayan la recitación; otros, la reflexión sostenida.[^2]
+La unión entre la “boca” y *hāgâ* encaja bien con leer o recitar el texto para uno mismo, quizá en voz baja. La NET Bible traduce el verbo en esa dirección, y el estudio de Boyd-Taylor muestra por qué recitación y reflexión no tienen por qué excluirse.[^2]
 
-No hace falta elegir entre pronunciar palabras sin pensar y pensar sin pronunciar nada. El pasaje puede reunir ambas cosas. Lo que sí queda claro es la relación entre mantener presente la enseñanza y vivir de acuerdo con ella.
+El punto del pasaje no es decidir cuánto se oía la voz de Josué. Es mantener la enseñanza presente para vivir de acuerdo con ella.
 
 La finalidad está expresada en el propio versículo. Josué debe volver sobre el libro para cumplirlo. La meditación forma parte de su preparación para conducir al pueblo y tomar decisiones.
 
 ¿Significa esto que cualquier lector que medite tendrá éxito en todo lo que emprenda? El pasaje no permite esa conclusión. La promesa aparece dentro del encargo particular de Josué y de su fidelidad a la enseñanza de Dios. Convertirla en una garantía de prosperidad para cualquier proyecto quitaría las palabras de su contexto.
 
-Tampoco se indican una postura, un volumen de voz o una cantidad de repeticiones. Esas cuestiones no deben presentarse como instrucciones que el versículo contiene.
 
 ## El Salmo 1: una enseñanza a la que se vuelve
 
@@ -46,15 +45,15 @@ El Salmo 1 lleva la atención a una persona cuya manera de vivir se alimenta de 
 
 La palabra *Ley* puede sonar a una lista de prohibiciones. Pero la palabra hebrea *Torá* también se usa para enseñanza o instrucción. Aquí se trata de la instrucción de Dios que orienta la vida. Incluye exigencias concretas; no es simplemente información agradable.[^3]
 
-Se discute qué conjunto de escritos tiene en vista el salmo. Algunos intérpretes destacan la enseñanza de Moisés. Otros entienden una referencia más amplia a la enseñanza divina. La discusión importa para reconstruir el mundo del autor, pero no cambia el punto central: la persona vuelve sobre lo que reconoce como instrucción del Señor.
+No sabemos con total precisión cuánto abarca aquí *Torá*. Puede referirse de manera especial a la enseñanza de Moisés o, más ampliamente, a la instrucción de Dios. Para el argumento del salmo alcanza con algo más básico: esta persona vuelve una y otra vez a la enseñanza que reconoce como proveniente de Dios.[^3]
 
-No sería exacto decir que el salmista ya pensaba en nuestra Biblia completa. Podemos aplicar el principio a las Escrituras que leemos hoy, reconociendo que esa aplicación amplía la situación original.
+Eso tampoco significa que el salmista estuviera pensando en nuestra Biblia completa. Aplicar hoy el principio al conjunto de las Escrituras es una extensión posterior, no la situación original.
 
 La expresión *día y noche* presenta una atención habitual. No parece imponer una lectura ininterrumpida que impida dormir, trabajar o conversar. Las notas de la NET Bible la entienden como una forma enfática de describir una conducta constante.[^4]
 
 La enseñanza de Dios acompaña la vida. Se vuelve a ella porque se la valora. El salmo compara a esa persona con un árbol junto al agua: su vida recibe alimento y produce fruto. La imagen ayuda a comprender que la meditación pertenece a una relación duradera con la enseñanza.
 
-Tampoco aquí se describe una técnica única. Hay propuestas académicas que relacionan la meditación del salmo con la recitación e incluso con el canto de los salmos. Son interpretaciones que merecen consideración, pero el versículo no especifica una melodía ni establece que toda meditación deba cantarse.[^5]
+Tampoco aquí se describe una técnica única. Algunos estudios relacionan este tipo de meditación con la recitación e incluso con el canto, pero el salmo no fija una única forma de hacerlo.[^5]
 
 ## Recordar a Dios en la noche
 
@@ -122,13 +121,13 @@ Al mismo tiempo, hay pasajes que ponen el énfasis en la reflexión interior. Sa
 
 En ese uso bíblico, *corazón* no se refiere solamente a los sentimientos. También es donde la persona considera, comprende y decide. La expresión señala su vida interior.
 
-Podemos afirmar que el silencio no es una condición universal de la meditación bíblica. También debemos admitir que no conocemos el volumen de voz usado en cada escena. Del posible uso de palabras en voz baja no se sigue que todas las personas meditaran siempre de esa manera.
+El silencio absoluto, entonces, no es un requisito. A veces el lenguaje apunta a expresión verbal; otras, a reflexión interior. Los textos no nos dejan fijar un único volumen, postura o forma para todas las escenas.
 
-Hay, además, otras palabras que algunas traducciones presentan como *meditación*. Los sustantivos usados en Salmo 19:14 y Salmo 49:3 se relacionan con el pensamiento interior y su expresión. Pero una palabra emparentada puede aparecer en un contexto musical, como Salmo 92:3. Esas relaciones ayudan a investigar; no convierten una indicación musical en una instrucción para meditar.[^10]
+Además, algunas traducciones usan *meditación* para otras palabras hebreas, como las de Salmos 19:14 y 49:3. Eso recuerda que nuestra palabra española agrupa expresiones distintas. Por eso conviene construir la definición desde los pasajes, no desde un solo término.[^10]
 
-Tampoco debemos apoyar toda la definición en Isaac, que sale al campo en Génesis 24:63. Algunas versiones dicen que salió a meditar; otras, que salió a pasear. El sentido del término hebreo es incierto. Aunque aceptáramos la traducción *meditar*, el versículo no dice sobre qué pensaba ni describe un método.[^11]
+Por la misma razón, Génesis 24:63 no debería cargar demasiado peso. Algunas versiones dicen que Isaac salió a meditar; otras, que salió a pasear. El término hebreo es incierto y el versículo no explica ni el contenido ni el método de esa actividad.[^11]
 
-La conclusión firme descansa en los pasajes más claros: la meditación puede involucrar pensamiento y palabras, pero la Biblia no fija una única manera de combinarlos.
+La conclusión más segura es sencilla: la meditación puede involucrar pensamiento y palabras, pero la Biblia no fija una única manera de combinarlos.
 
 ## Leer, estudiar, memorizar, orar y meditar
 
@@ -162,23 +161,19 @@ Si nos representamos el desierto del Salmo 63, podemos atender a la sed que expr
 
 La imaginación puede acompañar la reflexión, pero no es una condición para meditar ni una fuente independiente de información sobre el pasaje.
 
-## La continuidad en el Nuevo Testamento
+## ¿Aparece esta manera de pensar también en el Nuevo Testamento?
 
-La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayuda a seguir estas ideas de una lengua a otra. En Josué 1:8 y Salmo 1:2 utiliza el verbo *meletáō*. Según el contexto, este verbo puede describir reflexión, práctica o dedicación atenta.[^12]
+La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayuda a seguir una parte de la historia. En Josué 1:8 y Salmo 1:2 traduce *hāgâ* con el verbo *meletáō*. Ese puente muestra que la idea de una atención sostenida a la enseñanza podía expresarse en griego con ese verbo, aunque *meletáō* también tiene otros usos.[^12]
 
-Eso establece una relación entre los textos, pero no significa que todos los usos griegos describan exactamente la misma actividad.
+Hechos 4:25, por ejemplo, lo emplea al citar Salmo 2:1 sobre los planes inútiles de los pueblos. Y en 1 Timoteo 4:15 aparece dentro de instrucciones a Timoteo sobre conducta, lectura pública, enseñanza y ministerio. Allí puede abarcar ocuparse de esas responsabilidades, practicarlas o dedicarles atención; no describe sin más una sesión silenciosa de meditación.[^13]
 
-Hechos 4:25 cita Salmo 2:1 y emplea ese verbo para los planes inútiles de los pueblos. Una vez más, la palabra no identifica por sí sola una práctica espiritual buena.
+Hay otros textos que se parecen en la acción, aunque usan palabras diferentes. Lucas 2:19 dice que María conserva lo ocurrido y *symballō* esas cosas en su corazón. Muchas traducciones lo expresan como *ponderar* o *reflexionar*, pero también se ha defendido que aquí significa poner las cosas en relación para comprenderlas. La discusión sigue abierta. Por eso el pasaje muestra atención sostenida y búsqueda de comprensión, pero no conviene usarlo como prueba de que Lucas está describiendo la misma práctica que Josué 1 o Salmo 1.[^14]
 
-En 1 Timoteo 4:15, la invitación a dedicarse a estas cosas aparece después de las instrucciones sobre la conducta, la lectura pública, la enseñanza y el don recibido. Algunas traducciones utilizan *meditar*; otras destacan ocuparse o dedicarse. El contexto abarca la atención y la práctica de esas responsabilidades. Sería demasiado estrecho entenderlo solamente como una sesión de reflexión silenciosa.[^13]
+Más adelante, Lucas dice que los padres de Jesús no comprendieron una respuesta suya y que su madre conservaba esas cosas en el corazón (2:50-51). Guardar algo interiormente no exige haberlo entendido por completo.
 
-También hay continuidad en pasajes que utilizan otras palabras. Lucas 2:19 presenta a María conservando lo que ha oído y reflexionando sobre ello. La acción va más allá de recordar: considera su significado. No se la describe leyendo un rollo, sino prestando atención a palabras y acontecimientos relacionados con Jesús.
+Filipenses 4:8 invita a considerar lo verdadero, justo y digno de aprecio. El versículo siguiente vincula la enseñanza recibida con ponerla en práctica. Tampoco aquí se presenta una técnica llamada *meditación*, pero sí aparece una relación familiar: prestar atención a un contenido y orientar la conducta por él.
 
-Más adelante, Lucas dice que los padres de Jesús no comprendieron una respuesta suya y que su madre conservaba esas cosas en el corazón (2:50-51). Guardar algo interiormente no exige haberlo entendido por completo.[^14]
-
-Filipenses 4:8 invita a considerar lo verdadero, justo y digno de aprecio. El versículo siguiente vincula la enseñanza recibida con ponerla en práctica. El pasaje no se limita a la lectura de la Biblia ni expone una técnica de meditación, pero comparte una relación que ya vimos: prestar atención a un contenido valioso y orientar la conducta por él.
-
-Estos ejemplos permiten hablar de continuidad en la atención, el recuerdo y la respuesta. No permiten reconstruir un único procedimiento que todos los creyentes hubieran seguido.
+El Nuevo Testamento, entonces, no entrega un único procedimiento llamado *meditación bíblica*. Sí conserva acciones afines: atender, guardar, considerar, comprender y orientar la conducta. En algunos casos hay continuidad léxica mediante *meletáō*; en otros, la semejanza es conceptual.
 
 ## Una definición que nace de los pasajes
 
@@ -188,11 +183,11 @@ Hay personas que vuelven sobre la enseñanza de Dios para vivir conforme a ella.
 
 A partir de esa evidencia, podemos definir así la práctica que estamos estudiando:
 
-**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, recordando y considerando lo que muestran, para comprenderlo y responder con confianza, oración y una vida orientada por su enseñanza.**
+**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
 
-Esta definición es una síntesis de los pasajes. No pretende ser la traducción exacta de una sola palabra hebrea o griega. Tampoco exige que cada momento de meditación incluya todas esas acciones.
+Esta definición es una síntesis de los pasajes, no la traducción exacta de una sola palabra hebrea o griega. Recordar, repetir, preguntar, orar, agradecer o corregir la propia conducta pueden formar parte de esa respuesta, pero no todos los textos reúnen todos esos elementos.
 
-Su centro es prestar atención y volver. Su contenido es Dios, conocido por sus palabras y sus obras. Su orientación es responder a lo considerado. Esa respuesta puede comenzar como una pregunta, una expresión de gratitud o la decisión de corregir algo.
+En términos simples: no es solamente leer algo una vez. Es volver a ello, permanecer con su sentido y dejar que lo comprendido tenga consecuencias.
 
 Meditar puede ocurrir con la Biblia abierta o con un pasaje ya recordado. Puede incluir palabras expresadas o reflexión interior. Puede suceder en la alegría o mientras una pregunta sigue doliendo.
 
@@ -222,12 +217,12 @@ Las referencias de Salmos en el cuerpo siguen la numeración habitual de las Bib
 
 [^9]: Sal 119:15, 18, 23, 27, 48, 59, 78, 97-104, 148, 176. BDB, entradas שִׂיחַ y שִׂיחָה (LEX-HEB-01). Kirkpatrick, comentario a 119:27 (COM-SAL-01). Considerar los propios caminos en 119:59 utiliza חָשַׁב; es una acción relacionada, no otra aparición de שִׂיחַ.
 
-[^10]: Sal 19:14; 49:3; 92:3. BDB, entradas הִגָּיוֹן y הָגוּת (LEX-HEB-01). Sal 9:16 contiene otra expresión cuya función se discute; no se utiliza para establecer un método.
+[^10]: Sal 19:14; 49:3. BDB, entradas הִגָּיוֹן y הָגוּת (LEX-HEB-01). Estos términos amplían el cuadro léxico, pero no se usan para definir por sí solos la práctica.
 
 [^11]: Gén 24:63; NET Bible, nota de traducción sobre el término incierto (COM-NET-01). La diversidad entre “meditar” y “pasear” impide usar el versículo como fundamento único de la definición.
 
-[^12]: Septuaginta, Jos 1:8; Sal 1:2; Sal 76:13, correspondiente a Sal 77:12 en la numeración española (TXT-LXX-01). Se cotejó el texto electrónico; no se consultó un aparato crítico completo. Boyd-Taylor (EST-01) analiza esta relación.
+[^12]: Septuaginta, Jos 1:8; Sal 1:2; Sal 76:13, correspondiente a Sal 77:12 en la numeración española (TXT-LXX-01). Se cotejó el texto electrónico; no se consultó un aparato crítico completo. Boyd-Taylor (EST-01) estudia específicamente la relación entre *hāgâ* y *meletáō* y advierte que el vínculo no debe reducirse a una equivalencia mecánica entre palabras.
 
-[^13]: 1 Tim 4:12-16; Hch 4:25 y Sal 2:1. Entrada μελετάω transmitida por el léxico electrónico TBESG (LEX-GR-04), que conserva las alternativas de atender/practicar y estudiar/reflexionar. El compuesto προμελετάω en Lc 21:14 se refiere a preparar de antemano la defensa ante perseguidores; esa instrucción particular no prohíbe toda reflexión previa.
+[^13]: 1 Tim 4:12-16; Hch 4:25 y Sal 2:1. Entrada μελετάω transmitida por el léxico electrónico TBESG (LEX-GR-04), que conserva las alternativas de atender/practicar y estudiar/reflexionar. Boyd-Taylor (EST-01) también relaciona 1 Tim 4:15 con este trasfondo, pero señala un desplazamiento conceptual hacia la práctica y formación de Timoteo.
 
-[^14]: Lc 2:16-19, 41-51; Flp 4:6-9. NET Bible, nota a Lc 2:19 (COM-NET-01); texto griego de Lc 2:19 y Flp 4:8 (TXT-NT-01). En estos textos aparecen συμβάλλω y λογίζομαι, respectivamente. La continuidad señalada es una comparación de las acciones descritas, no identidad entre sus verbos.
+[^14]: Lc 2:16-19, 41-51; Flp 4:6-9. NET Bible, nota a Lc 2:19 (COM-NET-01), entiende συμβάλλω como algo más que recordar y lo relaciona con poner las cosas juntas para comprender. Cornelis Hoogerwerf (EST-04) defiende de manera más fuerte que el verbo aquí significa comprender; se consultaron sus datos bibliográficos y resumen, no el artículo completo. Texto griego de Lc 2:19 y Flp 4:8 en TXT-NT-01. La semejanza señalada es conceptual, no identidad entre los verbos.
