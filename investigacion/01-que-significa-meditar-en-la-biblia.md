@@ -17,7 +17,7 @@ La investigación existente era un inventario preliminar y un registro de fuente
 - Texto griego del NT mediante la interfaz de análisis y sus textos paralelos, identificados allí como Nestle 1904, Westcott-Hort 1881 y otras ediciones. No se afirma consulta directa de NA28 ni SBLGNT en esta sesión.
 - BDB: entradas הָגָה, שִׂיחַ verbo y sustantivo, שִׂיחָה, הָגוּת, הִגָּיוֹן; además זָכַר, בִּין y חָשַׁב para acciones relacionadas.
 - Léxico electrónico TBESG, entrada μελετάω, que presenta las alternativas de atender/practicar y estudiar/reflexionar. BDAG permanece como fuente por consultar directamente.
-- Boyd-Taylor (EST-01): texto HTML, especialmente “Deuteronomic antecedents”. HALOT y DCH se conocen aquí de segunda mano; la página 237 de HALOT mencionada por NET no se presenta como cotejada directamente.
+- Boyd-Taylor (EST-01): texto HTML, especialmente “Deuteronomic antecedents”. Su análisis de Jos 1:8 distingue el sentido de *meletáō* como práctica/ejercicio del sentido griego de cuidado o preocupación, que no considera pertinente allí. HALOT y DCH se conocen aquí de segunda mano; la página 237 de HALOT mencionada por NET no se presenta como cotejada directamente.
 - Botha (EST-02): HTML, especialmente introducción y conclusión. Se utiliza su propuesta de alcance amplio de Torá como interpretación, no como consenso.
 - Lefebvre (EST-03): resumen y datos editoriales. El texto completo tiene acceso restringido; solo se registra la tesis expresada en el resumen.
 - Kirkpatrick (COM-SAL-01): comentarios electrónicos de Sal 1, 63, 77 y 119; referencias por versículo. No se toman sus reconstrucciones históricas como hechos seguros.
@@ -35,7 +35,7 @@ Numeración española en la primera columna. Las formas se conservan sin acentos
 | Jos 1:8 | וְהָגִיתָ; הגה, Qal, 2.ª singular | Josué; libro de la Ley; encargo de conducción después de la muerte de Moisés | Boca, atención habitual al libro y cumplimiento aparecen vinculados | La recitación baja es una interpretación bien apoyada; no hay volumen o postura prescritos |
 | Sal 1:2 | יֶהְגֶּה; הגה, Qal, 3.ª singular | Persona presentada como dichosa; Torá del Señor; contraste de caminos | Meditación habitual y valoración de la instrucción | No determina exactamente el corpus ni una técnica |
 | Sal 63:6 (MT 63:7) | אֶהְגֶּה; הגה, Qal, 1.ª singular; junto a זכר | Orante en la cama; Dios; recuerdo de su ayuda | Meditar puede dirigirse a Dios y relacionarse con memoria y gratitud | No describe imaginar su apariencia ni permite fijar el episodio histórico |
-| Sal 77:3, 6 (MT 77:4, 7) | Formas de שיח | Orante angustiado; recuerdo y preguntas sobre el favor divino | La reflexión puede convivir con turbación y examen interior | No todo uso equivale a una disciplina beneficiosa o a recitar Escritura |
+| Sal 77:3, 6 (MT 77:4, 7) | Formas de שיח | Salmista angustiado; recuerdo y preguntas sobre el favor divino | La reflexión sobre Dios puede convivir con turbación, lamento y examen interior | No convertir automáticamente cada pregunta o lamento del salmo en una acción llamada “meditación” |
 | Sal 77:12 (MT 77:13) | וְהָגִיתִי; הגה, Qal, 1.ª singular; אָשִׂיחָה; שיח, Qal, 1.ª singular con terminación cohortativa | Obras de Dios; transición hacia el recuerdo de la liberación de Israel | Los dos verbos aparecen en paralelo; contenido definido | No prueba que el segundo sea siempre vocal y el primero siempre mental |
 | Sal 119:15, 23, 27, 48, 78, 148 | שיח, formas verbales | Preceptos, estatutos, maravillas y palabra; oración y oposición | Atención a la enseñanza en circunstancias diversas | Las “maravillas” de 27 pueden referirse a lo admirable de la instrucción |
 | Sal 119:97, 99 | שִׂיחָתִי / שִׂיחָה; sustantivo femenino H7881 | Ley y testimonios | El contenido ocupa la atención | No confundir sustantivo con verbo H7878 ni sustantivo masculino H7879 |
@@ -97,7 +97,7 @@ Ninguna de esas cuestiones pendientes sostiene por sí sola la definición. No s
 
 ## Revisión de lenguaje del manuscrito
 
-Se hizo una segunda pasada editorial y metodológica después de la primera auditoría: se redujeron aclaraciones repetidas, se simplificó la definición de síntesis y se reformuló la sección del Nuevo Testamento para distinguir continuidad léxica de semejanza conceptual. Lucas 2:19 quedó presentado como un caso discutido y no como prueba directa de una misma práctica.
+Se hicieron sucesivas pasadas editoriales y metodológicas: se redujeron aclaraciones repetidas, se simplificó la definición de síntesis y se reformuló la sección del Nuevo Testamento para distinguir el uso del mismo verbo griego de otras semejanzas conceptuales. También se corrigió el matiz de *meletáō* en la Septuaginta según Boyd-Taylor, se evitó identificar automáticamente lamento y preguntas con “meditación” en Sal 77 y Lucas 2:19 quedó presentado como un caso discutido, no como prueba directa de una misma práctica.
 
 Los términos originales se limitan a los que aclaran el tema; los tecnicismos y formas gramaticales quedan en este expediente. Las notas permiten verificar las afirmaciones sin interrumpir continuamente la lectura.
 
