@@ -22,6 +22,7 @@ La investigación existente era un inventario preliminar y un registro de fuente
 - Lefebvre (EST-03): resumen y datos editoriales. El texto completo tiene acceso restringido; solo se registra la tesis expresada en el resumen.
 - Kirkpatrick (COM-SAL-01): comentarios electrónicos de Sal 1, 63, 77 y 119; referencias por versículo. No se toman sus reconstrucciones históricas como hechos seguros.
 - NET Bible (COM-NET-01): notas a Jos 1:8; Sal 1:2; Gén 24:63; Lc 2:19, y traducciones paralelas de 1 Tim 4:15.
+- Cornelis Hoogerwerf, “A Farewell to the Pondering Mary” (EST-04): se verificaron datos bibliográficos y resumen público. El artículo defiende que συμβάλλουσα en Lc 2:19 expresa comprensión más que simple “ponderación”. El texto completo no fue consultado, por lo que se registra como una interpretación relevante, no como una conclusión adoptada sin reservas.
 
 La interfaz /bdb/7881.htm devolvió en esta consulta la entrada de “arbusto”, H7880. Se descartó ese resultado y se comprobó שִׂיחָה en /hebrew/7881.htm, apartado BDB. No confundir identidad gráfica de ciertas palabras con identidad de sentido. El enlace a NETS falló; no se registra como fuente consultada.
 
@@ -40,7 +41,7 @@ Numeración española en la primera columna. Las formas se conservan sin acentos
 | Sal 119:97, 99 | שִׂיחָתִי / שִׂיחָה; sustantivo femenino H7881 | Ley y testimonios | El contenido ocupa la atención | No confundir sustantivo con verbo H7878 ni sustantivo masculino H7879 |
 | Sal 119:59 | חִשַּׁבְתִּי; חשב, Piel, 1.ª singular | Propios caminos considerados ante los testimonios de Dios | Reflexión y cambio de conducta se conectan | Acción relacionada; no es otra aparición de הגה o שיח |
 | Sal 143:5 | זָכַרְתִּי, הָגִיתִי, אֲשׂוֹחֵחַ | Días pasados y acciones divinas, dentro de una súplica | Memoria y consideración se reúnen | BDB denomina la última forma Pol‘el; la interfaz la etiqueta Piel. Esa diferencia de análisis no altera aquí la conclusión |
-| Lc 2:19 | συνετήρει y συμβάλλουσα | María; palabras y acontecimientos vinculados con el nacimiento de Jesús | Conservar y ponderar lo oído | No es descripción de lectura ni evidencia de recitación |
+| Lc 2:19 | συνετήρει y συμβάλλουσα | María; palabras y acontecimientos vinculados con el nacimiento de Jesús | Conserva lo ocurrido y busca comprenderlo / relacionarlo | El sentido preciso de συμβάλλουσα es discutido; no es prueba de que Lucas describa la misma práctica que Jos 1 o Sal 1 |
 | 1 Tim 4:15 | μελέτα; μελετάω, imperativo presente activo, 2.ª singular | Timoteo; responsabilidades de conducta y ministerio en 4:12-16 | Dedicación atenta que abarca práctica | La traducción “meditar” no autoriza reducir el encargo a pensar en silencio |
 | Flp 4:8-9 | λογίζεσθε; λογίζομαι, imperativo presente, 2.ª plural | Comunidad; lo verdadero y moralmente valioso, enseñanza recibida | Consideración vinculada con práctica | No se limita al texto bíblico ni prescribe un método |
 
@@ -90,12 +91,14 @@ Los encabezamientos de algunos salmos se cuentan como versículos en la numeraci
 
 ## Límites que permanecen abiertos
 
-La delimitación de Torá en Sal 1; el equilibrio entre recitación y reflexión en ciertos textos; el sentido de Gén 24:63; detalles de Sal 77:10; la función de higgāyôn en Sal 9 y 92; historia exacta de las prácticas y fechas de composición; aparato crítico completo y corpus léxico exhaustivo.
+La delimitación de Torá en Sal 1; el equilibrio entre recitación y reflexión en ciertos textos; el sentido de Gén 24:63; detalles de Sal 77:10; el sentido preciso de συμβάλλουσα en Lc 2:19; la función de higgāyôn en Sal 9 y 92; historia exacta de las prácticas y fechas de composición; aparato crítico completo y corpus léxico exhaustivo.
 
 Ninguna de esas cuestiones pendientes sostiene por sí sola la definición. No se incorporan beneficios clínicos, comparación de tradiciones ni experiencias personales inventadas.
 
 ## Revisión de lenguaje del manuscrito
 
-Se revisó el cuerpo después de redactarlo: términos originales limitados a los que aclaran el tema; tecnicismos y formas gramaticales reservados a este expediente; párrafos cortos; ejemplos identificados como ejemplos; inferencias diferenciadas de las afirmaciones del texto. Las notas permiten verificar las afirmaciones sin interrumpir continuamente la lectura.
+Se hizo una segunda pasada editorial y metodológica después de la primera auditoría: se redujeron aclaraciones repetidas, se simplificó la definición de síntesis y se reformuló la sección del Nuevo Testamento para distinguir continuidad léxica de semejanza conceptual. Lucas 2:19 quedó presentado como un caso discutido y no como prueba directa de una misma práctica.
+
+Los términos originales se limitan a los que aclaran el tema; los tecnicismos y formas gramaticales quedan en este expediente. Las notas permiten verificar las afirmaciones sin interrumpir continuamente la lectura.
 
 El capítulo queda terminado para revisión del autor. Esto no significa aprobación editorial del autor ni cierre de los capítulos restantes.
