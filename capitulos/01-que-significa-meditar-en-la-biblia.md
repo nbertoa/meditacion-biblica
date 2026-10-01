@@ -53,17 +53,17 @@ La expresión *día y noche* presenta una atención habitual. No parece imponer 
 
 La enseñanza de Dios acompaña la vida. Se vuelve a ella porque se la valora. El salmo compara a esa persona con un árbol junto al agua: su vida recibe alimento y produce fruto. La imagen ayuda a comprender que la meditación pertenece a una relación duradera con la enseñanza.
 
-Tampoco aquí se describe una técnica única. Algunos estudios relacionan este tipo de meditación con la recitación e incluso con el canto, pero el salmo no fija una única forma de hacerlo.[^5]
+Tampoco aquí se describe una técnica única. Una propuesta académica relaciona este tipo de meditación con la recitación e incluso con el canto, pero el salmo no fija una única forma de hacerlo.[^5]
 
 ## Recordar a Dios en la noche
 
-El Salmo 63 muestra otra situación. Su encabezamiento lo relaciona con David en el desierto de Judá. El poema expresa sed de Dios, recuerda su poder y celebra su amor. También menciona personas que amenazan la vida del orante.
+El Salmo 63 muestra otra situación. Su encabezamiento lo relaciona con David en el desierto de Judá. El poema expresa sed de Dios, recuerda su poder y celebra su amor. También menciona personas que amenazan la vida de quien habla.
 
 En el versículo 6, quien habla recuerda a Dios mientras está acostado y medita en él durante la noche. En el versículo siguiente explica que Dios ha sido su ayuda.[^6]
 
 Aquí el objeto de la meditación es Dios mismo. Eso no significa intentar imaginar su apariencia. El salmo ofrece contenidos concretos: su amor, su poder y la ayuda recibida. La persona piensa en quién es Dios a partir de cómo lo ha conocido.
 
-Recordar y meditar aparecen juntos, pero no cumplen exactamente la misma función. Recordar trae algo a la atención. Meditar permanece con eso, vuelve sobre su significado y considera lo que implica.
+Recordar y meditar aparecen juntos. En este salmo podemos ver una diferencia útil: recordar trae nuevamente algo a la atención; meditar implica seguir ocupándose de ello, volver sobre su significado y considerar lo que implica.
 
 Podemos entender la diferencia con una experiencia común. Recordar que alguien nos ayudó es traer ese hecho a la memoria. Detenernos a considerar qué mostró esa ayuda sobre la persona, y qué cambia en nuestra confianza, es un paso más. El ejemplo ilustra la diferencia; no pretende reconstruir los pensamientos exactos del salmista.
 
@@ -81,37 +81,37 @@ En este salmo aparece el segundo verbo importante, *śîaḥ*. Según el context
 
 Eso nos ayuda a comprender una cercanía entre pensar y expresar. A veces una preocupación se piensa; a veces se dice; a veces se lleva a Dios como una pregunta. Sin embargo, no todo uso de esta palabra describe meditación sobre las Escrituras.
 
-El movimiento del Salmo 77 es revelador. En los versículos 11 y 12, el orante se dispone a recordar las obras de Dios y a volver sobre lo que ha hecho. En el versículo 12 aparecen juntos *hāgâ* y *śîaḥ*. Los dos verbos contribuyen a presentar una reflexión atenta sobre las acciones divinas.
+El movimiento del Salmo 77 es revelador. En los versículos 11 y 12, el salmista se dispone a recordar las obras de Dios y a volver sobre lo que ha hecho. En el versículo 12 aparecen juntos *hāgâ* y *śîaḥ*. Los dos verbos contribuyen a presentar una reflexión atenta sobre las acciones divinas.
 
 Luego el poema recuerda la liberación de Israel y describe el camino de Dios a través del mar. La angustia personal se pone en relación con la historia del pueblo.
 
-No se trata simplemente de repetirse algo alentador. El orante examina su experiencia a la luz de lo que conoce de Dios. Sus preguntas son difíciles precisamente porque toma en serio el amor y la fidelidad que antes ha reconocido.
+No se trata simplemente de repetirse algo alentador. El salmista examina su experiencia a la luz de lo que conoce de Dios. Sus preguntas son difíciles precisamente porque toma en serio el amor y la fidelidad que antes ha reconocido.
 
 El salmo termina recordando que Dios condujo a su pueblo por medio de Moisés y Aarón. No relata una solución concreta al problema presente ni declara que la angustia haya desaparecido. Podemos reconocer un cambio de atención y una afirmación de la acción de Dios. No podemos medir el estado emocional final de quien habla.[^8]
 
-Este pasaje ensancha nuestra comprensión: meditar puede incluir preguntas, lamento y una búsqueda que todavía no ha encontrado todas las respuestas.
+Este pasaje ensancha nuestra comprensión: la reflexión sobre Dios puede convivir con preguntas, lamento y una búsqueda que todavía no ha encontrado todas las respuestas.
 
 ## El Salmo 119: comprender, pedir y vivir
 
-El Salmo 119 vuelve una y otra vez sobre la enseñanza de Dios. Habla de sus mandamientos, preceptos, estatutos, testimonios y palabras. Podemos comprender esos nombres como distintas maneras de referirse a lo que Dios comunica: lo que pide, lo que enseña y aquello en lo que el orante pone su esperanza.
+El Salmo 119 vuelve una y otra vez sobre la enseñanza de Dios. Habla de sus mandamientos, preceptos, estatutos, testimonios y palabras. Podemos comprender esos nombres como distintas maneras de referirse a lo que Dios comunica: lo que pide, lo que enseña y aquello en lo que el salmista pone su esperanza.
 
 No necesitamos aprender una clasificación de cada término para seguir el poema. Sí conviene advertir que su relación con la palabra de Dios incluye más que recibir órdenes.
 
-En el versículo 15, meditar en los preceptos aparece junto con prestar atención a los caminos de Dios. En el 27, el orante pide comprender esa enseñanza para reflexionar sobre sus maravillas. La reflexión y la petición de ayuda se encuentran en la misma oración.
+En el versículo 15, meditar en los preceptos aparece junto con prestar atención a los caminos de Dios. En el 27, el salmista pide comprender esa enseñanza para reflexionar sobre sus maravillas. La reflexión y la petición de ayuda se encuentran en la misma oración.
 
 ¿Qué son esas maravillas? Podríamos pensar enseguida en acontecimientos extraordinarios. Sin embargo, los versículos 18 y 27 permiten entender también lo admirable que el orante descubre en la enseñanza divina. El comentario de A. F. Kirkpatrick destaca esa lectura. Conviene conservar el vínculo con el contexto, sin reducir la palabra a una sola clase de obra de Dios.[^9]
 
 El poema también muestra a alguien que medita mientras otros hablan contra él: ocurre en los versículos 23 y 78. La meditación no requiere una vida libre de conflictos. Se integra en una situación en la que la persona necesita orientación.
 
-Los versículos 97 y 99 presentan la Ley y los testimonios de Dios como su meditación. Aquí aparece un sustantivo emparentado con *śîaḥ*. La idea es una enseñanza que ocupa su atención y a la que vuelve durante el día.
+Los versículos 97 y 99 presentan la Ley y los testimonios de Dios como su meditación. Aquí aparece una palabra de la misma familia que *śîaḥ*. La idea es una enseñanza que ocupa su atención y a la que vuelve durante el día.
 
 El versículo 148 vuelve a situar esa atención en la noche. La persona permanece despierta para meditar en la palabra de Dios. El texto describe su disposición; no prescribe un horario obligatorio para todos.
 
-También hay acciones cercanas expresadas con otras palabras. En el versículo 59, el orante considera sus propios caminos y vuelve sus pasos hacia los testimonios de Dios. Esa frase muestra con claridad la relación entre examinar y responder: al considerar su conducta, encuentra algo que debe cambiar.
+También hay acciones cercanas expresadas con otras palabras. En el versículo 59, el salmista considera sus propios caminos y vuelve sus pasos hacia los testimonios de Dios. Esa frase muestra con claridad la relación entre examinar y responder: al considerar su conducta, encuentra algo que debe cambiar.
 
 No sería correcto llamar *meditación* a todas las acciones del salmo como si fueran idénticas. Aprender, guardar, recordar, pedir y obedecer conservan sus diferencias. Pero el poema las reúne en una misma relación con Dios.
 
-Su cierre merece atención. Después de tantas afirmaciones de amor por la enseñanza divina, el orante pide que Dios lo busque como a una oveja extraviada. La familiaridad con la palabra no lo lleva a presentarse como alguien que ya no necesita ayuda.
+Su cierre merece atención. Después de tantas afirmaciones de amor por la enseñanza divina, el salmista pide que Dios lo busque como a una oveja extraviada. La familiaridad con la palabra no lo lleva a presentarse como alguien que ya no necesita ayuda.
 
 ## ¿Solamente pensar en silencio?
 
@@ -163,7 +163,7 @@ La imaginación puede acompañar la reflexión, pero no es una condición para m
 
 ## ¿Aparece esta manera de pensar también en el Nuevo Testamento?
 
-La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayuda a seguir una parte de la historia. En Josué 1:8 y Salmo 1:2 traduce *hāgâ* con el verbo *meletáō*. Ese puente muestra que la idea de una atención sostenida a la enseñanza podía expresarse en griego con ese verbo, aunque *meletáō* también tiene otros usos.[^12]
+La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayuda a seguir una parte de la historia. En Josué 1:8 y Salmo 1:2 traduce *hāgâ* con el verbo *meletáō*. En esos textos, el verbo puede presentar esa repetición de la enseñanza como una práctica o ejercicio sostenido, aunque *meletáō* también tiene otros usos.[^12]
 
 Hechos 4:25, por ejemplo, lo emplea al citar Salmo 2:1 sobre los planes inútiles de los pueblos. Y en 1 Timoteo 4:15 aparece dentro de instrucciones a Timoteo sobre conducta, lectura pública, enseñanza y ministerio. Allí puede abarcar ocuparse de esas responsabilidades, practicarlas o dedicarles atención; no describe sin más una sesión silenciosa de meditación.[^13]
 
@@ -173,7 +173,7 @@ Más adelante, Lucas dice que los padres de Jesús no comprendieron una respuest
 
 Filipenses 4:8 invita a considerar lo verdadero, justo y digno de aprecio. El versículo siguiente vincula la enseñanza recibida con ponerla en práctica. Tampoco aquí se presenta una técnica llamada *meditación*, pero sí aparece una relación familiar: prestar atención a un contenido y orientar la conducta por él.
 
-El Nuevo Testamento, entonces, no entrega un único procedimiento llamado *meditación bíblica*. Sí conserva acciones afines: atender, guardar, considerar, comprender y orientar la conducta. En algunos casos hay continuidad léxica mediante *meletáō*; en otros, la semejanza es conceptual.
+El Nuevo Testamento, entonces, no entrega un único procedimiento llamado *meditación bíblica*. Sí conserva acciones afines: atender, guardar, considerar, comprender y orientar la conducta. En algunos casos se conserva el mismo verbo griego, *meletáō*; en otros, la semejanza está en la acción descrita.
 
 ## Una definición que nace de los pasajes
 
@@ -189,9 +189,9 @@ Esta definición es una síntesis de los pasajes, no la traducción exacta de un
 
 En términos simples: no es solamente leer algo una vez. Es volver a ello, permanecer con su sentido y dejar que lo comprendido tenga consecuencias.
 
-Meditar puede ocurrir con la Biblia abierta o con un pasaje ya recordado. Puede incluir palabras expresadas o reflexión interior. Puede suceder en la alegría o mientras una pregunta sigue doliendo.
+Meditar puede ocurrir con un texto delante o a partir de algo ya recordado acerca de Dios, sus palabras o sus obras. Puede incluir palabras expresadas o reflexión interior. Puede suceder en la alegría o mientras una pregunta sigue doliendo.
 
-La persona bíblica que medita no aparece necesariamente apartada de todas sus responsabilidades. Josué debe conducir; el orante del Salmo 119 enfrenta oposición; María busca comprender lo que ha oído. En medio de esas situaciones, conservan algo a lo que volver.
+Quienes meditan en estos textos no aparecen necesariamente apartados de todas sus responsabilidades. Josué debe conducir al pueblo; el salmista del Salmo 119 enfrenta oposición. La meditación aparece dentro de la vida, no fuera de ella.
 
 Cuando una palabra sigue con nosotros después de leerla, todavía queda por ver qué haremos con ella. La meditación comienza a tomar forma cuando le damos atención, buscamos comprenderla y permitimos que cuestione u oriente nuestra respuesta.
 
@@ -221,7 +221,7 @@ Las referencias de Salmos en el cuerpo siguen la numeración habitual de las Bib
 
 [^11]: Gén 24:63; NET Bible, nota de traducción sobre el término incierto (COM-NET-01). La diversidad entre “meditar” y “pasear” impide usar el versículo como fundamento único de la definición.
 
-[^12]: Septuaginta, Jos 1:8; Sal 1:2; Sal 76:13, correspondiente a Sal 77:12 en la numeración española (TXT-LXX-01). Se cotejó el texto electrónico; no se consultó un aparato crítico completo. Boyd-Taylor (EST-01) estudia específicamente la relación entre *hāgâ* y *meletáō* y advierte que el vínculo no debe reducirse a una equivalencia mecánica entre palabras.
+[^12]: Septuaginta, Jos 1:8; Sal 1:2; Sal 76:13, correspondiente a Sal 77:12 en la numeración española (TXT-LXX-01). Se cotejó el texto electrónico; no se consultó un aparato crítico completo. Boyd-Taylor (EST-01) estudia específicamente la relación entre *hāgâ* y *meletáō* y propone entender el uso griego en Jos 1:8 en términos de práctica o ejercicio, más que del sentido griego de cuidado o preocupación. El vínculo no debe reducirse a una equivalencia mecánica entre palabras.
 
 [^13]: 1 Tim 4:12-16; Hch 4:25 y Sal 2:1. Entrada μελετάω transmitida por el léxico electrónico TBESG (LEX-GR-04), que conserva las alternativas de atender/practicar y estudiar/reflexionar. Boyd-Taylor (EST-01) también relaciona 1 Tim 4:15 con este trasfondo, pero señala un desplazamiento conceptual hacia la práctica y formación de Timoteo.
 
