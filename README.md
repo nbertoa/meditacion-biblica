@@ -19,13 +19,16 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 - `plan/decisiones-pendientes.md`: estructura marco y preguntas de diseño pendientes.
 - `investigacion/`: materiales para el estudio bíblico y léxico.
 - `fuentes/registro-bibliografico.md`: registro de fuentes.
-- `capitulos/`: plantilla para usar cuando se definan capítulos.
+- `capitulos/`: manuscrito del libro; capítulo 1 terminado para revisión del autor, además de la plantilla inicial.
 - `practicas/catalogo.md`: prácticas candidatas, aún no seleccionadas.
 - `experiencias/registro.md`: experiencias que aporte el autor.
 
 ## Estado
 
-El título principal está elegido. Los cuatro ejes están acordados como orientación inicial, pero su desarrollo puede cambiar. La metodología detallada, el alcance del análisis léxico y la organización interna siguen pendientes.
+El título principal está elegido. Los cuatro ejes están acordados como orientación inicial, pero su desarrollo puede cambiar. El 2026-10-01 el autor encargó completar el capítulo 1 y guardarlo directamente en main. Ese capítulo tiene una definición bíblica de síntesis, notas de fuentes y un expediente de investigación. El inventario léxico general y el desarrollo de los otros ejes siguen abiertos.
+
+- [Capítulo 1 — ¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
+- [Investigación y límites documentales del capítulo](investigacion/01-que-significa-meditar-en-la-biblia.md)
 
 ## Criterios de trabajo propuestos
 

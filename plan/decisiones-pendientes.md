@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulo 1 desarrollado por encargo explícito del autor; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -32,15 +32,20 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 8. **Tono y formato:** nivel de profundidad, lenguaje, extensión y uso de ejercicios o guías.
 9. **Desarrollo de los ejes:** qué apartados o capítulos hacen falta, a medida que avance la investigación.
 
-## Borradores ya creados
+## Materiales de trabajo
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
-- `../fuentes/registro-bibliografico.md`: dos textos de Jennings candidatos; falta confirmar cuál quiere usar el autor y analizarlos.
+- `../fuentes/registro-bibliografico.md`: fuentes del capítulo 1 con estado de consulta explícito; dos textos de Jennings candidatos, aún por analizar para la comparación.
 - `../practicas/catalogo.md`: ideas candidatas, no métodos seleccionados.
-- `../investigacion/palabras-biblicas/inventario.md`: plantilla, no inventario completo.
+- `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
+- `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
+- `../capitulos/01-que-significa-meditar-en-la-biblia.md`: capítulo completo, con revisión de lenguaje y notas; pendiente de revisión del autor.
 
 ## Historial de acuerdos
 
 - **2026-10-01:** título elegido: *¿Qué significa meditar en la Biblia?*
 - **2026-10-01:** estructura marco: Prólogo, “qué”, “para qué”, diferencia con algunas formas de meditación oriental, “cómo”, Epílogo. Los apartados internos se decidirán durante la construcción.
 - **2026-10-01:** neurociencia y psicología son líneas de investigación posibles; se evaluará si hay evidencia específica suficiente para incorporarlas.
+
+- **2026-10-01:** encargo explícito del autor: investigar y terminar el capítulo 1 en lenguaje sencillo, actualizar fuentes, aplicar directamente en main y verificar allí el contenido completo. El encargo deja sin efecto la prohibición provisional de redactar este capítulo. No autoriza cerrar decisiones del resto del libro.
+- **2026-10-01:** capítulo 1 desarrollado con definición de síntesis, exposición en prosa y notas. La investigación técnica se conserva aparte. No se incorporan métodos completos, neurociencia, comparación oriental ni experiencias personales inventadas; esos alcances permanecen para etapas posteriores.
