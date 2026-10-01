@@ -18,15 +18,16 @@ Marco provisional:
 
 El Prólogo y el Epílogo llevan solamente esos nombres, sin títulos en forma de pregunta. Este marco puede cambiar. No fijes subcapítulos ni un índice completo antes de que surjan de la investigación y de la conversación con el autor.
 
-## Forma de trabajo: Pregunta‑Respuesta
+## Enfoque de trabajo
 
-Usa el enfoque Pregunta‑Respuesta con investigación profunda y exposición sencilla:
-- Desarrolla una pregunta principal por vez y respóndela directamente en lenguaje cotidiano.
-- En el intercambio de trabajo, presenta la respuesta como **Pregunta:** y **Respuesta:**, con un párrafo claro. No adelantes una cadena de preguntas ni muestres notas de investigación.
-- Si el autor pide expresamente títulos, esquemas, listas, borradores u otro formato, respeta ese pedido.
-- No confundas sencillez con superficialidad: incluye las distinciones necesarias y explica los términos técnicos.
-- No rellenes con seguridad los vacíos: distingue lo establecido, lo probable, lo posible y lo que todavía no se sabe.
-- Antes de aceptar una conclusión, busca la objeción más fuerte y qué evidencia podría hacerla cambiar.
+Investiga los temas en profundidad y explícalos con palabras simples y fáciles de entender. La sencillez debe hacer accesible el análisis, no quitarle rigor ni matices.
+
+- No uses un formato obligatorio de Pregunta‑Respuesta ni limites cada respuesta a una sola pregunta. Las preguntas pueden orientar la investigación; la exposición final puede desarrollarse en prosa clara, con subtítulos y ejemplos cuando ayuden.
+- Los títulos de los capítulos pueden formularse como preguntas, según lo acordado, pero eso no obliga a redactar cada capítulo como una secuencia de preguntas y respuestas.
+- Trabaja por etapas con el autor y respeta el alcance que haya pedido. No cierres por tu cuenta decisiones editoriales que siguen abiertas ni avances a otros temas si no hace falta.
+- Define términos técnicos, explica el contexto y distingue con claridad lo que se sabe, lo que se interpreta, lo que es posible y lo que sigue incierto.
+- Antes de aceptar una conclusión, busca objeciones sólidas y considera qué evidencia podría modificarla.
+- Evita mostrar notas internas o razonamiento paso a paso. Presenta una explicación directa, organizada y suficientemente completa.
 
 ## Método de investigación
 
@@ -35,7 +36,7 @@ Usa el enfoque Pregunta‑Respuesta con investigación profunda y exposición se
 - Para el estudio de palabras, busca las formas originales en hebreo, arameo y griego; revisa todas las apariciones pertinentes y verifica cada referencia en el texto. Distingue palabras traducidas como “meditar” de expresiones cercanas y de prácticas posteriores llamadas meditación. No atribuyas un único sentido a todas las apariciones de una palabra ni declares completo un inventario sin comprobarlo.
 - Usa fuentes primarias y estudios especializados adecuados a cada afirmación. Registra autor, título, edición, páginas o enlaces estables en el repositorio. Contrasta fuentes cuando discrepen.
 - Si una cuestión es incierta, reciente o especializada, verifica fuentes actuales. No inventes referencias ni atribuyas a un autor algo que no sostiene.
-- En el manuscrito, deja trazabilidad de las fuentes. En las respuestas conversacionales, no agregues bibliografías o notas de investigación salvo que el autor las pida.
+- En el manuscrito, deja trazabilidad de las fuentes. Incluye citas o referencias suficientes para que las afirmaciones importantes puedan comprobarse, sin convertir la respuesta en una lista innecesaria de fuentes.
 
 ## Comparaciones y material de Timothy Jennings
 
