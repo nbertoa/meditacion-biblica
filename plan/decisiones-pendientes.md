@@ -49,3 +49,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 
 - **2026-10-01:** encargo explícito del autor: investigar y terminar el capítulo 1 en lenguaje sencillo, actualizar fuentes, aplicar directamente en main y verificar allí el contenido completo. El encargo deja sin efecto la prohibición provisional de redactar este capítulo. No autoriza cerrar decisiones del resto del libro.
 - **2026-10-01:** capítulo 1 desarrollado con definición de síntesis, exposición en prosa y notas. La investigación técnica se conserva aparte. No se incorporan métodos completos, neurociencia, comparación oriental ni experiencias personales inventadas; esos alcances permanecen para etapas posteriores.
+
+- **2026-10-01:** encargo del capítulo 2: investigación bíblica y científica profunda, verificación de Jennings y Newberg contra fuentes originales, redacción, auditoría documental, revisión de lenguaje, continuidad con el capítulo 1 y control final. Entrega autorizada directamente en main. La práctica comparativa general y los métodos detallados permanecen fuera del capítulo.

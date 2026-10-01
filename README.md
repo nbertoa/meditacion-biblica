@@ -37,3 +37,7 @@ El título principal está elegido. Los cuatro ejes están acordados como orient
 - Distinguir texto bíblico, interpretación, evidencia científica e hipótesis.
 - No atribuir al texto bíblico una práctica que solo aparezca en una tradición posterior.
 - En cada sección, indicar qué está confirmado, qué está debatido y qué falta investigar.
+
+## Capítulo 2 en revisión
+
+Primera versión completa de [¿Para qué meditar?](capitulos/02-para-que-meditar.md), con [expediente bíblico y científico](investigacion/02-para-que-meditar.md) y fuentes sincronizadas. Faltan las cuatro auditorías posteriores previstas; no se presenta todavía como versión final. No se avanzó al capítulo 3.
