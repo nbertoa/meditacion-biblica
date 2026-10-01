@@ -1,6 +1,6 @@
 # Investigación — ¿Para qué meditar?
 
-Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: primera redacción y auditoría documental completadas; lenguaje, continuidad y auditoría final todavía pendientes.
+Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: primera redacción, auditoría documental y revisión de lenguaje completadas; continuidad con el capítulo 1 y auditoría final todavía pendientes.
 
 ## Alcance
 
@@ -38,6 +38,7 @@ La etiqueta «primario» no significa «sólido»: un experimento pequeño puede
 ## Documentación por área
 
 - [Auditoría documental: cobertura de las 23 notas, correcciones y límites](capitulo-02/auditoria-documental.md)
+- [Auditoría de lenguaje: simplificación, matices conservados y controles](capitulo-02/auditoria-lenguaje.md)
 - [Pasajes, análisis y objeciones bíblicas](capitulo-02/evidencia-biblica.md)
 - [Jennings y matriz Jennings/Newberg](capitulo-02/jennings-y-matriz.md)
 - [Estudios de Newberg, libros y revisiones posteriores](capitulo-02/neurociencia.md)
@@ -66,6 +67,6 @@ No se deriva de estos estudios una recomendación clínica individual, una tasa 
 
 1. Investigación y primera redacción: completadas; primera versión preparada para auditoría
 2. Auditoría metodológica y documental: completada el 2026-10-01 sobre la primera versión guardada; [registro de cobertura y correcciones](capitulo-02/auditoria-documental.md)
-3. Lenguaje sencillo y coherencia: pendiente
+3. Lenguaje sencillo y coherencia: completada el 2026-10-01 sobre la versión con auditoría documental; [cambios y controles locales](capitulo-02/auditoria-lenguaje.md)
 4. Continuidad completa con el capítulo 1: pendiente
 5. Auditoría final integral y verificación remota: pendiente
