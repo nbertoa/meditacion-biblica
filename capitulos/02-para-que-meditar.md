@@ -54,13 +54,9 @@ A veces se vuelve sobre una enseñanza para encontrar orientación. Otras veces 
 
 ## Pensar cuando la experiencia parece contradecir la fe
 
-El Salmo 77 presenta una dificultad que no conviene saltar. Al comienzo, recordar a Dios no tranquiliza al orante. Lo inquieta. Las preguntas se acumulan: ¿se terminó su amor?, ¿dejó de cumplir lo prometido?, ¿olvidó tener compasión?[^7]
+El Salmo 77, que vimos en el capítulo anterior, permite precisar qué puede esperarse de meditar. Recordar a Dios puede volver más dolorosa la distancia entre lo que se cree de su fidelidad y lo que se está viviendo.[^7]
 
-Esas preguntas muestran que meditar puede hacer más visible un conflicto. Si la persona recuerda a Dios como alguien fiel y su presente parece desmentirlo, la memoria no elimina automáticamente la tensión. Puede volverla más dolorosa.
-
-En los versículos 11–12, el salmista se dispone a recordar y considerar las obras divinas. El poema pasa a la liberación del pueblo y al camino de Dios por el mar. Su presente empieza a mirarse desde una historia más amplia.
-
-Algunos lectores reconocen allí una recuperación de confianza. Otros destacan que el lamento queda abierto. El poema termina recordando cómo Dios condujo a su pueblo, pero no cuenta qué ocurrió con el problema personal de quien ora ni cómo se sentía al final.
+Cuando el salmista vuelve a las obras divinas y a la liberación del pueblo, su presente empieza a mirarse desde una historia más amplia. Algunos lectores reconocen allí una recuperación de confianza; otros destacan que el lamento queda abierto. El poema no cuenta qué ocurrió con el problema personal de quien ora ni cómo se sentía al final.
 
 Meditar puede ayudar a mirar el presente a la luz de lo que se conoce de Dios y sostener una búsqueda que todavía no encontró respuesta. No toda reflexión valiosa termina con una emoción agradable.
 
@@ -84,7 +80,7 @@ Después de las comparaciones del soldado, el atleta y el agricultor, 2 Timoteo 
 
 Santiago 1:22–25 ofrece una advertencia complementaria. Una persona puede escuchar la palabra, mirarse como en un espejo y luego olvidar lo que vio. La otra persona, en cambio, sigue atendiendo a lo que recibió y lo pone en práctica. La diferencia no está necesariamente en cuánto tiempo miró cada una, sino en qué hizo después con lo que vio.[^11]
 
-Aunque estas acciones no sean sinónimos exactos de meditar, muestran para qué sirve esa atención. Lo comprendido y recordado puede orientar una respuesta.
+Estas acciones están relacionadas con la meditación, pero conservan su sentido propio. Juntas muestran la importancia de responder a lo comprendido y recordado.
 
 Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza, la alegría y el consuelo también aparecen en ese recorrido, sin borrar el sufrimiento. Son parte de una relación con Dios, no resultados asegurados por una práctica aislada.
 

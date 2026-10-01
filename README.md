@@ -40,4 +40,4 @@ El título principal está elegido. Los cuatro ejes están acordados como orient
 
 ## Capítulo 2 en revisión
 
-Primera versión completa de [¿Para qué meditar?](capitulos/02-para-que-meditar.md), con [expediente bíblico y científico](investigacion/02-para-que-meditar.md) y fuentes sincronizadas. La [auditoría documental](investigacion/capitulo-02/auditoria-documental.md) y la [revisión de lenguaje](investigacion/capitulo-02/auditoria-lenguaje.md) están completadas. Faltan continuidad y auditoría final; no se presenta todavía como versión final. No se avanzó al capítulo 3.
+Primera versión completa de [¿Para qué meditar?](capitulos/02-para-que-meditar.md), con [expediente bíblico y científico](investigacion/02-para-que-meditar.md) y fuentes sincronizadas. La [auditoría documental](investigacion/capitulo-02/auditoria-documental.md), la [revisión de lenguaje](investigacion/capitulo-02/auditoria-lenguaje.md) y la [revisión de continuidad con el capítulo 1](investigacion/capitulo-02/auditoria-continuidad.md) están completadas. Falta la auditoría final (etapa 5); no se presenta todavía como versión final. El capítulo 1 no necesitó cambios. No se avanzó al capítulo 3.
