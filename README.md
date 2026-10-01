@@ -15,7 +15,7 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 
 ## Carpetas
 
-- `INSTRUCCIONES_PROYECTO.md`: borrador de instrucciones de trabajo.
+- `INSTRUCCIONES_PROYECTO.md`: instrucciones vigentes del proyecto.
 - `plan/decisiones-pendientes.md`: estructura marco y preguntas de diseño pendientes.
 - `investigacion/`: materiales para el estudio bíblico y léxico.
 - `fuentes/registro-bibliografico.md`: registro de fuentes.
