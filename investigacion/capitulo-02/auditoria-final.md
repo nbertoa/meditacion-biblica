@@ -2,7 +2,7 @@
 
 Fecha: 2026-10-01. Etapa 5 de las cinco previstas. Base local revisada: `fd6497b67b13c4a2891bcea33671aa2fc1230431`, después de las pasadas de investigación/redacción, documentación, lenguaje y continuidad.
 
-**Estado:** revisión editorial final terminada localmente. La publicación de estos ajustes y la comprobación del contenido resultante en `main` están pendientes. Este informe no certifica un nuevo commit ni una operación remota.
+**Estado final:** cinco etapas terminadas y contenido publicado y verificado en `main`. El dictamen local se conserva a continuación; la sección final registra la integración y su comprobación posterior.
 
 ## Resultado central
 
@@ -111,4 +111,21 @@ Archivos modificados en esta pasada:
 - Único archivo nuevo previsto: este informe; sin PDFs, cachés, scripts ni archivos de trabajo dentro del repositorio
 - Sin commits ni operaciones de publicación/remoto en esta pasada
 
-La comprobación que falta es integrar estos archivos y verificar que el contenido completo del nuevo commit esté en `main`. Hasta entonces, el cierre es editorial y local.
+Al cerrar la revisión local quedaba por integrar y verificar el contenido en `main`. Ese paso se completó posteriormente, como se registra a continuación.
+
+
+## Integración y comprobación final en GitHub
+
+El contenido de la quinta etapa se publicó en [be4a4274f86c061099a97abc7cd1e8a92b332a9f](https://github.com/nbertoa/meditacion-biblica/commit/be4a4274f86c061099a97abc7cd1e8a92b332a9f), después de los cuatro commits de la tabla anterior. Se recuperó `main` directamente del remoto y su árbol `3ced12dd76d2d094b71f1f3ac55205bb2a557d60` coincide con los archivos locales revisados, sin diferencias ni archivos pendientes. La actualización de estos estados de cierre queda en el siguiente commit documental, sin cambios al capítulo.
+
+Comprobaciones repetidas después de la integración:
+
+- 2994 palabras en el cuerpo del capítulo 2; 23 notas únicas y 24 llamadas
+- Sin notas faltantes, sobrantes o duplicadas; todos los identificadores del capítulo presentes en bibliografía
+- Enlaces relativos existentes y título correcto
+- Capítulo 1 idéntico a la base inicial `2b080870f991ea99a85f97459b8aaa0d8e67804b`
+- Diff completo desde esa base: 15 archivos previstos, sin cachés, PDF de fuentes, scripts ni ficheros accidentales
+- `git diff --check` correcto; los controles fueron editoriales y estructurales, sin workflow CI configurado en el árbol revisado
+- SHA256 del Markdown final del capítulo: `8800ee8d0077495568e15c32aec822d72cdc4fe318daf8a08112c40798f77b15`
+
+El trabajo solicitado queda terminado y recuperable en el repositorio. Permanecen las limitaciones documentales declaradas, no una tarea editorial pendiente imprescindible. No se inició el capítulo 3.

@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulo 1 desarrollado por encargo explícito del autor; resto del desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -35,7 +35,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 ## Materiales de trabajo
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
-- `../fuentes/registro-bibliografico.md`: fuentes del capítulo 1 con estado de consulta explícito; dos textos de Jennings candidatos, aún por analizar para la comparación.
+- `../fuentes/registro-bibliografico.md`: fuentes de los capítulos 1 y 2 con estado de consulta explícito; Jennings auditado para el alcance de C2, comparación general todavía pendiente.
 - `../practicas/catalogo.md`: ideas candidatas, no métodos seleccionados.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
@@ -51,3 +51,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-01:** capítulo 1 desarrollado con definición de síntesis, exposición en prosa y notas. La investigación técnica se conserva aparte. No se incorporan métodos completos, neurociencia, comparación oriental ni experiencias personales inventadas; esos alcances permanecen para etapas posteriores.
 
 - **2026-10-01:** encargo del capítulo 2: investigación bíblica y científica profunda, verificación de Jennings y Newberg contra fuentes originales, redacción, auditoría documental, revisión de lenguaje, continuidad con el capítulo 1 y control final. Entrega autorizada directamente en main. La práctica comparativa general y los métodos detallados permanecen fuera del capítulo.
+
+- **2026-10-01:** capítulo 2 terminado con las cinco etapas solicitadas y verificado en main. Se mantienen los límites documentales, el capítulo 1 sin cambios y las decisiones generales abiertas. Véase `../investigacion/capitulo-02/auditoria-final.md`.

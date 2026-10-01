@@ -1,6 +1,6 @@
 # Investigación — ¿Para qué meditar?
 
-Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: las cinco revisiones editoriales están completadas localmente; la publicación de los ajustes finales y su verificación remota en main siguen pendientes.
+Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: las cinco etapas están completadas; el contenido final está publicado y verificado en main.
 
 ## Alcance
 
@@ -71,4 +71,9 @@ No se deriva de estos estudios una recomendación clínica individual, una tasa 
 2. Auditoría metodológica y documental: completada el 2026-10-01 sobre la primera versión guardada; [registro de cobertura y correcciones](capitulo-02/auditoria-documental.md)
 3. Lenguaje sencillo y coherencia: completada el 2026-10-01 sobre la versión con auditoría documental; [cambios y controles locales](capitulo-02/auditoria-lenguaje.md)
 4. Continuidad completa con el capítulo 1: completada el 2026-10-01; [cobertura y ajustes](capitulo-02/auditoria-continuidad.md). El capítulo 1 no necesitó cambios
-5. Auditoría final integral: completada localmente el 2026-10-01; [dictamen, correcciones y comprobaciones](capitulo-02/auditoria-final.md). Pendientes publicación de los ajustes y verificación remota final en main
+5. Auditoría final integral: completada localmente el 2026-10-01; [dictamen, correcciones y comprobaciones](capitulo-02/auditoria-final.md). Ajustes publicados y contenido completo verificado en main, commit `be4a4274f86c061099a97abc7cd1e8a92b332a9f`
+
+
+## Verificación de entrega
+
+El 2026-10-01 se recuperó el commit final desde GitHub y se comparó todo su árbol con los archivos revisados: coincidencia exacta. Capítulo de 2994 palabras de cuerpo, 23 notas y 24 llamadas; sin notas faltantes, sobrantes o duplicadas, identificadores bibliográficos ausentes ni enlaces relativos rotos. El capítulo 1 quedó intacto. El [informe final](capitulo-02/auditoria-final.md) registra alcance, límites y commits de las cinco etapas.
