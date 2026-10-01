@@ -30,7 +30,7 @@ Para la exposición conviene separar tres preguntas: qué sucede mientras una pe
 
 - Referencia: Newberg, A. B., Wintering, N., Khalsa, D. S., Roggenkamp, H., y Waldman, M. R. *Meditation Effects on Cognitive Function and Cerebral Blood Flow in Subjects with Memory Loss: A Preliminary Study*. Journal of Alzheimer’s Disease, 20(2), 517–526. DOI: 10.3233/JAD-2010-1391. [Texto completo](https://kundaliniresearchinstitute.org/wp-content/uploads/2023/10/Newberg-2010-J-Alzheimers-Dis.pdf)
 - Lectura: PDF completo; especialmente pp. 519–524 y tablas 2–4.
-- Protocolo: piloto abierto, no aleatorizado. 15 reclutados con problemas de memoria; 1 excluido por dificultad para realizar la práctica, 14 analizados. Cinco controles escucharon Mozart. Kirtan Kriya: sílabas y movimientos de dedos, 12 minutos/día, ocho semanas; SPECT y tests cognitivos. Adherencia media: 75% de días.
+- Protocolo: piloto abierto, no aleatorizado. 15 reclutados para meditación con problemas de memoria; 1 excluido por dificultad para realizar la práctica, 14 analizados. Otros cinco participantes, como controles, escucharon Mozart. Kirtan Kriya: sílabas y movimientos de dedos, 12 minutos/día, ocho semanas; SPECT y tests cognitivos. Adherencia media: 75% de días.
 - Resultado: cambios de perfusión regional; fluidez de animales mejoró de 21.1 a 24.0, p=.006 intragrupo y significativa tras corrección. Se informa ventaja frente a música en fluidez; no en los demás tests. La memoria diferida mejoró también en controles.
 - Límite: no demuestra prevención de Alzheimer ni retraso del envejecimiento; los propios autores niegan haber evaluado ese desenlace. No trasladar «12 minutos» a dosis universal de meditación bíblica.
 
@@ -79,7 +79,7 @@ Lectura: abstract y fragmentos editoriales, no auditoría del texto completo. Pr
 
 Hölzel, B. K., et al. *Mindfulness practice leads to increases in regional brain gray matter density*. Psychiatry Research: Neuroimaging, 191(1), 36–43. [Primario](https://pubmed.ncbi.nlm.nih.gov/21071182/). DOI: 10.1016/j.pscychresns.2010.08.006. Estudio longitudinal controlado: 16 participantes MBSR y 17 de lista de espera, ocho semanas; cambios en concentración de materia gris, incluido hipocampo izquierdo. Lectura: abstract y métodos accesibles. Muestra pequeña, sin control activo; hallazgo inicial que no justifica una promesa universal.
 
-Kral, T. R. A., et al. *Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials*. Science Advances, 8(20), eabk3316. [Texto completo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9122316/). DOI: 10.1126/sciadv.abk 3316. Lectura: texto completo de métodos/resultados/discusión recuperado. Dos RCT combinados; 218 completaron neuroimagen: MBSR 75, control activo 73, espera 70. No detectaron efecto específico sobre volumen, densidad o espesor cortical, ni globalmente ni en regiones previamente propuestas. Es réplica conceptual, no exacta; refuta la seguridad de la promesa «ocho semanas cambian la estructura», no toda neuroplasticidad posible ni beneficios psicológicos.
+Kral, T. R. A., et al. *Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials*. Science Advances, 8(20), eabk3316. [Texto completo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9122316/). DOI: 10.1126/sciadv.abk3316. Lectura: texto completo de métodos/resultados/discusión recuperado. Dos RCT combinados; 218 completaron neuroimagen: MBSR 75, control activo 73, espera 70. No detectaron diferencias entre grupos en cambios de volumen, densidad o espesor cortical, ni globalmente ni en regiones previamente propuestas. Hubo cambios intragrupo en algunas regiones, lo que no demuestra efecto específico del programa. Una asociación entre más práctica y reducción de volumen de la amígdala derecha no fue robusta en los análisis de sensibilidad. La muestra excluía numerosas condiciones clínicas; no representa a todos los pacientes que buscan reducir estrés. Es réplica conceptual, no exacta; refuta la seguridad de la promesa «ocho semanas cambian la estructura», no toda neuroplasticidad posible ni beneficios psicológicos.
 
 ### R4. Goyal et al. (2014): síntomas, no imágenes
 
@@ -87,11 +87,15 @@ Kral, T. R. A., et al. *Absence of structural brain changes from mindfulness-bas
 
 Lectura: abstract, resultados y discusión accesibles mediante índice/editorial. 47 ensayos, 3515 participantes, controles activos. Evidencia moderada para mindfulness sobre ansiedad (efecto .38 a ocho semanas, .22 a 3–6 meses), depresión (.30 y .23) y dolor (.33). No demostró superioridad frente a tratamientos activos específicos; evidencia insuficiente o débil para numerosos otros desenlaces. No confundir «calidad moderada de evidencia» con «efecto moderado» ni ausencia de superioridad con equivalencia probada. No emplear como descripción exhaustiva de la literatura actual: sigue útil como hito metodológico.
 
+Control de versiones en la auditoría: 3515 corresponde al [artículo final de JAMA](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1809754); el manuscrito de autor alojado en PMC conserva 3320. Se mantiene el dato de la versión editorial final y se registra la discrepancia, sin sumar ambos denominadores.
+
 ### R5. Galante et al. (2021, 2023): importancia del comparador
 
 2021: *Mindfulness-based programmes for mental health promotion in adults in nonclinical settings*. PLOS Medicine, 18, e 1003481. [Texto/ficha institucional](https://discovery.ucl.ac.uk/id/eprint/10119273/). DOI: 10.1371/journal.pmed.1003481. 136 RCT, 11 605 personas: beneficios promedio frente a no intervención, heterogeneidad importante; no superioridad estadística frente a controles activos específicos. Lectura: abstract detallado y resultados.
 
 2023: *Systematic review and individual participant data meta-analysis of randomized controlled trials assessing mindfulness-based programs for mental health promotion*. Nature Mental Health, 1, 462–476. [Texto completo](https://www.nature.com/articles/s44220-023-00081-5). 13 ensayos con datos individuales, 2371 participantes. Programas voluntarios, grupales y dirigidos por docentes; malestar psicológico a 1–6 meses: SMD −.32, IC95% −.41 a −.24 frente a controles pasivos. Alta confianza en ese resultado. Comparación activa sin ventaja clara y de muy baja certeza. Los autores no extienden resultados a libros, apps ni programas obligatorios. Lectura: métodos, resultados, discusión y límites de generalización completos.
+
+La comparación activa fue exploratoria: la revisión excluyó ensayos que sólo tenían comparadores activos. No utilizarla por sí sola como panorama exhaustivo de todas las comparaciones frente a otras intervenciones.
 
 ### R6. Goldberg et al. (2022): panorama amplio
 
@@ -101,7 +105,7 @@ Lectura: abstract, método y discusión accesibles. Revisión de 44 metaanálisi
 
 ### R7. Prosocialidad: Kreplin (2018) y Petrovic (2024)
 
-Kreplin, U., Farias, M., y Brazil, I. A. *The limited prosocial effects of meditation*. Scientific Reports, 8, 2403. [Texto](https://pmc.ncbi.nlm.nih.gov/articles/PMC5799363/). DOI: 10.1038/s 41598-018-20299-z. Lectura: método, resultados, discusión. Revisión: 22 estudios/1685 personas; 16 metaanalizados. Efecto general r=.26, pero dependiente de desenlace y calidad. Compasión/empatía mostraron efectos; agresión, prejuicio y conexión no. La compasión dependió del control pasivo y la participación del docente como autor. No concluir que meditar vuelva buena a cualquier persona.
+Kreplin, U., Farias, M., y Brazil, I. A. *The limited prosocial effects of meditation*. Scientific Reports, 8, 2403. [Texto](https://pmc.ncbi.nlm.nih.gov/articles/PMC5799363/). DOI: 10.1038/s41598-018-20299-z. Lectura: método, resultados, discusión. Revisión: 22 estudios/1685 personas; 16 metaanalizados. Efecto general r=.26, pero dependiente de desenlace y calidad. Compasión/empatía mostraron efectos; agresión, prejuicio y conexión no. La compasión dependió del control pasivo y la participación del docente como autor. No concluir que meditar vuelva buena a cualquier persona.
 
 Petrovic, J., Mettler, J., Cho, S., y Heath, N. L. *The effects of loving-kindness interventions on positive and negative mental health outcomes*. Clinical Psychology Review, 110, 102433. [Abstract primario](https://pubmed.ncbi.nlm.nih.gov/38652973/). DOI: 10.1016/j.cpr.2024.102433. Lectura: abstract y resultados de subgrupos accesibles. 23 RCT; efectos favorables de loving-kindness frente a controles pasivos en compasión, afecto y síntomas; diferencias no significativas frente a controles activos/tratamientos alternativos. La ausencia de diferencia no acredita equivalencia, ni esas intervenciones prueban amor cristiano u obediencia.
 
@@ -109,7 +113,7 @@ Petrovic, J., Mettler, J., Cho, S., y Heath, N. L. *The effects of loving-kindne
 
 Farias, M., Maraldi, E., Wallenkampf, K. C., y Lucchetti, G. *Adverse events in meditation practices and meditation-based therapies*. Acta Psychiatrica Scandinavica, 142(5), 374–393 (2020). [Abstract primario](https://pubmed.ncbi.nlm.nih.gov/32820538/). DOI: 10.1111/acps.13225.
 
-Lectura: abstract y método accesible. Revisión de 83 estudios, 6703 participantes; estimación agregada de eventos adversos 8.3%, muy distinta entre diseños (3.7% experimentales; 33.2% observacionales). No es riesgo universal ni tasa aplicable a unos minutos de lectura bíblica: intervenciones, definiciones y detección heterogéneas. Sí impide afirmar inocuidad absoluta. Si la práctica intensifica angustia, el consejo pastoral prudente es ajustarla, detenerla si hace falta y buscar atención adecuada; nunca sustituir tratamiento por una promesa espiritual.
+Lectura inicial: resumen y método. En la auditoría documental se obtuvo el [PDF editorial en repositorio institucional](https://pure.coventry.ac.uk/ws/portalfiles/portal/37614063/Binder4.pdf) y se cotejaron métodos, resultados de prevalencia y discusión (especialmente pp.385–389). Revisión de 83 estudios; el resumen informa 6703 participantes, pero el apartado Resultados imprime 6464 y ofrece subtotales discordantes. No se reconstruye aquí un denominador corregido ni se usa ese total para calcular riesgos; la estimación agrupada de 8.3% procede de 57 informes que excluyen los casos individuales, con heterogeneidad muy alta (I²=95%). Varió entre diseños: 3.7% en experimentales y 33.2% en observacionales. No es riesgo universal ni tasa aplicable a unos minutos de lectura bíblica: intervenciones, definiciones y detección heterogéneas. El evento reportado no demuestra por sí solo que la meditación lo haya causado; la revisión reconoce especialmente esa limitación en los estudios observacionales. Sí impide afirmar inocuidad absoluta. Si la práctica intensifica angustia, el consejo pastoral prudente es ajustarla, detenerla si hace falta y buscar atención adecuada; nunca sustituir tratamiento por una promesa espiritual.
 
 ### R9. Van Dam et al. (2018): lectura crítica
 
@@ -129,13 +133,12 @@ Corrección oficial 17/9/2026: [DOI 10.1002/brb3.71785](https://onlinelibrary.wi
 
 ### Q2. Retracción estructural relevante
 
-Siew, S., y Yu, J. *Mindfulness-based randomized controlled trials led to brain structural changes: an anatomical likelihood meta-analysis* (2023), DOI 10.1038/s 41598-023-45765-1: RETRACTADO el 15/7/2025. [Nota editorial de retracción](https://www.nature.com/articles/s41598-025-11069-9).
+Siew, S., y Yu, J. *Mindfulness-based randomized controlled trials led to brain structural changes: an anatomical likelihood meta-analysis* (2023), DOI 10.1038/s41598-023-45765-1: RETRACTADO el 15/7/2025. [Nota editorial de retracción](https://www.nature.com/articles/s41598-025-11069-9).
 
 Lectura: aviso completo. Los editores señalan exclusión de cuatro estudios con resultados nulos que representaban 40% de participantes, además de inclusión de poblaciones muy específicas. Declaran que el análisis no podía sostener su conclusión. Autores en desacuerdo. No citar el artículo original como evidencia vigente de neuroplasticidad.
 
 ### Q3. Rajan et al. (2026): registro complementario, no necesario para el núcleo
 
-*Effects of mindfulness-based interventions on perceived stress among non-clinical adults*. npj Mental Health Research, 5, 9. [Primario](https://pubmed.ncbi.nlm.nih.gov/41634335/). DOI: 10.1038/s 44184-026-00188-4.
+*Effects of mindfulness-based interventions on perceived stress among non-clinical adults*. npj Mental Health Research, 5, 9. [Primario](https://pubmed.ncbi.nlm.nih.gov/41634335/). DOI: 10.1038/s44184-026-00188-4.
 
 Lectura: abstract, discusión indexada y metadatos editoriales; no auditoría completa de cada ensayo. 17 RCT/1641 personas, búsqueda hasta agosto 2025, estrés percibido SMD −.53 postintervención. Comparadores y modalidades heterogéneos. El registro editorial recuperado contiene referencias bibliográficas llamativas, incluida una con DOI terminado en «XXX», por lo que no recomiendo sostener el argumento central en esta fuente sin verificar bibliografía y ensayos. Esto es señal para auditar, no prueba de fraude ni invalidación del resultado.
-

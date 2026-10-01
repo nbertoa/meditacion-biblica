@@ -26,7 +26,7 @@ Tampoco el salmo aísla la meditación de todo lo demás. Habla de lo que la per
 
 ## Comprender para elegir mejor
 
-El Salmo 119 permite acercarnos a lo que significa esa orientación. En los versículos 97–104, el orante dice que ama la enseñanza de Dios y que sus testimonios ocupan su meditación. Relaciona esa atención con haber adquirido más entendimiento que sus maestros y los ancianos.[^3]
+El Salmo 119 permite acercarnos a lo que significa esa orientación. En los versículos 97–104, el orante dice que ama la enseñanza de Dios y que sus testimonios ocupan su meditación. Relaciona su entendimiento con meditar en los testimonios y guardar los preceptos, y afirma comprender más que sus maestros y los ancianos.[^3]
 
 La afirmación es fuerte, pero su contexto ayuda a entenderla. El salmista habla de apartarse del mal, guardar los preceptos y rechazar los caminos falsos. La sabiduría que celebra tiene que ver con reconocer cómo vivir. No está afirmando que meditar lo haya convertido en experto en cualquier asunto ni que ya no necesite aprender de nadie.
 
@@ -80,7 +80,7 @@ Además, el versículo sobre la gran paz habla de amar la Ley; no establece que 
 
 En Filipenses 4:6–9 también aparecen la oración, la atención y la paz. Pablo invita a presentar las peticiones a Dios con gratitud; habla de la paz de Dios que guarda el corazón y el pensamiento; después pide considerar lo verdadero, justo y digno de aprecio, y practicar lo aprendido.[^9]
 
-El pasaje no llama a todo eso una sola técnica. La paz de 4:7 está vinculada con la oración de 4:6, mientras que 4:8–9 une consideración y práctica. No sería fiel al texto extraer solamente la atención mental y atribuirle por sí sola todo lo prometido en el conjunto.
+El pasaje no llama a todo eso una sola técnica. La paz de 4:7 está vinculada con la oración de 4:6, mientras que 4:8–9 une consideración y práctica, con la promesa de que el Dios de paz estará con ellos. No sería fiel al texto extraer solamente la atención mental y atribuirle por sí sola todo lo prometido en el conjunto.
 
 ## Una atención que continúa en la vida
 
@@ -108,9 +108,9 @@ Las revisiones de programas de atención plena encuentran beneficios psicológic
 
 Sí existen investigaciones que incluyen pasajes bíblicos. Un pequeño estudio de 1988 comparó oración y reflexión sobre material bíblico con relajación muscular y una lista de espera. Su resumen informa apoyo parcial a los efectos esperados. Es un antecedente pertinente, aunque no una demostración suficiente por sí solo.[^13]
 
-Más recientemente, un ensayo de una semana ofreció instrucciones para leer salmos, reflexionar y orar. Los autores comunicaron resultados favorables en esperanza y bienestar. Su resumen y sus materiales públicos permiten identificar la propuesta, pero no verificar aquí todos los análisis del artículo completo. Por eso hablamos de un resultado comunicado, sin dar por demostrada una ventaja de la misma magnitud en todas las medidas. Además, el grupo de comparación no recibió una actividad equivalente, la muestra fue pequeña y la evaluación inmediata no permite saber cuánto duran los cambios.[^14]
+Más recientemente, un ensayo de una semana ofreció instrucciones para leer salmos, reflexionar y orar. Los autores comunicaron resultados favorables en esperanza y bienestar. Su resumen y sus materiales públicos permiten identificar la propuesta, pero no verificar aquí todos los análisis del artículo completo. Por eso hablamos de mejoras comunicadas, sin afirmar que se haya comprobado una ventaja frente al grupo de comparación en cada medida: mejorar dentro de un grupo no basta para demostrar esa ventaja. Además, el grupo de comparación no recibió una actividad equivalente, la muestra fue pequeña y la evaluación inmediata no permite saber cuánto duran los cambios.[^14]
 
-También hay resultados que frenan una conclusión demasiado optimista. Un ensayo de dos semanas de lectura meditativa cristiana, con participantes negros que habían sufrido experiencias traumáticas relacionadas con el racismo, no encontró una mejoría diferencial estadísticamente significativa frente a la espera en las medidas evaluadas. Que ambos grupos mejoren no demuestra que la práctica explique esa mejoría.[^15]
+También hay resultados que frenan una conclusión demasiado optimista. Un ensayo de dos semanas de lectura meditativa, dirigido al estrés traumático relacionado con el racismo y realizado con cristianos negros estadounidenses, no encontró una mejoría diferencial estadísticamente significativa frente a la espera en las medidas evaluadas. Que ambos grupos mejoren no demuestra que la práctica explique esa mejoría.[^15]
 
 Estos resultados no se anulan entre sí como si fueran votos a favor y en contra. Cambian las personas, las necesidades, los pasajes y las formas de practicar. La conclusión razonable es más limitada: hay indicios de ayuda en algunas intervenciones próximas a la reflexión bíblica, pero todavía falta evidencia suficientemente sólida y repetida para prometer efectos generales.
 
@@ -124,9 +124,9 @@ Uno de sus primeros estudios examinó a ocho meditadores budistas experimentados
 
 Esto aporta información sobre la actividad asociada con una práctica concreta. No demuestra una transformación permanente del cerebro, ni una mejora clínica, ni permite decidir si la experiencia corresponde a una comunicación divina. Tampoco convierte la tarea de las monjas en equivalente de toda reflexión cristiana sobre las Escrituras.
 
-En otro estudio, Newberg y sus colaboradores examinaron una práctica que combina sílabas y movimientos de los dedos durante ocho semanas. Hubo resultados prometedores en una prueba de fluidez verbal, pero la muestra era pequeña y el grupo de comparación también lo era. No se estudió una lectura reflexiva de la Biblia, y las imágenes registraban circulación sanguínea, no crecimiento de tejido cerebral.[^18]
+En otro estudio, Newberg y sus colaboradores examinaron durante ocho semanas una práctica que combina sílabas y movimientos de los dedos, en personas con problemas de memoria. Hubo resultados prometedores en una prueba de fluidez verbal, pero la muestra era pequeña y el grupo de comparación también lo era. No se estudió una lectura reflexiva de la Biblia, y las imágenes registraban circulación sanguínea, no crecimiento de tejido cerebral.[^18]
 
-La cautela no exige negar que el aprendizaje pueda relacionarse con cambios cerebrales. Exige comprobar qué cambio se midió y con qué seguridad puede atribuirse a la práctica. Estudios más grandes también han producido resultados nulos: dos ensayos de un programa de atención plena no encontraron los cambios estructurales que buscaban después de ocho semanas. Eso limita una afirmación concreta sobre estructura; no prueba que ninguna meditación pueda producir ningún cambio.[^19]
+La cautela no exige negar que el aprendizaje pueda relacionarse con cambios cerebrales. Exige comprobar qué cambio se midió y con qué seguridad puede atribuirse a la práctica. Estudios más grandes también han producido resultados nulos: al combinar dos ensayos de un programa de atención plena de ocho semanas, no se detectaron diferencias en los cambios de estructura cerebral frente a los grupos de comparación. Eso limita una afirmación concreta sobre estructura; no prueba que ninguna meditación pueda producir ningún cambio.[^19]
 
 ## Cómo leer las afirmaciones de Jennings
 
@@ -140,7 +140,7 @@ Esta distinción permite aprovechar una propuesta de lectura y oración sin acep
 
 ## Una expectativa proporcionada
 
-La investigación científica deja abierta una posibilidad real de ayuda, con resultados que dependen de la práctica y de las personas. También obliga a reconocer límites y experiencias difíciles. Se han registrado efectos adversos en distintas prácticas meditativas; la frecuencia varía mucho según cómo se los busque y defina. No corresponde trasladar esas cifras sin más a la lectura bíblica, pero tampoco garantizar que cualquier práctica sea beneficiosa para todos.[^23]
+La investigación científica deja abierta una posibilidad real de ayuda, con resultados que dependen de la práctica y de las personas. También obliga a reconocer límites y experiencias difíciles. Se han comunicado experiencias adversas durante o después de distintas prácticas meditativas, aunque no en todos los casos puede establecerse que la práctica las haya causado. La frecuencia reportada varía mucho según cómo se las busque y defina. No corresponde trasladar esas cifras sin más a la lectura bíblica, pero tampoco garantizar que cualquier práctica sea beneficiosa para todos.[^23]
 
 El alivio puede ser valioso. Su ausencia no convierte una reflexión en inútil, ni debería utilizarse para acusar a quien sigue angustiado. Una práctica espiritual tampoco necesita ocupar el lugar de la atención profesional cuando una persona la requiere.
 
@@ -155,13 +155,13 @@ Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración 
 
 [^1]: Jos 1:1–9, especialmente 8; texto hebreo, cláusula לְמַעַן…לַעֲשׂוֹת. NET, notas a 1:7–8 (COM-NET-01); Boyd-Taylor, «Deuteronomic antecedents» (EST-01). Se conserva la dimensión de éxito del texto dentro de su misión, sin sustituirla por bienestar interior.
 [^2]: Sal 1 completo; Sal 73 como contrapunto dentro del Salterio; Sal 119:23, 78. Botha (EST-02), análisis de los salmos 1 y 119. No se atribuye al poema una medición causal de una práctica aislada.
-[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. La relación causal de 99 y la relación entre comprensión y obediencia de 100–104 se cotejaron en hebreo. Mensah, sección C.4 (C2-BIB-01), recoge lecturas alternativas de las comparaciones; no se adopta toda su reconstrucción.
+[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. La relación causal de 99 y la relación entre comprensión y obediencia de 100–104 se cotejaron en hebreo. Mensah, sección C.4, pp.179–181 (C2-BIB-01), recoge lecturas alternativas de las comparaciones; no se adopta toda su reconstrucción.
 [^4]: Sal 119:59–60. חִשַּׁבְתִּי, de חשב, ya diferenciado en el inventario y expediente del capítulo 1.
 [^5]: Sal 63 completo, especialmente 6–8; Sal 48:9–14 y 145:4–7. En 48:9 el verbo es דמה; en 145:5, שיח admite reflexión/expresión. No se impone una etapa silenciosa previa a la alabanza.
 [^6]: Sal 143 completo, especialmente 2, 4–10. Los verbos de 5 y las peticiones posteriores no demuestran que el rescate ya haya ocurrido.
 [^7]: Sal 77 completo; NET, nota a 77:10 (COM-NET-01). Ellington, tesis, §4.2.7, pp.148–156 (C2-BIB-02), defiende lamento no resuelto. Pavan, resumen institucional (C2-BIB-03), sostiene una lectura distinta del movimiento de la memoria; artículo no consultado íntegramente. No se basa el argumento en resolver la dificultad textual de 77:10.
 [^8]: Sal 119:49–52, 81–88, 111, 143, 161–176. El consuelo y la gran paz no borran las peticiones de ayuda del poema.
-[^9]: Flp 4 completo, especialmente 2–9, 11–14. Snyman, pp.237–240 (C2-BIB-04). λογίζεσθε en 8 es considerar; el objeto no está restringido explícitamente a versículos bíblicos.
+[^9]: Flp 4 completo, especialmente 2–9, 11–14. Snyman, pp.235–240 (C2-BIB-04):235–236 para oración/paz;237–240 para considerar/practicar. λογίζεσθε en 8 es considerar; el objeto no está restringido explícitamente a versículos bíblicos.
 [^10]: 2 Tim 2:1–13 y 1 Tim 4:6–16; texto griego electrónico (TXT-NT-01 ampliado para C2). En 2 Tim 2:7 existe variante «dará/dé», sin efecto decisivo para la relación entre consideración y comprensión. No se afirma consulta de aparato crítico completo.
 [^11]: Sant 1:19–27. Denyer, pp.237–240, especialmente 239 (C2-BIB-05), permite corregir la oposición popular entre un simple vistazo y una mirada atenta. Su propuesta de paralelo platónico no se presenta como dependencia demostrada.
 [^12]: Galante et al.2023 (C2-REV-01); Goyal et al.2014 (C2-REV-02); Goldberg et al.2022 (C2-REV-03). Son programas específicos, no ensayos de nuestra definición bíblica. No sumar muestras superpuestas entre revisiones ni confundir falta de superioridad con equivalencia demostrada.
@@ -170,9 +170,9 @@ Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración 
 [^15]: Vazquez et al.2024 (C2-CLI-03), 42 participantes reportados, 23/19. Resumen original en EBSCO y datos editoriales corroborados. No acceso al artículo completo. El resultado nulo no demuestra ausencia de cualquier efecto posible.
 [^16]: Knabb et al.2020 (C2-CLI-04), artículo completo:101 asignados, 71 en el análisis denominado ITT, 54 completos. Programa de cuatro encuentros, con postest al comienzo del cuarto y dos semanas efectivas de práctica meditativa. Pensamiento repetitivo: diferencia favorable; ansiedad: interacción p=.12 y ANCOVA p=.34. Sin prueba de prevención de trastornos a largo plazo.
 [^17]: Newberg et al.2001 y 2003 (C2-NEW-01/02), originales completos. Los controles adicionales evaluaron reposo o estabilidad instrumental, no eficacia clínica. Se omiten porcentajes de 2003 porque resumen y resultados difieren.
-[^18]: Newberg et al.2010 (C2-NEW-03), pp.519–524 y tablas2–4:15 reclutados, 14 analizados y5 controles musicales; piloto no aleatorizado. Fluidez verbal significativa; no ventaja general en todos los tests. Kirtan Kriya no equivale a lectura bíblica reflexiva.
-[^19]: Kral et al.2022 (C2-REV-04), dos ensayos combinados, 218 participantes con neuroimagen completada. Resultado referido a su programa y medidas; no refutación de toda neuroplasticidad.
+[^18]: Newberg et al.2010 (C2-NEW-03), pp.519–524 y tablas2–4:15 reclutados para meditación, 14 analizados, más5 controles musicales; piloto no aleatorizado en personas con problemas de memoria. Fluidez verbal significativa; no ventaja general en todos los tests. Kirtan Kriya no equivale a lectura bíblica reflexiva.
+[^19]: Kral et al.2022 (C2-REV-04), dos ensayos combinados, 218 participantes con neuroimagen completada; adultos seleccionados por su buena salud. Sin diferencias entre grupos en cambios de volumen, densidad o espesor cortical. La asociación exploratoria entre horas de práctica y reducción de la amígdala no fue robusta en los análisis de sensibilidad. Resultado referido a su programa y medidas; no refutación de toda neuroplasticidad.
 [^20]: Jennings 2023 (JEN-02), artículo completo. Su descripción se usa como propuesta cristiana posterior, sin atribuir a la Biblia el esquema de cuatro pasos ni adoptar afirmaciones históricas no cotejadas.
 [^21]: Jennings 2020 (JEN-01), pp.8, 15–16, 21–22. El [cotejo específico](../investigacion/capitulo-02/jennings-y-matriz.md) separa sus afirmaciones de lo que midieron las fuentes. La cadena por su libro 2017, pp.222–228, queda parcialmente abierta.
 [^22]: Schjoedt et al.2009 (C2-NEU-01), métodos/resultados/discusión. Referencia citada en Jennings 2020, p.20, nota5 (DOI enp.28). No comparación de tradiciones ni prueba de pensamiento crítico o anatomía.
-[^23]: Farias et al.2020 (C2-REV-05), revisión de eventos adversos: resumen y método accesibles. No se extrapola su frecuencia agregada a reflexión bíblica ni se convierte cualquier malestar en daño clínico.
+[^23]: Farias et al.2020 (C2-REV-05), original consultado en métodos, resultados de prevalencia y discusión, especialmente pp.385–389. Un evento adverso reportado no prueba por sí solo causalidad. No se extrapola su frecuencia agregada a reflexión bíblica ni se convierte cualquier malestar en daño clínico.

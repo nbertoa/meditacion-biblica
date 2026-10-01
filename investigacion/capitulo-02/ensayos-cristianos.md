@@ -45,7 +45,7 @@ El texto íntegro continúa como contenido por suscripción. La ficha de Leeds e
 
 **Referencia:** Joshua J. Knabb, Veola E. Vazquez, Fernando L. Garzon, Kristy M. Ford, Kenneth T. Wang, Kevin W. Conner, Steve E. Warren y Donna M. Weston. *Spirituality in Clinical Practice*, 7, 34–50. [DOI](https://doi.org/10.1037/scp0000206). Publicación online: 18 de noviembre de 2019. [Original completo publicado por un autor en ResearchGate](https://www.researchgate.net/publication/337359259_Christian_meditation_for_repetitive_negative_thinking_A_multisite_randomized_trial_examining_the_effects_of_a_4-week_preventative_program).
 
-**Extracción del original, pp. 5–6 y 11–14:** 101 aleatorizados: 50 intervención/51 espera. Sin medidas iniciales: 14/16. Análisis llamado ITT: **36/35**, no todos los aleatorizados. Finalizaron: **27/27**; pérdida posterior: 9/8. Dos universidades cristianas estadounidenses. Cuatro encuentros semanales de 60 minutos; postest al inicio del cuarto: **sólo dos semanas de práctica meditativa antes de medir resultados**.
+**Extracción del manuscrito de autor, pp. 5–6 y 11–14, cuya paginación no es la del volumen final:** 101 aleatorizados: 50 intervención/51 espera. Sin medidas iniciales: 14/16. Análisis llamado ITT: **36/35**, no todos los aleatorizados. Finalizaron: **27/27**; pérdida posterior: 9/8. Dos universidades cristianas estadounidenses. Cuatro encuentros semanales de 60 minutos; postest al inicio del cuarto: **sólo dos semanas de práctica meditativa antes de medir resultados**. Diagrama de flujo: p. 6 del manuscrito; resultados: p. 11; limitación de duración: p. 13.
 
 Interacción significativa para pensamiento perseverativo (p<.001, ηp²=.17), desapego (.001, .15), humildad (.04, .06) y adjetivos positivos de Dios (.045, .06). Ajustando diferencias iniciales, pensamiento perseverativo siguió significativo (ANCOVA p=.006). **Ansiedad no** (interacción p=.12; ANCOVA .34); **rendición no** (p=.06), pese al lenguaje del resumen. El d=−.81 para pensamiento perseverativo es cambio **intragrupo**, no ventaja estandarizada entre grupos.
 
@@ -87,6 +87,8 @@ Programa online de dos semanas, *Fruit of the Spirit*, formato breve de lectio d
 
 Resumen únicamente; asignados iniciales/completos/pérdidas, procedimiento de asignación y p individuales pendientes. No concluir ineficacia universal: muestra pequeña, intervención y población específicas. Sí muestra que la evidencia disponible no es uniformemente favorable, incluso para práctica explícitamente escritural. No debe omitirse si el capítulo da la impresión de resumir el conjunto de resultados.
 
+El resumen identifica la población y el objetivo de abordar estrés traumático racial, pero no detalla los criterios de inclusión. No afirmar a partir de ese acceso parcial que todos los participantes cumplían un diagnóstico o habían atravesado una clase concreta de experiencia traumática.
+
 ## 7. Pista pertinente adicional, sin inflarla: Knabb et al. (2022)
 
 *Lectio divina for trauma symptoms: A two-part study*, *Spirituality in Clinical Practice*, 9(4), 232–252. [DOI](https://doi.org/10.1037/scp0000303); [vista previa editorial](https://www.researchgate.net/publication/364605631_Lectio_divina_for_trauma_symptoms_A_two-part_study).
@@ -96,9 +98,14 @@ El resumen distingue estudio correlacional **n=257** y programa experimental ind
 ## Alcance, lenguaje seguro y pendientes
 
 - La búsqueda fue focalizada en estos originales, sus suplementos, bibliografías de autores y publicaciones posteriores pertinentes; no revisión sistemática ni inventario exhaustivo.
-- Se consultaron las listas actualizadas de Knabb y Vazquez, que incluyen trabajos 2025/2026. No se verificó un nuevo ensayo 2025/2026 de reflexión bíblica comparable que cambie el dictamen. Eso no demuestra que no exista.
+- Se consultaron las listas actualizadas de Knabb y Vazquez, que incluyen trabajos 2025/2026. La auditoría documental localizó además la revisión cristiana de 2026 registrada abajo. No se verificó íntegramente un nuevo ensayo 2025/2026 de reflexión bíblica comparable que cambie el dictamen; esto no demuestra que no exista ni que la literatura carezca de novedades.
 - Escribir «algunos ensayos pequeños ofrecen resultados prometedores, con límites importantes» resulta más defendible que «la ciencia demuestra que la meditación bíblica…».
 - Diferenciar siempre cambios intragrupo, diferencias entre grupos e interacción grupo×tiempo; no intercambiar d pre/post con d entre tratamientos.
 - No fundir meditación secular, oración repetitiva, centering, lectio divina y reflexión escritural. Tampoco convertir plausibilidad psicológica en validación de una afirmación teológica.
 - Prioridad si se obtiene acceso institucional: Button completo para verificar comparación inferencial principal; Masters completo para describir protocolo y resultados exactos; Carlson y Kim para desagregar hallazgos y pérdidas.
 
+## Actualización localizada en la auditoría documental: Ibraheem et al. (2026)
+
+Daniel L. Ibraheem, Alyssa A. Grimshaw y Benjamin R. Doolittle, *Christian Contemplative Practices and Associations With Well-Being: A Systematic Review*. *Spirituality in Clinical Practice*, publicación anticipada del 11 de junio de 2026. [DOI](https://doi.org/10.1037/scp0000415); [resumen APA](https://psycnet.apa.org/record/2027-82664-001); [portada y resumen editorial](https://www.researchgate.net/publication/406953035_Christian_Contemplative_Practices_and_Associations_With_Well-Being_A_Systematic_Review). Autoría y año corroborados en el [registro institucional de Yale](https://medicine.yale.edu/profile/benjamin-doolittle/).
+
+El resumen informa búsqueda en once bases y 33 estudios incluidos: 29 con alguna asociación positiva, uno con alguna negativa y tres sin asociaciones significativas. Es un mapa de prácticas contemplativas cristianas diversas, no 33 ensayos independientes de lectura bíblica. Consulta efectiva: resumen original y portada editorial, sin métodos/tablas íntegros. Quedan pendientes distribución de diseños, muestras, sesgos y listado completo. El recuento no estima una eficacia conjunta ni permite trasladarla a la definición de este libro; por sí solo no cambia la conclusión prudente del capítulo.
