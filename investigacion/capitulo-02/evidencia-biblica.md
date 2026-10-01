@@ -38,7 +38,7 @@ Una cláusula final debe vincularse con su verbo correcto. En Salmo 119:148, por
 | 2 Tim 2:1–13 | Considerar las imágenes de soldado, atleta y agricultor; comprensión dada por el Señor; recordar a Jesús | Pensar para comprender el encargo y perseverar | *Noéō* es otro verbo; no promete conocimiento ilimitado ni interpretación infalible |
 | Sant 1:19–27 | Recibir la palabra, hacerla, no olvidarla; atender y perseverar en la ley de libertad | Impedir que la atención al texto quede desligada de la vida | No define una técnica de meditación; la comparación no autoriza inventar «mirada superficial» frente a «mirada profunda» |
 
-Fuentes primarias: P1–P11, abajo. La tabla es una síntesis de lectura contextual; los matices exegéticos se precisan a continuación.
+Fuentes primarias: P1–P12, abajo. La tabla es una síntesis de lectura contextual; los matices exegéticos se precisan a continuación.
 
 ## 3. Josué: la finalidad más explícita
 
@@ -186,14 +186,14 @@ La lectura conjunta debe conservar tanto las exigencias como las súplicas. Salm
 
 La utilidad religiosa que muestran los textos no se agota en un estado de ánimo. Puede haber comprensión, una respuesta más fiel, una oración más honesta o capacidad de continuar buscando a Dios mientras el problema permanece. Presentarlas como finalidades y posibilidades, no como resultados detectables en toda sesión.
 
-## 11. Referencias verificadas y estado de consulta
+## 10. Referencias verificadas y estado de consulta
 
 ### Fuentes primarias
 
 En Bible Hub se utilizó el texto bíblico y, donde se indica, el texto hebreo o griego. No se usaron como autoridad sus resúmenes automáticos, aplicaciones, listas de supuestas resonancias ni comentarios sin autor. La BSB declara su texto de dominio público. Las paráfrasis españolas de este documento son propias; no deben presentarse como citas de una traducción española determinada.
 
 - **P1.** Josué 1 completo, especialmente 1–9: [NET, capítulo y notas](https://classic.net.bible.org/bible.php?book=Jos&chapter=1); [texto hebreo de 1:8](https://biblehub.com/text/joshua/1-8.htm). Se cotejó la cláusula de propósito y los verbos finales; no aparato crítico completo.
-- **P2.** [Salmo 1 completo, BSB](https://biblehub.com/bsb/psalms/1.htm). El análisis lexical básico de 1:2 ya está documentado en la investigación del capítulo 1.
+- **P2.** [Salmo 1 completo, BSB](https://biblehub.com/bsb/psalms/1.htm). El análisis léxico básico de 1:2 ya está documentado en la investigación del capítulo 1.
 - **P3.** [Salmo 63 completo, BSB](https://biblehub.com/bsb/psalms/63.htm); [texto hebreo de 63:6](https://biblehub.com/text/psalms/63-6.htm).
 - **P4.** [Salmo 143 completo, BSB](https://biblehub.com/bsb/psalms/143.htm); [texto hebreo de 143:5](https://biblehub.com/text/psalms/143-5.htm).
 - **P5.** [Salmo 77 completo, BSB](https://biblehub.com/bsb/psalms/77.htm); [texto hebreo de 77:12](https://biblehub.com/text/psalms/77-12.htm). Los números del cuerpo son los habituales españoles; los estudios pueden contar el encabezamiento como v. 1 y desplazar el resto un versículo.
@@ -222,8 +222,8 @@ Para el NT se cotejaron las reproducciones electrónicas identificadas como Nest
 - **E3. Scott Arthur Ellington.** *Reality, Remembrance, and Response: The Presence and Absence of God in the Psalms of Lament*. Tesis doctoral, University of Sheffield, agosto de 1999. [Registro institucional](https://etheses.whiterose.ac.uk/id/eprint/3057/); [PDF](https://etheses.whiterose.ac.uk/id/eprint/3057/1/312794.pdf). Consulta directa del apartado 4.2.7, pp. impresas 148–156 (el apartado comienza en p. 148; no seguir mecánicamente el índice). Pasaje cotejado en el PDF y su extracción de texto. Discute expresamente la lectura de Sal 77 como lamento resuelto. Las opiniones de Brueggemann, Tate, Kraus, etc., citadas allí son conocimiento indirecto, salvo cotejo aparte.
 - **E4. Marco Pavan.** «La memoria nel Sal 77». *Rivista Biblica* 60 (2012), 69–90. [Registro y resumen de Università Roma Tre](https://iris.uniroma3.it/handle/11590/369025). **Consulta parcial: únicamente resumen y datos bibliográficos.** Sirve para documentar una interpretación distinta del movimiento de la memoria; no para citar argumentos precisos de las pp. 69–90.
 - **E5. J. Richard Middleton.** «Traumatized and Sleepless, the Psalmist Seeks Comfort in God’s Immanence». *TheTorah.com*, 2024. [Artículo completo](https://www.thetorah.com/article/traumatized-and-sleepless-the-psalmist-seeks-comfort-in-gods-immanence). Consulta directa. Localizadores: «Stage 1», «Stage 2», «Stage 3» y «An Unfinished Ending». Es un ensayo exegético de un académico para público amplio; sus sugerencias de final personal son recepción contemporánea, no texto bíblico ni consenso sobre la intención autoral.
-- **E6. Michael Kodzo Mensah.** «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts». *Old Testament Essays* 34(1) (2021), 165–188. DOI: [10.17159/2312-3621/2021/v34n1a10](https://doi.org/10.17159/2312-3621/2021/v34n1a10). [HTML SciELO](https://scielo.org.za/scielo.php?pid=S1010-99192021000100009&script=sci_arttext); [PDF](https://www.scielo.org.za/pdf/ote/v34n1/09.pdf). Consulta directa de secciones pertinentes de B, de C.4 y de la conclusión; para la discusión de 98–100, sección C.4, pp.179–181. Contrasta dimensiones sapienciales, sufrimiento del justo y crítica de autoridades; su estructura de seis cantos y algunas inferencias no deben presentarse como consensuadas.
-- **E7. A. H. Snyman.** «Philippians 4:1–9 from a rhetorical perspective». *Verbum et Ecclesia* 28(1) (2007), 224–243. DOI: [10.4102/ve.v28i1.106](https://doi.org/10.4102/ve.v28i1.106). [Página editorial](https://verbumetecclesia.org.za/index.php/ve/article/view/106); [PDF](https://verbumetecclesia.org.za/index.php/ve/article/download/106/80). Consulta directa de pp. 234–241; para 4:6–7, pp.235–236; para 4:8–9, pp.237–240. Aporta discusión retórica y de la procedencia de la lista de virtudes. Las obras comentadas por Snyman se consideran indirectas, no consultas propias.
+- **E6. Michael Kodzo Mensah.** «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts». *Old Testament Essays* 34(1) (2021), 165–188. DOI: [10.17159/2312-3621/2021/v34n1a10](https://doi.org/10.17159/2312-3621/2021/v34n1a10). [HTML SciELO](https://scielo.org.za/scielo.php?pid=S1010-99192021000100009&script=sci_arttext); [PDF](https://www.scielo.org.za/pdf/ote/v34n1/09.pdf). Consulta directa de secciones pertinentes de B, de C.4 y de la conclusión; para la discusión de 98–100, sección C.4, pp. 179–181. Contrasta dimensiones sapienciales, sufrimiento del justo y crítica de autoridades; su estructura de seis cantos y algunas inferencias no deben presentarse como consensuadas.
+- **E7. A. H. Snyman.** «Philippians 4:1–9 from a rhetorical perspective». *Verbum et Ecclesia* 28(1) (2007), 224–243. DOI: [10.4102/ve.v28i1.106](https://doi.org/10.4102/ve.v28i1.106). [Página editorial](https://verbumetecclesia.org.za/index.php/ve/article/view/106); [PDF](https://verbumetecclesia.org.za/index.php/ve/article/download/106/80). Consulta directa de pp. 234–241; para 4:6–7, pp. 235–236; para 4:8–9, pp. 237–240. Aporta discusión retórica y de la procedencia de la lista de virtudes. Las obras comentadas por Snyman se consideran indirectas, no consultas propias.
 - **E8. Nicholas Denyer.** «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c». *Tyndale Bulletin* 50.2 (1999), 237–240. DOI: [10.53751/001c.30315](https://doi.org/10.53751/001c.30315). [PDF editorial](https://www.tyndalebulletin.org/article/30315.pdf). Consulta directa del artículo. P. 239: cautela contra traducir κατανοεῖν como mero vistazo y propuesta sobre el conocimiento fugaz. Su paralelo platónico es una interpretación comparativa, no demostración de que Santiago copiara a Platón.
 
 ### Referencias localizadas que no deben fingirse leídas por completo
@@ -232,13 +232,13 @@ Para el NT se cotejaron las reproducciones electrónicas identificadas como Nest
 - Megan I. J. Daffern, «The Semantic Field of ‘Remembering’ in the Psalms», *Journal for the Study of the Old Testament* 41(1), 2016, 79–97. [DOI y resumen editorial](https://journals.sagepub.com/doi/pdf/10.1177/0309089215611548). Localizados resumen y datos; no utilizado como si se hubieran leído sus tablas o análisis completos.
 - Peter-Ben Smit, «Prefigurative Peace in Philippians», *Religions* 15(8), 944 (2024), DOI 10.3390/rel15080944. Localizado; la página editorial devolvió 429. No usado para sostener una conclusión concreta.
 
-## 12. Cierre del alcance
+## 11. Cierre del alcance
 
 Hay base suficiente para escribir el argumento bíblico del capítulo sin cerrar preguntas sobre canon, denominación o destinatario editorial todavía pendientes. No hace falta incorporar todos los textos ni todas las controversias al manuscrito. Las más importantes para una nota de fuentes son: la finalidad de Jos 1:8; el vínculo discernimiento–conducta en Sal 119:97–104; la falta de resolución explícita de Sal 77; y las diferencias entre los verbos y contextos del NT.
 
 No se investigaron en este encargo efectos psicológicos o neurológicos, tradiciones orientales, Jennings ni métodos prácticos completos. Ninguna conclusión de este expediente pretende sustituir esa evidencia ni anticipar el capítulo comparativo.
 
-## 13. Adenda solicitada: alabanza y memoria compartida (Salmos 48 y 145)
+## 12. Adenda solicitada: alabanza y memoria compartida (Salmos 48 y 145)
 
 Se verificaron estos pasajes después de la entrega inicial del expediente, ante la consulta editorial sobre evitar reducir el propósito a decisiones individuales.
 
@@ -256,41 +256,28 @@ Esa atención también se comparte. El Salmo 48 habla en plural de considerar el
 
 El agregado mejora el equilibrio sin necesidad de abrir un apartado nuevo ni repetir el capítulo 1. Puede compartir la nota de Salmo 63, o recibir una nota distinta si el autor prefiere renumerar.
 
-## 14. Notas propuestas para las llamadas 1–11 del borrador leído
+## 13. Antecedente: notas propuestas para las llamadas 1–11 del borrador
 
-Estas notas corresponden al borrador de `capitulos/02-para-que-meditar.md` leído a las 20:09 UTC. No se editó ese archivo. Los nombres de fuentes pueden sustituirse por los identificadores definitivos del registro del proyecto.
+Estas notas conservan la propuesta preparada para el borrador de `capitulos/02-para-que-meditar.md` leído a las 20:09 UTC. Son un antecedente de redacción, no las notas vigentes. La versión actual, con identificadores definitivos y localizadores corregidos, está en el [capítulo 2](../../capitulos/02-para-que-meditar.md#notas-y-fuentes).
 
-[^1]: Jos 1:1–9, especialmente 1:8. La finalidad está introducida por לְמַעַן, «para que», seguida de cuidar de hacer lo escrito. [Texto hebreo](https://biblehub.com/text/joshua/1-8.htm). NET Bible, notas a 1:7–8; Boyd-Taylor, «Meditatio Septuaginta», sección «Deuteronomic antecedents». La aplicación actual distingue la orientación de la práctica del encargo y la promesa particulares de Josué.
+**Nota propuesta 1.** Jos 1:1–9, especialmente 1:8. La finalidad está introducida por לְמַעַן, «para que», seguida de cuidar de hacer lo escrito. [Texto hebreo](https://biblehub.com/text/joshua/1-8.htm). NET Bible, notas a 1:7–8; Boyd-Taylor, «Meditatio Septuaginta», sección «Deuteronomic antecedents». La aplicación actual distingue la orientación de la práctica del encargo y la promesa particulares de Josué.
 
-[^2]: Sal 1 completo; cf. Sal 73:1–17 y Sal 119:23, 78. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119», secciones sobre Sal 119 y conclusión. La imagen del árbol pertenece al contraste de dos caminos; no se toma como una garantía individual de resultados económicos o ausencia de sufrimiento.
+**Nota propuesta 2.** Sal 1 completo; cf. Sal 73:1–17 y Sal 119:23, 78. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119», secciones sobre Sal 119 y conclusión. La imagen del árbol pertenece al contraste de dos caminos; no se toma como una garantía individual de resultados económicos o ausencia de sufrimiento.
 
-[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. En 99, כִּי relaciona la comprensión con tener los testimonios como meditación; 100–104 integra entendimiento y conducta. Mensah, «Making Meaning of Wisdom in Psalm 119», sección C.4, expone interpretaciones distintas de las comparaciones con maestros y ancianos. No se adopta como consenso su reconstrucción de una crítica a las autoridades tradicionales.
+**Nota propuesta 3.** Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. En 99, כִּי relaciona la comprensión con tener los testimonios como meditación; 100–104 integra entendimiento y conducta. Mensah, «Making Meaning of Wisdom in Psalm 119», sección C.4, expone interpretaciones distintas de las comparaciones con maestros y ancianos. No se adopta como consenso su reconstrucción de una crítica a las autoridades tradicionales.
 
-[^4]: Sal 119:59–60. [Texto hebreo de 119:59](https://biblehub.com/text/psalms/119-59.htm): חִשַּׁבְתִּי pertenece a חשב, considerar. La conexión con la meditación es conceptual; no es otra aparición de הגה o שיח.
+**Nota propuesta 4.** Sal 119:59–60. [Texto hebreo de 119:59](https://biblehub.com/text/psalms/119-59.htm): חִשַּׁבְתִּי pertenece a חשב, considerar. La conexión con la meditación es conceptual; no es otra aparición de הגה o שיח.
 
-[^5]: Sal 63:1–11, especialmente 6–8. [Texto hebreo de 63:6](https://biblehub.com/text/psalms/63-6.htm). Si se incorpora el párrafo comunitario: Sal 48:8–13 y 145:4–7, 11–12; en 48:9 aparece דמה, mientras que en 145:5 aparece שיח y las traducciones alternan entre meditar y hablar/declarar. Esos poemas relacionan la atención con la alabanza y la transmisión compartida sin fijar una secuencia técnica.
+**Nota propuesta 5.** Sal 63:1–11, especialmente 6–8. [Texto hebreo de 63:6](https://biblehub.com/text/psalms/63-6.htm). Si se incorpora el párrafo comunitario: Sal 48:8–13 y 145:4–7, 11–12; en 48:9 aparece דמה, mientras que en 145:5 aparece שיח y las traducciones alternan entre meditar y hablar/declarar. Esos poemas relacionan la atención con la alabanza y la transmisión compartida sin fijar una secuencia técnica.
 
-[^6]: Sal 143 completo, especialmente 4–10. El [texto hebreo de 143:5](https://biblehub.com/text/psalms/143-5.htm) reúne recordar, meditar y considerar las obras divinas. El vínculo con petición y orientación se observa en el desarrollo de la oración; no se trata de una promesa causal aislada.
+**Nota propuesta 6.** Sal 143 completo, especialmente 4–10. El [texto hebreo de 143:5](https://biblehub.com/text/psalms/143-5.htm) reúne recordar, meditar y considerar las obras divinas. El vínculo con petición y orientación se observa en el desarrollo de la oración; no se trata de una promesa causal aislada.
 
-[^7]: Sal 77 completo. Para el debate sobre su desenlace: Ellington, *Reality, Remembrance, and Response*, apartado 4.2.7, pp. 148–156, especialmente 152–155, defiende el lamento no resuelto; Pavan, «La memoria nel Sal 77», resumen institucional consultado, reconoce recuperación de la relación mediante memoria colectiva; Middleton, «Traumatized and Sleepless», apartado «An Unfinished Ending», destaca el final abierto. No se consultó el artículo completo de Pavan. El v. 10 presenta dificultades textuales y de traducción: véase la nota textual de NET a ese versículo. La exposición se apoya en los movimientos claros de 11–20.
+**Nota propuesta 7.** Sal 77 completo. Para el debate sobre su desenlace: Ellington, *Reality, Remembrance, and Response*, apartado 4.2.7, pp. 148–156, especialmente 152–155, defiende el lamento no resuelto; Pavan, «La memoria nel Sal 77», resumen institucional consultado, reconoce recuperación de la relación mediante memoria colectiva; Middleton, «Traumatized and Sleepless», apartado «An Unfinished Ending», destaca el final abierto. No se consultó el artículo completo de Pavan. El v. 10 presenta dificultades textuales y de traducción: véase la nota textual de NET a ese versículo. La exposición se apoya en los movimientos claros de 11–20.
 
-[^8]: Sal 119:49–52, 81–88, 111, 143, 161–166. Las referencias a consuelo, alegría y paz se leen junto con la aflicción y la espera presentes en el mismo poema. El v. 165 habla de amar la Torá, no prescribe el estado emocional posterior a una sesión de meditación.
+**Nota propuesta 8.** Sal 119:49–52, 81–88, 111, 143, 161–166. Las referencias a consuelo, alegría y paz se leen junto con la aflicción y la espera presentes en el mismo poema. El v. 165 habla de amar la Torá, no prescribe el estado emocional posterior a una sesión de meditación.
 
-[^9]: Flp 4:2–9, con 4:11–14 como contexto de aflicción y necesidad. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 237–240, analiza la relación entre considerar y practicar y el patrón exhortación–resultado. En 4:8 el verbo es λογίζομαι, distinto de μελετάω; el texto no restringe explícitamente sus criterios de atención a pasajes bíblicos.
+**Nota propuesta 9.** Flp 4:2–9, con 4:11–14 como contexto de aflicción y necesidad. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 237–240, analiza la relación entre considerar y practicar y el patrón exhortación–resultado. En 4:8 el verbo es λογίζομαι, distinto de μελετάω; el texto no restringe explícitamente sus criterios de atención a pasajes bíblicos.
 
-[^10]: 2 Tim 2:1–13, especialmente 7–8, y 1 Tim 4:6–16. [2 Tim 2:7, texto griego](https://biblehub.com/text/2_timothy/2-7.htm), con νόει; [1 Tim 4:15](https://biblehub.com/text/1_timothy/4-15.htm), con μελέτα y la cláusula ἵνα sobre el progreso visible. El segundo se refiere a las responsabilidades de Timoteo en su conjunto. En 2 Tim 2:7, las ediciones electrónicas comparadas presentan δώσει, «dará», o δῴη, «dé»; no se pretende resolver aquí la crítica textual.
+**Nota propuesta 10.** 2 Tim 2:1–13, especialmente 7–8, y 1 Tim 4:6–16. [2 Tim 2:7, texto griego](https://biblehub.com/text/2_timothy/2-7.htm), con νόει; [1 Tim 4:15](https://biblehub.com/text/1_timothy/4-15.htm), con μελέτα y la cláusula ἵνα sobre el progreso visible. El segundo se refiere a las responsabilidades de Timoteo en su conjunto. En 2 Tim 2:7, las ediciones electrónicas comparadas presentan δώσει, «dará», o δῴη, «dé»; no se pretende resolver aquí la crítica textual.
 
-[^11]: Sant 1:19–27, especialmente 22–25. Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», pp. 237–240, especialmente 239, advierte que κατανοεῖν no significa necesariamente echar un vistazo. Su comparación con Platón se registra como interpretación; el argumento del capítulo se apoya en el contraste explícito entre olvidar/no hacer y permanecer/hacer.
-
-## Alabanza y memoria compartida
-
-Se verificaron estos pasajes después de la entrega inicial del expediente, ante la consulta editorial sobre evitar reducir el propósito a decisiones individuales.
-
-**Salmo 48:9 (= 48:10 hebreo)** ofrece una voz plural: דִּמִּינוּ, «hemos considerado/contemplado», de דמה, piel perfecto primera persona común plural. El objeto es el amor fiel de Dios y el ámbito es su templo. No es una aparición de הגה ni de שיח. En el contexto inmediato aparecen alabanza y alegría (10–11); en 12–13, considerar las defensas de Sion tiene como finalidad contar a la generación siguiente. No debe transferirse sin explicación ese «para que» al verbo del v. 9, pero todo el poema muestra atención, celebración y transmisión compartidas.
-
-Fuentes consultadas directamente: [Salmo 48 completo, BSB](https://biblehub.com/bsb/psalms/48.htm); [hebreo de 48:9](https://biblehub.com/text/psalms/48-9.htm); [BDB, entrada דמה, 1819](https://biblehub.com/bdb/1819.htm). Se usa la voz del poema; no se reconstruye una ceremonia histórica particular.
-
-**Salmo 145:4–7** alterna la proclamación de las generaciones y la voz del orante. En el v. 5 aparece אָשִׂיחָה, de שיח, primera persona singular con terminación cohortativa. El contenido es el esplendor de la majestad de Dios y sus obras maravillosas. Las traducciones oscilan entre meditar y hablar/declarar, de manera coherente con la proximidad de reflexión y expresión ya documentada en el capítulo 1. En 6–7 predominan proclamar, declarar y cantar; en 11–12, hablar del reino hace conocidas sus obras. No deducir dos fases fijas, primero silencio interior y luego comunicación.
-
-Fuentes: [Salmo 145 completo, BSB](https://biblehub.com/bsb/psalms/145.htm); [hebreo y traducciones de 145:5](https://biblehub.com/text/psalms/145-5.htm). El punto comunitario/generacional está explícito en el texto; no necesita adoptar una teoría litúrgica o una fecha de composición.
-
+**Nota propuesta 11.** Sant 1:19–27, especialmente 22–25. Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», pp. 237–240, especialmente 239, advierte que κατανοεῖν no significa necesariamente echar un vistazo. Su comparación con Platón se registra como interpretación; el argumento del capítulo se apoya en el contraste explícito entre olvidar/no hacer y permanecer/hacer.

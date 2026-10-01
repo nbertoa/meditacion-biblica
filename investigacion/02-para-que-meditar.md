@@ -1,6 +1,6 @@
 # Investigación — ¿Para qué meditar?
 
-Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: primera redacción, auditoría documental, revisión de lenguaje y continuidad con el capítulo 1 completadas; auditoría final todavía pendiente.
+Fecha de consulta: 2026-10-01. Respalda el [capítulo 2](../capitulos/02-para-que-meditar.md). Estado: las cinco revisiones editoriales están completadas localmente; la publicación de los ajustes finales y su verificación remota en main siguen pendientes.
 
 ## Alcance
 
@@ -40,6 +40,7 @@ La etiqueta «primario» no significa «sólido»: un experimento pequeño puede
 - [Auditoría documental: cobertura de las 23 notas, correcciones y límites](capitulo-02/auditoria-documental.md)
 - [Auditoría de lenguaje: simplificación, matices conservados y controles](capitulo-02/auditoria-lenguaje.md)
 - [Auditoría de continuidad: lectura conjunta, límites y cambios](capitulo-02/auditoria-continuidad.md)
+- [Auditoría final integral: dictamen, ajustes y control local](capitulo-02/auditoria-final.md)
 - [Pasajes, análisis y objeciones bíblicas](capitulo-02/evidencia-biblica.md)
 - [Jennings y matriz Jennings/Newberg](capitulo-02/jennings-y-matriz.md)
 - [Estudios de Newberg, libros y revisiones posteriores](capitulo-02/neurociencia.md)
@@ -51,7 +52,7 @@ La etiqueta «primario» no significa «sólido»: un experimento pequeño puede
 | Intervención | Cercanía | Límite principal |
 |---|---|---|
 | Lectura de salmos, reflexión y oración | Alta en contenido y varias acciones | Método moderno; selección de salmos, contexto y dosificación propios |
-| Reflexión guiada sobre pasajes del NT | Alta en contenido, comprensión y conducta propuesta | Resultado agudo de laboratorio no equivale a efecto duradero |
+| Oración devocional ante un desafío de fe (Masters et al.) | Por precisar: el método completo no fue consultado | Resultado cardiovascular agudo; la descripción de reflexión en versículos sigue pendiente de cotejo original |
 | Programa cristiano mixto | Parcial | Reflexión, grupo y contemplación silenciosa no quedan aislados |
 | Repetición de una frase sobre Dios | Parcial | Coincide en ciertos contenidos; no siempre incluye comprensión del pasaje y respuesta práctica |
 | Repetición franciscana de una frase | Parcial | Una tarea experimental no representa todas las prácticas cristianas |
@@ -70,4 +71,4 @@ No se deriva de estos estudios una recomendación clínica individual, una tasa 
 2. Auditoría metodológica y documental: completada el 2026-10-01 sobre la primera versión guardada; [registro de cobertura y correcciones](capitulo-02/auditoria-documental.md)
 3. Lenguaje sencillo y coherencia: completada el 2026-10-01 sobre la versión con auditoría documental; [cambios y controles locales](capitulo-02/auditoria-lenguaje.md)
 4. Continuidad completa con el capítulo 1: completada el 2026-10-01; [cobertura y ajustes](capitulo-02/auditoria-continuidad.md). El capítulo 1 no necesitó cambios
-5. Auditoría final integral y verificación remota: pendiente
+5. Auditoría final integral: completada localmente el 2026-10-01; [dictamen, correcciones y comprobaciones](capitulo-02/auditoria-final.md). Pendientes publicación de los ajustes y verificación remota final en main

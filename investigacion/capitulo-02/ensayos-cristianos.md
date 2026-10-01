@@ -49,7 +49,7 @@ El texto íntegro continúa como contenido por suscripción. La ficha de Leeds e
 
 Interacción significativa para pensamiento perseverativo (p<.001, ηp²=.17), desapego (.001, .15), humildad (.04, .06) y adjetivos positivos de Dios (.045, .06). Ajustando diferencias iniciales, pensamiento perseverativo siguió significativo (ANCOVA p=.006). **Ansiedad no** (interacción p=.12; ANCOVA .34); **rendición no** (p=.06), pese al lenguaje del resumen. El d=−.81 para pensamiento perseverativo es cambio **intragrupo**, no ventaja estandarizada entre grupos.
 
-Limitaciones: control pasivo, selección no clínica autodeclarada, pérdida de participantes, desigualdad basal y sin seguimiento de incidencia de trastornos. La etiqueta preventiva no demuestra prevención de depresión/ansiedad. El tratamiento integra psicoeducación y prácticas catáfaticas/apofáticas; no aísla meditación bíblica reflexiva.
+Limitaciones: control pasivo, selección no clínica autodeclarada, pérdida de participantes, desigualdad basal y sin seguimiento de incidencia de trastornos. La etiqueta preventiva no demuestra prevención de depresión/ansiedad. El tratamiento integra psicoeducación y prácticas catafáticas/apofáticas; no aísla meditación bíblica reflexiva.
 
 ### Manual de la intervención: permite identificar la mezcla
 
