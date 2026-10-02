@@ -280,3 +280,11 @@ El [informe final](../investigacion/capitulo-04/auditoria-final.md#6-fuentes-pri
 - **COM-NET-01 / COM-SAL-01:** cotejo complementario de Sal 77:10, nota textual NET 2 completa, e introducción/notas 3–12 de Kirkpatrick. Las alternativas siguen abiertas; sin nueva colación hebrea
 
 El resto del respaldo de C4 se reutilizó en sus grados anteriores. No se reabrieron Ellington, Pavan, Boyd-Taylor, Bock, JEN-02, Orígenes/Guigo, léxicos avanzados o estudios científicos. Jennings 2017 y las cadenas pendientes no se dan por cerradas. La revisión local de etapa 6 conserva las 22 notas y sus doce IDs; aún requiere publicación y recuperación final desde main.
+
+## Constancia posterior de cierre remoto de C4
+
+El contenido final de las seis etapas quedó publicado y recuperado en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. Coordinación confirmó comparación sin diferencias, control final sin errores/advertencias/avisos y relectura completa de C4 con notas desde origin/main el 2026-10-02 a las 17:58–17:59 UTC. C4 está listo para la revisión del autor. Este registro posterior no cambia el respaldo, los grados de acceso ni el estado de las prácticas; los pendientes anteriores conservan el contexto histórico de cada pasada. El punto 14 de la auditoría final distingue el commit de contenido comprobado del commit posterior de esta constancia.
+
+### Adenda de procedencia: nuevas notas biográficas externas en C2
+
+El commit del autor `eacc1c563073ddd5d28f0d7875fd665f53361865` (2026-10-02, 18:06:31 UTC) añadió a C2 las notas `newberg-contexto` y `jennings-contexto`, con enlaces a la biografía oficial de Newberg y la presentación de Jennings en InterVarsity Press, y amplió los títulos/referencias de JEN-01 y JEN-02. Se conservan íntegros esos aportes externos. La revisión breve de compatibilidad leyó el capítulo y sus notas, pero no reabrió esas dos biografías ni atribuye sus constancias de consulta a la investigación de C4. No se añaden IDs ni se amplía la evidencia usada para justificar sus ocho prácticas.

@@ -1,6 +1,6 @@
 # C4 — Auditoría final integral e informe al autor
 
-**Etapa 6, revisión local completada el 2026-10-02 UTC.** El manuscrito y sus soportes están listos para la publicación y comprobación final desde main. Esas operaciones todavía están pendientes en el estado que documenta esta pasada; el encargo no se declara cerrado en remoto.
+**Estado vigente: seis etapas terminadas, publicadas y verificadas desde main; C4 listo para la revisión del autor.** La revisión local de etapa 6 se completó el 2026-10-02 UTC. Su publicación, recuperación, comparación y relectura completa con notas fueron confirmadas posteriormente por coordinación a las 17:58–17:59 UTC en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. El punto 14 conserva el estado de la pasada local, la constancia remota y la adenda posterior sobre el cambio externo de C2 en `eacc1c563073ddd5d28f0d7875fd665f53361865`, nueva base del registro. Ese cambio se conserva y es compatible con C4; no se atribuye aprobación editorial al autor.
 
 **Dictamen:** conservar íntegro el [capítulo 4, «¿Cómo meditar con las Escrituras?»](../../capitulos/04-como-meditar-con-las-escrituras.md). La lectura crítica nueva y los cotejos focales no encontraron un error superviviente que exija otra corrección del cuerpo o de sus notas. Se actualizan los estados, se registran las consultas realmente hechas y se reúne aquí el informe de quince puntos. No se modifica C1–C3 ni se atribuye aprobación editorial al autor.
 
@@ -8,7 +8,7 @@
 
 Entrada: `ecf0f988a234f665b1cbf4c17d76a0972c3cfd67`, checkpoint de continuidad. Al comenzar se comprobaron HEAD y la referencia local origin/main en ese SHA y el árbol limpio. La coordinación comunicó que las etapas 1–5 ya estaban publicadas y recuperadas; esta revisión no hizo un fetch propio ni convierte la mera referencia local en una comprobación nueva del servidor. Se revisó el historial y se conservaron las circunstancias documentadas del bloqueo anterior y su resolución posterior. El estado de las auditorías de etapas 3–5 no se reescribe retrospectivamente.
 
-El manuscrito de entrada y salida conserva SHA-256 `03cf04511be3c7bdb0299e5a30528c5d5e76588bbb1e662e2e23f9342e6d6699`. El respaldo de entrada del árbol, guardado fuera del repositorio, tiene SHA-256 `776925f330ec358b0b7f05fb5b14419cacf7b062ba5b0a44fbd8a01ad7c37e1f`. Son hashes de archivos; no sustituyen el SHA del futuro commit de cierre.
+El manuscrito de entrada y salida conserva SHA-256 `03cf04511be3c7bdb0299e5a30528c5d5e76588bbb1e662e2e23f9342e6d6699`. El respaldo de entrada del árbol, guardado fuera del repositorio, tiene SHA-256 `776925f330ec358b0b7f05fb5b14419cacf7b062ba5b0a44fbd8a01ad7c37e1f`. Son hashes de archivos; no sustituyen el SHA del commit de contenido identificado posteriormente en el punto 14.
 
 Revisión editorial **asistida por IA**, con lectura integral propia y un cotejo focal complementario de fuentes. No es auditoría humana, externa independiente ni prueba con lectores. Se leyeron de nuevo, completos y con notas, C1–C4 en orden; el expediente C4, evidencia, matriz, catálogo completo, registro bibliográfico completo y las tres auditorías C4 completas. También se leyeron encargo, README, instrucciones, AGENTS, todo el plan vigente, índice de investigación, plantilla y registro de experiencias. Se inspeccionaron los diffs reales de corrección documental y lenguaje, además del checkpoint de continuidad.
 
@@ -104,7 +104,7 @@ Se volvió a intentar refutar el diseño, sin tomar los dictámenes previos como
 | Se reconstruye historia para que funcione el ejercicio | Lucas mantiene motivos no narrados y Levine p. 121; la interpretación puede sostenerse retirando luz, gestos y conversaciones añadidos |
 | Se fuerza calma o se niega todo cambio en el poema | Sal 77 permite confianza y conserva el desenlace personal no informado; v. 10 no funciona como fórmula psicológica |
 | Un recurso menor carece de instrucciones | Versiones, metáfora, proverbios, oración, memoria, conversación y dificultades tienen acciones y límites suficientes; no dependen sólo del catálogo |
-| Los estados actuales contradicen los checkpoints reales | Se actualizan los registros vigentes a etapas 1–5 publicadas según coordinación y etapa 6 local. Los informes históricos quedan intactos |
+| Los estados actuales contradicen los checkpoints reales | Al cerrar la pasada local se actualizaron los registros a etapas 1–5 publicadas según coordinación y etapa 6 local. La constancia posterior del punto 14 registra el cierre remoto; los informes históricos quedan intactos |
 
 Las cuatro correcciones documentales de etapa 3 y las aclaraciones de etapa 4 sobreviven al cierre. No apareció una afirmación especializada nueva ni una corrección sustantiva dudosa que requiera decisión del autor. **No se cambia el manuscrito para aparentar actividad de revisión.** Las modificaciones de esta pasada son documentales: estado, acceso real, cobertura y constancia final local.
 
@@ -126,7 +126,7 @@ Esto no equivale a haber realizado cinco auditorías adicionales. Su ausencia es
 
 Sal 77:10 conserva una dificultad textual e interpretativa; el inventario léxico general y los aparatos no se vuelven exhaustivos. Siguen parciales el artículo de Pavan y otros originales heredados. No se resolvieron Jennings 2017, pp. 222–228 y notas, su cadena exacta hacia Newberg/Waldman ni el original contextual de Govinda. Ninguna instrucción central de C4 depende de completar esas ausencias.
 
-Este encargo no aporta una medición de eficacia específica de las ocho propuestas, una prueba con lectores ni experiencias personales del autor. La identidad histórica exhaustiva de los destinatarios de Santiago y toda la relación judeosamaritana tampoco se resuelven mediante las glosas breves. Estos límites no impiden la entrega editorial acotada. **Lo que aún impide declarar cumplido todo el encargo es la publicación y comprobación final desde main**, distinguida de esta revisión local.
+Este encargo no aporta una medición de eficacia específica de las ocho propuestas, una prueba con lectores ni experiencias personales del autor. La identidad histórica exhaustiva de los destinatarios de Santiago y toda la relación judeosamaritana tampoco se resuelven mediante las glosas breves. Estos límites no impiden la entrega editorial acotada. Al cierre de la revisión local faltaban publicación y comprobación final desde main. Ese pendiente se resolvió después, según la constancia del punto 14; la revisión editorial del autor sigue abierta.
 
 ## 13. Archivos, checkpoints e integridad previa
 
@@ -142,12 +142,15 @@ Esta etapa crea este informe y actualiza nueve soportes: los seis generales, exp
 | 3. Documental y práctica | 2026-10-02 | `5bff0072d2be6832244f26dde23e7eb2ed2972bd` |
 | 4. Lenguaje | 2026-10-02 | `6618b1c4dfc1dbee0ecf4968b5321528cfb75c2e` |
 | 5. Continuidad | 2026-10-02 | `ecf0f988a234f665b1cbf4c17d76a0972c3cfd67` |
+| 6. Auditoría final integral, contenido verificado | 2026-10-02 | `8b3ee67a938d2be919b4a609b058cf1c1b3352c8` |
 
 La tabla identifica el contenido guardado de cada etapa, no afirma que su publicación ocurriera al mismo tiempo que su revisión. Los informes 3–5 conservan las versiones locales y hashes realmente examinados mientras la publicación estaba bloqueada. La confirmación adicional del autor y las operaciones posteriores comunicadas por coordinación no convierten aquel bloqueo en inexistente.
 
 ## 14. Commit final y comprobaciones reales
 
-El commit de contenido final de etapa 6 todavía no fue creado por esta pasada. No se hizo commit, push, fetch ni actualización de referencias; no se inventa un hash autorreferencial. La coordinación registrará el SHA real después de publicar, recuperará main, comparará árbol/hashes, repetirá controles y releerá desde allí C4 completo con sus notas. Esa constancia posterior deberá distinguir el commit de contenido del registro de verificación si son distintos.
+### Estado y controles al cerrar la revisión local
+
+Al cerrar esta pasada todavía no se había creado el commit de contenido final de etapa 6. La revisión no hizo commit, push, fetch ni actualización de referencias. Quedaban a cargo de coordinación publicar, recuperar main, comparar árbol/hashes, repetir controles y releer C4 completo con notas. La constancia posterior que sigue registra su realización con un SHA real, distinto del commit que guardará este registro.
 
 Se ejecutó el validador estructural en modo final y `git diff --check` sobre el conjunto local: **cero errores, cero advertencias y cero avisos preliminares**. Se volvió a ejecutar el control después de incorporar esta constancia. Resultado:
 
@@ -159,8 +162,28 @@ Se ejecutó el validador estructural en modo final y `git diff --check` sobre el
 
 Los controles son editoriales y estructurales, no validación de resultados en lectores. El árbol no contiene workflows de CI; no se declara ejecución de CI. La disponibilidad actual de todos los enlaces web históricos no se auditó sistemáticamente: los accesos nuevos efectivos son los identificados en el punto 6.
 
+### Constancia posterior: contenido final publicado y verificado
+
+El commit de contenido final de etapa 6 es `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. Coordinación confirmó su publicación y recuperación mediante fetch, la coincidencia de main/HEAD, el árbol limpio y `git diff --exit-code origin/main` sin diferencias. El 2026-10-02 el validador final sobre `origin/main`, árbol Git inmutable de ese SHA, se ejecutó entre las 17:58:53 y las 17:58:54 UTC: **cero errores, cero advertencias y cero avisos**, con 45 Markdown, 93 tablas, 115 IDs canónicos y 880 enlaces, incluidos 278 locales válidos.
+
+Coordinación releyó C4 completo con notas desde `git show origin/main`, en tres tramos consecutivos, a las 17:58–17:59 UTC. Confirmó SHA-256 `03cf04511be3c7bdb0299e5a30528c5d5e76588bbb1e662e2e23f9342e6d6699`, sin cambios tras las auditorías 4–6. Esta actualización contrastó la constancia estructural recibida y comprobó localmente HEAD/origin/main en el mismo SHA; no se atribuye el fetch o esa relectura remota a la pasada local anterior.
+
+En el control del registro anterior al avance externo de C2 de las 18:06:31 UTC, después de incorporar esta constancia y sincronizar los diez soportes, se repitieron el validador final local y `git diff --check`, sin errores, advertencias ni avisos. La comparación ampliada conserva los 31 archivos históricos respecto de `b832d03`, y C4 con las auditorías 3–5 permanece idéntico a `8b3ee67`; el árbol de entrega sigue limitado a 45 Markdown.
+
+Las seis etapas del encargo y su comprobación remota están cumplidas. El capítulo queda listo para la revisión del autor. Este registro posterior sólo actualiza estados y deja constancia de lo ya comprobado; no modifica cuerpo, notas o auditorías de etapas 3–5. El commit que guarde esta constancia será posterior y distinto del commit de contenido `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`; no se le asigna un hash autorreferencial ni se lo presenta como una nueva versión del manuscrito.
+
+### Adenda posterior: nueva base y compatibilidad con C2
+
+El 2026-10-02 a las 18:06:31 UTC el autor añadió el commit `eacc1c563073ddd5d28f0d7875fd665f53361865`, hijo de `8b3ee67`, con cambios exclusivamente en C2. Coordinación comunicó que el intento de publicar el registro fue rechazado por el avance concurrente; recuperó ese commit y lo conservó al alinear HEAD/índice, manteniendo los diez archivos locales del registro. La verificación de `8b3ee67` a las 17:58–17:59 UTC sigue siendo válida para ese momento; `eacc1c5` es ahora la base de preservación para guardar esta constancia.
+
+Se leyó el diff completo entre ambos commits y C2 completo con sus 25 notas. Los añadidos presentan a Newberg y Jennings, explicitan los títulos de la guía de 2020 y el artículo de 2023, amplían referencias y añaden dos notas biográficas. Se cotejó su compatibilidad con la mención puntual de Jennings y nota 18 de C4, la ausencia de transferencias científicas a sus ayudas y la remisión a atención profesional. No alteran las cautelas sobre evidencia, dosis, resultados, lamento o conducta; no requieren corregir C4. Esta revisión no modificó C2 ni sus biografías. Las dos fuentes nuevas y sus consultas registradas pertenecen al cambio externo; no se presentan como investigación propia ni como originales reabiertos en este control.
+
+Se repitieron el validador final con base `eacc1c563073ddd5d28f0d7875fd665f53361865` y `git diff --check`: cero errores, advertencias o avisos. El árbol conserva 45 Markdown, 93 tablas, 115 IDs canónicos y 278 enlaces locales válidos; los enlaces totales pasan a 884 por los cuatro enlaces externos añadidos a las notas de C2. Sus 25 definiciones de nota corresponden a 25 notas llamadas, con 27 llamadas totales. C4 sigue con 22 llamadas/definiciones, el mismo contenido y SHA-256.
+
+La comparación ampliada contra `b832d03` ya no declara idénticos los 31 archivos históricos: treinta son idénticos y C2 es la única diferencia, explicada íntegramente por `eacc1c5`. El C2 local es idéntico al nuevo commit y tiene SHA-256 `fe51065b7ea605091d0abce0ef8c5c7488c754cba55676ce48f25fb11bc33806`. C4 y las auditorías 3–5 permanecen idénticos a `8b3ee67`; los estados anteriores conservan sus fechas y bases. No se reabrió la tarea editorial completa ni se recrearon las auditorías anteriores.
+
 ## 15. Qué queda para la lectura y decisión del autor
 
 El autor recibe un capítulo completo y respaldado para revisar la selección, el tono, la amplitud y la utilidad de los ejemplos. No se le trasladan búsquedas o correcciones identificadas que pudieran resolverse dentro del encargo. Publicar este trabajo tampoco significa que ya lo haya aprobado editorialmente.
 
-Quedan abiertas sus decisiones generales sobre lector definitivo, denominación, versión bíblica oficial, alcance global e índice final. Las experiencias sólo podrán incorporarse cuando las aporte y autorice. No se redactaron Prólogo, Epílogo u otros capítulos ni se prepararon KDP, DOCX, PDF, cubierta o publicación comercial. La siguiente operación del encargo es verificar el contenido final en main, no ampliar el libro.
+Quedan abiertas sus decisiones generales sobre lector definitivo, denominación, versión bíblica oficial, alcance global e índice final. Las experiencias sólo podrán incorporarse cuando las aporte y autorice. No se redactaron Prólogo, Epílogo u otros capítulos ni se prepararon KDP, DOCX, PDF, cubierta o publicación comercial. La siguiente decisión corresponde a la lectura del autor y sus observaciones sobre este capítulo; el alcance del libro no se amplía con este cierre.
