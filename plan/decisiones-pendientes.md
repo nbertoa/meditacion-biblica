@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas localmente, publicación y comprobación final remota pendientes; resto del desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas, publicadas y verificadas en main; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -35,7 +35,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 ## Materiales de trabajo
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
-- `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas, matriz Jennings y siete auditorías independientes disponibles; nueve etapas de C3 completadas localmente, con publicación y comprobación final remota pendientes.
+- `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas, matriz Jennings y siete auditorías independientes disponibles; nueve etapas de C3 completadas y verificadas en main.
 - `../practicas/catalogo.md`: ideas candidatas, no métodos seleccionados.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
@@ -73,3 +73,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-02 UTC:** etapa 8 de C3 completada localmente sobre `5e95f616ed6f4b96a415218f099d8e3f84813717`: [auditoría independiente de continuidad](../investigacion/capitulo-03/auditoria-continuidad.md). Se leyeron C1/C2/C3 completos y se cotejaron definición, léxico, propósitos, ciencia, Jennings/Newberg y las simplificaciones de etapa 7. No se encontró una corrección objetiva que exigiera cambiar los manuscritos; se conservan los refinamientos vigentes de C2. Falta la etapa 9 y publicación/verificación de este checkpoint; decisiones generales abiertas y C4 no iniciado.
 
 - **2026-10-02 UTC:** etapa 9 de C3 completada localmente sobre `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee`: [auditoría final integral e informe al autor](../investigacion/capitulo-03/auditoria-final.md). La relectura independiente conserva C3 íntegro; se sincroniza el resumen sobre repetición con Jennings p. 24 y se limita una negación científica a los estudios cotejados. Las nueve etapas están realizadas localmente. Falta crear/publicar el commit final, recuperar y comparar su árbol desde main y releer allí el capítulo; el SHA final permanece sin determinar. Los pendientes anteriores del historial pertenecen a sus fechas de cierre. C1/C2 intactos; decisiones generales abiertas y C4 no iniciado.
+
+- **2026-10-02, 04:55 UTC:** Las nueve etapas y su publicación se comprobaron en main el 2026-10-02 a las 04:55 UTC, en el commit de contenido final [22c4821](https://github.com/nbertoa/meditacion-biblica/commit/22c4821026619cc93a940b072048e02893466bc2). Se recuperó el árbol, se releyó C3 completo desde origin/main y se repitieron los controles documentales sin errores. Este registro de comprobación sólo actualiza estados; no modifica el manuscrito ni la investigación. C1/C2 intactos; C4 no iniciado. La revisión del autor y las decisiones generales siguen abiertas.

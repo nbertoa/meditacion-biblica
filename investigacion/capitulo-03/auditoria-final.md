@@ -1,6 +1,6 @@
 # C3 — Auditoría final integral e informe al autor
 
-Fecha: 2026-10-02 UTC. **Etapa 9 completada localmente** sobre `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee`, checkpoint de continuidad. **Las nueve etapas están completadas localmente; publicación y comprobación final remota pendientes.** Esta pasada no hizo commits ni push y no conoce todavía el SHA que contendrá su cierre.
+Fecha: 2026-10-02 UTC. **Etapa 9 completada localmente** sobre `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee`, checkpoint de continuidad. **Las nueve etapas están completadas y el contenido final fue publicado y verificado en main.** La auditoría independiente cerró primero localmente; la comprobación remota posterior se registra en el punto 15.
 
 ## Dictamen
 
@@ -150,10 +150,17 @@ Los siguientes objetos y su secuencia se comprobaron en el historial local. Iden
 | 6. Equidad comparativa | `d8cf3515fb99e1af75b5da716e86d2d54f6798f7` |
 | 7. Lenguaje | `5e95f616ed6f4b96a415218f099d8e3f84813717` |
 | 8. Continuidad; base de esta pasada | `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee` |
+| 9. Auditoría final e informe | `22c4821026619cc93a940b072048e02893466bc2` |
 
 ### 15. Commit final verificado en main
 
-**Pendiente de publicación y comprobación remota.** El commit que incorporará la etapa 9 todavía no existe al cerrar esta revisión local; no se inventa su SHA ni se usa el de continuidad como si ya incluyera este informe. La integración debe crear y publicar ese commit, recuperar main, comparar el árbol con el entregable auditado y releer el capítulo obtenido del remoto. Sólo después podrá registrarse el SHA final comprobado. El cierre local de las nueve etapas no sustituye esa verificación ni la revisión editorial del autor.
+**Commit de contenido final comprobado: `22c4821026619cc93a940b072048e02893466bc2`.** [Historial del cierre](https://github.com/nbertoa/meditacion-biblica/commit/22c4821026619cc93a940b072048e02893466bc2).
+
+Las nueve etapas y su publicación se comprobaron en main el 2026-10-02 a las 04:55 UTC, en el commit de contenido final [22c4821](https://github.com/nbertoa/meditacion-biblica/commit/22c4821026619cc93a940b072048e02893466bc2). Se recuperó el árbol, se releyó C3 completo desde origin/main y se repitieron los controles documentales sin errores. Este registro de comprobación sólo actualiza estados; no modifica el manuscrito ni la investigación.
+
+La comprobación recuperó main, cotejó árbol y hashes, volvió a ejecutar el validador sin errores y releyó íntegramente el capítulo recuperado del remoto. C3 conserva SHA256 `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`. No hay workflows de CI configurados en este repositorio documental; no se atribuye un control de CI inexistente. Los límites de lectura permanecen documentados.
+
+El commit posterior que guarda esta constancia modifica únicamente documentación de estado. Su identidad puede consultarse en el historial; no se confunde con un cambio nuevo del capítulo.
 
 ## 5. Comprobaciones locales finales
 
@@ -177,4 +184,4 @@ Se inspeccionaron el árbol completo y el diff acumulado desde `8548102`, difere
 | C2 | `ea8a597bbcbf371fdaf17c741e2652d278acc5b3d9d9302f47982a63b367bd82` |
 | C3 | `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5` |
 
-**Cierre local:** manuscrito terminado, investigación y siete auditorías identificables, correcciones documentales aplicadas y controles locales satisfechos. La publicación y relectura desde main permanecen expresamente pendientes en el punto 15. No se avanza al capítulo 4.
+**Cierre verificado:** manuscrito terminado, investigación y siete auditorías identificables, correcciones documentales aplicadas y controles locales y remotos satisfechos. La publicación y relectura desde main se registran en el punto 15. No se avanza al capítulo 4.
