@@ -38,3 +38,5 @@ Desde el 2026-10-02 el capítulo 4 queda reservado para investigar cómo aquello
 El nuevo C4 cuenta ahora con [expediente propio](04-en-que-nos-transforma-aquello-que-contemplamos.md) e [investigación bíblica profunda](capitulo-04-transformacion/investigacion-biblica.md). Etapa 1 completada localmente; las demás etapas y la recuperación final se registrarán al realizarse. Los nuevos IDs `C4T-*` se distinguen de los históricos `C4-*` del actual C5.
 
 La etapa 2 añade [dossier científico](capitulo-04-transformacion/investigacion-cientifica.md) y [matriz](capitulo-04-transformacion/matriz-cientifica.md): entrenamiento diferencial, especificidad, transferibilidad y límites de neuroimagen. Se distingue acceso al artículo completo de lectura focal, sin promesa de superioridad religiosa.
+
+La etapa 3 incorpora [carácter de Dios y transformación](capitulo-04-transformacion/investigacion-caracter-dios.md): revelación en Cristo, conocimiento y respuesta, imágenes afectivas, apego, causalidad y contraejemplos. Las tres investigaciones están listas para la redacción. La primera fue publicada y recuperada; el expediente central distingue constancias remotas de cierre final.

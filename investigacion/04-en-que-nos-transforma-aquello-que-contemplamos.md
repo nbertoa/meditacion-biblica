@@ -83,3 +83,24 @@ Sobre el checkpoint bíblico `5086bbe6f5298f09bf152541c796c254b6460eaf` se integ
 ReSource permite hablar de diferencias **parciales** entre entrenamientos: no tres capacidades exclusivas ni tres efectos igualmente robustos. Valk estudia grosor cortical regional; Trautwein distingue exactitud, velocidad, compasión declarada y perspectiva con resultados desiguales. Los módulos cambian objeto, instrucciones y relación interpersonal a la vez, por lo que no aíslan el contenido contemplado. Se incluyen metaanálisis favorables, ensayos nulos prolongados, transferencia estrecha, hábitos y mantenimiento, controles de publicación y una retracción relevante.
 
 La formulación admisible es que ciertos entrenamientos repetidos pueden modificar capacidades, respuestas y medidas cerebrales específicas. No se admite que cualquier pensamiento produzca semejanza moral ni que la neurociencia determine una superioridad religiosa. La etapa añade respaldo para **qué y cómo se entrena**, no otro catálogo clínico para C2. Quedan las etapas 3–10 y la recuperación remota correspondiente.
+
+
+## Etapa 3 — Carácter de Dios y transformación, completada
+
+Sobre `2e663c20ee0f8d83ba8cfc9295f964cf1b7bf385` se integra la [investigación sobre carácter de Dios](capitulo-04-transformacion/investigacion-caracter-dios.md): 21 afirmaciones, 16 fichas de fuente/consulta y matriz empírica. Se releyó completo el expediente y su incorporación final de Epley antes del checkpoint.
+
+Juan 1/14, Colosenses 1 y Hebreos 1 fundamentan la función reveladora de Cristo; Mateo 5 y Lucas 6 vinculan la generosidad de Dios con amor al enemigo. Hebreos 1:3 no utiliza *charaktēr* en el sentido moderno estrecho de carácter moral. Jonás y Juan 5 impiden reducir conocer a recibir información, y Juan 16 distingue invocar a Dios de conocerlo.
+
+La psicología registra asociaciones, algunos contrastes experimentales y resultados nulos. No ofrece una relación simple «Dios amoroso = buena persona; Dios que juzga = daño». Se conservan las objeciones sobre castigo/trampa/cooperación y el posible movimiento desde convicciones propias hacia lo atribuido a Dios. El seguimiento reciente no prueba causalidad clínica. Jennings es interlocutor verificado en el alcance accesible, no autoridad final.
+
+Las tres investigaciones permiten ahora la redacción. La conclusión teológica deberá depender explícitamente de la revelación en Cristo, la acción del Espíritu y la finalidad de semejanza; no de una superioridad experimental. Quedan etapas 4–10 y sus comprobaciones.
+
+## Constancias de publicación comunicadas por coordinación
+
+Estos registros distinguen snapshots locales de commits remotos creados por la integración. No se reescriben los estados históricos de cada etapa.
+
+| Etapa | Snapshot local | Commit remoto publicado y recuperado | Comprobación comunicada |
+|---|---|---|---|
+| 1, bíblica | `5086bbe6f5298f09bf152541c796c254b6460eaf` | `4bc45b41cc93f4f9027ab115aa10c4d9f41ab921` | Árbol remoto idéntico `73f77ab11abff225eff94cc6b4342f79b0bf921b`; siete blobs cotejados, actualización no forzada, fetch/main comprobados el 2026-10-02 UTC |
+
+La recuperación integral del manuscrito final desde main pertenece a la etapa 10; la constatación de etapa 1 no la sustituye.
