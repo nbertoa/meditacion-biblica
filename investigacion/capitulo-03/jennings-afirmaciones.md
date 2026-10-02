@@ -1,0 +1,194 @@
+# Jennings: investigación de afirmaciones para el capítulo 3
+
+Fecha de consulta: 2026-10-02 UTC. Matriz documental de la etapa de investigación. No reemplaza la auditoría independiente posterior del capítulo redactado.
+
+## Resultado editorial
+
+Jennings acierta al distinguir el objeto, la intención y la comprensión religiosa de una práctica de su apariencia corporal. Su propuesta de volver a Dios, comprender lo leído y responder en la vida tiene afinidad con C1/C2. También reconoce que la reflexión religiosa puede incomodar y que relajación e imaginación no son exclusivas de una tradición. Estas contribuciones pueden conservarse.
+
+La comparación pierde precisión cuando convierte una selección de técnicas en definición de todo «Oriente», presenta sus propósitos mediante categorías cristianas que sus fuentes no emplean, o deduce salud, virtud y pensamiento crítico de actividad cerebral. La corrección no es invertir la jerarquía ni declarar equivalentes las religiones: es comparar prácticas identificadas y separar finalidad confesada, experiencia, doctrina y resultado medido. El capítulo debe desarrollar su propia comparación; esta matriz evita que dependa de una refutación extensiva del folleto.
+
+## 1. Estado de lectura y fuentes heredadas
+
+### Fuentes principales y base previa
+
+Se conserva la definición de C1 y el estado final de C2, incluida su revisión independiente posterior: el resumen de Button comunica ventaja frente al control en esperanza y bienestar; el artículo principal continúa sin auditoría íntegra. Los expedientes y auditorías de C2 son antecedentes documentales, no nuevas lecturas experimentales.
+
+- **J20:** Timothy R. Jennings, *Meditation: Biblical Method Versus Eastern Method: A Guide to a Bible-based Experience with God*, Come and Reason Ministries, 2020. [PDF original](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), 32 páginas de archivo. Relectura íntegra del contenido de la copia original conservada y cotejo de la versión pública. En las tablas se cita **página impresa**, que es página de archivo menos uno. El argumento ocupa pp. 4–27, notas en 28; resto, portada/créditos/publicidad
+- **J23:** Jennings, «Lectio Divina: A Biblical Meditation Practice», 25 mayo 2023. [Artículo original](https://comeandreason.com/lectio-divina/). Relectura completa de su texto conservado y verificación pública. No tiene paginación; se usan inicio de sección/tema
+- **N01:** Newberg et al. 2001, pp. 113–122 completas mediante extracción del original, con inspección visual de pp. 114–115. Se reutilizó la copia del original ya consultada en C2; no se declara una nueva descarga
+- **Orígenes:** *Carta a Gregorio*, especialmente §3, traducción Allan Menzies, *Ante-Nicene Fathers* 9 (1896), [reproducción](https://www.newadvent.org/fathers/1014.htm), relectura del texto accesible completo
+- **Guigo II:** *Scala claustralium*, §§II–III, IX y XII, [selección bilingüe](https://www.ldysinger.com/@texts2/1180_guigo-2/02_lad_sel-lec.htm), releída. Traducción L. Dysinger basada en Walsh/Colledge (1978), pp. 81–89; latín remitido a SC 163 (1970), pp. 82–123. **No edición crítica íntegra ni obra completa**
+- **SN 38.1**, [traducción de Ṭhānissaro](https://www.dhammatalks.org/suttas/SN/SN38_1.html), lectura directa completa; **Tsunoda, Hishiryō**, [PDF Sōtō](https://www.sotozen.com/eng/library/key_terms/pdf/key_terms08.pdf), pasajes explicativos de pp. 1–3
+
+### Reutilización, no nueva auditoría experimental
+
+Las cifras, resultados y límites de Schjoedt 2009, Newberg 2003/2010, Cahn–Polich 2006, Kjaer 2002, Lazar 2005, Weng 2013, Kral 2022 y revisiones clínicas se toman del cotejo de originales ya documentado en C2. No se declara una nueva lectura íntegra de cada artículo por volver a citarlo. Los detalles se conservan en la [matriz de C2](../capitulo-02/jennings-y-matriz.md) y su [anexo neurocientífico](../capitulo-02/neurociencia.md). Se reutiliza su estado documental final, que amplió el acceso a Newberg 2001/2003 y corrigió formulaciones previas.
+
+### Fuentes de las tradiciones comparadas
+
+Los cotejos primarios se documentan en los anexos de [budismo temprano](budismo-temprano-theravada.md), [yoga, Gītā, mantra y MT](yoga-gita-mantra-mt.md) y [Zen/MBSR](zen-mbsr.md). El alcance de lectura de cada fuente es el registrado allí; su repetición en esta matriz no implica una consulta nueva. Las fuentes normativas documentan lo que una tradición propone, no que todos sus practicantes cumplan ese ideal ni que una intervención produzca el resultado clínico prometido.
+
+## 2. Clave de lectura de la matriz
+
+Clases: **B** bíblica/exegética; **H** histórica; **T** descripción de tradición; **P** psicológica/clínica; **N** neurocientífica; **TE** teológica; **A** analogía. Una misma fila puede combinar clases: precisamente allí suele producirse un salto de evidencia.
+
+Dictámenes: **sostenible** dentro del alcance señalado; **parcial** requiere precisión; **no demostrada** no está establecida por la fuente citada; **generalización contradicha** hay contraejemplos primarios a su universalidad; **confesional** expresa una interpretación religiosa que no decide un experimento; **pendiente** falta el original indicado. «No demostrada» no significa que se haya demostrado falsa.
+
+Fuentes abreviadas en columnas: **C1/C2** = los expedientes citados; **J17** = libro 2017 pp. 222–228, aún sin cotejo; **SCH** = Schjoedt 2009; **N01/N03/N10** = Newberg 2001/2003/2010; **CP** = Cahn–Polich; **KJ** = Kjaer; **Y** = Woods, *The Yoga-System of Patañjali* (Harvard, 1914); **S** = fuentes oficiales Sōtō; **M** = currículo MBSR 2017. «Sin fuente particular» significa que el folleto no ofrece una referencia empírica diferenciada para esa afirmación; no es la afirmación de que nunca exista literatura pertinente.
+
+### Correspondencia con el registro bibliográfico
+
+| Abreviatura | ID y fuente |
+|---|---|
+| J20 | JEN-01, guía de 2020 |
+| J23 | JEN-02, artículo de 2023 |
+| J17 | JEN-03, edición ampliada de 2017; páginas y notas pendientes |
+| SCH | C2-NEU-01, Schjoedt 2009 |
+| N01 / N03 / N10 | C2-NEW-01 / C2-NEW-02 / C2-NEW-03; N10 designa el ensayo de memoria, no el estudio transversal C2-NEW-04 |
+| CP / KJ | C2-NEU-03 / C2-NEU-02, Cahn–Polich y Kjaer |
+| Y | C3-YOG-01, Woods; contraste especializado C3-YOG-02 y C3-YOG-03 |
+| S | C3-ZEN-01, C3-ZEN-02, C3-ZEN-03 y C3-ZEN-09, según el título indicado en la fila |
+| M | C3-MBSR-02, currículo 2017 |
+
+Las 40 filas J20 y las 10 filas J23 son **identificadores de afirmaciones**, no nuevas entradas bibliográficas. En las tablas, la columna de contraste distingue el original científico de las fuentes propias de la tradición; el dictamen explica tanto la adecuación de la descripción como lo que demuestra realmente la evidencia.
+
+## 3. Matriz J20, definiciones y fundamentos
+
+Los rótulos de la segunda columna son índices sintéticos, no citas ni reproducción extensa. Contexto, práctica y evidencia se distinguen en cada fila.
+
+| ID, lugar, clase | Afirmación indexada | Contexto y práctica efectiva | Respaldo ofrecido por Jennings | Original / fuente propia de contraste | Resultado y evaluación |
+|---|---|---|---|---|---|
+| J20-01, p. 5, B/TE | Reflexión de Dios | Definición devocional amplia; incluye Escritura, obras, creación | Su definición; pasajes desarrollados después | C1, Jos 1; Sal 63, 119, 143 | **Afinidad sostenible** con la síntesis de C1. Es una definición construida, no significado exhaustivo de un término hebreo ni protocolo único |
+| J20-02, p. 5, T | Vaciamiento oriental | Categoría que luego sirve de comparador | Sin tradición o manual identificado | MN19; Y I.27–28 y III.1–3; S, Hishiryō | **Generalización contradicha**. Hay atención a objetos, examen ético, devoción y modalidades no discursivas distintas. No negar que algunas técnicas busquen reducir o cesar contenidos mentales |
+| J20-03, pp. 6–7, TE/A | Leyes del diseño | Argumento cosmológico y moral, con intercambio gaseoso como ilustración | Rom 13:10; Mt 22:37–40; 1 Cor 13:5; Rom 1:20 | Contexto moral de esos textos; no experimento comparativo | **Confesional/analógico**. La interdependencia biológica no convierte fotosíntesis en altruismo moral ni prueba ventajas clínicas de un método. No es necesario discutir toda su teología para usar una comparación cuidadosa |
+| J20-04, p. 7, B/TE/N | Contemplar transforma | Vincula adoración, carácter y neurobiología | 2 Cor 3:18; Rom 1:18–31; Jer 2:5 | C2, controles contextuales de 2 Cor 3; revisiones estructurales | **Parcial**: transformación por el Espíritu es afirmación del contexto paulino. No nombra circuitos ni permite atribuir daño anatómico a toda atención a objetos creados |
+| J20-05, p. 7, B | Contenido bíblico | Citas sobre enseñanza, amor y obras de Dios | Jos 1:8; Sal 1:2; 48:9; 119:15,27,48 | C1 y C2, anexo bíblico | **Sostenible**, conservando diferencia entre verbos y entre pueblo/orante. Sal 48 no usa los mismos verbos que Jos 1; no necesitan hacerlo para mostrar atención religiosa |
+| J20-06, p. 8, B/A | Ejercicio y discernimiento | Analogía aprendizaje musical/matemático y madurez | Heb 5:14 | Heb 5:11–6:3; C2 | **Parcial**: practicar discernimiento concuerda con el texto. El pasaje no establece una curva anatómica ni una ley por la cual una sesión sin razonamiento discursivo cause atrofia |
+| J20-07, pp. 8,16,21, N/P | Crecimiento cortical bíblico | Promesa de redes complejas y madurez para su propuesta | Analogía anterior; remisiones generales a J17 en contexto posterior | C2 N10, Lazar, Kral; no ensayo de su protocolo identificado | **No demostrada**. Perfusión, espesor, conducta y santificación son resultados diferentes. N10 estudia Kirtan Kriya; Lazar, Insight; ninguno ensaya el protocolo de J20 |
+| J20-08, p. 8, T/P | Evitación sin resolución | Interpreta la atención no discursiva como hábito evasivo | Sin ensayo longitudinal particular | MN19, SN38.1, Y II.33–34, M pp. 24–25 | **Generalización contradicha como descripción de intención**. Estas fuentes incluyen reconocer y trabajar dificultades. Tampoco probarían que todo practicante las resuelve |
+| J20-09, p. 8, TE | Desajuste espiritual | Juzga prácticas por su relación con el Dios cristiano | Sus leyes de adoración/ejercicio | Distinción de cosmovisiones; sin prueba clínica aplicable | **Confesional**. Se puede afirmar que una práctica sin ese referente no expresa la misma fe; no derivar de ello incapacidad cognitiva observable sin medirla |
+
+## 4. Matriz J20, técnicas y comparación religiosa
+
+| ID, lugar, clase | Afirmación indexada | Contexto y práctica efectiva | Respaldo ofrecido por Jennings | Original / fuente propia de contraste | Resultado y evaluación |
+|---|---|---|---|---|---|
+| J20-10, p. 9, T | Cuatro rasgos universales | Ojos, respiración, foco y retorno atencional | Sin manual de tradición | S, *How to do Zazen*: ojos/respiración/awareness; Y III.1–3 | **Parcial para ciertos métodos; falsa universalidad**. Sōtō pide ojos algo abiertos y respiración natural; shikantaza no requiere un único objeto. El gesto aislado no identifica cosmovisión |
+| J20-11, pp. 9–10, T/P | Guía equivale hipnosis | Escena hipotética de relajación/ascensor/paisaje | No estudio ni protocolo de origen citado | No original experimental identificado; distinguir inducción hipnótica y guía meditativa | **No demostrada**. Su ejemplo compuesto no representa por sí mismo una tradición. Para clasificar hipnosis harían falta definición, procedimiento y evaluación; tono de voz y guía no bastan |
+| J20-12, p. 10, P | Susceptibilidad hipnótica creciente | Predicción de entrenamiento a partir del ejemplo | Analogía de ejercicio | Sin medición longitudinal identificada | **No demostrada**, no declarada refutada. No debe circular como daño establecido por prácticas guiadas |
+| J20-13, p. 10, B/TE | Reflexión y oración | Propuesta moderna con respiración, foco, examen y gratitud | Definición y selección bíblica | C1: distinciones entre leer/estudiar/orar/meditar | **Sostenible como adaptación**. Hay continuidad conceptual; no mandato bíblico sobre cerrar ojos, respirar o cumplir esa secuencia |
+| J20-14, p. 11, T | Imágenes compartidas | Admite imaginación en ambos grupos | Ejemplos propios | C1, imágenes literarias; N01, visualización; tradiciones concretas | **Sostenible como observación limitada**. Imaginar no demuestra que una práctica sea prestada, idéntica o incompatible. No reemplazar exégesis por detalles imaginados |
+| J20-15, p. 11, T/P | Oriente siempre calmante | Contraste de relajación y confrontación personal | Jacob como ilustración bíblica; sin fuente oriental | DN22 sección A [4]–[6], especialmente cementerio; MN19; Y II.33–34; S pp. 65–66 | **Generalización contradicha**. No todos los objetos prescritos son imágenes agradables: DN22 propone comparar el propio cuerpo con un cadáver. No se debe inferir visualización obligatoria, emoción final ni efecto clínico. Sōtō admite calma o agitación sin perseguir ninguna |
+| J20-16, pp. 11,17,21, B/P | Reflexión incómoda | Describe posibilidad de conflicto antes de cambio | Jacob, David, Pedro; analogía médica | C1/C2, Sal 77 y peticiones de Sal 119 | **Parcial y valiosa**: meditar puede incomodar. No hay regla de que malestar pruebe transformación o que deba aguantarse siempre hasta resolverlo. C2 no garantiza alivio posterior |
+| J20-17, p. 12, T/TE | Creador personal | Contraste Biblia/budismo, luego ampliado | Cosmología cristiana propia; no texto budista citado | DN1, «Partial Eternalism»; Y I.23–28; Gītā 6.14,47 | **Diferencia genuina respecto de budismo temprano**, con precisión: no significa ausencia de devas. No representa todo hinduismo; Īśvara/Kṛṣṇa requieren sus propios contextos y no se identifican sin más con el Dios bíblico |
+| J20-18, pp. 12–14, TE/A | Conflicto amor/egoísmo | Usa una explicación cristiana de caída para definir «dualidad» | Relato bíblico reinterpretado y J17, nota 1 (p. 222) | C1/C2 no adoptan esa equivalencia técnica | **Confesional**. Dualidad moral interior, dualismo ontológico y distinción sujeto/objeto no son conceptos intercambiables. «Supervivencia del más apto» tampoco traduce literalmente una expresión paulina |
+| J20-19, p. 13, T/H | Yin-yang moral eterno | Generalización cosmológica para religiones orientales | Cita atribuida a Lama Anagarika Govinda, mediada por J17 nota 2 | SN38.1; Y IV.34; cita de Govinda aún sin original completo | **No sustentada** para los casos comparados. No reducir yin/yang a bien/mal ni usarlo como definición de budismo/yoga. Superar una oposición conceptual no implica deber conservar crueldad para equilibrar el cosmos |
+| J20-20, p. 13, T/H | Govinda representativo | Una voz moderna sostiene una taxonomía general | J17 pp. 222–223, cadena no cerrada | Rastro verificable en Feuerstein, *Tantra*, p. 44; fuente original pendiente | **Pendiente y sobregeneralizada**. No acusar cita fabricada: existe rastro textual. Ni su autenticidad probaría representación de todas las tradiciones, ni su contexto completo puede reconstruirse desde la frase aislada |
+| J20-21, pp. 13,18, H/P | Buda evita muerte | Psicología y biografía contrapuestas a Jesús | J17, nota 2 y nota 4; no discurso antiguo específico | MN19; SN38.1; cotejo de los textos antiguos del anexo budista | **No establecida como diagnóstico histórico**. Textos normativos describen conocimiento/liberación y fin de avidez/aversión/engaño. Reconocer que muerte/renacimiento importan no autoriza afirmar mera anestesia emocional |
+| J20-22, pp. 13–14, T | Metas intercambiables | Reúne nibbāna, satori y otras experiencias | Sin delimitación histórica o léxica | SN38.1; S, Hishiryō y zazen; Y IV.34 | **Generalización contradicha**. Las palabras tienen historias, marcos y usos propios. Conservar diferencias también entre tradiciones no cristianas; «sartori» es la grafía del folleto, no término a adoptar |
+| J20-23, pp. 14,17–19, TE/P | Curación frente ilusión | Contraste salvación/eficacia psicológica | J17 pp. 222–223,228; Sal 51; Heb 8; 2 Pe 1; 2 Cor 5 | C2; SN38.1; Y II.33–34; fuentes clínicas C2 | **Separar dos juicios**. La salvación cristiana es afirmación confesional; ausencia de todo cambio de carácter es predicción empírica no probada. Los fines éticos de otras tradiciones refutan una descripción sin ética, no demuestran salvación cristiana |
+| J20-24, pp. 17–19, B/TE | Jesús y transformación | Lectura de encarnación, tentación, muerte y regeneración | Heb 2:14–15; 4:15; Sant 1:14; Mt 26; Jn 10,15; Ap 12:11 | Textos bíblicos en su género; ninguna medida cerebral de Jesús | **Confesional, no neurohistoria**. Hablar de tentación y entrega no permite reconstruir actividad del cerebro histórico ni cerrar por inferencia la cristología. No hacer del capítulo una resolución denominacional |
+| J20-25, p. 17, A | Lesión y tratamiento | Fractura ilustra dolor transitorio de sanación | Analogía clínica | No grupo comparador ni medida causal | **Ilustración solamente**. No demuestra que todo dolor meditativo sea terapéutico ni que alivio signifique evasión |
+
+## 5. Matriz J20, cerebro, resultados y criterios
+
+| ID, lugar, clase | Afirmación indexada | Contexto y práctica efectiva | Respaldo ofrecido por Jennings | Original / fuente propia de contraste | Resultado y evaluación |
+|---|---|---|---|---|---|
+| J20-26, p. 15, N | Yo/razón a izquierda | Modelo hemisférico de identidad, conciencia y juicio | Sin cita particular en ese párrafo; J17 luego | C2 CP, sección lateralización p. 188; N01 resultados p. 118 | **No sustentado en forma absoluta**. No convertir lateralización relativa de funciones en localización exclusiva de una persona, del juicio de verdad o de toda conciencia |
+| J20-27, pp. 15–16, N | Secuencia EEG-dopamina | Encadena ondas, predominio lateral y discernimiento | J17 p. 225, nota 3 | C2 CP; KJ; N01 | **No demostrada como cadena general**. Estudios distintos, técnicas distintas, medidas distintas; no hay un ensayo que mida toda la secuencia. «Frecuencia de ondas» no debe confundirse con potencia/amplitud de una banda |
+| J20-28, pp. 15–16, N/P | Menor pensamiento crítico | Resultado atribuido a toda la clase oriental | J17 p. 225; analogía ejercicio | CP, KJ, N01 según C2 | **No demostrado**. No midieron pérdida de discernimiento de verdades ni atrofia longitudinal. N01 no encontró cambio significativo del índice lateral durante la tarea; existen aumentos frontales. Esto tampoco demuestra superioridad cognitiva de los budistas |
+| J20-29, p. 16, N/TE | Verdad/amor hemisféricos | Explicación cerebral del Espíritu y armonía | Interpretación teológica propia | Ningún experimento aislando ambas categorías de ese modo | **Inferencia no validada**. No asignar verdad cristiana a un lado y amor al otro como hechos neuroanatómicos |
+| J20-30, p. 20, N | Oración interpersonal | Oración espontánea en comparación con tareas verbales | Nota 5: DOI 10.1093/scan/nsn050 | SCH; C2 matriz y original completo ya cotejado | **Parcialmente respaldada**: patrón compatible con cognición social en 20 luteranos. El experimento no incluía conversar con otra persona como tarea y no prueba interlocutor sobrenatural ni anatomía permanente |
+| J20-31, p. 20, N/T | Recitación sin juicio | Generaliza tareas memorizadas a mantras | Mismo SCH | Oración personal, Padrenuestro, canción infantil, Santa Claus; no practicantes orientales | **No demostrada**. Algunas demandas de memoria compartidas no equivalen a identidad de prácticas. Padrenuestro también recluta regiones prefrontales en el contraste pertinente; no hubo prueba de pérdida de pensamiento crítico |
+| J20-32, p. 20, B/TE | Meditación y oración | Distingue atención reflexiva y dirigirse a Dios | Propuesta del autor | C1/C2 y salmos | **Sostenible como distinción funcional**, sin jerarquía obligatoria. Las acciones pueden mezclarse. No hace falta decir que toda meditación sea superior a toda oración |
+| J20-33, pp. 21–22, P/TE | Conversión garantiza bienestar | Resultados personales, relacionales y fisiológicos | No ensayo particular del conjunto enumerado | C2 ensayos cristianos, meditación espiritual, revisiones | **No demostrado como paquete universal**. Hay indicios, nulos y medidas diferentes. No hacer de sufrimiento persistente prueba de falta de conversión; tampoco negar paz o transformación posibles |
+| J20-34, p. 22, P | Alivio no bíblico | Reconoce ciertos cambios favorables de bienestar | Sin estudio específico en la enumeración | Revisiones Goyal/Galante/Goldberg, C2 | **Parcialmente compatible** con beneficios de algunos protocolos; no extensible a toda práctica/población ni exactamente a cada resultado cardiovascular |
+| J20-35, p. 22, TE/P | Conciencia adormecida | Añade un juicio espiritual a alivio emocional | Interpretación del Espíritu/conversión | No escala, prueba moral ni seguimiento citados | **Confesional** si significa relación con su teología; **no demostrado** si se entiende como deterioro moral medible. No confundir desacuerdo doctrinal con ausencia de conciencia |
+| J20-36, p. 23, T/P | Test clasificatorio | Lista preguntas valorativas para reconocer Oriente | Definiciones anteriores | Contraejemplos MN19, Y I.28, S, M; C1 sobre repetición | **No validado** y circular si llama oriental a todo lo que presupone defectuoso. Una lista práctica puede describir lo que el autor desea evitar; no identifica origen histórico ni riesgo psicológico |
+| J20-37, p. 24, B/TE | Agencia y discernimiento | Recomienda elección personal durante una guía | Consejo devocional | C1/C2: comprender y responder; otras tradiciones también enseñan agencia | **Valioso como prudencia**, sin atribuir al instructor control mental automático ni reservar capacidad de elección a cristianos |
+| J20-38, p. 24, B/T | Prohibición de repetición | Usa el procedimiento como límite de identidad bíblica | Su definición | C1, hāgâ/boca/recitación; N03; Y I.27–28 | **Requiere corrección**. Repetir palabras puede sostener una reflexión con sentido. Mantra no es categoría única y recitación no es ausencia automática de comprensión |
+| J20-39, p. 25, B/P | Dosis y ambiente | Protocolo doméstico sugerido | Consejo propio | C1 no fija postura/horario; C2 no valida dosis general | **Adaptación legítima**, no orden bíblica ni dosis clínica demostrada. No desarrollar aquí un manual del C4 |
+| J20-40, pp. 4,21,26–27, B/TE | Paráfrasis y ejemplos | Escritura, diseño natural e imaginación devocional | *The Remedy Psalms*; Is 55:7–9; 1 Cor 15:56 | C1/C2, paráfrasis frente a texto; género/contexto | **Distinguir texto e interpretación**. El vocabulario de diseño introducido en Sal 119 no traduce cada expresión hebrea. El ejemplo de Is 55 privilegia su marco teológico; no prueba por sí solo una oposición universal entre leyes naturales y humanas. Viajar por el universo es propuesta imaginativa, no dato del pasaje |
+
+## 6. Matriz J23, práctica, historia y uso de White
+
+| ID, localizador, clase | Afirmación indexada | Contexto/práctica | Fuente citada | Original y resultado del cotejo | Evaluación |
+|---|---|---|---|---|---|
+| J23-01, apertura, H | Taller con Oliver | Relato de una conferencia y experiencia del autor | Testimonio propio | No programa externo verificado; no necesario para C3 | **Atribuir como testimonio**, no como estudio ni experiencia del autor de nuestro libro |
+| J23-02, segundo párrafo, H | Antecedente en Orígenes | Genealogía cristiana de lectura orante | Mención de Orígenes sin obra | *Carta a Gregorio* §3 combina Escrituras, comprensión y petición | **Parcialmente sostenible** como antecedente. No demuestra origen exclusivo ni el esquema medieval de cuatro peldaños ya fijado en el siglo III |
+| J23-03, enumeración, H/TE | Cuatro acciones | Presentación moderna de lectio divina | Historia general; no referencia a Guigo | Guigo II §§II–III distingue lectura, meditación, oración, contemplación | **Antecedente documentado**, sin elevar cuatro pasos a mandato bíblico. La definición de contemplación de Guigo no se agota en aplicación reflexiva: incluye don/sabor de la presencia divina |
+| J23-04, dos precisiones, B/TE | Escritura y participación | Defiende lectura comprometida, comprensión y oración | Jn 17:3 | C1/C2: afinidad; Jn 17 en contexto de misión, relación y amor | **Afinidad positiva**, sin convertir una oración de Jesús en prescripción de ese protocolo ni excluir toda quietud/repetición cristiana |
+| J23-05, santificación, TE/P | Sanación integral | Relaciona vida espiritual con cuerpo, naturaleza y experiencia | 1 Tes 5:23 | C2, contexto 5:12–28; ningún ensayo allí | **Confesional**, no garantía de salud. Una petición de santificación no documenta eficacia clínica de una sesión |
+| J23-06, párrafos sensoriales, B/TE | Naturaleza y afecto | Adaptación contemporánea de retiro, lectura y gratitud | Experiencia/propuesta propia | C1 permite obras de Dios como objeto, no exige escenario | **Propuesta legítima**, no condición universal ni prueba de que el contenido sin interpretación sea neutral |
+| J23-07, COL 59, H | White y reflexión | Cita histórica de lectura atenta/orante | *Christ’s Object Lessons*, p. 59 | Original institucional, **COL 59.5**, con 58–60 como contexto accesible indexado | **Cita sustancialmente verificada**. La identificación entre corchetes de «espíritu» y «contemplación» pertenece a Jennings; no es texto de White |
+| J23-08, DA 83, H | White e imaginación | Consideración de escenas de Cristo | *The Desire of Ages*, p. 83 | Original institucional, **DA 83.4**, capítulo 8, contexto 83.1–4 indexado | **Cita verificada** en el pasaje. Es consejo de una escritora cristiana posterior, no descripción de todos los textos bíblicos ni validación neurocientífica |
+| J23-09, GC 601, H | White y juicio | Meditación dentro de exhortación escatológica | *The Great Controversy*, p. 601 | Original institucional, **GC 601.1**, capítulo 37, texto accesible indexado | **Cita verificada** dentro de su contexto particular. No convertir recepción adventista en identidad histórica demostrada con todas las formas de lectio divina |
+| J23-10, SSW, H | White y comunión | Artículo devocional, meditación y oración habitual | *Sabbath-School Worker*, 1 abril 1895, §1 | Registro institucional «Communion with Christ», §1 y continuación | **Afinidad comprobada**. Cuatro pasajes semejantes no prueban préstamo, aprobación nominal de un método ni equivalencia de cada etapa |
+
+## 7. Newberg 2001: identificación exacta y límite que hay que conservar
+
+Referencia: Andrew Newberg, Abass Alavi, Michael Baime, Michael Pourdehnad, Jill Santanna y Eugene d’Aquili, «The measurement of regional cerebral blood flow during the complex cognitive task of meditation: a preliminary SPECT study», *Psychiatry Research: Neuroimaging* 106(2), 113–122. [DOI 10.1016/S0925-4927(01)00074-9](https://doi.org/10.1016/S0925-4927(01)00074-9). [Copia del autor](https://andrewnewberg.squarespace.com/s/the-measurement-of-regional-cerebral-blood-flow-during-the-complex-cognitive-task-of-meditation-a-pr.pdf).
+
+**Descripción que permite el original:** visualización concentrativa en ocho practicantes autodenominados budistas tibetanos, con más de quince años de experiencia. P. 114 describe foco progresivamente intenso en una imagen; pp. 115–116, preparación y registro durante aproximadamente una hora. El artículo **no identifica un linaje, maestro, deidad, figura, mantra u objeto visual concreto**. No atribuirle generación de una deidad, śamatha específico, tonglen, Zen, vaciamiento ni representación de todo budismo. «Visualización en practicantes budistas tibetanos» es la denominación documental suficiente.
+
+El alcance científico permanece en C2. Precisión adicional para C3: p. 118 informa ausencia de cambio significativo en el índice de lateralidad de las regiones examinadas durante la tarea. La comparación de reposo con controles es otra pregunta y otro contraste. El original no demuestra deterioro crítico ni perfección moral. La indeterminación de práctica más fina limita cualquier inferencia doctrinal a partir de sus imágenes.
+
+## 8. Cadena J17 → Newberg: nuevos intentos y pendientes reales
+
+### Jennings 2017
+
+Edición ampliada confirmada en [IVP](https://www.ivpress.com/the-god-shaped-brain): 18 abril 2017, ISBN impreso **9780830844951**, 297 páginas; ebook **9780830892358**, [ficha](https://ivpress.com/the-god-shaped-brain-ebook). El índice editorial identifica el capítulo 17 sobre Buda y Jesús. Las cuatro remisiones de J20 son: nota 1→p. 222; nota 2→pp. 222–223; nota 3→p. 225; nota 4→p. 228. Esto se leyó directamente en J20 p. 28.
+
+Intentos nuevos: ficha IVP impresa/ebook; [Google Books de la edición 2017](https://books.google.com/books/about/The_God_Shaped_Brain.html?id=HvMtDwAAQBAJ); navegación normal a las pp. 222–223 de la vista previa legítima. La vista limitada no entregó el texto de esas páginas. **No se obtuvieron pp. 222–228 ni notas completas de esa edición.** La disponibilidad bibliográfica no equivale a lectura de esas páginas.
+
+Se conserva como pista el rastro de referencias registrado en C2 mediante una transcripción pública de edición no equiparada. No se la convierte en fuente crítica de paginación. Por tanto, no decir «Jennings cita exactamente Newberg 2001 para esta oración» cuando el vínculo documental sólo llega a J17. El único artículo científico enlazado directamente por J20 es SCH, nota 5.
+
+### Newberg/Waldman 2009
+
+Se volvió a verificar [ficha y extracto editorial autorizado](https://penguinrandomhousehighereducation.com/book/?isbn=9780345503428) y el [registro de Google Books](https://books.google.com/books/about/How_God_Changes_Your_Brain.html?id=ddgo4IW1FWgC). Consulta sigue siendo parcial: descripción/índice/capítulo inicial, no pp. 27–32, 53 y notas pertinentes cotejadas todas en su edición.
+
+Hallazgo de identidad documental: el PDF titulado `how-god-changes-your-brain.pdf` en el sitio de Newberg **no es el libro comercial**. Es «How God Changes Your Brain: An Introduction to Jewish Neurotheology», *CCAR Journal*, invierno 2016, pp. 18–25, ocho páginas. Se abrió para identificarlo; no se usa para fingir acceso al libro de 2009. No es necesario incorporarlo a C3 ni reabrir toda la ciencia C2.
+
+### Govinda
+
+La frase atribuida en J20 p. 13 tiene un rastro coincidente en Georg Feuerstein, *Tantra: The Path of Ecstasy*, p. 44, reproducido en un [extracto docente universitario](https://www2.hawaii.edu/~freeman/courses/phil300/28.%20Tantra%20Chapter%203.pdf). Se consultó el fragmento indexado de esa reproducción y su contexto inmediato; no se obtuvo el PDF completo. No se leyeron la nota 4 del libro de Feuerstein ni el pasaje original completo de Govinda. **La cadena exacta continúa pendiente**. No se infiere fraude, invento ni error de cita literal. Tampoco se adopta la interpretación universal que J20 construye sobre ella.
+
+## 9. Fuentes comparativas específicas y alcance de uso
+
+Estas referencias permiten sustituir la etiqueta masiva por prácticas concretas. Su exposición detallada y sus identificadores bibliográficos se conservan en los anexos temáticos enlazados arriba.
+
+- **MN19, Dvedhāvitakka Sutta**, [traducción Ṭhānissaro](https://www.dhammatalks.org/suttas/MN/MN19.html), lectura completa registrada en el anexo budista. Contraste de pensamientos dañinos/no dañinos, atención a perjuicio propio/ajeno, concentración y liberación. No inferir idéntica técnica a lectura bíblica
+- **SN38.1, Nibbāna Sutta**, [original traducido](https://www.dhammatalks.org/suttas/SN/SN38_1.html), lectura directa registrada para este cotejo. Meta definida por fin de pasión/aversión/engaño; camino con elementos éticos. Es fuente doctrinal, no eficacia clínica medida
+- **DN22, Mahāsatipaṭṭhāna Sutta**, [traducción](https://www.dhammatalks.org/suttas/DN/DN22.html), lectura completa registrada en el anexo budista; sección A [4] partes corporales, [5] elementos, [6] cementerio. Presenta comparación con la naturaleza y destino del propio cuerpo; no prescribe simplemente imaginar un paisaje agradable. No inferir visualización obligatoria ni tasa científica de efectos adversos
+- **DN1, Brahmajāla Sutta**, [traducción](https://www.dhammatalks.org/suttas/DN/DN01.html), consulta parcial de la sección «Partial Eternalism» solamente. Relato crítico sobre creencia de Brahmā creador; no lectura completa del largo discurso ni negación de toda dimensión sobrenatural budista
+- **Patañjali, Yoga Sūtra**, traducción/comentarios de James Haughton Woods, *The Yoga-System of Patañjali*, Harvard Oriental Series 17 (1914), [texto del ejemplar digitalizado](https://archive.org/stream/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt). Consulta registrada: I.27–28 pp. 61–62 (Oṃ y consideración de referente); II.30–32 pp. 178–182 (restricciones/observancias); II.33–34 pp. 183–184 (respuesta a pensamientos dañinos); III.1–3 pp. 203–205 (concentración/meditación/absorción); IV.34 pp. 347–348 (kaivalya). No presentar como una teología única de todo hinduismo
+- **Philipp A. Maas**, «The So-called Yoga of Suppression in the Pātañjala Yogaśāstra», [PDF editorial](https://austriaca.at/0xc1aa5572%200x0022911b.pdf), Consulta registrada: pp. 264–267 y 276–278. Precisa cese de contenidos/procesos frente a supresión psicológica; no equivale a destrucción de conciencia. Control necesario para no sobrecorregir a Jennings: sí existen metas distintas del examen discursivo
+- **Bhagavad Gītā 6.14, 6.32, 6.47**, IIT Kanpur/Gambhirananda, Consulta registrada: devoción y atención a felicidad/sufrimiento ajenos. Las interpretaciones de ātman y lo divino varían; no colapsarlas en el Dios bíblico
+- **Sōtō Zen**, [*How to do Zazen*](https://www.sotozen.com/eng/zazen/howto/index.html), Consulta registrada: secciones ojos, respiración y awareness/kakusoku; [Dōgen, *Fukanzazengi*](https://www.sotozen.com/eng/zazen/advice/fukanzanzeng.html), completo. La instrucción de no perseguir pensamientos no equivale a ausencia de toda actividad mental o prohibición de juicio ético cotidiano
+- **Tairyu Tsunoda**, *Hishiryō*, Komazawa University/Sōtō, [PDF](https://www.sotozen.com/eng/library/key_terms/pdf/key_terms08.pdf), pp. 1–3. Separa explícitamente no-pensamiento y estado sin pensamientos. Su explicación es una voz institucional contemporánea, no prueba de uniformidad interpretativa histórica
+- **Sōtō Zen: An Introduction to Zazen**, [manual institucional](https://www.sotozen.com/eng/library/leaflet/sotozen/pdf/soto_zen.pdf), Consulta registrada: pp. impresas 60–63 sobre arrepentimiento, preceptos y decisiones cotidianas; 65–66 sobre shikantaza sin objeto, mantra o visualización requeridos y posibilidad de calma o agitación; p. 67 sobre estudio intelectual. Lectura de esas secciones, no libro íntegro.
+- **Kenshu Sugawara**, *Zenkai Ichinyo*, [PDF Sōtō](https://www.sotozen.com/eng/library/key_terms/pdf/key_terms18.pdf), Consulta registrada: pp. 1–2 y 5. Vincula práctica/preceptos y beneficio de seres; no prueba efectos morales en cada practicante
+- **Santorelli, Meleo-Meyer y Koerbel**, *Mindfulness-Based Stress Reduction Authorized Curriculum Guide* (2017), [PDF](https://mbsr.website/sites/default/files/docs/mbsr-curriculum-guide-2017.pdf), Consulta registrada: pp. 7,24–25. Propósito clínico/pedagógico moderno; no debe usarse como si fuera budismo temprano ni como ausencia de todo trasfondo histórico
+- **TM**, [FAQ institucional](https://www.tm.org/en-us/faq), Consulta registrada: autodescripción de uso no semántico del sonido y trascender pensamiento. Concede un caso real de diferencia, no prueba clínica ni definición de cualquier mantra
+
+### Originales de White localizados para la atribución de J23
+
+Acceso por texto indexado del sitio institucional, con errores al abrir algunas páginas. Se cotejaron los párrafos citados y fragmentos circundantes; **no se declara lectura íntegra de los libros**:
+
+1. [*Christ’s Object Lessons*, «In Good Ground», COL 59.5](https://text.egwwritings.org/read/15.208?highlight=1&query=profited+), con contexto 58–60
+2. [*The Desire of Ages*, capítulo 8, DA 83.4](https://text.egwwritings.org/amp/read/130.295), contexto 83.1–4
+3. [*The Great Controversy*, capítulo 37, GC 601.1](https://next.egwwritings.org/read/132.2680), contexto sobre estudio bíblico y preparación escatológica
+4. [*Sabbath-School Worker*, «Communion with Christ», 1 abril 1895, §1](https://m.egwwritings.org/es/book/1625.329), texto inglés del artículo devocional y continuación
+
+## 10. Alcance editorial y límites de uso
+
+1. El cuerpo de C3 puede reconocer brevemente la contribución de Jennings y presentar dos o tres correcciones decisivas: diversidad real de métodos; diferencia entre desacuerdo teológico y diagnóstico cognitivo; repetición/silencio sin conclusión automática. La matriz técnica ofrece la trazabilidad restante
+2. Mantener la definición de C1 como eje cristiano; no agrandarla para incluir retrospectivamente toda contemplación cristiana ni endurecerla para prohibir toda recitación. Una tradición puede tener prácticas distintas de esa definición sin volverse «oriental» por eso
+3. Comparar técnica, finalidad, comprensión religiosa y evidencia de efectos en columnas o unidades separadas. Una respiración semejante no vuelve idénticas las metas; una meta distinta no demuestra daño
+4. Diferencia que sí importa: responder a Dios y su enseñanza no equivale a liberación de renacimiento, kaivalya, shikantaza o tratamiento del estrés. No traducir todas esas metas como «buscar tranquilidad»; tampoco igualarlas bajo una espiritualidad genérica
+5. No escoger ideal cristiano frente a mala ejecución ajena. Evaluar ambos planos por igual: intenciones desde sus fuentes propias; efectos desde estudios adecuados. El fracaso de algún practicante no refuta solo una tradición, ni una promesa normativa acredita resultados de todos
+6. No reabrir C2 sin contradicción nueva. La precisión sobre N01 es ampliación de identificación, compatible con su redacción. El nuevo estado de White amplía verificación histórica pero no exige introducirla en C3
+7. Pendientes documentales explícitos: J17 pp. 222–228 y notas; cadena exacta hacia Newberg/Waldman 2009; original contextual de Govinda. Ninguno impide la comparación acotada basada en fuentes identificadas. No tratarlos como ya resueltos ni afirmar ausencia total de bibliografía
+8. Este material no desarrolla métodos de C4 ni añade decisiones generales o experiencias personales del autor
+
+[Expediente general](../03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md) · [Matriz comparativa](matriz-comparativa.md) · [Registro bibliográfico](../../fuentes/registro-bibliografico.md)

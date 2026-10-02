@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; resto del desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; investigación de C3 terminada, redacción y auditorías pendientes; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -35,7 +35,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 ## Materiales de trabajo
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
-- `../fuentes/registro-bibliografico.md`: fuentes de los capítulos 1 y 2 con estado de consulta explícito; Jennings auditado para el alcance de C2, comparación general todavía pendiente.
+- `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas y matriz Jennings disponibles, auditorías del manuscrito C3 pendientes.
 - `../practicas/catalogo.md`: ideas candidatas, no métodos seleccionados.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
@@ -55,3 +55,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-01:** capítulo 2 terminado con las cinco etapas solicitadas y verificado en main. Se mantienen los límites documentales, el capítulo 1 sin cambios y las decisiones generales abiertas. Véase `../investigacion/capitulo-02/auditoria-final.md`.
 
 - **2026-10-01 (Córdoba):** autorizado el capítulo 3 completo con nueve etapas de investigación, redacción y auditoría, y publicación verificada en main. La comparación se delimitará por prácticas concretas a partir de fuentes primarias y especialistas. Se conserva C1/C2 como base, incluida la auditoría posterior de C2 integrada en `8548102`; no se autoriza avanzar C4 ni cerrar otras decisiones abiertas.
+
+- **2026-10-02 UTC:** etapa 1 de C3 terminada: expediente general, matriz por prácticas con doce dimensiones, cuatro anexos temáticos y registro bibliográfico actualizado. Se conserva la definición textual de C1 y los límites de C2; no se identificó una corrección objetiva que requiera modificarlos. La selección de ejemplos del expediente orienta la futura redacción de C3, sin cerrar el índice general ni las decisiones abiertas. Redacción y auditorías del manuscrito pendientes; C4 no iniciado.

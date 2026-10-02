@@ -12,3 +12,8 @@ La búsqueda no se limitará a las palabras que una traducción castellana viert
 - marcar casos dudosos y decisiones de inclusión/exclusión.
 
 La tabla inicial está en `palabras-biblicas/inventario.md`. No se considerará exhaustiva hasta registrar el corpus completo y revisar falsos positivos.
+
+
+## Investigación comparativa del capítulo 3
+
+La etapa 1 está terminada en el [expediente general de C3](03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). La [matriz](capitulo-03/matriz-comparativa.md) enlaza las prácticas, fuentes y límites; sus cuatro anexos temáticos conservan la evidencia detallada. Redacción y auditorías posteriores del manuscrito pendientes. El inventario léxico general mantiene su estado incompleto.
