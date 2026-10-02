@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa y lenguaje realizadas; etapas 8–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó sobre ese checkpoint y su checkpoint posterior es `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. La etapa 7 se completó localmente sobre esa base; su publicación y verificación remota quedan pendientes.
+Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje y continuidad realizadas; etapa 9 pendiente.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó sobre ese checkpoint y su checkpoint posterior es `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. La etapa 7 se completó sobre esa base y su checkpoint posterior es `5e95f616ed6f4b96a415218f099d8e3f84813717`. La etapa 8 se completó localmente sobre ese checkpoint; su publicación y verificación remota quedan pendientes.
 
 ## Resultado de la investigación
 
@@ -40,6 +40,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Auditoría científica](capitulo-03/auditoria-cientifica.md) | Etapa 5: originales pertinentes, cobertura empírica y psicológica del manuscrito, medidas, comparadores, replicación y límites de transferencia |
 | [Auditoría de equidad comparativa](capitulo-03/auditoria-equidad-comparativa.md) | Etapa 6: control simétrico de normas, efectos y marcos religiosos; objeciones de ambos lados, sesgo inverso y trato justo de Jennings |
 | [Auditoría de lenguaje](capitulo-03/auditoria-lenguaje.md) | Etapa 7: claridad a primera lectura, expresiones abstractas, ritmo, términos necesarios y prueba editorial de comprensión |
+| [Auditoría de continuidad](capitulo-03/auditoria-continuidad.md) | Etapa 8: lectura conjunta C1/C2/C3, definición, léxico, propósitos, ciencia, progresión y preservación del sentido tras etapa 7 |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -374,3 +375,31 @@ C1/C2 y su documentación permanecen sin cambios. No se cerraron los pendientes 
 - SHA256 de C3: `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`
 
 Los controles validan el árbol local. No se hicieron commits ni push; la publicación y lectura desde main corresponden al checkpoint de integración. Esta pasada no certifica las dos auditorías restantes ni la aprobación editorial del autor.
+
+## Etapa 8 — Auditoría independiente de continuidad con C1 y C2
+
+Fecha: 2026-10-02 UTC. Base: `5e95f616ed6f4b96a415218f099d8e3f84813717`. El [informe de continuidad](capitulo-03/auditoria-continuidad.md) registra la lectura completa de los tres capítulos con sus notas, el cotejo de expedientes y auditorías y el control del diff de lenguaje. Compara definición, objetos, acciones afines, léxico, repetición, imaginación, propósitos, experiencia, evidencia y progresión del libro.
+
+El dictamen conserva íntegros los tres manuscritos. C3 reproduce la definición de C1 y no la amplía a toda contemplación cristiana ni la reduce a análisis verbal ininterrumpido. Mantiene los límites de los pasajes, la posibilidad de una reflexión dolorosa y la diferencia entre instrucciones y resultados. No añade una antropología bíblica no establecida. Las simplificaciones de etapa 7 conservan cesación, no-yo, MBSR, práctica/despertar y grados de certeza.
+
+Se comprobaron explícitamente los refinamientos vigentes de C2: comprender mejor no es una finalidad declarada por todos los textos; Santiago reúne atención perseverante y acción; el resumen de Button comunica ventaja frente al control en esperanza y bienestar, con artículo principal no auditado íntegramente. No se sustituyeron por formulaciones históricas anteriores ni se reabrió la investigación clínica.
+
+La ciencia de C3 ocupa tres párrafos del cuerpo, 153 palabras de las 4089 anteriores a notas, incluidos título y subtítulos. Reutiliza Schjoedt y Newberg para limitar inferencias específicas, sin duplicar el catálogo de C2. La precisión sobre la imagen y línea de enseñanza no identificadas de Newberg 2001 no contradice C2 ni cierra la cadena indirecta de Jennings.
+
+Se actualizaron sólo estados actuales y se agregó el informe. Los registros históricos previos, fuentes y grados de consulta permanecen intactos. No hubo nueva investigación externa ni material de C4. **Falta la etapa 9, revisión final integral**, además de integrar y verificar este checkpoint desde main.
+
+### Comprobaciones locales de la etapa 8
+
+- C1: 14 notas y 15 llamadas; C2: 23 notas y 24 llamadas; C3: 34 notas y 35 llamadas. Sin notas faltantes, huérfanas ni definiciones duplicadas
+- IDs citados: 11 en C1, 24 en C2 y 54 en C3, todos presentes; 112 IDs bibliográficos únicos, sin fuentes nuevas
+- Enlaces relativos y anclas del repositorio comprobados, sin destinos ausentes; no se volvió a verificar la disponibilidad de todos los enlaces externos
+- Cinco tablas con los mismos diecisiete casos; cincuenta identificadores únicos de afirmaciones en la matriz Jennings
+- Trece archivos de C1/C2, incluidos manuscritos, expedientes y anexos/auditorías, idénticos byte por byte a la base; los dos manuscritos también coinciden con `8548102`
+- C3 completo intacto, cuerpo y notas; definición literal de C1 conservada y diff de etapa 7 cotejado
+- Ocho archivos previstos: nuevo informe y siete archivos de documentación/estado; sin fuentes descargadas, temporales, auditoría final anticipada ni archivos de C4 incorporados
+- `git diff --check` sin errores; sin marcadores de conflicto; diff revisado
+- SHA256 de C1: `385d95bc6c30afceec47eacfef3bd0bb92303d1a6af58da6b5f2129d6c7bbcfe`
+- SHA256 de C2: `ea8a597bbcbf371fdaf17c741e2652d278acc5b3d9d9302f47982a63b367bd82`
+- SHA256 de C3: `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`
+
+La revisión local de continuidad está completada. No se hicieron commits, push o lectura del nuevo checkpoint desde el remoto; esos pasos corresponden a la integración posterior. Este resultado no certifica la etapa final ni la aprobación editorial del autor.

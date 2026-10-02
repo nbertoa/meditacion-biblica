@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; investigación, primera redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa y lenguaje de C3 realizadas, continuidad y revisión final pendientes; resto del desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; investigación, primera redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje y continuidad de C3 realizadas, revisión final pendiente; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -35,7 +35,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 ## Materiales de trabajo
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
-- `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas y matriz Jennings disponibles, auditorías de tradiciones, Jennings, ciencia, equidad comparativa y lenguaje realizadas; continuidad y revisión final del manuscrito C3 pendientes.
+- `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas y matriz Jennings disponibles, auditorías de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje y continuidad realizadas; revisión final del manuscrito C3 pendiente.
 - `../practicas/catalogo.md`: ideas candidatas, no métodos seleccionados.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
@@ -69,3 +69,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-02 UTC:** etapa 6 de C3 completada localmente sobre `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`: [auditoría independiente de equidad comparativa](../investigacion/capitulo-03/auditoria-equidad-comparativa.md). Se reconstruyeron objeciones de ambos lados y se controlaron normas/efectos, similitudes, diferencias y sesgo inverso. El manuscrito se conserva; se precisan en el expediente el resumen de hipnosis y el acceso ya ampliado a White. No hubo fuentes nuevas ni cambios en C1/C2. Faltan etapas 7–9 y publicación/verificación del checkpoint; decisiones generales abiertas y C4 no iniciado.
 
 - **2026-10-02 UTC:** etapa 7 de C3 completada localmente sobre `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`: [auditoría independiente de lenguaje](../investigacion/capitulo-03/auditoria-lenguaje.md). Se aclararon términos y frases abstractas, se separaron dos párrafos densos y se llevó la lista completa de agregados a la nota 26. Cesación, no-yo, MBSR, fuentes y límites conservan su alcance. C1/C2 intactos; no hubo investigación nueva. Faltan etapas 8–9 y publicación/verificación del checkpoint; decisiones generales abiertas y C4 no iniciado.
+
+- **2026-10-02 UTC:** etapa 8 de C3 completada localmente sobre `5e95f616ed6f4b96a415218f099d8e3f84813717`: [auditoría independiente de continuidad](../investigacion/capitulo-03/auditoria-continuidad.md). Se leyeron C1/C2/C3 completos y se cotejaron definición, léxico, propósitos, ciencia, Jennings/Newberg y las simplificaciones de etapa 7. No se encontró una corrección objetiva que exigiera cambiar los manuscritos; se conservan los refinamientos vigentes de C2. Falta la etapa 9 y publicación/verificación de este checkpoint; decisiones generales abiertas y C4 no iniciado.
