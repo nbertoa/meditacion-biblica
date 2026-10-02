@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditoría de tradiciones realizadas; etapas 4–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70` y está preparada localmente para su publicación.
+Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones y Jennings realizadas; etapas 5–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó localmente sobre `8f6401030418837ca5176518594fee6a29594286`; su publicación y verificación remota quedan pendientes.
 
 ## Resultado de la investigación
 
@@ -36,6 +36,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Zen Sōtō y MBSR](capitulo-03/zen-mbsr.md) | Zazen/shikantaza desde Dōgen y especialistas; postura, pensamiento, despertar y preceptos; programa MBSR y dos componentes; raíces y recontextualización |
 | [Jennings: matriz de afirmaciones](capitulo-03/jennings-afirmaciones.md) | Cuarenta afirmaciones de la guía y diez del artículo; páginas/secciones, clases, fuentes, contraste, dictamen; identificación de Newberg 2001 y cadenas pendientes |
 | [Auditoría de tradiciones](capitulo-03/auditoria-tradiciones.md) | Etapa 3: cotejo frase por frase, originales, especialistas, objeciones y correcciones del manuscrito |
+| [Auditoría de Jennings](capitulo-03/auditoria-jennings.md) | Etapa 4: relectura de guía/artículo, cincuenta filas, atribuciones del manuscrito y fuentes históricas; límites documentales preservados |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -274,3 +275,26 @@ La definición de C1 y los manuscritos C1/C2 permanecen intactos. No se reabrió
 - SHA256 de C3: `9b2e5e020a74bf7f6a28e07ebcf538f59ec5bd45f6c873d8dab143ea0599aaaa`
 
 La comprobación desde main queda a cargo del checkpoint de integración; no se informa como realizada aquí.
+
+## Etapa 4 — Auditoría independiente de Jennings
+
+Fecha: 2026-10-02 UTC. Base: `8f6401030418837ca5176518594fee6a29594286`. El [informe específico](capitulo-03/auditoria-jennings.md) documenta la relectura completa de la guía de 2020 y el artículo de 2023, las cincuenta filas de la matriz y cada atribución superviviente del manuscrito. Se contrastaron afirmaciones con fuentes propias de las prácticas y se distinguieron doctrina, analogía, descripción y resultado empírico, sin copiar los dictámenes anteriores como evidencia.
+
+Se preservaron los aportes reales de Jennings: contenido, relación con Dios, respuesta vital, imaginación compartida y posibilidad de incomodidad. La matriz precisó dos rótulos excesivos: semejanza frecuente entre guía oriental e hipnosis no equivale a prohibir toda guía; excluir un mantra repetitivo no es prohibir expresamente toda recitación. El cotejo de Schjoedt distingue memoria/cognición social de mantras no estudiados y pérdida crítica no medida, además de conservar el reclutamiento prefrontal de la recitación en el contraste pertinente.
+
+Las cuatro citas de White se cotejaron con transcripciones institucionales y contexto recuperados directamente. Se conserva la glosa de Jennings como tal y se registra que GC 601.1 es un extracto, sin inferir falsificación ni dependencia histórica entre métodos. Se actualizaron las entradas existentes del registro, sin nuevos IDs. El cuerpo sólo precisó una atribución; las notas 30–31 y la matriz contienen el detalle. No se expandió el capítulo ni se agregó nueva ciencia.
+
+No se repitieron búsquedas de J17 pp. 222–228 o Govinda sin nuevo indicio. Sus originales pendientes y la correspondencia exacta hacia Newberg/Waldman siguen sin reconstruirse por suposición. C1/C2 y sus expedientes/auditorías permanecen intactos. No se avanzó C4. La etapa 4 no equivale a completar las etapas 5–9; faltan ciencia, equidad, lenguaje, continuidad y auditoría final.
+
+### Comprobaciones locales de la etapa 4
+
+- 34 notas definidas y 34 citadas distintas; 35 llamadas, sin faltantes, huérfanas ni definiciones duplicadas
+- 54 IDs bibliográficos de C3 existentes; 110 IDs únicos en el registro, sin duplicados ni fuentes científicas nuevas
+- 50 filas únicas de auditoría, correspondientes exactamente a las 40 J20 y 10 J23 de la matriz
+- 138 enlaces relativos y ocho anclas comprobados en el repositorio, sin destinos ausentes
+- Definición literal de C1 conservada; 13 archivos protegidos de C1/C2, incluidos manuscritos, expedientes y anexos/auditorías existentes, idénticos byte por byte al checkpoint de partida
+- Cuerpo de C3: 4101 palabras antes de notas, incluidos título y subtítulos; cambio limitado a dos palabras adicionales de precisión atributiva, sin nuevos párrafos
+- `git diff --check` sin errores y sin marcadores de conflicto; diez archivos previstos, incluido el nuevo informe; sin archivos de C4, fuentes ni temporales agregados al repositorio
+- SHA256 de C3: `abadc90000f77d9771306175ed16b17487410f27b20f0904e13fe28c20115e80`
+
+Los controles son locales. No se hicieron commits ni push; falta integrar y comprobar este checkpoint desde main.
