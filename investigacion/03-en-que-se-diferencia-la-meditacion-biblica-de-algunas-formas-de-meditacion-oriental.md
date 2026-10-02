@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje y continuidad realizadas; etapa 9 pendiente.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó sobre ese checkpoint y su checkpoint posterior es `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. La etapa 7 se completó sobre esa base y su checkpoint posterior es `5e95f616ed6f4b96a415218f099d8e3f84813717`. La etapa 8 se completó localmente sobre ese checkpoint; su publicación y verificación remota quedan pendientes.
+Fecha: 2026-10-02 UTC. **Estado: las nueve etapas están completadas localmente; publicación y comprobación final remota pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación al [manuscrito terminado de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó sobre ese checkpoint y su checkpoint posterior es `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. La etapa 7 se completó sobre esa base y su checkpoint posterior es `5e95f616ed6f4b96a415218f099d8e3f84813717`. La etapa 8 se completó sobre ese checkpoint y su commit posterior es `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee`. Sobre esa base se completó localmente la etapa 9, [auditoría final integral](capitulo-03/auditoria-final.md). Falta publicar su commit, recuperar y comparar el árbol desde main y releer allí el capítulo. No se conoce ni se declara verificado el SHA final de esta pasada. Los apartados anteriores conservan el estado histórico de cada etapa.
 
 ## Resultado de la investigación
 
@@ -41,6 +41,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Auditoría de equidad comparativa](capitulo-03/auditoria-equidad-comparativa.md) | Etapa 6: control simétrico de normas, efectos y marcos religiosos; objeciones de ambos lados, sesgo inverso y trato justo de Jennings |
 | [Auditoría de lenguaje](capitulo-03/auditoria-lenguaje.md) | Etapa 7: claridad a primera lectura, expresiones abstractas, ritmo, términos necesarios y prueba editorial de comprensión |
 | [Auditoría de continuidad](capitulo-03/auditoria-continuidad.md) | Etapa 8: lectura conjunta C1/C2/C3, definición, léxico, propósitos, ciencia, progresión y preservación del sentido tras etapa 7 |
+| [Auditoría final integral](capitulo-03/auditoria-final.md) | Etapa 9: relectura independiente completa, dos precisiones documentales, integridad del árbol e informe al autor de quince puntos; publicación final pendiente |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -62,7 +63,7 @@ El control de equidad compara normas con normas y estudios con estudios. Una con
 
 ## Selección de comparaciones con evidencia suficiente
 
-La selección siguiente orienta la futura redacción de C3, sin fijar todavía sus apartados ni el índice general del libro.
+La selección siguiente conserva la propuesta de la etapa 1 que orientó la redacción de C3; no constituye un índice general nuevo. Su aplicación efectiva se documenta en la etapa 2.
 
 | Caso | Qué comparación permite | Peso recomendado en el manuscrito | Qué debe quedar limitado |
 |---|---|---|---|
@@ -136,8 +137,8 @@ Estas respuestas son conclusiones documentales de trabajo para la redacción, no
 La [matriz Jennings](capitulo-03/jennings-afirmaciones.md) contiene **50 afirmaciones**, con 40 identificadores J20 y 10 J23. Se distinguen Biblia/exégesis, historia, descripción de tradiciones, psicología, neurociencia, inferencia teológica y analogía. Sus rótulos son paráfrasis breves para indexar; no citas literales.
 
 - **Aprovechable:** atención a contenido, relación con Dios y respuesta práctica (J20-01, 05, 13, 32; J23-04); imaginación no exclusiva de una tradición (J20-14); reflexión potencialmente incómoda (J20-16). La afinidad devocional no valida todas las explicaciones científicas.
-- **Requiere separar afirmación y generalización:** diferencias entre oración espontánea y memorizada (J20-30/31); referente creador en comparación con budismo temprano, sin borrar divinidades ni teísmo hindú (J20-17); preparación práctica y elección personal (J20-37/39); relatos de lectio divina y citas de White como antecedentes posteriores (J23-02/03/07–10).
-- **No sostenible en su alcance general:** todo Oriente vacía/evita/refuerza ausencia de ética (J20-02, 08, 15, 19, 22, 23); crecimiento cortical y merma crítica atribuidos a esas categorías (J20-07, 26–29, 31); considerar repetición criterio suficiente para excluir una práctica bíblica (J20-38).
+- **Requiere separar afirmación y generalización:** diferencias entre oración espontánea y memorizada (J20-30/31); referente creador en comparación con budismo temprano, sin borrar divinidades ni teísmo hindú (J20-17); preparación práctica y elección personal (J20-37/39); exclusión del mantra repetitivo, sin atribuirle una prohibición expresa de toda recitación (J20-38); relatos de lectio divina y citas de White como antecedentes posteriores (J23-02/03/07–10).
+- **No sostenible en su alcance general:** todo Oriente vacía/evita/refuerza ausencia de ética (J20-02, 08, 15, 19, 22, 23); crecimiento cortical y merma crítica atribuidos a esas categorías (J20-07, 26–29, 31).
 - **No demostrada, sin afirmar falsedad probada:** clasificación como hipnosis de su escena guiada y susceptibilidad creciente atribuida a repetirla (J20-11/12); paquete universal de bienestar/cambio moral (J20-33/35); test clasificatorio validado (J20-36).
 - **Confesional o analógico:** las inferencias de salvación, diseño, Espíritu, cristología y sanación no son por eso hechos neurocientíficos. Su evaluación no requiere refutar toda la teología del autor ni resolver denominación del libro.
 
@@ -403,3 +404,23 @@ Se actualizaron sólo estados actuales y se agregó el informe. Los registros hi
 - SHA256 de C3: `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`
 
 La revisión local de continuidad está completada. No se hicieron commits, push o lectura del nuevo checkpoint desde el remoto; esos pasos corresponden a la integración posterior. Este resultado no certifica la etapa final ni la aprobación editorial del autor.
+
+## Etapa 9 — Auditoría final integral
+
+Fecha: 2026-10-02 UTC. Base: `4765d15512f547c6c1b2dc7aad07c06a7e83b3ee`. La [auditoría final](capitulo-03/auditoria-final.md) registra la relectura independiente de C1/C2/C3, expediente, matriz, anexos y seis auditorías previas, con control de hechos, interpretaciones, traducciones, generalizaciones, atribuciones, acceso parcial, equidad, lenguaje y alcance. Incluye los quince puntos del informe solicitado al autor y no los sustituye por una lista de tareas futuras.
+
+El manuscrito se conserva íntegro. Se aplicaron dos precisiones documentales: el resumen sobre repetición distingue la exclusión del mantra repetitivo en Jennings p. 24 de una prohibición general de recitar; J20-27 limita a los trabajos cotejados la falta de un ensayo que mida conjuntamente la secuencia discutida. La primera requirió lectura focal y cotejo visual de la página original; la segunda explicita el límite de la evidencia ya examinada. No hubo una nueva lectura completa de todas las fuentes ni búsquedas bibliográficas sin un problema nuevo.
+
+Se sincronizaron los estados actuales y se distinguió la propuesta inicial de selección de su aplicación posterior. Los cierres históricos de etapas 1–8 se conservan como tales. C1/C2, sus apoyos y el manuscrito C3 no cambiaron; no se añadieron fuentes, IDs, una antropología denominacional, experiencias personales ni material de C4.
+
+### Comprobaciones locales de la etapa 9
+
+- Árbol completo: 37 archivos Markdown; nueve archivos creados/modificados en esta pasada y diecinueve en el diff acumulado desde `8548102`
+- C1: 14 notas/15 llamadas; C2: 23/24; C3: 34/35. Sin faltantes, huérfanas ni definiciones duplicadas
+- 112 identificadores bibliográficos únicos; los 11/24/54 IDs de C1/C2/C3 presentes. Cinco tablas comparativas con los mismos diecisiete casos; cincuenta identificadores Jennings únicos
+- Enlaces relativos, anclas y estructura de tablas de todo el árbol comprobados; disponibilidad web externa no revalidada íntegramente
+- Dieciocho archivos preexistentes protegidos idénticos byte por byte a `8548102`; los tres manuscritos idénticos al checkpoint de entrada y definición literal de C1 conservada
+- Diff acumulado y diff de esta pasada revisados; `git diff --check` sin errores; sin conflictos, archivos vacíos, temporales, fuentes descargadas ni material C4 en el repositorio
+- C3 releído completo al terminar; 4089 palabras antes de notas, incluidos título y subtítulos. SHA256: `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`
+
+**Las nueve etapas quedan completadas localmente.** El cierre conserva los pendientes documentales de Jennings 2017, Newberg/Waldman, Govinda, traducciones y lecturas parciales; no equivalen a auditorías editoriales todavía sin hacer. No se realizaron commits ni push. Falta crear y publicar el commit final, recuperar y comparar su árbol desde main y releer el capítulo remoto; el SHA final aún no está determinado. El punto 15 del informe declara ese estado sin anticipar la comprobación.
