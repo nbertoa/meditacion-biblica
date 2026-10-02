@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones y Jennings realizadas; etapas 5–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó localmente sobre `8f6401030418837ca5176518594fee6a29594286`; su publicación y verificación remota quedan pendientes.
+Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings y ciencia realizadas; etapas 6–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó localmente sobre esa base; su publicación y verificación remota quedan pendientes.
 
 ## Resultado de la investigación
 
@@ -37,6 +37,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Jennings: matriz de afirmaciones](capitulo-03/jennings-afirmaciones.md) | Cuarenta afirmaciones de la guía y diez del artículo; páginas/secciones, clases, fuentes, contraste, dictamen; identificación de Newberg 2001 y cadenas pendientes |
 | [Auditoría de tradiciones](capitulo-03/auditoria-tradiciones.md) | Etapa 3: cotejo frase por frase, originales, especialistas, objeciones y correcciones del manuscrito |
 | [Auditoría de Jennings](capitulo-03/auditoria-jennings.md) | Etapa 4: relectura de guía/artículo, cincuenta filas, atribuciones del manuscrito y fuentes históricas; límites documentales preservados |
+| [Auditoría científica](capitulo-03/auditoria-cientifica.md) | Etapa 5: originales pertinentes, cobertura empírica y psicológica del manuscrito, medidas, comparadores, replicación y límites de transferencia |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -298,3 +299,26 @@ No se repitieron búsquedas de J17 pp. 222–228 o Govinda sin nuevo indicio. Su
 - SHA256 de C3: `abadc90000f77d9771306175ed16b17487410f27b20f0904e13fe28c20115e80`
 
 Los controles son locales. No se hicieron commits ni push; falta integrar y comprobar este checkpoint desde main.
+
+## Etapa 5 — Auditoría científica y neurocientífica
+
+Fecha: 2026-10-02 UTC. Base: `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. El [informe independiente](capitulo-03/auditoria-cientifica.md) cubre C3 completo y sus notas, con fichas de los originales de Schjoedt, Newberg 2001/2010, Kral y Cahn–Polich. Se distinguen resultados medidos, hipótesis, autodescripciones, instrucciones y normas religiosas. No se rehízo toda la revisión clínica de C2.
+
+El cotejo sostiene los tres párrafos científicos del capítulo y no exige cambiar el cuerpo: no se midió deterioro crítico ni crecimiento cerebral causado por la definición de C1. Las notas 31–33 precisan comparadores, señal funcional, piloto y límites de resultados nulos, con enlace al informe. Esto no se convierte en negación universal de beneficios o riesgos.
+
+Se precisó únicamente en investigación la composición de la categoría MT de Cochrane y el denominador del resultado. Las revisiones posteriores focales de Yeung 2025 y Webster 2025 quedan en el informe y registro, sin añadir un apartado clínico ni un catálogo científico al capítulo. No son réplicas directas ni comparaciones entre la definición bíblica y todas las tradiciones.
+
+C1/C2 y su documentación permanecen intactos; se conserva explícitamente la actualización de Button frente al control y el límite de acceso al artículo. Siguen pendientes Jennings 2017 pp. 222–228 y la cadena bibliográfica indirecta. No se avanzó C4. **Faltan etapas 6–9**, integración y comprobación del checkpoint remoto.
+
+### Comprobaciones locales de la etapa 5
+
+- 34 notas definidas y 34 citadas distintas; 35 llamadas, sin faltantes, huérfanas ni duplicados
+- 54 identificadores bibliográficos de C3 existentes; 112 IDs únicos en el registro, con dos controles posteriores añadidos sólo a investigación
+- 151 enlaces relativos y 11 anclas comprobados en el repositorio; sin destinos ausentes
+- 13 archivos protegidos de C1/C2 idénticos byte por byte al checkpoint de partida, incluidos manuscritos, expedientes y anexos/auditorías
+- Cuerpo de C3 intacto, byte por byte: 4101 palabras antes de notas, incluidos título y subtítulos; definición de C1 conservada
+- Cambios del manuscrito limitados a notas 31–33; nueve archivos previstos, incluido el nuevo informe; sin fuentes descargadas, temporales o material de C4 en el repositorio
+- `git diff --check` sin errores y sin marcadores de conflicto
+- SHA256 de C3: `653b430d4a53c3ec20a23abea9cc119af6935d0d2931c3c9a695f6ac7cc92ca3`
+
+Estos controles validan el árbol local. No se hicieron commits ni push ni se declara realizada la lectura de este checkpoint desde main.
