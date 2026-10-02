@@ -4,7 +4,7 @@ Podemos entender lo que dice un texto y seguir viviendo como si nunca lo hubiér
 
 En el capítulo anterior definimos la meditación bíblica como volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta. Ahora la pregunta es qué lugar ocupa esa atención. ¿Qué buscan quienes meditan en los textos bíblicos? ¿Qué esperan recibir y qué cambia en ellos?
 
-Los pasajes permiten reconocer un propósito común: **mantener presente lo conocido de Dios para comprenderlo mejor y responder a él en la vida concreta**. Esa respuesta puede tomar distintas formas: obedecer, revisar una decisión, agradecer, confiar o seguir buscando a Dios en medio de una pregunta dolorosa. Cada situación nos ayuda a entender para qué se vuelve a Dios y a su enseñanza.
+Al reunir los pasajes aparece un hilo común: **mantener presente lo conocido de Dios para que oriente nuestra respuesta en la vida concreta**. En algunos textos, ese volver ayuda también a comprender mejor; en otros, se expresa como obedecer, revisar una decisión, agradecer, confiar o seguir buscando a Dios en medio de una pregunta dolorosa. Cada situación nos ayuda a entender para qué se vuelve a Dios y a su enseñanza.
 
 ## Que la enseñanza llegue a la conducta
 
@@ -18,7 +18,7 @@ El Salmo 1 amplía la escena. Presenta dos caminos: dejarse orientar por el cons
 
 El árbol recibe alimento y da fruto. Así presenta el poema una vida que se nutre de la enseñanza de Dios y encuentra en ella su orientación. Es una imagen de una vida fecunda y bien encaminada, no una garantía de ganancias ni de protección contra toda pérdida.
 
-El mismo libro de los Salmos contiene oraciones de personas fieles que sufren. Y el Salmo 119 muestra al orante meditando mientras otros lo calumnian. Leer esos textos juntos impide convertir la imagen del árbol en una promesa de ausencia de dificultades.
+El mismo libro de los Salmos contiene oraciones de personas fieles que sufren. Y el Salmo 119 muestra al salmista meditando mientras otros lo calumnian. Leer esos textos juntos impide convertir la imagen del árbol en una promesa de ausencia de dificultades.
 
 El retrato abarca lo que esa persona ama, los consejos que escucha y el camino que sigue. Meditar forma parte de esa vida; el salmo no le atribuye por separado todos sus frutos.
 
@@ -34,19 +34,19 @@ La relación entre meditar y comprender tampoco funciona siempre en una sola dir
 
 Podemos reconocer esa relación en una situación cotidiana. Saber que debemos hablar con verdad no impide que justifiquemos una exageración porque nos conviene. Volver sobre esa enseñanza puede ayudarnos a advertir lo que estábamos evitando: también esa exageración necesita ser revisada.
 
-El versículo 59 presenta otro movimiento: el orante considera sus caminos y vuelve sus pasos hacia los testimonios de Dios. Aunque aquí se usa otro verbo, la relación es cercana: examinar la propia conducta puede conducir a corregirla.[^4]
+El versículo 59 presenta otro movimiento: el salmista considera sus caminos y vuelve sus pasos hacia los testimonios de Dios. Aunque aquí se usa otro verbo, la relación es cercana: examinar la propia conducta puede conducir a corregirla.[^4]
 
 El paso siguiente importa. El poema no celebra únicamente haber descubierto algo interesante sobre uno mismo. La reflexión llega a los pies, por decirlo con su imagen: cambia el camino.
 
 ## Recordar quién es Dios
 
-No todos los pasajes se concentran en una instrucción que cumplir. En Salmo 63:6–8, el orante recuerda a Dios durante la noche y medita en él. Piensa en quien ha sido su ayuda, expresa alegría bajo su protección y se aferra a él.[^5]
+No todos los pasajes se concentran en una instrucción que cumplir. En Salmo 63:6–8, el salmista recuerda a Dios durante la noche y medita en él. Piensa en quien ha sido su ayuda, expresa alegría bajo su protección y se aferra a él.[^5]
 
 El salmo recuerda el poder, el amor y la ayuda de Dios. El recuerdo, la alegría y la confianza se entrelazan en la oración. Meditar participa de ese deseo de cercanía, aunque el poema no diga que deba producir siempre los mismos sentimientos.
 
 Esa atención también se comparte. El Salmo 48 habla en plural de considerar el amor de Dios en el templo. El Salmo 145 reúne reflexión sobre sus obras, alabanza y el relato que una generación transmite a otra. La respuesta también incluye reconocer juntos a Dios y contar lo que se conoce de él.[^5]
 
-Algo parecido sucede en el Salmo 143. El orante está abrumado y se siente perseguido. Recuerda los días antiguos, medita en las obras de Dios y extiende sus manos hacia él. Luego pide escuchar su amor, conocer el camino que debe seguir y aprender a hacer su voluntad.[^6]
+Algo parecido sucede en el Salmo 143. El salmista está abrumado y se siente perseguido. Recuerda los días antiguos, medita en las obras de Dios y extiende sus manos hacia él. Luego pide escuchar su amor, conocer el camino que debe seguir y aprender a hacer su voluntad.[^6]
 
 Lo que recuerda del pasado lo acompaña en su necesidad presente. A partir de lo que Dios hizo, pide ayuda y orientación. La oración sigue siendo una súplica: todavía no se cuenta que el peligro haya desaparecido.
 
@@ -62,7 +62,7 @@ Meditar puede ayudar a mirar el presente a la luz de lo que se conoce de Dios y 
 
 ## La paz que los textos afirman
 
-También hay consuelo y alegría en estos textos. El Salmo 119 los expresa con claridad. El orante encuentra consuelo al recordar los juicios de Dios, llama a sus palabras la alegría de su corazón y afirma que quienes aman su enseñanza tienen gran paz (119:52, 111, 165).[^8]
+También hay consuelo y alegría en estos textos. El Salmo 119 los expresa con claridad. El salmista encuentra consuelo al recordar los juicios de Dios, llama a sus palabras la alegría de su corazón y afirma que quienes aman su enseñanza tienen gran paz (119:52, 111, 165).[^8]
 
 Esas afirmaciones pertenecen al mismo poema que habla de lágrimas, amenazas y espera. No hay que elegir entre creerle cuando dice que encuentra paz y creerle cuando dice que está angustiado. La relación con la enseñanza divina incluye ambas experiencias.
 
@@ -78,7 +78,7 @@ Otros textos del Nuevo Testamento prolongan esta relación entre prestar atenci�
 
 Después de las comparaciones del soldado, el atleta y el agricultor, 2 Timoteo 2:7 invita a pensar en lo dicho y a confiar en que el Señor dará comprensión. En 1 Timoteo 4:15–16, Timoteo debe dedicarse a cuidar su conducta y su enseñanza. Se espera que persevere y que los demás puedan ver su progreso.[^10]
 
-Santiago 1:22–25 ofrece una advertencia complementaria. Una persona puede escuchar la palabra, mirarse como en un espejo y luego olvidar lo que vio. La otra persona, en cambio, sigue atendiendo a lo que recibió y lo pone en práctica. La diferencia no está necesariamente en cuánto tiempo miró cada una, sino en qué hizo después con lo que vio.[^11]
+Santiago 1:22–25 ofrece una advertencia complementaria. Una persona puede escuchar la palabra, mirarse como en un espejo y luego olvidar lo que vio. La otra, en cambio, sigue atendiendo a la enseñanza, permanece en ella y la pone en práctica. El contraste no se reduce a cuánto dura la mirada: reúne una atención que persevera con una respuesta concreta.[^11]
 
 Estas acciones están relacionadas con la meditación, pero conservan su sentido propio. Juntas muestran la importancia de responder a lo comprendido y recordado.
 
@@ -98,7 +98,7 @@ Una parte importante de la investigación estudia la *atención plena*, también
 
 Sí existen investigaciones que incluyen pasajes bíblicos. En un pequeño estudio de 1988, algunas personas oraban y reflexionaban sobre material bíblico; otras practicaban relajación muscular, y un tercer grupo quedaba en espera. Según el resumen, los resultados coincidieron solo en parte con lo que los autores esperaban. Es un antecedente que vale la pena conocer, aunque por sí solo no permite llegar a una conclusión firme.[^13]
 
-Más recientemente, un estudio de una semana ofreció instrucciones para leer salmos, reflexionar y orar. Sus autores informaron mejoras en esperanza y bienestar. Sin embargo, los materiales que pudimos consultar no permiten confirmar si esas mejoras superaron las del grupo de comparación en cada aspecto evaluado. Participaron pocas personas y el otro grupo no recibió una actividad semejante. La evaluación al terminar esa semana no permite saber si los cambios se mantuvieron.[^14]
+Más recientemente, un estudio de una semana ofreció instrucciones para leer salmos, reflexionar y orar. El resumen publicado informa que, frente al grupo de control, quienes siguieron esa práctica mejoraron en esperanza y bienestar. Participaron pocas personas y el grupo de comparación quedó en espera, sin una actividad semejante. Además, no pudimos consultar el artículo completo para auditar todos los análisis, y la evaluación al terminar esa semana no permite saber si los cambios se mantuvieron.[^14]
 
 Otro estudio probó durante dos semanas una lectura meditativa con cristianos negros estadounidenses. Buscaba abordar el estrés traumático relacionado con el racismo. Hubo mejorías en ambos grupos, pero los resultados no permitieron concluir que quienes meditaban mejoraran más que quienes seguían en espera. Mejorar durante el estudio no basta para saber si la práctica produjo esa mejoría.[^15]
 
@@ -152,10 +152,10 @@ Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración 
 [^8]: Sal 119:49–52, 81–88, 111, 143, 161–176. El consuelo y la gran paz no borran las peticiones de ayuda del poema.
 [^9]: Flp 4 completo, especialmente 2–9, 11–14. Snyman, pp. 235–240 (C2-BIB-04): 235–236 para oración/paz; 237–240 para considerar/practicar. λογίζεσθε en 8 es considerar; el objeto no está restringido explícitamente a versículos bíblicos.
 [^10]: 2 Tim 2:1–13 y 1 Tim 4:6–16; texto griego electrónico (TXT-NT-01 ampliado para C2). En 2 Tim 2:7 existe variante «dará/dé», sin efecto decisivo para la relación entre consideración y comprensión. No se afirma consulta de aparato crítico completo.
-[^11]: Sant 1:19–27. Denyer, pp. 237–240, especialmente 239 (C2-BIB-05), permite corregir la oposición popular entre un simple vistazo y una mirada atenta. Su propuesta de paralelo platónico no se presenta como dependencia demostrada.
+[^11]: Sant 1:19–27. El v. 25 reúne seguir atendiendo, permanecer y hacer. Denyer, pp. 237–240, especialmente 239 (C2-BIB-05), ayuda a evitar una oposición simplista entre un vistazo rápido y una mirada prolongada. Su propuesta de paralelo platónico no se presenta como dependencia demostrada.
 [^12]: Galante et al. 2023 (C2-REV-01); Goyal et al. 2014 (C2-REV-02); Goldberg et al. 2022 (C2-REV-03). Son programas específicos, no ensayos de nuestra definición bíblica. No sumar muestras superpuestas entre revisiones ni confundir falta de superioridad con equivalencia demostrada.
 [^13]: Carlson, Bacaseta y Simanton 1988 (C2-CLI-01), 36 participantes. Consulta parcial: resumen editorial original, sin acceso al método/resultados íntegros.
-[^14]: Button y De Pretto 2023 (C2-CLI-02), grupos reportados 29/32. Resumen original y cinco suplementos primarios leídos; artículo completo no consultado. El suplemento identifica control pasivo, práctica flexible y exclusiones por variable. No se afirma que 61 personas completaran siete sesiones ni una interacción no comprobada.
+[^14]: Button y De Pretto 2023 (C2-CLI-02), grupos reportados 29/32. El resumen original informa mejoras significativas frente al grupo de control en esperanza y bienestar; se leyeron además cinco suplementos primarios, pero no el artículo completo. El suplemento identifica control pasivo, práctica flexible y exclusiones por variable. No se afirma que 61 personas completaran siete sesiones ni se extrapola el resultado a cada subescala o análisis no cotejado.
 [^15]: Vazquez et al. 2024 (C2-CLI-03), 42 participantes reportados, 23/19. Resumen original en EBSCO y datos editoriales corroborados. No acceso al artículo completo. El resultado nulo no demuestra ausencia de cualquier efecto posible.
 [^16]: Knabb et al. 2020 (C2-CLI-04), artículo completo: 101 asignados, 71 en el análisis denominado ITT, 54 completos. Programa de cuatro encuentros, con postest al comienzo del cuarto y dos semanas efectivas de práctica meditativa. Pensamiento repetitivo: diferencia favorable; ansiedad: interacción p=.12 y ANCOVA p=.34. Sin prueba de prevención de trastornos a largo plazo.
 [^17]: Newberg et al. 2001 y 2003 (C2-NEW-01 y C2-NEW-02), originales completos. Los controles adicionales evaluaron reposo o estabilidad instrumental, no eficacia clínica. Se omiten porcentajes de 2003 porque resumen y resultados difieren.
