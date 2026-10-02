@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; investigación de C3 terminada, redacción y auditorías pendientes; resto del desarrollo interno pendiente.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; investigación y primera redacción completa de C3 terminadas localmente, auditorías posteriores pendientes; resto del desarrollo interno pendiente.
 
 ## Estructura marco
 
@@ -57,3 +57,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-01 (Córdoba):** autorizado el capítulo 3 completo con nueve etapas de investigación, redacción y auditoría, y publicación verificada en main. La comparación se delimitará por prácticas concretas a partir de fuentes primarias y especialistas. Se conserva C1/C2 como base, incluida la auditoría posterior de C2 integrada en `8548102`; no se autoriza avanzar C4 ni cerrar otras decisiones abiertas.
 
 - **2026-10-02 UTC:** etapa 1 de C3 terminada: expediente general, matriz por prácticas con doce dimensiones, cuatro anexos temáticos y registro bibliográfico actualizado. Se conserva la definición textual de C1 y los límites de C2; no se identificó una corrección objetiva que requiera modificarlos. La selección de ejemplos del expediente orienta la futura redacción de C3, sin cerrar el índice general ni las decisiones abiertas. Redacción y auditorías del manuscrito pendientes; C4 no iniciado.
+
+- **2026-10-02 UTC:** etapa 2 de C3 terminada localmente sobre el checkpoint de investigación `ce9146009017f3e00ba70167cb17b7968cbd8b11`: capítulo completo en prosa, notas y trazabilidad con los IDs existentes. Su organización compara problemas concretos; no reproduce los diecisiete casos como catálogo ni añade una antropología cristiana no establecida. Definición de C1 y manuscritos C1/C2 intactos. La redacción no equivale a aprobación editorial ni cierre del encargo: faltan las siete auditorías independientes y guardar/verificar este checkpoint en main. No se cerraron decisiones generales ni se avanzó a C4.

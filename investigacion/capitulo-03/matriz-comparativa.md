@@ -1,6 +1,6 @@
 # Matriz comparativa de prácticas para el capítulo 3
 
-Fecha: 2026-10-02 UTC. Estado: investigación terminada; redacción pendiente. Esta matriz describe prácticas y fuentes identificadas. No clasifica religiones por su valor, no certifica resultados de sus practicantes y no propone un método para el lector.
+Fecha: 2026-10-02 UTC. Estado: investigación terminada; utilizada para la primera redacción completa de C3, con auditorías posteriores pendientes. Esta matriz describe prácticas y fuentes identificadas. No clasifica religiones por su valor, no certifica resultados de sus practicantes y no propone un método para el lector.
 
 **Base bíblica exacta de C1:** «Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta». Es una síntesis interpretativa de pasajes, no una técnica uniforme ni la definición de toda práctica cristiana posterior. C2 la conserva: mantener presente lo conocido de Dios para que oriente la respuesta; comprender mejor aparece explícitamente en algunos textos, no como propósito verbalizado por todos.
 

@@ -14,6 +14,8 @@ El 2026-10-01 (hora de Córdoba; 2026-10-02 UTC), el autor autorizó expresament
 
 Se requieren nueve etapas identificables: investigación comparativa, redacción, auditoría de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje, continuidad C1/C2 y auditoría final. Comparar prácticas concretas con fuentes propias, separar técnica/finalidad/cosmovisión/efectos y preservar los límites documentales. Reutilizar C2 sin reabrir lo resuelto salvo nueva evidencia. C1/C2 sólo pueden cambiar por correcciones objetivas justificadas. Guardar checkpoints y verificar el resultado completo desde main. No avanzar al capítulo 4 ni cerrar decisiones generales abiertas.
 
-### Estado de C3 después de la investigación
+### Estado de C3 después de la primera redacción
 
-La etapa 1 quedó terminada el 2026-10-02 UTC. Consultar el expediente general, la matriz y los cuatro anexos en `investigacion/capitulo-03/`, junto con el registro bibliográfico actualizado, antes de redactar. No presentar las fuentes normativas como prueba de efectos ni las páginas pendientes de Jennings 2017 como leídas. La redacción y sus auditorías posteriores aún no se realizaron; la autorización vigente permite continuarlas. C1/C2 permanecen sin cambios sustantivos y C4 fuera de alcance.
+Las etapas 1 y 2 quedaron terminadas localmente el 2026-10-02 UTC: investigación comparativa y primera redacción completa de C3. Consultar el manuscrito, el expediente general, la matriz y los cuatro anexos en `investigacion/capitulo-03/`, junto con el registro bibliográfico, antes de auditar. No presentar las fuentes normativas como prueba de efectos ni las páginas pendientes de Jennings 2017 como leídas.
+
+Permanecen pendientes las etapas 3–9: auditorías independientes de tradiciones, Jennings, ciencia, equidad comparativa, lenguaje, continuidad y revisión final. No confundir las comprobaciones de integridad de la redacción con esas auditorías. El checkpoint remoto de la etapa 2 aún debe guardarse y verificarse; no se certifica aquí su publicación. C1/C2 permanecen sin cambios y C4 fuera de alcance.

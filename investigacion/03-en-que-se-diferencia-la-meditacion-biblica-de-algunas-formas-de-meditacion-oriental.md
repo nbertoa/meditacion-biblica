@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: etapa 1 terminada; redacción y auditorías del manuscrito pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta. No es el capítulo del libro ni una auditoría de un manuscrito ya escrito.
+Fecha: 2026-10-02 UTC. **Estado: etapas 1 y 2 terminadas localmente; siete auditorías posteriores pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 2 está preparada para guardar y verificar su checkpoint remoto.
 
 ## Resultado de la investigación
 
@@ -189,17 +189,67 @@ Los estados exactos están en el registro y los anexos. Los límites materiales 
 - **Ciencia:** Cochrane 2024, resumen/síntesis completos y extractos del cuerpo, no todos sus ensayos. Los grados de lectura de los estudios de C2 permanecen sin ampliarse por simple reutilización
 - **Historia cristiana:** selección de Guigo y párrafos/contextos de White; ninguna lectura de esos fragmentos equivale a libro completo ni demuestra dependencia histórica
 
-## Paso editorial que queda habilitado
+## Paso editorial habilitado al cerrar la etapa 1
 
 Hay evidencia suficiente para escribir C3 con una organización por objeto, operación, propósito y marco de interpretación. Esa organización es una propuesta de trabajo basada en lo investigado, no un nuevo índice general acordado. La prosa debe seleccionar ejemplos y dejar el detalle en notas/anexos, en vez de reproducir una tabla o dedicar un bloque enciclopédico a cada tradición.
 
 La investigación no convierte C3 en refutación de Jennings: su guía aporta preguntas que ahora pueden contestarse desde fuentes independientes y propias de cada tradición. El lugar de la ciencia es limitado y correctivo. No se añaden instrucciones prácticas de C4 ni experiencias del autor.
 
-**Etapa 1 completada.** Permanecen pendientes la primera redacción y las auditorías independientes de tradiciones, Jennings, ciencia, equidad, lenguaje, continuidad y revisión final. No se crean informes vacíos ni se declara realizada ninguna de esas auditorías futuras.
+**Etapa 1 completada.** Al cerrar esa etapa quedaban pendientes la primera redacción y las auditorías independientes de tradiciones, Jennings, ciencia, equidad, lenguaje, continuidad y revisión final. El avance posterior se registra abajo; no se crean informes vacíos ni se declara realizada ninguna auditoría futura.
 
 
 ## Comprobación de integridad de la etapa 1
 
 Se verificaron enlaces relativos y anclas, correspondencia de notas y llamadas, identificadores bibliográficos únicos y presencia de las fuentes citadas. Las cinco tablas comparativas contienen los mismos diecisiete casos; la matriz Jennings conserva cincuenta identificadores de afirmación únicos. El registro reúne 106 fuentes identificadas, con 62 filas añadidas o formalizadas en esta etapa, incluidas cinco para estudios ya documentados en C2 sin ID propio.
 
-Los manuscritos C1/C2, sus expedientes y auditorías permanecen sin modificaciones. No se generaron manuscrito C3, informes de auditorías futuras, archivos de C4 ni copias temporales de fuentes dentro del repositorio. Este control de integridad no sustituye las auditorías sustantivas posteriores a la redacción.
+Los manuscritos C1/C2, sus expedientes y auditorías permanecieron sin modificaciones. Al cerrar la etapa 1 no se habían generado manuscrito C3, informes de auditorías futuras, archivos de C4 ni copias temporales de fuentes dentro del repositorio. Ese control de integridad no sustituye las auditorías sustantivas posteriores a la redacción.
+
+## Etapa 2 — Primera redacción completa
+
+Fecha: 2026-10-02 UTC. Base: `ce9146009017f3e00ba70167cb17b7968cbd8b11`, checkpoint de investigación anterior a la prosa. Se escribió el [capítulo completo](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md) en el árbol local. No se hicieron commits ni operaciones de publicación en esta pasada; su integración y verificación remota quedan a cargo del checkpoint siguiente.
+
+### Lectura previa y selección narrativa
+
+Antes de redactar se leyeron íntegramente las instrucciones del encargo, las instrucciones y el plan del proyecto, C1/C2 con notas, sus expedientes y auditorías disponibles, los anexos C2, el inventario léxico, el registro bibliográfico, el catálogo de prácticas y el registro de experiencias. Se leyeron el expediente general C3, los diecisiete casos de la matriz y los cuatro anexos temáticos. La investigación precedió a la escritura; el capítulo no se construyó a partir de una comparación prefijada.
+
+Se hicieron cotejos puntuales adicionales de los pasajes centrales de MN19, MN118, AN11.12, SN22.59, la guía oficial de zazen y la explicación de *hishiryō* de Tsunoda, así como de la transcripción de Maharishi sobre el mantra. Se consultaron pasajes pertinentes de las copias de Jennings ya conservadas. Esos cotejos no constituyen nuevas lecturas completas de todo el corpus ni una auditoría independiente de tradiciones. Los estudios científicos se reutilizaron con su alcance documental final de C2.
+
+La organización elegida parte de una escena comparativa hipotética y avanza por problemas: objeto de atención; tratamiento de pensamientos; concentración y cesación; repetición y significado; observación sin juicio y conducta; divinidad y finalidad; comprensión del yo. Cierra con un balance breve de Jennings y una síntesis. No es una secuencia obligatoria de preguntas y respuestas ni un catálogo de los diecisiete casos investigados.
+
+### Tesis, ejemplos y cobertura
+
+La tesis es que las semejanzas de atención, recuerdo, repetición, devoción y examen ético pueden ser sustantivas, pero no vuelven idénticos el contenido, el método, la finalidad o la comprensión religiosa. La diferencia bíblica conserva exactamente la definición de C1. Los casos no bíblicos se describen desde sus propias fuentes, sin atribuirles por su procedencia deterioro cognitivo, ausencia de ética ni identidad doctrinal.
+
+| Problema comparativo | Desarrollo en el manuscrito |
+|---|---|
+| «Llenar/vaciar», contenido y silencio bíblico | Apertura y «Qué se hace con los pensamientos»: atención significativa sin exigir discurso continuo; MN19 y Sōtō impiden la oposición universal |
+| Objetos y acciones concretas | Respiración de MN118, registro inicial de Mahāsi y evocaciones de AN11.12 frente a memoria/reflexión bíblica |
+| Quietud real y límite del diagnóstico | Yoga con objeto y culminación de cesación se distinguen expresamente; no se reducen a relajarse para pensar mejor ni se convierten en pérdida crítica |
+| Repetición, mantra y significado | Josué, Oṃ-japa y MT; Sivananda como apoyo breve y nota. Se diferencia compartir repetición de identidad psicológica o teológica |
+| Mindfulness, memoria y juicio | MBSR identificado como programa moderno separado; ejemplo hipotético del enojo; *sati* y conducta del camino budista; preceptos Sōtō y Yoga |
+| Dios, fines y experiencia | Relación bíblica, Buda/devas, nirvana/renacimiento, práctica-realización Sōtō, Krishna y finalidad clínica de MBSR. Calma no iguala doctrinas |
+| No-yo y diferencias hindúes | Explicación acotada de SN22.59/SN5.10; puruṣa y naturaleza; desacuerdo de comentaristas de Gītā. No se agrega teoría cristiana del alma |
+| Jennings y ciencia | Aportes de contenido/respuesta y límites de sus generalizaciones; Schjoedt y Newberg 2001 sólo para corregir inferencias, sin nuevo catálogo clínico |
+| Transferencia de técnicas | El cierre distingue una acción corporal de adoptar un camino completo y reconoce que quitar referente/meta puede transformar la práctica |
+
+No entran en una exposición sustantiva los protocolos de kōan, Tierra Pura, tantra, Goenka o Pa Auk. No estaban suficientemente investigados desde fuentes propias para eso. El recuerdo comentarial de Buddhaghosa y las precisiones de *samatha/vipassanā* permanecen principalmente en notas; no necesitan duplicar el argumento canónico. La visualización de Newberg sólo se describe hasta donde la identifica su estudio. Las notas conservan traducciones, obras, páginas/secciones, IDs y estados parciales.
+
+### Continuidad, límites y trabajo pendiente
+
+C1/C2 y sus expedientes/auditorías no se modificaron. La definición de C1 aparece reproducida literalmente; no se impone un método uniforme, una prohibición de repetir ni una doctrina del alma. No se reabrió la evidencia clínica ni se repitió su inventario. Los ejemplos cotidianos se presentan como ilustraciones, no experiencias del autor. No se añadieron ejercicios ni métodos de C4.
+
+Persisten los límites de consulta ya registrados, especialmente Jennings 2017 pp. 222–228, la cadena exacta hacia Newberg/Waldman y el original contextual de Govinda. La redacción no los presenta como leídos. Las fuentes normativas documentan enseñanza y finalidad; no prueban logros morales, seguridad o efectos clínicos. No se asigna una tasa de riesgo a una práctica que no fue estudiada.
+
+Se actualizaron los estados de README, AGENTS, plan, registro bibliográfico, índice de investigación y matriz. **Faltan las etapas 3–9**, cada una con su revisión identificable: tradiciones, Jennings, ciencia, equidad, lenguaje, continuidad y auditoría final. La revisión de redacción y los controles estructurales de esta etapa no las reemplazan. No se crearon informes anticipados.
+
+### Comprobaciones locales de la etapa 2
+
+- 4072 palabras antes de notas, contando título y subtítulos; 34 notas únicas y 34 llamadas, sin faltantes, huérfanas ni duplicadas
+- 54 identificadores bibliográficos citados en el capítulo, todos presentes; 106 identificadores únicos en el registro, sin duplicados
+- Enlaces relativos de todo el repositorio comprobados; anclas del nuevo capítulo cotejadas con los encabezados de destino
+- C1/C2 idénticos, byte por byte, al checkpoint de investigación; definición textual de C1 conservada en C3
+- `git diff --check` sin errores y sin marcadores de conflicto; ocho archivos previstos entre nuevo manuscrito y estados documentales
+- Ningún informe de auditoría futura, archivo de C4, fuente descargada ni temporal agregado al repositorio
+- SHA256 del manuscrito preparado: `ef2b58996784e4b0e38f792b14674fcba09f6cd59e730bb82afcbf4dd679527b`
+
+Estas comprobaciones validan la integridad local del entregable de redacción. La publicación y la lectura desde main corresponden al checkpoint posterior; no se informan como realizadas aquí.

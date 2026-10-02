@@ -92,7 +92,7 @@ La [matriz Jennings/Newberg](../investigacion/capitulo-02/jennings-y-matriz.md) 
 
 ## Fuentes incorporadas y reutilizadas para el capítulo 3 — 2026-10-02 UTC
 
-Estado: investigación comparativa terminada, redacción y auditorías del manuscrito pendientes. Se mantienen los identificadores de C1/C2: volver a citar una fuente no la convierte en fuente nueva ni en una lectura completa adicional. El [expediente de C3](../investigacion/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md) y sus anexos conservan el detalle de cada consulta, desacuerdo y límite.
+Estado: investigación comparativa y primera redacción completa de C3 terminadas localmente; auditorías del manuscrito pendientes. Las notas del capítulo utilizan los identificadores existentes. Se mantienen los de C1/C2: volver a citar una fuente no la convierte en fuente nueva ni en una lectura completa adicional. El [expediente de C3](../investigacion/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md) y sus anexos conservan el detalle de cada consulta, desacuerdo y límite.
 
 «Completo» califica el documento o discurso identificado, no toda una obra mayor, tradición, edición crítica o bibliografía citada. Para traducciones antiguas no se asigna una fecha de composición precisa por su fecha editorial; cuando la página no permite fijar versión o año, se declara. Una fuente normativa apoya la descripción de la práctica o su meta, no prueba resultados empíricos.
 
