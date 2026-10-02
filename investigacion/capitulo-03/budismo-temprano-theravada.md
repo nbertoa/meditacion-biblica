@@ -76,11 +76,13 @@ SN5.10 explica la designación convencional de un ser mediante el ejemplo de un 
 
 En SN44.10 el Buda permanece en silencio ante las dos respuestas propuestas por Vacchagotta, y explica el riesgo de reforzar eternalismo o aniquilacionismo. No usar ese silencio como prueba de un alma secreta ni como negación indiscriminada de toda persona. Hay disputas interpretativas sobre «no-yo» y «no es yo» que este expediente no resuelve. [SN44.10 completo](https://accesstoinsight.org/tipitaka/sn/sn44/sn44.010.than.html).
 
+**Contraste de la etapa 3:** Siderits, «Buddha», §§1–3 (C3-BUD-21), objeta reducir el no-yo a consejo terapéutico y expone su lectura filosófica de la negación de un sujeto sustancial. Ṭhānissaro, «The Limits of Description» (C3-BUD-22), discute convertir la enseñanza en una ontología de la persona. Se registran las interpretaciones sin resolverlas mediante el silencio de SN44.10. El manuscrito conserva agregados, designación convencional y liberación: no lo reduce a humildad ni prescribe eliminar a la persona.
+
 Para C3 basta una diferencia delimitada: la práctica bíblica definida en C1/C2 se orienta a responder a Dios; estos textos analizan el apego a los componentes de la experiencia en otro marco de liberación. No hace falta introducir una doctrina cristiana del alma inmortal que el libro no ha establecido.
 
 ### Divinidades y recuerdo
 
-AN11.12 prescribe recuerdos del Buda, Dhamma, comunidad, virtud, generosidad y devas. Describe al Buda como maestro de seres humanos y divinos. El objeto de esas evocaciones tiene contenido, valoración y orientación formativa. [AN11.12 completo](https://www.dhammatalks.org/suttas/AN/AN11_12.html).
+AN11.12 prescribe recuerdos del Buda, Dhamma, comunidad de discípulos nobles, la propia virtud y generosidad, y devas. Describe al Buda como maestro de seres humanos y divinos. El objeto de esas evocaciones tiene contenido, valoración y orientación formativa. [AN11.12 completo](https://www.dhammatalks.org/suttas/AN/AN11_12.html).
 
 El relato de Brahmā en DN1 explica críticamente cómo aparecer primero y desear compañía puede confundirse con haber creado a quienes aparecen después. Un ser que luego recuerda esa existencia, sin recordar lo anterior, transmite la creencia en un creador eterno. No describe un universo sin seres divinos. La afirmación comparativa prudente es que el camino examinado no se funda en la relación con un Dios creador equivalente al Dios de los pasajes bíblicos. [DN1, sección «Partial Eternalism», primer caso](https://www.dhammatalks.org/suttas/DN/DN01.html). Sólo se consultó ese tramo pertinente y contexto inmediato, no todo DN1.
 
@@ -115,7 +117,7 @@ Las dos tablas forman una única matriz mediante los identificadores B1–B7. «
 | B4 | Discurso pali: examen de pensamientos y jhāna | MN19 | Evaluar pensamientos y estabilizar la mente | Razonamiento ético y símiles; después menor elaboración | Abandonar lo dañino; tampoco prolongar indefinidamente lo favorable |
 | B5 | Discurso pali: evocaciones de cualidades | AN11.12 | Recordar Buda, enseñanza, comunidad y cualidades virtuosas | Contenido formulable en palabras; no sólo sílabas sin significado | Mantener un tema valorado, orientando la mente |
 | B6 | Theravāda del siglo V: recuerdo del Buda | Visuddhimagga VII.1–2, 65–67 | Considerar cualidades del Buda | Comprensión del significado de esas cualidades | Pensamiento aplicado y sostenido; concentración de acceso |
-| B7 | Theravāda moderno: método de Mahāsi, ejercicios iniciales | Practical Insight Meditation, preparación e I–III | Registrar movimiento abdominal y sucesos mentales/corporales | Etiquetas mentales breves; no recitarlas mecánicamente en voz alta | Notar pensar, imaginar o distraerse y volver al objeto |
+| B7 | Theravāda moderno: método de Mahāsi, ejercicios iniciales | Practical Insight Meditation, preparación e I–IV | Registrar movimiento abdominal y sucesos mentales/corporales | Etiquetas mentales breves; no recitarlas mecánicamente en voz alta | Notar pensar, imaginar o distraerse y volver al objeto |
 
 ### Propósito, marco y comparación
 
@@ -137,7 +139,9 @@ El *Visuddhimagga* es un manual de Buddhaghosa, no otro nombre de MN10. Su recue
 
 Anālayo describe diferencias modernas concretas: Mahāsi privilegia el registro de sucesos; Goenka, el recorrido de sensaciones corporales tras preparación respiratoria; Pa Auk dedica mucho más desarrollo formal a la concentración. Se trata de su descripción de 2012, no de un censo actualizado. Sus categorías no convierten «sin entrenamiento separado previo de calma» en «sin concentración». Para exponer protocolos completos de Goenka o Pa Auk harían falta sus manuales primarios, que no fueron leídos aquí. [Anālayo 2012, pp. 25–29](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/dynamics-of-insight.pdf).
 
-En el manual de Mahāsi, las instrucciones observacionales están precedidas por preceptos y reflexiones religiosas. Por eso no es adecuado presentar ese protocolo completo como una técnica clínicamente secular. A la vez, el ejercicio de registrar un pensamiento no consiste en estudiar su significado como se estudiaría un versículo. [Mahāsi, preparación y ejercicios I–III](https://www.aimwell.org/practical.html).
+El ejercicio II nombra pensar, imaginar y reflexionar; IV incluye expresamente reconocer que se está recordando. La nota 3 del manuscrito fue precisada en esta auditoría para que ese último ejemplo no quede atribuido sólo a I–III.
+
+En el manual de Mahāsi, las instrucciones observacionales están precedidas por preceptos y reflexiones religiosas. Por eso no es adecuado presentar ese protocolo completo como una técnica clínicamente secular. A la vez, el ejercicio de registrar un pensamiento no consiste en estudiar su significado como se estudiaría un versículo. [Mahāsi, preparación y ejercicios I–IV](https://www.aimwell.org/practical.html).
 
 **Límite de seguridad documental:** ese manual incluye garantías acerca de dolores o sensaciones difíciles y perseverancia. Se registran como afirmaciones del maestro, no como evidencia médica ni consejos del libro. No inferir que toda dificultad es progreso espiritual, que nunca hace falta ayuda o que no puede haber daño.
 
@@ -173,7 +177,7 @@ Se distinguen traducción completa del discurso, notas editoriales y lectura par
 
 | ID bibliográfico | Fuente y localizador | Consulta efectiva |
 |---|---|---|
-| C3-BUD-01 | MN10, *Satipaṭṭhāna Sutta*, Ṭhānissaro, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html) | Discurso completo, A–E; se distinguió del extenso aparato de la versión actual |
+| C3-BUD-01 | MN10, *Satipaṭṭhāna Sutta*, Ṭhānissaro, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html) | Discurso completo A–E y nota en Access to Insight, revisión 30-11-2013. En etapa 3 se verificó esta versión exacta; no confundirla con la versión ampliada de Dhammatalks conservada anteriormente |
 | C3-BUD-02 | DN22, *Mahā Satipaṭṭhāna Sutta*, Ṭhānissaro, [Dhammatalks](https://www.dhammatalks.org/suttas/DN/DN22.html) | Discurso completo, A–E; introducción y notas sólo en tramos pertinentes |
 | C3-BUD-03 | MN118, *Ānāpānasati Sutta*, Ṭhānissaro, [Dhammatalks](https://www.dhammatalks.org/suttas/MN/MN118.html) | Discurso y seis notas completos |
 | C3-BUD-04 | MN19, *Dvedhāvitakka Sutta*, Ṭhānissaro, [Dhammatalks](https://www.dhammatalks.org/suttas/MN/MN19.html) | Discurso completo |
@@ -191,7 +195,7 @@ Se distinguen traducción completa del discurso, notas editoriales y lectura par
 | C3-BUD-16 | Anālayo. 2018. «Mindfulness Constructs in Early Buddhism and Theravāda: Another Contribution to the Memory Debate». *Mindfulness* 9, 1047–1051. [DOI](https://doi.org/10.1007/s12671-018-0967-3) · [manuscrito del autor](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/mindfulnessconstructs.pdf) | Manuscrito completo de nueve páginas con paginación editorial entre corchetes |
 | C3-BUD-17 | Levman, Bryan. 2018. «Sati, Memory, and Wisdom…». *Mindfulness* 9(6), 1981–1986. [DOI](https://doi.org/10.1007/s12671-018-1008-y) · [copia subida por el autor](https://www.researchgate.net/publication/327624257_Sati_Memory_and_Wisdom_Response_to_Ven_Analayo%27s_Mindfulness_Constructs_in_Early_Buddhism_and_Theravada_Another_Contribution_to_the_Memory_Debate) | Argumento completo en transcripción de la copia del autor, desde introducción hasta conclusión; bibliografía consultada parcialmente. No PDF descargado. Cabecera de ResearchGate conserva paginación preliminar; se cita la editorial final |
 | C3-BUD-18 | Anālayo. 2012. «The Dynamics of Theravāda Insight Meditation». En *Buddhist Meditation Traditions: An International Symposium*, 25–56. Dharma Drum Publishing. [PDF del autor](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/dynamics-of-insight.pdf) | Parcial: resumen y sección I, pp. 25–29, incluidas notas; comienzo de II. No auditadas íntegramente II–III |
-| C3-BUD-19 | Mahāsi Sayādaw. *Practical Insight Meditation*, traducciones de U Pe Thin y Myanaung U Tin; prefacio fechado 1-10-1970. [Texto consultado](https://www.aimwell.org/practical.html) | Parcial: prefacio, preparación y ejercicios I–III; no toda la sección de progreso contemplativo. Se registra como fuente de este método |
+| C3-BUD-19 | Mahāsi Sayādaw. *Practical Insight Meditation*, traducciones de U Pe Thin y Myanaung U Tin; prefacio fechado 1-10-1970. [Texto consultado](https://www.aimwell.org/practical.html) | Etapa 1: lectura parcial. Etapa 3: texto electrónico disponible completo, con prefacio, preparación, ejercicios I–IV, Advancement in Contemplation, Summary y notas 1–5; sin cotejo del tratado birmano ni de una edición impresa. II sustenta pensar; IV, recordar |
 | C3-BUD-20 | Buddhaghosa. *The Path of Purification (Visuddhimagga)*, trad. Ñāṇamoli, BPS, edición digital 2011. [PDF](https://www.urbandharma.org/pdf1/PathofPurification2011.pdf) | Parcial: índice, VII.1–2 y 65–67, pp. impresas 186–188 y 208–209; contexto de III.103–104. No libro completo |
 
 ## Control de continuidad y pendientes

@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: etapas 1 y 2 terminadas localmente; siete auditorías posteriores pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 2 está preparada para guardar y verificar su checkpoint remoto.
+Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditoría de tradiciones realizadas; etapas 4–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70` y está preparada localmente para su publicación.
 
 ## Resultado de la investigación
 
@@ -10,7 +10,7 @@ La comparación puede avanzar si abandona «meditación oriental» como nombre d
 
 La diferencia bíblica de este libro sigue siendo la establecida en C1: **«Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta»**. Ese contenido significativo no exige una cadena de análisis discursivo ininterrumpida. Puede incluir recitación, memoria, oración, agradecimiento y reflexión interior, con las relaciones y diferencias ya reconocidas entre esas acciones.
 
-Por eso hay semejanzas concretas sin identidad total. Volver a un objeto, recordar algo valorado o cultivar una disposición puede aparecer en marcos distintos. También hay diferencias que no se borran diciendo que todo busca bienestar: la respuesta al Dios conocido por sus palabras y obras, el nibbāna de los discursos pali, el kaivalya del Yoga clásico, la práctica-realización Sōtō y el afrontamiento del estrés de un programa clínico no son metas intercambiables. Su contraste no resuelve automáticamente la compatibilidad de cada componente o adaptación.
+Por eso hay semejanzas concretas sin identidad total. Volver a un objeto, recordar algo valorado o cultivar una disposición puede aparecer en marcos distintos. También hay diferencias que no se borran diciendo que todo busca bienestar: la respuesta al Dios conocido por sus palabras y obras, el nibbāna de los discursos pali, el kaivalya del Yoga clásico, la práctica-realización Sōtō y los objetivos clínicos y formativos de MBSR no son metas que debamos dar por idénticas. En MBSR se distingue la participación sin creencias obligatorias del horizonte de transformación que declara su fundador. Su contraste no resuelve automáticamente la compatibilidad de cada componente o adaptación.
 
 Este resultado se apoya en la [matriz de diecisiete casos](capitulo-03/matriz-comparativa.md) y los anexos. **Las fuentes normativas de ambos lados describen instrucciones, ideales y creencias; no prueban resultados morales o clínicos.** Los efectos necesitan estudios de la práctica realmente ejecutada, en una población, duración y comparación identificables.
 
@@ -35,6 +35,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Yoga clásico, Gītā, japa y MT](capitulo-03/yoga-gita-mantra-mt.md) | Dhāraṇā/dhyāna/samādhi, cesación, Īśvara, Oṃ, ética; Gītā 6 y comentaristas; Sivananda; MT como técnica moderna y un control clínico acotado |
 | [Zen Sōtō y MBSR](capitulo-03/zen-mbsr.md) | Zazen/shikantaza desde Dōgen y especialistas; postura, pensamiento, despertar y preceptos; programa MBSR y dos componentes; raíces y recontextualización |
 | [Jennings: matriz de afirmaciones](capitulo-03/jennings-afirmaciones.md) | Cuarenta afirmaciones de la guía y diez del artículo; páginas/secciones, clases, fuentes, contraste, dictamen; identificación de Newberg 2001 y cadenas pendientes |
+| [Auditoría de tradiciones](capitulo-03/auditoria-tradiciones.md) | Etapa 3: cotejo frase por frase, originales, especialistas, objeciones y correcciones del manuscrito |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -79,7 +80,7 @@ Se excluyen de una exposición sustantiva el kōan Rinzai, Tierra Pura, las prá
 
 ### Contenido y quietud no forman dos bandos
 
-MN19 contiene evaluación de pensamientos y una transición hacia concentración que aquieta elaboración. YS III.1–3 mantiene un objeto mientras I.51/III.8 distingue una culminación de cesación. Gītā 6.25 no debe borrarse, pero tampoco aislarse de 6.14, 26, 32 y 47. El zazen Sōtō seleccionado suspende elaboración temática sin exigir detener toda actividad mental. Estos casos permiten reconocer diferencias reales sin distribuir razón y ausencia de razón por continente. Fuentes: C3-BUD-04, C3-YOG-01, C3-YOG-03, C3-GIT-01, C3-GIT-02 y C3-ZEN-03.
+MN19 contiene evaluación de pensamientos y una transición hacia concentración que aquieta elaboración. YS III.1–3 mantiene un objeto mientras I.51/III.8 distingue una culminación de cesación. Gītā 6.25 no debe borrarse, pero tampoco omitir su cláusula sobre establecer la mente en el ātman ni aislarse de 6.14, 26, 32 y 47; se registra el distinto alcance que dan sus comentaristas a «no pensar en nada». El zazen Sōtō seleccionado suspende elaboración temática sin exigir detener toda actividad mental. Estos casos permiten reconocer diferencias reales sin distribuir razón y ausencia de razón por continente. Fuentes: C3-BUD-04, C3-YOG-01, C3-YOG-03, C3-GIT-01, C3-GIT-02 y C3-ZEN-03.
 
 ### Memoria, repetición y significado se combinan de diversas maneras
 
@@ -182,7 +183,7 @@ Quedan abiertos detalles de traducción y exégesis de sati, vitakka-vicāra, dh
 Los estados exactos están en el registro y los anexos. Los límites materiales más importantes son:
 
 - **Jennings 2017:** ficha/índice, sin pp. 222–228 y notas; Govinda original pendiente, con rastro secundario parcial; Newberg/Waldman 2009 conserva ficha/índice/extracto, no todas sus notas
-- **Budismo:** DN1 sólo sección pertinente; Visuddhimagga sólo pasajes; Mahāsi sólo preparación y ejercicios I–III; Anālayo 2012 sólo inicio/sección I; Levman argumento completo, bibliografía parcial. Sin colación crítica pali/china exhaustiva
+- **Budismo:** DN1 sólo sección pertinente; Visuddhimagga sólo pasajes; Mahāsi: en la etapa 3 se releyó completo el texto electrónico disponible, no el tratado birmano ni una edición impresa; Anālayo 2012 sólo inicio/sección I; Levman argumento completo, bibliografía parcial. Sin colación crítica pali/china exhaustiva
 - **Yoga/Gītā/japa:** selección de sūtras/comentarios Woods; Bryant artículo por secciones, no su libro; Maas pasajes pertinentes; Roots of Yoga extracto; Gītā 6 completo en Ganguli, cotejos modernos/comentaristas parciales e indexados; Sivananda extracto, no libro
 - **Zen:** Fukanzazengi y varios ensayos institucionales completos; Bendōwa, Genjōkōan, Soku shin ze butsu e introducción Sōtō parciales. Sin edición crítica japonesa/china; sin corpus propio completo Rinzai; Bielefeldt localizado pero no usado como leído
 - **MBSR:** método inicial de Kabat-Zinn 1982, currículo 2017 y artículo 2011 leídos por secciones; artículo curricular 2023 parcial; Full Catastrophe Living no leído íntegramente. No se presentan como auditorías de resultados nuevos
@@ -253,3 +254,23 @@ Se actualizaron los estados de README, AGENTS, plan, registro bibliográfico, í
 - SHA256 del manuscrito preparado: `ef2b58996784e4b0e38f792b14674fcba09f6cd59e730bb82afcbf4dd679527b`
 
 Estas comprobaciones validan la integridad local del entregable de redacción. La publicación y la lectura desde main corresponden al checkpoint posterior; no se informan como realizadas aquí.
+
+## Etapa 3 — Auditoría independiente de tradiciones
+
+Fecha: 2026-10-02 UTC. Base: `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. Se completó el cotejo del capítulo frase por frase con fuentes de budismo temprano/Theravāda, Sōtō, Yoga/Gītā/japa/MT y MBSR. El [informe de auditoría](capitulo-03/auditoria-tradiciones.md) identifica afirmaciones, originales traducidos, especialistas, objeciones y grados reales de lectura. No sustituye las auditorías de Jennings, ciencia, equidad, lenguaje, continuidad ni revisión final.
+
+Se precisaron dos puntos de contexto: MBSR no se reduce al manejo instrumental del estrés en la interpretación de su fundador; Gītā 6.25 incluye establecer la mente en el ātman y recibe comentarios con distinto alcance. Se corrigieron localizadores de Mahāsi IV y Woods I.3–4, y la identidad de la versión de MN10 enlazada. Las precisiones Sōtō conservan la importancia de la postura y la inseparabilidad de práctica-realización. Los controles adicionales sobre no-yo se dejaron en investigación, sin convertir el capítulo en una discusión filosófica extensa.
+
+La definición de C1 y los manuscritos C1/C2 permanecen intactos. No se reabrió la evidencia empírica ni se añadieron métodos de C4. Se mantienen los límites de acceso a Gītā 6.29 y las cadenas documentales de Jennings pendientes. La etapa 3 está terminada localmente; faltan su publicación y las etapas 4–9.
+
+### Comprobaciones locales de la etapa 3
+
+- 34 notas definidas y 34 notas citadas distintas; 35 llamadas porque la nota 18 se reutiliza en dos pasajes. Sin notas faltantes, huérfanas ni definiciones duplicadas
+- 54 IDs bibliográficos en C3, todos existentes; 110 IDs únicos en el registro, incluidos cuatro controles especializados nuevos
+- Enlaces relativos y anclas de todo el repositorio comprobados; cinco tablas con los mismos diecisiete casos
+- Definición literal de C1 conservada en C3; manuscritos C1/C2 idénticos byte por byte al checkpoint de partida
+- `git diff --check` sin errores; sin marcadores de conflicto, fuentes descargadas, temporales ni archivos de C4 agregados al repositorio
+- Cambios limitados a C3, su documentación, registro y estados de avance; sin commits ni operaciones de publicación en esta pasada
+- SHA256 de C3: `9b2e5e020a74bf7f6a28e07ebcf538f59ec5bd45f6c873d8dab143ea0599aaaa`
+
+La comprobación desde main queda a cargo del checkpoint de integración; no se informa como realizada aquí.
