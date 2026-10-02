@@ -1,10 +1,10 @@
 # C4 — Matriz de afirmaciones y prácticas
 
-Fecha: 2026-10-02 UTC. Etapa 1 completada localmente sobre `b832d03f951a6c0b71246d66dcc89727e4183305`. La matriz permite comprobar qué respalda cada decisión antes de redactar. No es un índice bibliográfico nuevo ni evidencia de eficacia.
+Fecha: 2026-10-02 UTC. Diseño de etapa 1 sobre `b832d03f951a6c0b71246d66dcc89727e4183305`; cobertura de redacción de etapa 2 sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. La matriz vincula respaldos con el manuscrito completo local. No es un índice bibliográfico nuevo, evidencia de eficacia ni certificación de las etapas 3–6.
 
 **A:** texto explícito; **B:** interpretación razonada; **C:** adaptación actual; **D:** tradición posterior. «Sólido» describe correspondencia textual en el alcance indicado, nunca certeza de resultados en lectores. Los accesos nuevos/heredados se detallan en [evidencia](evidencia-biblica.md) y en el [registro bibliográfico](../../fuentes/registro-bibliografico.md). El [catálogo](../../practicas/catalogo.md) conserva instrucciones, variantes y ejemplos completos.
 
-## Afirmaciones importantes que gobernarán la redacción
+## Afirmaciones importantes que gobiernan la redacción
 
 | ID de afirmación | Afirmación delimitada | Fuente y localizador | Nivel y certeza | Adaptación introducida | Objeción que controla | Decisión editorial |
 |---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Fecha: 2026-10-02 UTC. Etapa 1 completada localmente sobre `b832d03f951a6c0b7124
 | C4-A15 | Una imagen comunica por sus relaciones, no por un código inventado de cada detalle | Sal 1:1–6; Sal 77:16–20; TXT-CONT-01; C1/C2 | A/B, contexto | C: describir imagen y preguntar qué aporta | Alegorizar raíces o medir crecimiento espiritual | Variante breve de P03 |
 | C4-A16 | Lucas 10 contiene una parábola dentro de un diálogo; la pregunta final desplaza el foco hacia actuar como prójimo | Lc 10:25–37; TXT-CONT-01; COM-NET-01; C4-BIB-02 | A/B, bien apoyado | C: comparar preguntas y verbos | Lema aislado o aplicación idéntica a Santiago | Ejemplo E3 narrativo |
 | C4-A17 | Lucas no informa motivos del sacerdote/levita ni pensamientos del herido | Lc 10:30–35; COM-NET-01; C4-BIB-02, pp. 123–124 | A, límite del relato | C: distinguir dato, inferencia y adición | Pureza ritual, burro o diálogo inventados como dato | Cautela que cambia cómo imaginar |
-| C4-A18 | El diálogo aprueba amor a Dios/prójimo desde la Ley; no enseña una oposición religión judía sin amor/cristianismo compasivo | Lc 10:26–28; Dt 6:5; Lev 19:18, 33–34; C4-BIB-02 | A/B, control contextual | Ninguna reconstrucción total de judaísmo | Estereotipo usado para engrandecer el ejemplo | Conservar marco inicial de E3 |
+| C4-A18 | El diálogo aprueba amor a Dios/prójimo desde la Ley; no enseña una oposición religión judía sin amor/cristianismo compasivo | Lc 10:26–28; Dt 6:5; Lev 19:18, 33–34; C4-BIB-02; C4-BIB-03, párrafos samaritano/levita; NET Lc 10 notas 109–113 y Lc 9:51–56 | A/B, control contextual | Glosas de identidades sin reconstrucción total de judaísmo | Estereotipo usado para engrandecer el ejemplo | Conservar marco inicial de E3 y función de la identidad samaritana |
 | C4-A19 | Imaginar no es requisito, mandato del relato ni información independiente | C1; Lc 10; distinciones de P04 | B/C, límite metodológico | Representación prescindible y alternativa verbal | Visión intensa como prueba de fe o revelación | P04 ejecutable sin visualizar |
 | C4-A20 | Prov 26:4–5 ofrece razones diferentes; 12 cuestiona tenerse por sabio | Prov 26:1–12; COM-NET-01, notas 6–9 | A/B, lectura contextual | C: considerar situación y ambos riesgos | Usar un versículo para confirmar reacción | Contraste breve, no cuarta técnica |
 | C4-A21 | Guardar/recordar palabra no equivale sólo a recitarla exactamente | Sal 119:9–16; Dt 6; Sal 63; C1; TXT-CONT-01 | A/B, continuidad | C: elegir frase o resumen con referencia | Concurso de memoria o frase como oráculo privado | P05 con variantes y cotejo |
@@ -57,3 +57,21 @@ Los doce candidatos iniciales están cubiertos por agrupación, no por multiplic
 La futura etapa 3 deberá comprobar para cada fila P01–P08: instrucción ejecutable; evidencia identificable; pregunta corregible; observación e interpretación diferenciadas; posibilidad sin escritura/visualización; respuesta ligada al contexto; dificultad abierta; tono no coercitivo; fuente y acceso correctos. La matriz planifica esa cobertura, **no declara ya realizada la auditoría del manuscrito**.
 
 Auditorías especializadas adicionales no activadas con el alcance actual, por las razones del [expediente central](../04-como-meditar-con-las-escrituras.md). Si la redacción amplía el objeto, esa decisión debe revisarse antes del cierre.
+
+## Localización en el manuscrito de etapa 2
+
+La redacción conserva las ocho funciones y la selección investigada. Esta tabla localiza su desarrollo, sin declarar ejecutada la auditoría práctica de etapa 3. Los ejemplos y las instrucciones están en el cuerpo; el lector no necesita este mapa para usarlos.
+
+| Ficha o función | Secciones del manuscrito | Cobertura que podrá contrastar la auditoría |
+|---|---|---|
+| P01 | [Comienzo](../../capitulos/04-como-meditar-con-las-escrituras.md#un-modo-sencillo-de-empezar), [unidad](../../capitulos/04-como-meditar-con-las-escrituras.md#elegir-un-pasaje-que-conserve-su-sentido), [pregunta](../../capitulos/04-como-meditar-con-las-escrituras.md#volver-al-texto-con-una-pregunta), [Santiago](../../capitulos/04-como-meditar-con-las-escrituras.md#santiago-de-escuchar-a-responder) y [traducciones](../../capitulos/04-como-meditar-con-las-escrituras.md#cuando-ayuda-otra-traducción) | Secuencia flexible, observación e interpretación, pregunta corregible, consulta focal de versiones/comentarios y ejemplo E1 |
+| P02 | [Explicar y comprobar](../../capitulos/04-como-meditar-con-las-escrituras.md#explicar-con-palabras-propias-y-comprobar) | Sal 119:33–40; sujeto/petición/finalidad; resumen reconocido como propio y corregido contra texto |
+| P03 | [Salmo](../../capitulos/04-como-meditar-con-las-escrituras.md#seguir-la-voz-de-un-salmo) e [imagen](../../capitulos/04-como-meditar-con-las-escrituras.md#detenerse-en-una-imagen) | E2 completo; Sal 77:10 abierto; final sin emoción inventada; árbol/paja sin código añadido |
+| P04 | [Historia](../../capitulos/04-como-meditar-con-las-escrituras.md#recorrer-una-historia-sin-escribir-otra) | E3 completo; conversación/parábola, acciones y preguntas, identidades aclaradas, imaginación retirable y alternativa verbal |
+| P05 | [Recuerdo](../../capitulos/04-como-meditar-con-las-escrituras.md#conservar-una-enseñanza-para-volver-durante-el-día) | Frase/contexto, versión exacta o resumen, cotejo, ocasión cotidiana y posibilidad de usar ayuda |
+| P06 | [Oración](../../capitulos/04-como-meditar-con-las-escrituras.md#orar-desde-lo-comprendido) y respuestas de E1/E2 | Sal 143:8–10, adaptación reconocida, límite de 12, oración sin respuesta divina inventada |
+| P07 | [Lectura compartida](../../capitulos/04-como-meditar-con-las-escrituras.md#leer-con-otras-personas) | Turnos opcionales, evidencia del texto, desacuerdo concreto, ejemplo de Santiago y privacidad |
+| P08 | [Respuesta](../../capitulos/04-como-meditar-con-las-escrituras.md#dar-una-forma-concreta-a-la-respuesta), E1/E3 y [proverbios](../../capitulos/04-como-meditar-con-las-escrituras.md#un-proverbio-necesita-sus-razones) | Paso situado y revisable, datos necesarios, proporcionalidad y pregunta cuando no hay acción clara |
+| Dificultades transversales | [Cuando la lectura se detiene](../../capitulos/04-como-meditar-con-las-escrituras.md#cuando-la-lectura-se-detiene) | Distracción, duda precisa, falta de novedad/aplicación, incomodidad, pausa y ayuda |
+
+Las aclaraciones incorporadas durante redacción sobre dispersión, levita y samaritano se documentan al final de [evidencia](evidencia-biblica.md#aclaraciones-focales-durante-la-redacción--etapa-2) y en el registro. Añaden accesibilidad al ejemplo, no una práctica nueva ni una historia sustantiva de religiones.

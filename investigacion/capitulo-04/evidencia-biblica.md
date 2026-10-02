@@ -114,3 +114,7 @@ Las consultas se realizaron durante el 2026-10-02 mediante investigación asisti
 - **Fuera de esta investigación:** aparatos críticos íntegros, nuevos estudios léxicos exhaustivos, eficacia de memoria/atención, clínica, historia completa de técnicas narrativas y compatibilidad interreligiosa
 
 No hace falta resolver los límites no esenciales para construir prácticas ejecutables y honestas. Sí hay que auditarlos si la redacción introduce una afirmación que dependa de ellos. Esta evidencia permite la etapa 2; no certifica etapas 3–6.
+
+## Aclaraciones focales durante la redacción — etapa 2
+
+Para que las identidades no quedaran opacas al lector, se verificaron el 2026-10-02 tres aclaraciones breves: dispersión en Sant 1:1 como alusión a Israel esparcido fuera de su tierra (COM-NET-01, nota 3); vínculo del levita con el servicio del templo (C4-BIB-03, extracto, párrafo «A Levite…»); función de la identidad samaritana en el contraste, controlada con Lc 9:51–56, NET 10, notas 109–113, y Bock, párrafo «The original impact…». El cuerpo conserva un episodio de tensión entre comunidades y evita atribuir hostilidad uniforme, pertenencia étnica expresa al herido o motivos no narrados. No resuelve toda la identidad de los destinatarios de Santiago ni desarrolla historia religiosa adicional. Son consultas parciales nuevas de fuentes registradas, no relectura de sus obras completas. Los versículos completos de Sant 1, Sal 77 y Lc 10 se releyeron en BSB durante esta etapa.

@@ -1,6 +1,6 @@
 # Investigación — ¿Cómo meditar con las Escrituras?
 
-Fecha: 2026-10-02 UTC. **Etapa 1 completada localmente: investigación y diseño de prácticas.** Base revisada: `b832d03f951a6c0b71246d66dcc89727e4183305`. El manuscrito y las etapas 2–6 todavía no se realizaron. Este expediente no sustituye el capítulo ni anticipa sus auditorías.
+Fecha: 2026-10-02 UTC. **Estado vigente: etapas 1 y 2 realizadas; primera redacción completa local.** La investigación/diseño partió de `b832d03f951a6c0b71246d66dcc89727e4183305` y quedó guardada en `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. La redacción se realizó sobre ese segundo checkpoint. Etapas 3–6 y publicación del manuscrito pendientes. Los registros de etapa 1 que siguen conservan su estado histórico; el cierre de etapa 2 figura al final. Este expediente no sustituye el capítulo ni anticipa sus auditorías.
 
 ## Autorización y base efectiva
 
@@ -160,3 +160,39 @@ Se releyeron expediente, evidencia, matriz, fichas, ampliación bibliográfica y
 - Sin marcadores de conflicto ni errores en git diff --check. No se ejecutó ni se inventó CI; los controles fueron editoriales y estructurales
 
 No se hicieron commits ni push en esta pasada. La integración y el SHA real del checkpoint corresponden al paso siguiente. Etapas 2–6 pendientes.
+
+## Registro de etapa 2 — manuscrito completo local
+
+**Fecha:** 2026-10-02 UTC. **Base efectiva de redacción:** `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`, checkpoint de etapa 1. Al comenzar, HEAD y origin/main señalaban esa versión y el árbol estaba limpio; no había manuscrito C4. La publicación del checkpoint anterior fue comunicada por la coordinación del encargo. Esta pasada no hizo otro fetch ni una verificación remota nueva. No se reescriben los estados históricos de etapa 1.
+
+**Autoría y alcance:** redacción editorial asistida por IA, a partir del diseño documentado. No es revisión humana, auditoría externa ni prueba con lectores. Se escribió y releyó completo, con notas, [el capítulo 4](../capitulos/04-como-meditar-con-las-escrituras.md). No hay secciones sustituidas por instrucciones de desarrollo futuro. Las auditorías de etapas 3–6 siguen pendientes.
+
+### Lecturas y consultas de esta pasada
+
+Se leyó el encargo completo, las instrucciones vigentes, README, AGENTS, plan completo, índice de investigación, plantilla y registro de experiencias. Se releyeron C1, C2 y C3 completos en ese orden y con sus notas; el expediente central C4, evidencia, matriz y las ocho fichas completas; y las entradas bibliográficas pertinentes con su ampliación C4. La lectura previa más amplia de expedientes y auditorías de C1–C3 registrada en etapa 1 se reutiliza como antecedente, no se declara repetida íntegramente por el redactor.
+
+Consultas directas nuevas: texto completo de los versículos de Santiago 1, Salmo 77 y Lucas 10 en BSB (TXT-CONT-01), sin usar las explicaciones automáticas de la plataforma. Para aclarar expresiones que podían resultar opacas se cotejaron NET, nota 3 de Sant 1:1, notas 105 y 109–113 de Lc 10 y texto de 9:51–56 (COM-NET-01); y los párrafos del extracto de Bock sobre samaritano/levita (C4-BIB-03). Los detalles están en el registro y al final de evidencia. No se declara nueva lectura de todos los originales mencionados en las notas, ni de Jennings, Ellington, Pavan o los estudios científicos. No se agregaron IDs bibliográficos.
+
+### Producto y decisiones de escritura
+
+- Orientación inicial de cuatro acciones flexibles; elección de unidad y contexto explicada con indicios concretos, sin imponer un horario, versión o postura
+- Ocho funciones del catálogo integradas en prosa. La matriz localiza su cobertura; no se multiplican por cambiar de soporte o de nombre
+- Tres ejemplos mayores completos: Santiago 1:19–27 enlaza atención y respuesta; Sal 77 conserva preguntas, recuerdo y final personal no informado; Lc 10:25–37 sigue diálogo y acciones, compara preguntas y ofrece imaginación opcional con alternativa verbal
+- Ejemplos breves de paráfrasis (Sal 119:33–40), imágenes (Sal 1), versiones (1 Tim 4:15), proverbios (26:4–5 y 12), oración (Sal 143), memoria (Sal 119:9–16), conversación y revisión de una respuesta
+- Preguntas e interpretaciones corregibles, ejemplos pedagógicos identificados, oración sin palabras divinas inventadas y dificultad que puede permanecer abierta
+- Veintidós notas con los IDs existentes y localizadores. Una mención puntual a Jennings, pp. 24–25; antecedentes de lectio quedan en investigación. Sin ciencia nueva, efectos medidos ni dosificación
+- Durante la lectura del borrador se atendió una observación de coordinación sobre vocabulario: se aclararon dispersión, levita y samaritano. La última identidad se conecta con Lc 9:51–56 sin presentar enemistad uniforme ni inventar motivos. El cotejo fue focal, quedó propagado a notas, evidencia, matriz y bibliografía y no requiere una historia sustantiva adicional
+
+Se conservan definición literal y límites de C1–C3. La estructura propuesta se desplegó en secciones más breves sin cambiar el repertorio: paráfrasis, traducciones y proverbios quedaron localizables; las dificultades tienen un cierre propio. No se amplió el objeto que obligaría a auditorías especializadas separadas. Las precisiones de contexto se deben cotejar dentro de etapa 3, igual que las demás afirmaciones del manuscrito.
+
+### Comprobaciones básicas realizadas y archivos
+
+Se releyó el manuscrito completo con sus notas como parte de la redacción, se inspeccionó el diff de soportes y se ejecutaron controles estructurales locales. Resultado: definición exacta presente; 22 llamadas y 22 notas, sin duplicados ni huérfanas; 12 IDs bibliográficos del capítulo presentes en el registro; enlaces relativos y anclas comprobados en los 41 Markdown, sin destinos ausentes; tablas rectangulares y sin marcadores de conflicto; `git diff --check` sin errores. Se compararon byte por byte con la base los 31 archivos no modificados, incluidos C1–C3 y sus auditorías. No se ejecutó CI, prueba con personas ni auditoría documental integral en esta pasada.
+
+Diez archivos nuevos o modificados: manuscrito C4; expediente central; evidencia; matriz; catálogo; bibliografía; README; AGENTS; índice de investigación y plan. No se añadieron fuentes descargadas, cachés, scripts temporales, auditorías futuras vacías o formatos ajenos al encargo. No se hicieron commits ni push; crear, publicar y verificar el checkpoint de redacción corresponde al paso siguiente de coordinación. El SHA de esa entrega todavía no se atribuye.
+
+### Puntos concretos para las pasadas pendientes
+
+La etapa 3 debe cotejar TODOS los ejercicios y variantes del cuerpo con las fichas, no sólo los tres ejemplos mayores. Merecen atención la distinción entre escuchar y un protocolo de lectura en Santiago; el resumen de Sal 119:34/36; las diferencias de versión en 1 Tim 4:15; las preguntas y el límite de 77:10; las glosas nuevas de identidades, la función del samaritano y los silencios de Lucas; las dos razones de Prov 26; y las adaptaciones de oración, memoria y conversación. También corresponde volver a JEN-01, pp. 24–25, para cotejar la atribución breve, y contrastar todos los localizadores supervivientes.
+
+La pasada de lenguaje debe comprobar que la explicación y las cautelas sigan siendo proporcionadas y que cada instrucción pueda ejecutarse desde el capítulo. La de continuidad debe releer C1–C4 consecutivos con notas; esta redacción no la da por cumplida. La auditoría final y recuperación desde main cerrarán el encargo únicamente después de esas pasadas. Siguen abiertos los límites documentales heredados, las decisiones generales y la revisión del autor, sin bloquear por sí solos el trabajo pendiente.

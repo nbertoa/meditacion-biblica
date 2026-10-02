@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas, publicadas y verificadas en main; C4 autorizado y etapa 1 de investigación/diseño completada localmente; redacción y etapas 3–6 pendientes. Las decisiones generales siguen abiertas.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas, publicadas y verificadas en main; C4 autorizado, etapa 1 guardada en `d5f7bf8` y etapa 2 de redacción completa local; etapas 3–6 pendientes. Las decisiones generales siguen abiertas.
 
 ## Estructura marco
 
@@ -79,3 +79,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-02 UTC:** nuevo encargo específico del autor para C4, «¿Cómo meditar con las Escrituras?»: seis etapas separadas, revisión de todos los ejercicios y guardado directo en main con recuperación final. Sustituye para este capítulo el límite histórico de C3, sin reescribirlo. No autoriza Prólogo, Epílogo, otros capítulos, experiencias inventadas ni productos comerciales.
 
 - **2026-10-02 UTC:** etapa 1 de C4 completada localmente sobre `b832d03f951a6c0b71246d66dcc89727e4183305`, después de recuperar main y comprobar ausencia de avances concurrentes detectables. El [expediente](../investigacion/04-como-meditar-con-las-escrituras.md), evidencia, matriz, catálogo y fuentes documentan ocho recursos relacionados y tres ejemplos de funciones distintas. La estructura interna es propuesta nacida de investigación, no índice definitivo. No se afirman efectos clínicos ni de aprendizaje; no se activan auditorías especializadas separadas con ese alcance, sujeto a revisión si cambia. Quedan manuscrito y etapas 3–6, además de publicar/verificar este checkpoint. C1–C3 y auditorías sin cambios; aprobación editorial del autor y decisiones generales abiertas.
+
+- **2026-10-02 UTC:** etapa 2 de C4 completada localmente sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`: [manuscrito completo](../capitulos/04-como-meditar-con-las-escrituras.md) con orientación para comenzar, ocho funciones prácticas integradas en prosa, tres ejemplos completos, dificultades, cierre y 22 notas. Se conservaron la definición exacta de C1, las preguntas del Salmo 77 y los límites narrativos de Lucas. No se amplió el objeto con ciencia, historia de métodos o comparación religiosa nueva; Jennings tiene una mención puntual. Matriz, catálogo, registro de consulta y estados sincronizados. Los controles básicos son de redacción, no etapas 3–6. Faltan esas auditorías y publicar/verificar este checkpoint. C1–C3 intactos; revisión del autor y decisiones generales abiertas.

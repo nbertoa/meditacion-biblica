@@ -1,6 +1,6 @@
 # Catálogo de prácticas para meditar con las Escrituras
 
-Actualización: 2026-10-02 UTC, etapa 1 de C4, sobre la base `b832d03f951a6c0b71246d66dcc89727e4183305`. **Ocho fichas investigadas, propuestas para la redacción; ninguna probada con lectores ni aprobada editorialmente por el autor.** No hay experiencias personales disponibles. Las ilustraciones siguientes son pedagógicas, no testimonios ni sucesos observados.
+Actualización: 2026-10-02 UTC. Diseño de etapa 1 sobre `b832d03f951a6c0b71246d66dcc89727e4183305`; incorporación a la redacción de etapa 2 sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. **Ocho fichas investigadas e integradas en el manuscrito completo local; ninguna probada con lectores ni aprobada editorialmente por el autor.** La auditoría documental y el control de todos los ejercicios siguen pendientes. No hay experiencias personales disponibles. Las ilustraciones siguientes son pedagógicas, no testimonios ni sucesos observados.
 
 El catálogo inicial contenía candidatos. Se conserva su trazabilidad abajo. Las fichas no forman una escalera obligatoria: pueden combinarse, superponerse o cambiar de orden. Actuar, orar, memorizar y meditar mantienen sus diferencias. Las condiciones, las secuencias y las duraciones sugeridas son ayudas actuales, no mandatos bíblicos ni dosis clínicas.
 
@@ -206,3 +206,7 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 **Fuentes y acceso:** TXT-CONT-01, Sal 119 y textos de los ejemplos, consulta contextual nueva; distinción léxica de 119:59 heredada de C1/C2, sin nueva consulta de aparatos. Las modalidades actuales se justifican por su relación con el pasaje y el problema, no por un ensayo de conducta.
 
 **Estado:** investigada; pendiente revisión en el manuscrito y decisión editorial del autor, sin pruebas de resultados.
+
+## Incorporación al manuscrito — etapa 2
+
+Las ocho funciones se desarrollan en [C4](../capitulos/04-como-meditar-con-las-escrituras.md) con instrucciones suficientes para usarlas sin este catálogo. La [matriz](../investigacion/capitulo-04/matriz-practicas.md#localización-en-el-manuscrito-de-etapa-2) identifica secciones y ejemplos. Se mantuvieron las fichas, niveles, selección y límites: la redacción despliega su explicación, no incorpora otra técnica. Las variantes actuales de lectura, audio, voz, notas y recuerdo son opcionales; los tres ejemplos mayores conservan observación, pregunta, interpretación, respuesta y límite. Esta incorporación es un estado de escritura, no una revisión crítica de etapa 3 ni una prueba con personas.
