@@ -108,7 +108,7 @@ También hay programas que combinan reflexión sobre las Escrituras, conversaci�
 
 ## Qué muestran las imágenes del cerebro
 
-Los trabajos de Andrew Newberg estudian lo que sucede en el cerebro durante distintas prácticas religiosas.
+Andrew Newberg es un médico e investigador que estudia la relación entre la actividad del cerebro y las experiencias religiosas y espirituales. Para investigar qué ocurre durante la oración o la meditación, utiliza imágenes que permiten observar la actividad cerebral. Sus trabajos nos interesan porque examinan prácticas concretas y ayudan a precisar qué puede decir la ciencia sobre ellas.[^newberg-contexto]
 
 Uno de sus primeros estudios examinó a ocho meditadores budistas experimentados mientras realizaban una visualización; otro, a tres monjas franciscanas. En el segundo, las participantes repetían interiormente una frase de la Biblia o de una oración. Se observaron cambios en el flujo de sangre en distintas regiones cerebrales durante esas tareas.[^17]
 
@@ -120,9 +120,13 @@ Para saber si una práctica cambia el cerebro, necesitamos mirar qué se midió 
 
 ## Cómo leer las afirmaciones de Jennings
 
-Timothy Jennings destaca la comprensión de Dios, la relación con él y la transformación de la conducta. Su artículo sobre *lectio divina*, una forma cristiana de lectura meditativa, insiste en pasar de conocer un contenido a considerarlo y vivirlo. Esa relación entre comprender y vivir también aparece en los pasajes bíblicos que examinamos.[^20]
+Timothy R. Jennings es un médico psiquiatra cristiano y fundador de Come and Reason Ministries, una organización que ofrece materiales sobre la fe y la salud mental.[^jennings-contexto] Aquí examinamos dos de sus publicaciones: una guía de meditación de 2020 y un artículo de 2023, ambos disponibles en el sitio de esa organización.
 
-En su guía también hace afirmaciones más fuertes: atribuye a unas prácticas un desarrollo del razonamiento y a otras una disminución de esa capacidad. Esas comparaciones necesitan pruebas propias. No quedan demostradas porque su propuesta espiritual nos resulte valiosa.[^21]
+La guía se titula *Meditation: Biblical Method Versus Eastern Method*, con el subtítulo *A Guide to a Bible-based Experience with God*. En español, el título puede traducirse como «Meditación: método bíblico frente a método oriental. Una guía para una experiencia con Dios basada en la Biblia». Es un folleto que propone maneras de meditar con las Escrituras y compara lo que Jennings llama meditación bíblica y oriental. Combina una propuesta espiritual con afirmaciones sobre el cerebro; por eso conviene evaluar cada parte con la evidencia que le corresponde.[^21]
+
+Su artículo «Lectio Divina: A Biblical Meditation Practice» —«Lectio divina: una práctica de meditación bíblica»— presenta una forma cristiana de lectura meditativa. Jennings destaca la comprensión de Dios, la relación con él y la transformación de la conducta: insiste en pasar de conocer un contenido a considerarlo y vivirlo. Esa relación entre comprender y vivir también aparece en los pasajes bíblicos que examinamos.[^20]
+
+En la guía de 2020 también hace afirmaciones más fuertes: atribuye a unas prácticas un desarrollo del razonamiento y a otras una disminución de esa capacidad. Esas comparaciones necesitan pruebas propias. No quedan demostradas porque su propuesta espiritual nos resulte valiosa.[^21]
 
 Uno de los estudios que cita comparó la oración personal y la recitación del Padrenuestro en veinte cristianos luteranos. Encontró diferencias entre esas tareas, pero no comparó meditación bíblica con el conjunto de prácticas orientales. Tampoco evaluó si las personas perdían capacidad de pensar críticamente. Ese estudio, por lo tanto, no demuestra tal deterioro.[^22]
 
@@ -161,7 +165,10 @@ Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración 
 [^17]: Newberg et al. 2001 y 2003 (C2-NEW-01 y C2-NEW-02), originales completos. Los controles adicionales evaluaron reposo o estabilidad instrumental, no eficacia clínica. Se omiten porcentajes de 2003 porque resumen y resultados difieren.
 [^18]: Newberg et al. 2010 (C2-NEW-03), pp. 519–524 y tablas 2–4: 15 reclutados para meditación, 14 analizados, más 5 controles musicales; piloto abierto sin asignación aleatoria descrita, en personas con problemas de memoria. Fluidez verbal significativa; no ventaja general en todos los tests. Kirtan Kriya no equivale a lectura bíblica reflexiva.
 [^19]: Kral et al. 2022 (C2-REV-04), dos ensayos combinados, 218 participantes con neuroimagen completada; adultos seleccionados por su buena salud. Sin diferencias entre grupos en cambios de volumen, densidad o espesor cortical. La asociación exploratoria entre horas de práctica y reducción de la amígdala no fue robusta en los análisis de sensibilidad. Resultado referido a su programa y medidas; no refutación de toda neuroplasticidad.
-[^20]: Jennings 2023 (JEN-02), artículo completo. Su descripción se usa como propuesta cristiana posterior, sin atribuir a la Biblia el esquema de cuatro pasos ni adoptar afirmaciones históricas no cotejadas.
-[^21]: Jennings 2020 (JEN-01), pp. 8, 15–16, 21–22. El [cotejo específico](../investigacion/capitulo-02/jennings-y-matriz.md) separa sus afirmaciones de lo que midieron las fuentes. La cadena por su libro 2017, pp. 222–228, queda parcialmente abierta.
+[^20]: Timothy R. Jennings, [«Lectio Divina: A Biblical Meditation Practice»](https://comeandreason.com/lectio-divina/), Come and Reason Ministries, 2023 (JEN-02), artículo completo. Su descripción se usa como propuesta cristiana posterior, sin atribuir a la Biblia el esquema de cuatro pasos ni adoptar afirmaciones históricas no cotejadas.
+[^21]: Timothy R. Jennings, [*Meditation: Biblical Method Versus Eastern Method. A Guide to a Bible-based Experience with God*](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), Come and Reason Ministries, 2020 (JEN-01). PDF original de 32 páginas de archivo; afirmaciones cotejadas en pp. impresas 8, 15–16, 21–22. La traducción del título en el cuerpo es propia. El [cotejo específico](../investigacion/capitulo-02/jennings-y-matriz.md) separa sus afirmaciones de lo que midieron las fuentes. La cadena por su libro 2017, pp. 222–228, queda parcialmente abierta.
 [^22]: Schjoedt et al. 2009 (C2-NEU-01), métodos/resultados/discusión. Referencia citada en Jennings 2020, p. 20, nota 5 (DOI en p. 28). No comparación de tradiciones ni prueba de pensamiento crítico o anatomía.
 [^23]: Farias et al. 2020 (C2-REV-05), original consultado en métodos, resultados de prevalencia y discusión, especialmente pp. 385–389. Un evento adverso reportado no prueba por sí solo causalidad. No se extrapola su frecuencia agregada a reflexión bíblica ni se convierte cualquier malestar en daño clínico.
+
+[^newberg-contexto]: Presentación del autor verificada en su [biografía oficial](https://www.andrewnewberg.com/about), consultada el 2026-10-02. Esta fuente respalda su formación y su campo de investigación; los resultados científicos se documentan por separado en las notas 17–18.
+[^jennings-contexto]: Formación y vínculo institucional verificados en la [biografía de Timothy R. Jennings publicada por InterVarsity Press](https://www.ivpress.com/timothy-r-jennings), consultada el 2026-10-02. El carácter devocional de la guía y su procedencia se comprueban en el PDF original, especialmente portada, créditos e índice.
