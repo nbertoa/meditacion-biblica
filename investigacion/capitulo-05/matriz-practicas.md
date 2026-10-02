@@ -1,4 +1,6 @@
-# C4 — Matriz de afirmaciones y prácticas
+# C5 — Matriz de afirmaciones y prácticas
+
+> **Nota de renumeración:** este material fue producido cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 pasa a ser el capítulo 5. Se conservan los IDs históricos `C4-*`, los hashes y las menciones de etapa para no romper la trazabilidad.
 
 Fecha: 2026-10-02 UTC. Matriz de 28 afirmaciones y ocho funciones, desarrollada en etapas 1–2 y cotejada en las pasadas documental, lenguaje, continuidad y [final integral](auditoria-final.md). El cierre local sobre `ecf0f988a234f665b1cbf4c17d76a0972c3cfd67` conserva afirmaciones, clasificación y localización sin cambiar el manuscrito. Las seis etapas quedaron publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8` el 2026-10-02 a las 17:58–17:59 UTC, incluida la relectura completa de C4 con notas comunicada por coordinación. El contenido está listo para la revisión del autor. Esta trazabilidad no demuestra eficacia o prueba con lectores.
 
@@ -56,7 +58,7 @@ Los doce candidatos iniciales están cubiertos por agrupación, no por multiplic
 
 La etapa 3 comprobó para cada fila P01–P08: instrucción ejecutable; evidencia identificable; pregunta corregible; observación e interpretación diferenciadas; posibilidad sin escritura/visualización; respuesta ligada al contexto; dificultad abierta; tono no coercitivo; fuente y acceso correctos. La [auditoría](auditoria-documental.md) documenta las 22 notas, las 28 afirmaciones, las ocho fichas y todas las variantes. El control es editorial asistido por IA, sin ensayo con lectores ni resultados medidos.
 
-Auditorías especializadas adicionales no activadas con el alcance actual, por las razones del [expediente central](../04-como-meditar-con-las-escrituras.md). Si la redacción amplía el objeto, esa decisión debe revisarse antes del cierre.
+Auditorías especializadas adicionales no activadas con el alcance actual, por las razones del [expediente central](../05-como-meditar-con-las-escrituras.md). Si la redacción amplía el objeto, esa decisión debe revisarse antes del cierre.
 
 ## Localización en el manuscrito de etapa 2
 
@@ -64,15 +66,15 @@ La redacción conserva las ocho funciones y la selección investigada. Esta tabl
 
 | Ficha o función | Secciones del manuscrito | Cobertura contrastada en etapa 3 |
 |---|---|---|
-| P01 | [Comienzo](../../capitulos/04-como-meditar-con-las-escrituras.md#un-modo-sencillo-de-empezar), [unidad](../../capitulos/04-como-meditar-con-las-escrituras.md#elegir-un-pasaje-que-conserve-su-sentido), [pregunta](../../capitulos/04-como-meditar-con-las-escrituras.md#volver-al-texto-con-una-pregunta), [Santiago](../../capitulos/04-como-meditar-con-las-escrituras.md#santiago-de-escuchar-a-responder) y [traducciones](../../capitulos/04-como-meditar-con-las-escrituras.md#cuando-ayuda-otra-traducción) | Secuencia flexible, observación e interpretación, pregunta corregible, consulta focal de versiones/comentarios y ejemplo E1 |
-| P02 | [Explicar y comprobar](../../capitulos/04-como-meditar-con-las-escrituras.md#explicar-con-palabras-propias-y-comprobar) | Sal 119:33–40; sujeto/petición/finalidad; resumen reconocido como propio y corregido contra texto |
-| P03 | [Salmo](../../capitulos/04-como-meditar-con-las-escrituras.md#seguir-la-voz-de-un-salmo) e [imagen](../../capitulos/04-como-meditar-con-las-escrituras.md#detenerse-en-una-imagen) | E2 completo; Sal 77:10 abierto; final sin emoción inventada; árbol/paja sin código añadido |
-| P04 | [Historia](../../capitulos/04-como-meditar-con-las-escrituras.md#recorrer-una-historia-sin-escribir-otra) | E3 completo; conversación/parábola, acciones y preguntas, identidades aclaradas, imaginación retirable y alternativa verbal |
-| P05 | [Recuerdo](../../capitulos/04-como-meditar-con-las-escrituras.md#conservar-una-enseñanza-para-volver-durante-el-día) | Frase/contexto, versión exacta o resumen, cotejo, ocasión cotidiana y posibilidad de usar ayuda |
-| P06 | [Oración](../../capitulos/04-como-meditar-con-las-escrituras.md#orar-desde-lo-comprendido) y respuestas de E1/E2 | Sal 143:8–10, adaptación reconocida, límite de 12, oración sin respuesta divina inventada |
-| P07 | [Lectura compartida](../../capitulos/04-como-meditar-con-las-escrituras.md#leer-con-otras-personas) | Turnos opcionales, evidencia del texto, desacuerdo concreto, ejemplo de Santiago y privacidad |
-| P08 | [Respuesta](../../capitulos/04-como-meditar-con-las-escrituras.md#dar-una-forma-concreta-a-la-respuesta), E1/E3 y [proverbios](../../capitulos/04-como-meditar-con-las-escrituras.md#un-proverbio-necesita-sus-razones) | Paso situado y revisable, datos necesarios, proporcionalidad y pregunta cuando no hay acción clara |
-| Dificultades transversales | [Cuando la lectura se detiene](../../capitulos/04-como-meditar-con-las-escrituras.md#cuando-la-lectura-se-detiene) | Distracción, duda precisa, falta de novedad/aplicación, incomodidad, pausa y ayuda |
+| P01 | [Comienzo](../../capitulos/05-como-meditar-con-las-escrituras.md#un-modo-sencillo-de-empezar), [unidad](../../capitulos/05-como-meditar-con-las-escrituras.md#elegir-un-pasaje-que-conserve-su-sentido), [pregunta](../../capitulos/05-como-meditar-con-las-escrituras.md#volver-al-texto-con-una-pregunta), [Santiago](../../capitulos/05-como-meditar-con-las-escrituras.md#santiago-de-escuchar-a-responder) y [traducciones](../../capitulos/05-como-meditar-con-las-escrituras.md#cuando-ayuda-otra-traducción) | Secuencia flexible, observación e interpretación, pregunta corregible, consulta focal de versiones/comentarios y ejemplo E1 |
+| P02 | [Explicar y comprobar](../../capitulos/05-como-meditar-con-las-escrituras.md#explicar-con-palabras-propias-y-comprobar) | Sal 119:33–40; sujeto/petición/finalidad; resumen reconocido como propio y corregido contra texto |
+| P03 | [Salmo](../../capitulos/05-como-meditar-con-las-escrituras.md#seguir-la-voz-de-un-salmo) e [imagen](../../capitulos/05-como-meditar-con-las-escrituras.md#detenerse-en-una-imagen) | E2 completo; Sal 77:10 abierto; final sin emoción inventada; árbol/paja sin código añadido |
+| P04 | [Historia](../../capitulos/05-como-meditar-con-las-escrituras.md#recorrer-una-historia-sin-escribir-otra) | E3 completo; conversación/parábola, acciones y preguntas, identidades aclaradas, imaginación retirable y alternativa verbal |
+| P05 | [Recuerdo](../../capitulos/05-como-meditar-con-las-escrituras.md#conservar-una-enseñanza-para-volver-durante-el-día) | Frase/contexto, versión exacta o resumen, cotejo, ocasión cotidiana y posibilidad de usar ayuda |
+| P06 | [Oración](../../capitulos/05-como-meditar-con-las-escrituras.md#orar-desde-lo-comprendido) y respuestas de E1/E2 | Sal 143:8–10, adaptación reconocida, límite de 12, oración sin respuesta divina inventada |
+| P07 | [Lectura compartida](../../capitulos/05-como-meditar-con-las-escrituras.md#leer-con-otras-personas) | Turnos opcionales, evidencia del texto, desacuerdo concreto, ejemplo de Santiago y privacidad |
+| P08 | [Respuesta](../../capitulos/05-como-meditar-con-las-escrituras.md#dar-una-forma-concreta-a-la-respuesta), E1/E3 y [proverbios](../../capitulos/05-como-meditar-con-las-escrituras.md#un-proverbio-necesita-sus-razones) | Paso situado y revisable, datos necesarios, proporcionalidad y pregunta cuando no hay acción clara |
+| Dificultades transversales | [Cuando la lectura se detiene](../../capitulos/05-como-meditar-con-las-escrituras.md#cuando-la-lectura-se-detiene) | Distracción, duda precisa, falta de novedad/aplicación, incomodidad, pausa y ayuda |
 
 Las aclaraciones incorporadas durante redacción sobre dispersión, levita y samaritano se documentan al final de [evidencia](evidencia-biblica.md#aclaraciones-focales-durante-la-redacción--etapa-2) y en el registro. Añaden accesibilidad al ejemplo, no una práctica nueva ni una historia sustantiva de religiones.
 

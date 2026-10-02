@@ -1,4 +1,4 @@
-# 4. ¿Cómo meditar con las Escrituras?
+# 5. ¿Cómo meditar con las Escrituras?
 
 Tenemos un pasaje delante. Lo leemos, entendemos algunas de sus frases y quizá reconocemos algo importante. Pero ¿qué hacemos después? ¿Hay que leerlo otra vez, buscar una explicación, decir algo a Dios o pensar en una decisión?
 
@@ -249,9 +249,9 @@ Al cerrar la Biblia puede quedar una frase comprendida, una pregunta que todaví
 
 ## Notas y fuentes
 
-Los pasajes se explican mediante paráfrasis propias, con la numeración habitual de las Biblias españolas. Las dos citas breves de 1 Timoteo 4:15 identifican sus versiones. Las oraciones, preguntas y situaciones propuestas son ilustraciones pedagógicas actuales; no son palabras añadidas al texto bíblico ni experiencias comprobadas. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md). El [expediente](../investigacion/04-como-meditar-con-las-escrituras.md), la [matriz](../investigacion/capitulo-04/matriz-practicas.md) y el [catálogo](../practicas/catalogo.md) distinguen respaldo textual, interpretación y adaptación, y conservan los grados de acceso. Las ayudas del capítulo no se presentan como tratamientos ni como técnicas cuya eficacia de aprendizaje haya sido medida.
+Los pasajes se explican mediante paráfrasis propias, con la numeración habitual de las Biblias españolas. Las dos citas breves de 1 Timoteo 4:15 identifican sus versiones. Las oraciones, preguntas y situaciones propuestas son ilustraciones pedagógicas actuales; no son palabras añadidas al texto bíblico ni experiencias comprobadas. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md). El [expediente](../investigacion/05-como-meditar-con-las-escrituras.md), la [matriz](../investigacion/capitulo-05/matriz-practicas.md) y el [catálogo](../practicas/catalogo.md) distinguen respaldo textual, interpretación y adaptación, y conservan los grados de acceso. Las ayudas del capítulo no se presentan como tratamientos ni como técnicas cuya eficacia de aprendizaje haya sido medida.
 
-[^1]: Definición exacta del [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes). Base de síntesis: Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10 (TXT-CONT-01). Se reutilizan las distinciones de C1–C3; las secuencias, preguntas y variantes actuales pertenecen al diseño pedagógico de C4, no al significado de un único término bíblico.
+[^1]: Definición exacta del [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes). Base de síntesis: Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10 (TXT-CONT-01). Se reutilizan las distinciones de C1–C3; las secuencias, preguntas y variantes actuales pertenecen al diseño pedagógico de C5, no al significado de un único término bíblico.
 
 [^2]: Dt 31:9–13 dentro del capítulo completo (TXT-CONT-01). El pasaje presenta lectura pública, escucha, aprendizaje y conducta; no prescribe audio individual, cantidad de relecturas ni la pauta introductoria de este capítulo.
 
@@ -259,7 +259,7 @@ Los pasajes se explican mediante paráfrasis propias, con la numeración habitua
 
 [^4]: Sant 1 completo, especialmente 1, 16–27, [texto contextual](https://biblehub.com/bsb/james/1.htm) (TXT-CONT-01). Se usa el texto de los versículos, no los resúmenes ni aplicaciones automáticas del sitio. La explicación breve de dispersión se apoya en NET, nota 3 a Sant 1:1 (COM-NET-01), consultada durante la redacción; no pretende resolver toda la identidad de los destinatarios ni las discusiones de autoría histórica.
 
-[^5]: Sant 1:22–27. Nicholas Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», *Tyndale Bulletin* 50.2, 1999, pp. 237–240, especialmente 239, [DOI](https://doi.org/10.53751/001c.30315) (C2-BIB-05). En la investigación C4 se releyeron pp. 238–240; se conserva el control contra reducir la primera mirada a un vistazo. No se afirma dependencia platónica ni se atribuye a la mera duración toda la diferencia.
+[^5]: Sant 1:22–27. Nicholas Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», *Tyndale Bulletin* 50.2, 1999, pp. 237–240, especialmente 239, [DOI](https://doi.org/10.53751/001c.30315) (C2-BIB-05). En la investigación C5 se releyeron pp. 238–240; se conserva el control contra reducir la primera mirada a un vistazo. No se afirma dependencia platónica ni se atribuye a la mera duración toda la diferencia.
 
 [^6]: I-Jin Loh y Howard A. Hatton, *A Handbook on the Letter from James*, United Bible Societies, 1997, [extracto autorizado sobre Sant 1:19](https://tips.translation.bible/story/translation-commentary-on-james-119/) (C4-BIB-01). El extracto completo fue consultado en la investigación; no el manual íntegro. Escuchar carece de objeto expreso, con posible alcance general y relación contextual con la palabra. La aplicación al habla se apoya también en 1:26.
 
@@ -269,7 +269,7 @@ Los pasajes se explican mediante paráfrasis propias, con la numeración habitua
 
 [^9]: Sal 77 completo, [texto contextual](https://biblehub.com/bsb/psalms/77.htm) (TXT-CONT-01), especialmente 1–9, 11–20. El ejercicio destaca relaciones del poema, no fases psicológicas obligatorias. Ya hay apelación directa a Dios antes del v. 13, por ejemplo en 4; no se propone un cambio absoluto de hablar de Dios a hablarle.
 
-[^10]: Scott Arthur Ellington, *Reality, Remembrance, and Response*, tesis, 1999, §4.2.7, pp. 148–156 (C2-BIB-02), lectura de lamento no resuelto; Marco Pavan, «La memoria nel Sal 77», 2012, pp. 69–90, sólo resumen institucional consultado (C2-BIB-03), interpretación alternativa de la memoria. Se reutilizan sus alcances registrados en C2, sin nueva lectura de originales en C4. La conclusión del cuerpo se limita a distinguir movimiento del poema y desenlace personal no informado.
+[^10]: Scott Arthur Ellington, *Reality, Remembrance, and Response*, tesis, 1999, §4.2.7, pp. 148–156 (C2-BIB-02), lectura de lamento no resuelto; Marco Pavan, «La memoria nel Sal 77», 2012, pp. 69–90, sólo resumen institucional consultado (C2-BIB-03), interpretación alternativa de la memoria. Se reutilizan sus alcances registrados en C2, sin nueva lectura de originales en C5. La conclusión del cuerpo se limita a distinguir movimiento del poema y desenlace personal no informado.
 
 [^11]: Sal 77:10; NET, [nota textual 2](https://classic.net.bible.org/verse.php?book=Psa&chapter=77&verse=10) (COM-NET-01); A. F. Kirkpatrick, [comentario a 77:10–12](https://biblehub.com/commentaries/cambridge/psalms/77.htm) (COM-SAL-01). Consultas focales de etapa 1; no colación nueva de aparato hebreo íntegro. Sal 77:10–12 de la numeración española corresponde a 77:11–13 cuando el encabezamiento se cuenta en el texto hebreo; el salmo corresponde a 76 en la Septuaginta.
 
@@ -285,7 +285,7 @@ Los pasajes se explican mediante paráfrasis propias, con la numeración habitua
 
 [^17]: Sal 143 completo, especialmente 4–10 y 12 (TXT-CONT-01); contextos y límites de C1/C2. El poema reúne recuerdo y petición sin informar un rescate ya obtenido. La oración propuesta adapta su orientación; no reproduce todas sus peticiones ni certifica una decisión privada.
 
-[^18]: Timothy R. Jennings, *Meditation: Biblical Method Versus Eastern Method: A Guide to a Bible-based Experience with God*, Come and Reason Ministries, 2020, [guía](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), p. 24, segundo punto, y p. 25, cuarto y quinto puntos (JEN-01). Cotejo focal e inspección visual realizados en la investigación. Se recoge una afinidad con el diseño propio de C4; no se adopta su protocolo completo, duración, explicación científica ni teología del diseño. Los antecedentes históricos de lectio divina quedan delimitados en el expediente y no sostienen un método adicional de este capítulo.
+[^18]: Timothy R. Jennings, *Meditation: Biblical Method Versus Eastern Method: A Guide to a Bible-based Experience with God*, Come and Reason Ministries, 2020, [guía](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), p. 24, segundo punto, y p. 25, cuarto y quinto puntos (JEN-01). Cotejo focal e inspección visual realizados en la investigación. Se recoge una afinidad con el diseño propio de C5; no se adopta su protocolo completo, duración, explicación científica ni teología del diseño. Los antecedentes históricos de lectio divina quedan delimitados en el expediente y no sostienen un método adicional de este capítulo.
 
 [^19]: Jos 1:8 dentro de 1:1–9; NET, nota al versículo (COM-NET-01); Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», 2021, sección «Deuteronomic antecedents», [DOI](https://doi.org/10.4102/hts.v77i1.6668) (EST-01). Apoyo reutilizado desde C1, sin nueva lectura del estudio en esta etapa. La recitación es compatible con reflexión; no garantiza comprensión por cantidad.
 

@@ -1,5 +1,7 @@
 # C4 — Revisión de lenguaje simple
 
+> **Nota de renumeración:** esta auditoría fue realizada cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 ese manuscrito es el capítulo 5. Las menciones históricas `C4`, los IDs `C4-*` y los hashes se conservan como trazabilidad del trabajo original.
+
 **Etapa 4, completada localmente el 2026-10-02 UTC.** Esta pasada revisó los archivos locales que incorporan las correcciones documentales de etapa 3. No revisó solamente el texto de HEAD, ni publicó cambios.
 
 ## 1. Versión efectiva y alcance

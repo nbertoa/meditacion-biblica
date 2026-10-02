@@ -8,6 +8,7 @@ Repositorio de trabajo para investigar y escribir un libro sobre la meditación 
 - **¿Qué significa meditar en la Biblia?**
 - **¿Para qué meditar?**
 - **¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?**
+- **¿En qué nos transforma aquello que contemplamos?**
 - **¿Cómo meditar con las Escrituras?**
 - Epílogo
 
@@ -56,12 +57,17 @@ Las nueve etapas y su publicación se comprobaron en main el 2026-10-02 a las 04
 
 El 2026-10-02 el autor autorizó investigar, redactar, revisar y guardar directamente en main «¿Cómo meditar con las Escrituras?» y sus soportes. Ese permiso reemplaza para C4 el límite histórico de los encargos anteriores, sin reescribirlos. La base comprobada fue `b832d03f951a6c0b71246d66dcc89727e4183305`, sin manuscrito C4 previo.
 
-El [capítulo completo](capitulos/04-como-meditar-con-las-escrituras.md) enseña a elegir una unidad, leer o escuchar, preguntar, contrastar y responder. Integra ocho recursos y tres recorridos mayores: Santiago 1:19–27, Salmo 77 y Lucas 10:25–37. Incluye variantes, dificultades y 22 notas; puede seguirse sin abrir los anexos.
+El [capítulo completo](capitulos/05-como-meditar-con-las-escrituras.md) enseña a elegir una unidad, leer o escuchar, preguntar, contrastar y responder. Integra ocho recursos y tres recorridos mayores: Santiago 1:19–27, Salmo 77 y Lucas 10:25–37. Incluye variantes, dificultades y 22 notas; puede seguirse sin abrir los anexos.
 
-El respaldo está en el [expediente](investigacion/04-como-meditar-con-las-escrituras.md), la [evidencia contextual](investigacion/capitulo-04/evidencia-biblica.md), la [matriz](investigacion/capitulo-04/matriz-practicas.md) y el [catálogo](practicas/catalogo.md). Las pasadas separadas están documentadas en las auditorías [documental y práctica](investigacion/capitulo-04/auditoria-documental.md), [lenguaje](investigacion/capitulo-04/auditoria-lenguaje.md), [continuidad](investigacion/capitulo-04/auditoria-continuidad.md) y [final integral](investigacion/capitulo-04/auditoria-final.md), que incluye el informe de quince puntos.
+El respaldo está en el [expediente](investigacion/05-como-meditar-con-las-escrituras.md), la [evidencia contextual](investigacion/capitulo-05/evidencia-biblica.md), la [matriz](investigacion/capitulo-05/matriz-practicas.md) y el [catálogo](practicas/catalogo.md). Las pasadas separadas están documentadas en las auditorías [documental y práctica](investigacion/capitulo-05/auditoria-documental.md), [lenguaje](investigacion/capitulo-05/auditoria-lenguaje.md), [continuidad](investigacion/capitulo-05/auditoria-continuidad.md) y [final integral](investigacion/capitulo-05/auditoria-final.md), que incluye el informe de quince puntos.
 
 Checkpoints reales de etapas 1–5: `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y `ecf0f98`, todos del 2026-10-02. La coordinación comunicó su publicación y recuperación antes de la última pasada. El manuscrito se conserva íntegro al finalizar la etapa 6, con SHA-256 `03cf04511be3c7bdb0299e5a30528c5d5e76588bbb1e662e2e23f9342e6d6699`. Las correcciones previas sobreviven; las nuevas consultas focales están delimitadas en el informe. No hizo falta activar auditorías especializadas separadas ni modificar C1–C3.
 
 **Verificación final:** el contenido de etapa 6 quedó publicado y recuperado en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. La coordinación comprobó main/HEAD, árbol limpio y ausencia de diferencias; repitió el control final sin errores, advertencias ni avisos y releyó C4 completo con notas desde origin/main el 2026-10-02 a las 17:58–17:59 UTC. El punto 14 del informe final registra esta comprobación posterior, distinta del commit que guardará la constancia. Las seis etapas están cumplidas y C4 queda listo para la revisión del autor. Las pasadas son asistidas por IA, sin prueba con lectores ni aprobación editorial del autor. Continúan abiertos los límites documentales no esenciales y las decisiones generales del libro.
 
 **Actualización concurrente conservada:** después del cierre de C4, el autor amplió C2 en `eacc1c563073ddd5d28f0d7875fd665f53361865` (2026-10-02, 18:06:31 UTC) con contexto de Newberg/Jennings, títulos y dos notas biográficas. Se releyó C2 completo y se comprobó su compatibilidad con C4, que permanece idéntico. La constancia se registra sobre esa nueva base, sin sobrescribir C2 ni atribuir sus fuentes nuevas a la investigación de C4. La verificación anterior de `8b3ee67` conserva su fecha y alcance.
+
+
+## Nueva estructura desde 2026-10-02
+
+El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aquello que contemplamos?»**, centrado en transformación por contemplación, contenido de la atención y concepción del carácter de Dios. El manuscrito antes numerado como C4, **«¿Cómo meditar con las Escrituras?»**, pasa a ser **C5**. Sus investigaciones, auditorías, hashes e IDs históricos se conservan como trazabilidad; la renumeración no implica reescritura de aquel trabajo.

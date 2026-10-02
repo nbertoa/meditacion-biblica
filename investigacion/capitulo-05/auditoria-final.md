@@ -1,8 +1,10 @@
 # C4 — Auditoría final integral e informe al autor
 
+> **Nota de renumeración:** esta auditoría fue realizada cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 ese manuscrito es el capítulo 5. Las menciones históricas `C4`, los IDs `C4-*` y los hashes se conservan como trazabilidad del trabajo original.
+
 **Estado vigente: seis etapas terminadas, publicadas y verificadas desde main; C4 listo para la revisión del autor.** La revisión local de etapa 6 se completó el 2026-10-02 UTC. Su publicación, recuperación, comparación y relectura completa con notas fueron confirmadas posteriormente por coordinación a las 17:58–17:59 UTC en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. El punto 14 conserva el estado de la pasada local, la constancia remota y la adenda posterior sobre el cambio externo de C2 en `eacc1c563073ddd5d28f0d7875fd665f53361865`, nueva base del registro. Ese cambio se conserva y es compatible con C4; no se atribuye aprobación editorial al autor.
 
-**Dictamen:** conservar íntegro el [capítulo 4, «¿Cómo meditar con las Escrituras?»](../../capitulos/04-como-meditar-con-las-escrituras.md). La lectura crítica nueva y los cotejos focales no encontraron un error superviviente que exija otra corrección del cuerpo o de sus notas. Se actualizan los estados, se registran las consultas realmente hechas y se reúne aquí el informe de quince puntos. No se modifica C1–C3 ni se atribuye aprobación editorial al autor.
+**Dictamen:** conservar íntegro el [capítulo 4, «¿Cómo meditar con las Escrituras?»](../../capitulos/05-como-meditar-con-las-escrituras.md). La lectura crítica nueva y los cotejos focales no encontraron un error superviviente que exija otra corrección del cuerpo o de sus notas. Se actualizan los estados, se registran las consultas realmente hechas y se reúne aquí el informe de quince puntos. No se modifica C1–C3 ni se atribuye aprobación editorial al autor.
 
 ## Base, responsabilidad y cobertura de esta pasada
 

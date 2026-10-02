@@ -1,5 +1,7 @@
 # C4 — Auditoría documental, metodológica y práctica
 
+> **Nota de renumeración:** esta auditoría fue realizada cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 ese manuscrito es el capítulo 5. Las menciones históricas `C4`, los IDs `C4-*` y los hashes se conservan como trazabilidad del trabajo original.
+
 **Etapa 3. Fecha: 2026-10-02 UTC.** Checkpoint examinado: `881924940b56980aa79d257b9924ad2d0279b962`, manuscrito de etapa 2, posterior a la investigación `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. Base anterior a C4: `b832d03f951a6c0b71246d66dcc89727e4183305`. Al iniciar, el árbol local estaba limpio y HEAD coincidía con el checkpoint comunicado como verificado en main. Esta pasada no hizo fetch, commit ni push: su dictamen corresponde a cambios locales sobre esa base.
 
 **Responsabilidad y método:** revisión editorial asistida por IA en un rol crítico distinto del de redacción, con cotejos focales paralelos y una integración documental. No es auditoría humana, revisión externa independiente ni prueba con lectores. Se separaron el texto bíblico traducido, la interpretación de comentaristas, las decisiones didácticas y las afirmaciones de autores posteriores. Para el control práctico se recorrieron las instrucciones y se examinó qué operación y respuesta permiten; no se simularon testimonios ni se midieron resultados espirituales, cognitivos o clínicos.

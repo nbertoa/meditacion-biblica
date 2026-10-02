@@ -244,7 +244,7 @@ El 2026-10-02 se reabrió directamente **TXT-CONT-01** para leer los versículos
 
 ### Cotejo documental de C4 — etapa 3, 2026-10-02 UTC
 
-La [auditoría documental](../investigacion/capitulo-04/auditoria-documental.md#8-registro-de-consultas-efectivas-de-etapa-3) registra accesos exactos y límites. Se amplían los IDs existentes sin añadir obras duplicadas:
+La [auditoría documental](../investigacion/capitulo-05/auditoria-documental.md#8-registro-de-consultas-efectivas-de-etapa-3) registra accesos exactos y límites. Se amplían los IDs existentes sin añadir obras duplicadas:
 
 - **TXT-CONT-01:** relectura directa completa de Jos 1; Dt 6/31; Sal 1/63/77/119/143; Sant 1; Lc 10; 1 Tim 4 y Prov 26. Selección de Lev 19:9–18,33–34. Sólo texto BSB, sin resúmenes automáticos
 - **TR-ES-01:** Lc 10:25–37 RVR1960; comparador de 1 Tim 4:15; [1 Tim 4 RVA](https://www.biblegateway.com/passage/?search=1+Timoteo+4&version=RVA) y [RVR1960](https://www.biblegateway.com/passage/?search=1+Timoteo+4&version=RVR1960) completos. Relectura directa, sin versión oficial adoptada
@@ -261,15 +261,15 @@ EST-01/02, Ellington, Pavan, los originales científicos, JEN-02 y antecedentes 
 
 ### Revisión de lenguaje de C4 — etapa 4, 2026-10-02 UTC
 
-Se cotejaron las simplificaciones del manuscrito con las fuentes y accesos registrados en los soportes de C4, sin nuevas consultas de originales, nuevos IDs ni ampliación de las afirmaciones. Las 22 notas se conservan byte por byte respecto del texto local corregido de etapa 3. No se presenta esta lectura documental como una nueva lectura de Jennings, de los comentarios o de los estudios citados. La [auditoría de lenguaje](../investigacion/capitulo-04/auditoria-lenguaje.md) identifica fecha y hash de entrada y salida. Etapas 5–6 y publicación/verificación de las revisiones de etapas 3–4 pendientes.
+Se cotejaron las simplificaciones del manuscrito con las fuentes y accesos registrados en los soportes de C4, sin nuevas consultas de originales, nuevos IDs ni ampliación de las afirmaciones. Las 22 notas se conservan byte por byte respecto del texto local corregido de etapa 3. No se presenta esta lectura documental como una nueva lectura de Jennings, de los comentarios o de los estudios citados. La [auditoría de lenguaje](../investigacion/capitulo-05/auditoria-lenguaje.md) identifica fecha y hash de entrada y salida. Etapas 5–6 y publicación/verificación de las revisiones de etapas 3–4 pendientes.
 
 ### Continuidad integral de C4 — etapa 5, 2026-10-02 UTC
 
-Se cotejaron las notas de C1–C4, las entradas pertinentes y los registros de acceso de C4 sin nuevas consultas de originales, nuevos IDs ni cambios de localizadores. Los cuatro manuscritos y las 22 notas de C4 se conservan. Los 12 IDs de C4 siguen vinculados con sus fuentes existentes; Ellington/Pavan, Boyd-Taylor, Jennings y antecedentes históricos mantienen los grados de acceso registrados. El resultado vigente de Button/De Pretto se lee desde C2 y su adenda posterior, sin transferirlo a estas prácticas ni reescribir sus antecedentes. La [auditoría de continuidad](../investigacion/capitulo-04/auditoria-continuidad.md) identifica el checkpoint local y la cobertura. Etapa 6, publicación de etapa 5 y recuperación/verificación remota pendientes; la publicación de etapas 3–4 y el control remoto preliminar de etapa 4 fueron comunicados por coordinación durante continuidad, sin comprobación remota propia de esta pasada.
+Se cotejaron las notas de C1–C4, las entradas pertinentes y los registros de acceso de C4 sin nuevas consultas de originales, nuevos IDs ni cambios de localizadores. Los cuatro manuscritos y las 22 notas de C4 se conservan. Los 12 IDs de C4 siguen vinculados con sus fuentes existentes; Ellington/Pavan, Boyd-Taylor, Jennings y antecedentes históricos mantienen los grados de acceso registrados. El resultado vigente de Button/De Pretto se lee desde C2 y su adenda posterior, sin transferirlo a estas prácticas ni reescribir sus antecedentes. La [auditoría de continuidad](../investigacion/capitulo-05/auditoria-continuidad.md) identifica el checkpoint local y la cobertura. Etapa 6, publicación de etapa 5 y recuperación/verificación remota pendientes; la publicación de etapas 3–4 y el control remoto preliminar de etapa 4 fueron comunicados por coordinación durante continuidad, sin comprobación remota propia de esta pasada.
 
 ### Cotejos finales de C4 — etapa 6, 2026-10-02 UTC
 
-El [informe final](../investigacion/capitulo-04/auditoria-final.md#6-fuentes-principales-y-acceso-efectivo) documenta estas consultas nuevas de obras ya registradas; no se añadieron IDs. Los localizadores y atribuciones vigentes se conservaron después del cotejo:
+El [informe final](../investigacion/capitulo-05/auditoria-final.md#6-fuentes-principales-y-acceso-efectivo) documenta estas consultas nuevas de obras ya registradas; no se añadieron IDs. Los localizadores y atribuciones vigentes se conservaron después del cotejo:
 
 - **TXT-CONT-01:** lectura traducida completa de Santiago 1 y 1 Timoteo 4. Cotejo complementario focal de Lucas 10:25–37 y 9:51–56, Sal 77 completo y Sal 119:33–40,9–16,57–64. Sólo versículos BSB; sin resúmenes automáticos ni aparato crítico nuevo
 - **C2-BIB-05:** Denyer, pp. 238–240, foco 239, por extracción textual paginada del PDF editorial. Relectura focal; no original platónico ni nueva lectura íntegra afirmados
@@ -288,3 +288,8 @@ El contenido final de las seis etapas quedó publicado y recuperado en `8b3ee67a
 ### Adenda de procedencia: nuevas notas biográficas externas en C2
 
 El commit del autor `eacc1c563073ddd5d28f0d7875fd665f53361865` (2026-10-02, 18:06:31 UTC) añadió a C2 las notas `newberg-contexto` y `jennings-contexto`, con enlaces a la biografía oficial de Newberg y la presentación de Jennings en InterVarsity Press, y amplió los títulos/referencias de JEN-01 y JEN-02. Se conservan íntegros esos aportes externos. La revisión breve de compatibilidad leyó el capítulo y sus notas, pero no reabrió esas dos biografías ni atribuye sus constancias de consulta a la investigación de C4. No se añaden IDs ni se amplía la evidencia usada para justificar sus ocho prácticas.
+
+
+### Nota de renumeración — 2026-10-02
+
+Las entradas y los IDs `C4-*` creados para «¿Cómo meditar con las Escrituras?» conservan su nombre histórico para no romper trazabilidad. Desde esta fecha ese manuscrito es el capítulo 5. Los nuevos materiales del capítulo 4 sobre transformación por contemplación deberán usar identificadores nuevos y no reutilizar los IDs históricos `C4-*` existentes.

@@ -13,6 +13,7 @@ Marco provisional:
 - ¿Qué significa meditar en la Biblia?
 - ¿Para qué meditar?
 - ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
+- ¿En qué nos transforma aquello que contemplamos?
 - ¿Cómo meditar con las Escrituras?
 - Epílogo
 
@@ -58,3 +59,7 @@ Investiga qué estudios existen sobre meditación bíblica específicamente y qu
 ## Estilo y colaboración
 
 Escribe en español rioplatense claro, natural y directo. Evita jerga innecesaria, tono grandilocuente y conclusiones apologéticas o antirreligiosas prefabricadas. No asumas de antemano la denominación, el lector ni la conclusión del libro: ayúdalo a definirlos. Avanza con el autor, conserva las decisiones confirmadas y deja explícito qué aspectos siguen abiertos.
+
+## Decisión estructural — 2026-10-02
+
+El autor decidió insertar un nuevo capítulo 4 dedicado a la transformación por contemplación: qué significa que somos transformados por aquello que contemplamos, qué puede sostenerse bíblicamente y qué puede sostenerse científicamente, y por qué importa especialmente la concepción del carácter de Dios que se contempla. El anterior capítulo 4, «¿Cómo meditar con las Escrituras?», pasa a ser el capítulo 5 sin cambiar su contenido sustancial. El nuevo C4 debe distinguir con rigor afirmación bíblica, evidencia empírica e inferencia teológica; la ciencia no debe presentarse como prueba de la superioridad teológica de la meditación bíblica.

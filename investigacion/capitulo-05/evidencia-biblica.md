@@ -1,4 +1,6 @@
-# C4 — Evidencia bíblica para diseñar las prácticas
+# C5 — Evidencia bíblica para diseñar las prácticas
+
+> **Nota de renumeración:** este material fue producido cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 pasa a ser el capítulo 5. Se conservan los IDs históricos `C4-*`, los hashes y las menciones de etapa para no romper la trazabilidad.
 
 Fecha: 2026-10-02 UTC. Etapa 1 sobre `b832d03f951a6c0b71246d66dcc89727e4183305`. Investigación contextual focal, no concordancia exhaustiva ni auditoría de un manuscrito todavía inexistente. Las fichas ejecutables y los ejemplos completos se conservan en el [catálogo](../../practicas/catalogo.md); aquí se fundamenta su selección y se delimitan sus inferencias.
 

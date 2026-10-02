@@ -1,5 +1,7 @@
 # C4 — Auditoría de continuidad integral C1–C4
 
+> **Nota de renumeración:** esta auditoría fue realizada cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 ese manuscrito es el capítulo 5. Las menciones históricas `C4`, los IDs `C4-*` y los hashes se conservan como trazabilidad del trabajo original.
+
 **Etapa 5, completada localmente el 2026-10-02 UTC.** Se revisó el manuscrito local posterior a las correcciones documentales y de lenguaje, no sólo la versión de etapa 2 que identificaba HEAD al comenzar. La etapa 6 y la publicación/verificación remota de etapa 5 siguen pendientes; la publicación de etapas 3–4 y el control remoto preliminar de etapa 4 fueron comunicados durante esta pasada.
 
 ## 1. Dictamen y versión efectiva
