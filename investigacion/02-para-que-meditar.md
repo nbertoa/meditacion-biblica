@@ -12,7 +12,7 @@ La pregunta científica no es si cualquier meditación funciona, sino qué efect
 
 ## Respuesta de trabajo
 
-La finalidad bíblica más explícita es orientar la conducta por la enseñanza (Jos 1:8). Los salmos añaden comprensión, memoria, confianza, gratitud, oración y consideración del presente desde las obras de Dios. La relación no equivale a una promesa universal de éxito o tranquilidad ni a un experimento que aísle la meditación de la vida religiosa completa.
+La finalidad bíblica más explícita es orientar la conducta por la enseñanza (Jos 1:8). Al reunir los pasajes aparece un hilo común de mantener presente lo conocido de Dios para que oriente la respuesta; en algunos textos también aparece de manera explícita una relación con comprender mejor. Los salmos añaden memoria, confianza, gratitud, oración y consideración del presente desde las obras de Dios. La relación no equivale a una promesa universal de éxito o tranquilidad ni a un experimento que aísle la meditación de la vida religiosa completa.
 
 La investigación científica contiene indicios favorables en intervenciones cristianas, junto con resultados nulos y problemas de transferencia. Las neuroimágenes muestran correlatos de tareas concretas; no validan la verdad teológica, la superioridad moral ni una promesa anatómica para la definición bíblica del capítulo 1.
 
@@ -77,3 +77,17 @@ No se deriva de estos estudios una recomendación clínica individual, una tasa 
 ## Verificación de entrega
 
 El 2026-10-01 se recuperó el commit final desde GitHub y se comparó todo su árbol con los archivos revisados: coincidencia exacta. Capítulo de 2994 palabras de cuerpo, 23 notas y 24 llamadas; sin notas faltantes, sobrantes o duplicadas, identificadores bibliográficos ausentes ni enlaces relativos rotos. El capítulo 1 quedó intacto. El [informe final](capitulo-02/auditoria-final.md) registra alcance, límites y commits de las cinco etapas.
+
+
+## Auditoría independiente posterior — 2026-10-01
+
+Después de las cinco etapas de Violeta se realizó una auditoría independiente adicional del capítulo final en `main`.
+
+Se aplicaron cuatro ajustes puntuales:
+
+- La síntesis inicial dejó de hablar de un “propósito común” de comprender mejor en todos los textos. Ahora presenta un hilo común de mantener presente lo conocido de Dios para orientar la respuesta, y reserva la comprensión explícita para los pasajes que realmente la expresan.
+- Santiago 1:22–25 quedó formulado de modo que el contraste incluya tanto la atención perseverante como la respuesta práctica. No se reduce la diferencia a lo que ocurre después de mirar ni a una oposición simplista entre mirar poco y mirar mucho.
+- La presentación de Button y De Pretto 2023 se ajustó al resumen publicado: allí se informa una ventaja frente al grupo control en esperanza y bienestar. Se conserva el límite de no haber consultado el artículo principal completo y de no extrapolar el resultado a análisis o subescalas no cotejados.
+- Se reemplazaron cinco usos de “orante” por “salmista” para mantener el lenguaje más simple y concreto.
+
+No se recortó la sección científica, porque su extensión es una decisión editorial y no un error documental. La tesis central del capítulo y su conexión con el capítulo 1 permanecen intactas.
