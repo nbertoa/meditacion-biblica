@@ -1,6 +1,6 @@
 # Catálogo de prácticas para meditar con las Escrituras
 
-Actualización: 2026-10-02 UTC. Diseño de etapa 1 sobre `b832d03f951a6c0b71246d66dcc89727e4183305`; incorporación a la redacción de etapa 2 sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. **Ocho fichas investigadas e integradas en el manuscrito completo local; ninguna probada con lectores ni aprobada editorialmente por el autor.** La auditoría documental y el control de todos los ejercicios siguen pendientes. No hay experiencias personales disponibles. Las ilustraciones siguientes son pedagógicas, no testimonios ni sucesos observados.
+Actualización: 2026-10-02 UTC. Diseño de etapa 1 sobre `b832d03f951a6c0b71246d66dcc89727e4183305`; incorporación a la redacción de etapa 2 sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. **Ocho fichas investigadas, integradas y revisadas documental y metodológicamente en etapa 3, sobre `881924940b56980aa79d257b9924ad2d0279b962`; ninguna probada con lectores ni aprobada editorialmente por el autor.** El control práctico comprende todas las instrucciones y variantes; no es un ensayo con personas. Véase la [auditoría documental](../investigacion/capitulo-04/auditoria-documental.md). No hay experiencias personales disponibles. Las ilustraciones siguientes son pedagógicas, no testimonios ni sucesos observados.
 
 El catálogo inicial contenía candidatos. Se conserva su trazabilidad abajo. Las fichas no forman una escalera obligatoria: pueden combinarse, superponerse o cambiar de orden. Actuar, orar, memorizar y meditar mantienen sus diferencias. Las condiciones, las secuencias y las duraciones sugeridas son ayudas actuales, no mandatos bíblicos ni dosis clínicas.
 
@@ -57,9 +57,9 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Recurso de traducciones:** en 1 Tim 4:15, RVA dice «Medita estas cosas» y RVR1960, «Ocúpate en estas cosas». Compararlas lleva a preguntar qué abarca «estas cosas» en 4:12–16: ejemplo, lectura pública, enseñanza y cuidado de vida. El contexto impide reducirlo a pensar en silencio. La comparación no se resuelve eligiendo la palabra preferida ni sumando todos los sentidos del verbo.
 
-**Fuentes y acceso:** TXT-CONT-01, Sant 1 y contexto seleccionado; C2-BIB-05, Denyer, pp. 238–240, especialmente 239, relectura focal nueva; C4-BIB-01, Loh/Hatton, extracto de Sant 1:19 completo. TR-ES-01, versiones electrónicas identificadas de 1 Tim 4:15, y COM-NET-01, mismo versículo, consultados directamente. El análisis léxico de C1 se reutiliza; no consulta nueva de BDAG ni aparato crítico.
+**Fuentes y acceso:** TXT-CONT-01, Sant 1 y contexto seleccionado; C2-BIB-05, Denyer, pp. 238–240, especialmente 239, relectura focal nueva; C4-BIB-01, Loh/Hatton, extracto de Sant 1:19 completo. TR-ES-01, versiones electrónicas identificadas de 1 Tim 4:15, y COM-NET-01, traducción del mismo versículo, consultados directamente; la nota NET trata el progreso visible, no resuelve por sí sola el sentido del verbo o su referente. El análisis léxico de C1 se reutiliza; no consulta nueva de BDAG ni aparato crítico.
 
-**Estado:** investigada; pendiente la auditoría del ejercicio en el capítulo completo. No probada.
+**Estado:** investigada y revisada en etapa 3; no probada ni aprobada por el autor.
 
 ## P02 — Parafrasear y comprobar
 
@@ -69,17 +69,17 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Base y límite:** 33–37 pide enseñanza, entendimiento y orientación de corazón/ojos; no enseña a escribir resúmenes. No se introduce un lema nuevo ni se afirma que parafrasear aumente la memoria.
 
-**Instrucciones:** leé la unidad; elegí una o dos frases relacionadas; explicalas sin mirar sólo si eso ayuda; abrí otra vez el pasaje; comprobá quién pide, a quién, qué pide y para qué. Marcá lo que agregaste y retiralo si no se apoya en el texto. Dejá una palabra sin resolver cuando no puedas explicarla con fidelidad. Si escribís, rotulá «paráfrasis propia».
+**Instrucciones:** leé la unidad; elegí una o dos frases relacionadas; explicalas sin mirar sólo si eso ayuda; abrí otra vez el pasaje; comprobá quién pide, a quién, qué pide y para qué; conservá también los contrastes que orientan la petición. Marcá lo que agregaste y retiralo si no se apoya en el texto. Dejá una palabra sin resolver cuando no puedas explicarla con fidelidad. Si escribís, rotulá «paráfrasis propia».
 
 **Propósito, variantes y tiempo:** hacer visible lo entendido. Puede decirse, escribirse o grabarse para uso personal; mantener el texto a la vista es igualmente válido. No hace falta tiempo fijo ni cerrar los ojos. Volver después al original importa más que producir una frase elegante.
 
-**Ejemplo desarrollado:** **observación:** 34 pide entendimiento vinculado con guardar la enseñanza; 36 pide orientar el corazón y contrasta esa dirección con ganancias codiciosas. **Paráfrasis propia:** «Necesito comprender tu enseñanza para vivir de acuerdo con ella; orientá lo que deseo». **Pregunta:** ¿mi versión hizo parecer que ya conozco y cumplo todo? **Interpretación:** la disposición a obedecer y la dependencia de ayuda coexisten. **Respuesta posible:** pedir comprensión sobre un punto todavía confuso y revisar una elección en la que el interés propio pudiera estar desplazando la enseñanza. **Incierto:** esa elección concreta no la relata el salmo; tampoco 34 promete comprender cualquier asunto.
+**Ejemplo desarrollado:** **observación:** 34 pide entendimiento vinculado con guardar la enseñanza; 36 pide orientar el corazón y contrasta esa dirección con ganancias codiciosas. **Paráfrasis propia:** «Dame entendimiento para vivir según tu enseñanza; orientá mi corazón hacia ella y apartalo de la codicia». **Pregunta:** ¿mi versión conserva lo que se pide, su finalidad y el contraste con la codicia, o hizo parecer que ya conozco y cumplo todo? **Interpretación:** la disposición a obedecer y la dependencia de ayuda coexisten. **Respuesta posible:** pedir comprensión sobre un punto todavía confuso y revisar una elección en la que el interés propio pudiera estar desplazando la enseñanza. **Incierto:** esa elección concreta no la relata el salmo; tampoco 34 promete comprender cualquier asunto.
 
 **Límites:** no añadir «así tendré éxito en todo»; no borrar interrogaciones, condición o destinatario. Una paráfrasis más fácil puede ser menos fiel: se revisa contra el pasaje, no contra cuánto agrada.
 
 **Fuentes y acceso:** TXT-CONT-01, Sal 119 completo releído en C4; C1/C2 y su evidencia de peticiones/comprensión, reutilizados. No nuevas conclusiones léxicas.
 
-**Estado:** investigada; no probada ni aprobada por el autor.
+**Estado:** investigada y revisada en etapa 3; no probada ni aprobada por el autor.
 
 ## P03 — Seguir el movimiento de un poema
 
@@ -106,7 +106,7 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Fuentes y acceso:** TXT-CONT-01, Sal 77 y 1 completos; COM-NET-01, 77:10; COM-SAL-01, comentario pertinente; C2-BIB-02, §4.2.7, y C2-BIB-03, resumen, como respaldo heredado con acceso delimitado en evidencia. C4 no declara nuevas lecturas íntegras de esos trabajos por reutilizarlos.
 
-**Estado:** investigada; ejemplos preparados, no probados con lectores.
+**Estado:** investigada y revisada en etapa 3; ejemplos preparados, no probados con lectores.
 
 ## P04 — Recorrer un relato sin completarlo como revelación
 
@@ -129,9 +129,9 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 - **Respuesta posible:** considerar una necesidad concreta que se está evitando y qué ayuda sería realmente pertinente, escuchando a la persona y reconociendo los propios medios. Una primera acción podría ser averiguar qué necesita. El texto no ordena comprar aceite, prometer gastos ilimitados a cualquier desconocido ni resolver por sí solo todo problema
 - **Incierto:** no sabemos el motivo de cada omisión ni la historia posterior del herido. La parábola no decide cada dilema real de ayuda. Tampoco una identificación espontánea con un personaje demuestra que ése sea el único lugar desde el cual leerla
 
-**Fuentes y acceso:** TXT-CONT-01, Lc 10; COM-NET-01, notas seleccionadas de 10:25–37; C4-BIB-02, Levine, pp. 121, 123–124, consulta parcial; C4-BIB-03 como control complementario parcial, sin adoptar sus dramatizaciones. La fuente primaria y las interpretaciones modernas se distinguen; no se adopta una reconstrucción histórica sólo por ser vívida.
+**Fuentes y acceso:** TXT-CONT-01, Lc 10; COM-NET-01, notas seleccionadas de 10:25–37; C4-BIB-02, Levine, pp. 121, 123–124, consulta parcial; C4-BIB-03 como control complementario: extracto completo reabierto en etapa 3, libro parcial, sin adoptar sus dramatizaciones. La fuente primaria y las interpretaciones modernas se distinguen; no se adopta una reconstrucción histórica sólo por ser vívida.
 
-**Estado:** investigada; no actuación observada, prueba psicológica ni experiencia del autor.
+**Estado:** investigada y revisada en etapa 3; no actuación observada, prueba psicológica ni experiencia del autor.
 
 ## P05 — Recordar, recitar y memorizar con sentido
 
@@ -149,9 +149,9 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Límites:** no usar una frase como mensaje privado desligado del conjunto; no repetir mientras se desatiende una responsabilidad que requiere atención; no hacer de la cantidad una medida de fe. Estas dos últimas son decisiones prácticas actuales, no exégesis del verso.
 
-**Fuentes y acceso:** TXT-CONT-01, contextos releídos; COM-NET-01 y EST-01, apoyo léxico/contextual heredado de C1 sobre Jos 1:8. No nuevo estudio experimental de memoria ni relectura íntegra nueva de EST-01.
+**Fuentes y acceso:** TXT-CONT-01, contextos releídos; COM-NET-01, notas de Jos 1:8 reabiertas en etapa 3; EST-01, apoyo contextual heredado de C1 sin reapertura. No nuevo estudio experimental de memoria ni estudio léxico exhaustivo.
 
-**Estado:** investigada; eficacia individual y experiencia del autor no comprobadas.
+**Estado:** investigada y revisada en etapa 3; eficacia individual y experiencia del autor no comprobadas.
 
 ## P06 — Orar desde lo comprendido
 
@@ -169,7 +169,7 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Fuentes y acceso:** TXT-CONT-01, Sal 143/119 releídos; evidencia y límites heredados de C1/C2. JEN-01 p. 25 ofrece una afinidad posterior sobre admitir dificultad, no la autoridad textual de esta ficha.
 
-**Estado:** investigada; no experiencia espiritual constatada ni protocolo clínico.
+**Estado:** investigada y revisada en etapa 3; no experiencia espiritual constatada ni protocolo clínico.
 
 ## P07 — Conversar el texto
 
@@ -183,11 +183,11 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Propósito, variantes y tiempo:** ofrecer contraste, no garantizar consenso ni evitar errores automáticamente. Puede hacerse de a dos, presencial o por conversación escrita; compartir observaciones no exige compartir vivencias. Reserven tiempo para leer y responder; no gasten todo el encuentro en opiniones sin volver al pasaje.
 
-**Ejemplo:** **observación:** un participante nota el espejo de Sant 1:23–25; otro, la lengua de 26. **Pregunta:** ¿alcanza con comprender lo que vimos? **Interpretación tentativa:** no, la atención que permanece se une al hacer. **Contraste:** alguien objeta que la duración no importa nada; el grupo vuelve a 25 y conserva perseverancia y acción. **Respuesta posible:** cada persona puede considerar en privado una consecuencia, sin anunciarla. **Incierto:** el acuerdo del grupo no decide la situación de quien no la contó; queda libre de responder sin exposición pública.
+**Ejemplo:** **observación:** un participante nota el espejo de Sant 1:23–25; otro, la lengua de 26. **Pregunta:** ¿alcanza con comprender lo que vimos? **Interpretación tentativa:** no, la atención que permanece se une al hacer. **Contraste:** alguien sostiene que basta con actuar y que prestar atención no cuenta; el grupo vuelve a 25 y conserva tanto permanecer como hacer, sin convertir la duración en una medida del contraste. **Respuesta posible:** cada persona puede considerar en privado una consecuencia, sin anunciarla. **Incierto:** el acuerdo del grupo no decide la situación de quien no la contó; queda libre de responder sin exposición pública.
 
 **Fuentes y acceso:** TXT-CONT-01, Dt 31 y Sant 1, cotejados; C2-BIB-05 para el límite del espejo. Resguardos grupales: decisiones pedagógicas propias del encargo, no resultados científicos ni reglas extraídas de Dt 31.
 
-**Estado:** investigada; sin prueba grupal realizada.
+**Estado:** investigada y revisada en etapa 3; sin prueba grupal realizada.
 
 ## P08 — Reconocer una respuesta y volver sobre ella
 
@@ -205,8 +205,12 @@ No se seleccionan como métodos: visualización libre que invente revelación, r
 
 **Fuentes y acceso:** TXT-CONT-01, Sal 119 y textos de los ejemplos, consulta contextual nueva; distinción léxica de 119:59 heredada de C1/C2, sin nueva consulta de aparatos. Las modalidades actuales se justifican por su relación con el pasaje y el problema, no por un ensayo de conducta.
 
-**Estado:** investigada; pendiente revisión en el manuscrito y decisión editorial del autor, sin pruebas de resultados.
+**Estado:** investigada y revisada en etapa 3; decisión editorial del autor pendiente, sin pruebas de resultados.
 
 ## Incorporación al manuscrito — etapa 2
 
 Las ocho funciones se desarrollan en [C4](../capitulos/04-como-meditar-con-las-escrituras.md) con instrucciones suficientes para usarlas sin este catálogo. La [matriz](../investigacion/capitulo-04/matriz-practicas.md#localización-en-el-manuscrito-de-etapa-2) identifica secciones y ejemplos. Se mantuvieron las fichas, niveles, selección y límites: la redacción despliega su explicación, no incorpora otra técnica. Las variantes actuales de lectura, audio, voz, notas y recuerdo son opcionales; los tres ejemplos mayores conservan observación, pregunta, interpretación, respuesta y límite. Esta incorporación es un estado de escritura, no una revisión crítica de etapa 3 ni una prueba con personas.
+
+## Revisión documental y práctica — etapa 3
+
+El 2026-10-02 se contrastaron P01–P08, sus doce componentes y todas sus variantes con el capítulo y las fuentes necesarias. La [auditoría](../investigacion/capitulo-04/auditoria-documental.md) registra cobertura individual, conservaciones y límites. Se corrigieron P02 para conservar dirección/contraste de la petición, P01 para precisar el apoyo de NET 1 Tim 4:15 y P07 para no convertir la duración en medida del espejo. El resto se conserva con razones documentadas. Son prácticas revisadas editorialmente, no probadas; quedan lenguaje, continuidad y cierre integral. Los accesos nuevos y heredados se distinguen en el registro y la auditoría.

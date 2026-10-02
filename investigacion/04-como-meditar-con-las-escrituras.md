@@ -1,6 +1,6 @@
 # Investigación — ¿Cómo meditar con las Escrituras?
 
-Fecha: 2026-10-02 UTC. **Estado vigente: etapas 1 y 2 realizadas; primera redacción completa local.** La investigación/diseño partió de `b832d03f951a6c0b71246d66dcc89727e4183305` y quedó guardada en `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`. La redacción se realizó sobre ese segundo checkpoint. Etapas 3–6 y publicación del manuscrito pendientes. Los registros de etapa 1 que siguen conservan su estado histórico; el cierre de etapa 2 figura al final. Este expediente no sustituye el capítulo ni anticipa sus auditorías.
+Fecha: 2026-10-02 UTC. **Estado vigente: etapas 1–3 realizadas; auditoría documental/práctica completada localmente.** La investigación/diseño partió de `b832d03f951a6c0b71246d66dcc89727e4183305` y quedó guardada en `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`; el manuscrito de etapa 2, en `881924940b56980aa79d257b9924ad2d0279b962`. La etapa 3 revisó ese último checkpoint. Quedan etapas 4–6 y publicación de las correcciones documentales. Los registros anteriores conservan su estado histórico; el cierre de etapa 3 figura al final. Este expediente no sustituye el capítulo ni anticipa auditorías futuras.
 
 ## Autorización y base efectiva
 
@@ -196,3 +196,27 @@ Diez archivos nuevos o modificados: manuscrito C4; expediente central; evidencia
 La etapa 3 debe cotejar TODOS los ejercicios y variantes del cuerpo con las fichas, no sólo los tres ejemplos mayores. Merecen atención la distinción entre escuchar y un protocolo de lectura en Santiago; el resumen de Sal 119:34/36; las diferencias de versión en 1 Tim 4:15; las preguntas y el límite de 77:10; las glosas nuevas de identidades, la función del samaritano y los silencios de Lucas; las dos razones de Prov 26; y las adaptaciones de oración, memoria y conversación. También corresponde volver a JEN-01, pp. 24–25, para cotejar la atribución breve, y contrastar todos los localizadores supervivientes.
 
 La pasada de lenguaje debe comprobar que la explicación y las cautelas sigan siendo proporcionadas y que cada instrucción pueda ejecutarse desde el capítulo. La de continuidad debe releer C1–C4 consecutivos con notas; esta redacción no la da por cumplida. La auditoría final y recuperación desde main cerrarán el encargo únicamente después de esas pasadas. Siguen abiertos los límites documentales heredados, las decisiones generales y la revisión del autor, sin bloquear por sí solos el trabajo pendiente.
+
+## Registro de etapa 3 — auditoría documental y práctica local
+
+**Fecha:** 2026-10-02 UTC. **Checkpoint examinado:** `881924940b56980aa79d257b9924ad2d0279b962`, manuscrito de etapa 2. Árbol limpio al comenzar; se comprobó el historial local. Esta pasada no ejecutó fetch, commit ni push y no atribuye una nueva verificación remota.
+
+**Autoría y alcance:** revisión editorial asistida por IA en rol crítico distinto de la redacción, con cotejos focales integrados. No es auditoría externa independiente, revisión humana ni experimento. La [auditoría documental](capitulo-04/auditoria-documental.md) registra individualmente las 22 notas y el control de las ocho fichas, todas sus variantes y las 28 afirmaciones importantes. Se releyeron C1–C3 completos y con notas, además del capítulo y soportes; el control documental complementario incluyó íntegros los 26 soportes heredados pertinentes. Ninguna lectura de informes se contó como consulta nueva de originales.
+
+### Hallazgos, correcciones y conservación
+
+- La paráfrasis de Sal 119:34/36 era demasiado genérica para enseñar a conservar relaciones. Ahora mantiene petición, finalidad, dirección hacia la enseñanza y oposición a la codicia, y pide comprobar esos elementos
+- NET 1 Tim 4:15 aportaba traducción, pero su nota explica progreso visible, no el verbo ni el referente de «estas cosas». Se precisaron nota 8 y soportes; el contexto 4:12–16 mantiene la conclusión. Se añadió la nota de 4:13 como respaldo concreto de lectura pública
+- P07 del catálogo se alineó con el cuerpo: atención y hacer, sin introducir duración como medida exegética
+- Nota 15 incorporó Levine p. 121, ya registrada, para la glosa samaritana y su contexto en Lucas 9
+- Se conservaron los tres ejemplos mayores y las otras variantes con razones documentadas: observación/interpretación/adaptación diferenciadas, imaginación opcional, preguntas corregibles, lamento y respuestas situadas. Ningún ejercicio requiere una conclusión personal predeterminada, imagen intensa, intimidad pública o emoción garantizada
+
+### Consultas nuevas y límites
+
+Se reabrieron contextos bíblicos BSB, versiones españolas pertinentes, notas NET/Kirkpatrick, Denyer, UBS, Levine y Bock en los tramos especificados en el [registro de accesos](capitulo-04/auditoria-documental.md#8-registro-de-consultas-efectivas-de-etapa-3). Jennings pp. 24–25 recibió cotejo focal y nueva inspección visual de la copia conservada; no lectura íntegra o descarga binaria nueva. Se comprobó numeración de Sal 77 mediante NET y una herramienta electrónica complementaria. Bibliografía, evidencia y matriz distinguen estos accesos de Ellington/Pavan, Boyd-Taylor, antecedentes históricos y ciencia heredados, que no se reabrieron. No hubo nuevo estudio léxico ni aparato crítico integral.
+
+El contenido efectivo mantiene la decisión de no activar auditorías especializadas separadas: una atribución puntual, glosas contextuales acotadas y ayudas pedagógicas sin resultados medidos no requieren reproducir C3. Los pendientes J17/Newberg/Waldman/Govinda, la discusión de 77:10 y las obras parciales siguen declarados, sin bloquear las instrucciones que no dependen de resolverlos.
+
+Se creó la auditoría y se sincronizaron manuscrito, expediente, evidencia, matriz, catálogo, bibliografía y los cuatro registros de estado: once archivos nuevos/modificados. C1–C3 y sus auditorías se conservan. Faltan lenguaje, continuidad integral y cierre con publicación/recuperación remota; no se los da por realizados por esta revisión. La aprobación del autor y las decisiones generales siguen abiertas.
+
+**Comprobaciones de cierre de etapa 3:** verificador estructural en modo preliminar y `git diff --check` satisfactorios: 42 Markdown, 85 tablas, 115 IDs canónicos; 22 llamadas/definiciones en C4; cero errores y advertencias. Los tres avisos esperados son las auditorías futuras todavía ausentes. Comparación adicional byte por byte: los 31 archivos previos fuera de los seis soportes generales modificables siguen idénticos a `b832d03`. No hubo CI, pruebas con lectores ni verificación remota nueva.
