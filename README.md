@@ -79,4 +79,4 @@ El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aq
 
 ## Nuevo capítulo 4: investigación en curso
 
-El [expediente de transformación](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva el encargo de diez etapas, las objeciones y la separación de evidencia bíblica, empírica e inferencia teológica. La [etapa bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md) está completada localmente. La publicación y recuperación de cada avance se registran por separado.
+El [expediente de transformación](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva el encargo de diez etapas, las objeciones y la separación de evidencia bíblica, empírica e inferencia teológica. Las etapas [bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md) y [científica](investigacion/capitulo-04-transformacion/investigacion-cientifica.md), con su [matriz](investigacion/capitulo-04-transformacion/matriz-cientifica.md), están completadas localmente. La publicación y recuperación de cada avance se registran por separado.
