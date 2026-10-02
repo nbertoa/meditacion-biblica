@@ -20,13 +20,15 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 - `plan/decisiones-pendientes.md`: estructura marco y preguntas de diseño pendientes.
 - `investigacion/`: materiales para el estudio bíblico y léxico.
 - `fuentes/registro-bibliografico.md`: registro de fuentes.
-- `capitulos/`: manuscrito del libro; capítulos 1 y 2 preparados para revisión del autor y C3 terminado, con nueve etapas y publicación verificadas en main. C4 tiene manuscrito completo y seis etapas terminadas, publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`; está listo para la revisión del autor. También incluye la plantilla inicial.
+- `capitulos/`: manuscrito del libro; capítulos 1 y 2 preparados para revisión del autor y C3 terminado, con nueve etapas y publicación verificadas en main. El actual C5 tiene manuscrito completo y seis etapas publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`, cuando aún se numeraba C4; está listo para la revisión del autor. El nuevo C4 sobre transformación está en investigación. También incluye la plantilla inicial.
 - `practicas/catalogo.md`: ocho fichas investigadas y revisadas en las pasadas documental, lenguaje, continuidad y final integral de C4; conserva el destino de los candidatos iniciales. No son prácticas probadas ni aprobadas por el autor.
 - `experiencias/registro.md`: experiencias que aporte el autor.
 
 ## Estado
 
-El título principal está elegido. Los cuatro ejes están acordados como orientación inicial, pero su desarrollo puede cambiar. El 2026-10-01 el autor encargó completar el capítulo 1 y guardarlo directamente en main. Ese capítulo tiene una definición bíblica de síntesis, notas de fuentes y un expediente de investigación. El capítulo 2 también cuenta con manuscrito, expediente y las cinco etapas editoriales completadas; su contenido final está guardado y verificado en main. El capítulo 3 tiene investigación comparativa, manuscrito terminado y siete auditorías independientes completadas, incluida la final integral: nueve etapas realizadas y verificadas desde main. El inventario léxico general sigue abierto. C4 tiene seis etapas completas: investigación/diseño, redacción, revisión documental/práctica, lenguaje, continuidad y auditoría integral. El contenido final quedó publicado, recuperado y verificado desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8` el 2026-10-02 a las 17:58–17:59 UTC, incluida la relectura completa con notas. Está listo para la revisión del autor; esto no supone su aprobación editorial.
+El título y los cinco ejes orientan la estructura vigente. C1/C2 están desarrollados y C3 está terminado y verificado en main. El capítulo práctico, ahora **C5**, tiene sus seis etapas terminadas, publicadas y verificadas; su aprobación editorial sigue correspondiendo al autor. El **nuevo C4**, «¿En qué nos transforma aquello que contemplamos?», se desarrolla mediante diez etapas diferenciadas de investigación, redacción, auditorías y recuperación final. El inventario léxico general y las decisiones generales continúan abiertos. Las referencias históricas a C4 dentro del registro del capítulo práctico nombran el actual C5.
+
+Base estructural del nuevo encargo: `5937539e8592af4951864c48d51cef4c56465876`. No se reescriben C1–C3 ni C5.
 
 - [Capítulo 1 — ¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
 - [Investigación y límites documentales del capítulo](investigacion/01-que-significa-meditar-en-la-biblia.md)
@@ -53,7 +55,9 @@ El [capítulo 3](capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algu
 Las nueve etapas y su publicación se comprobaron en main el 2026-10-02 a las 04:55 UTC, en el commit de contenido final [22c4821](https://github.com/nbertoa/meditacion-biblica/commit/22c4821026619cc93a940b072048e02893466bc2). Se recuperó el árbol, se releyó C3 completo desde origin/main y se repitieron los controles documentales sin errores. Este registro de comprobación sólo actualiza estados; no modifica el manuscrito ni la investigación. Los estados pendientes de las auditorías anteriores se conservan como historia de cada pasada. La definición de C1 y el estado final de C2 se conservan sin modificar esos capítulos. Las páginas 222–228 de Jennings 2017, su cadena exacta hacia Newberg/Waldman y el original contextual de Govinda siguen parcialmente pendientes; no impiden una comparación acotada apoyada en fuentes identificadas. No se avanzó al capítulo 4.
 
 
-## Capítulo 4: terminado y verificado en main
+## Capítulo 5: terminado y verificado en main
+
+Este registro corresponde a «¿Cómo meditar con las Escrituras?», publicado originalmente como C4. Las denominaciones C4, hashes e identificadores de los párrafos históricos siguientes se conservan con ese sentido.
 
 El 2026-10-02 el autor autorizó investigar, redactar, revisar y guardar directamente en main «¿Cómo meditar con las Escrituras?» y sus soportes. Ese permiso reemplaza para C4 el límite histórico de los encargos anteriores, sin reescribirlos. La base comprobada fue `b832d03f951a6c0b71246d66dcc89727e4183305`, sin manuscrito C4 previo.
 
@@ -71,3 +75,8 @@ Checkpoints reales de etapas 1–5: `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y
 ## Nueva estructura desde 2026-10-02
 
 El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aquello que contemplamos?»**, centrado en transformación por contemplación, contenido de la atención y concepción del carácter de Dios. El manuscrito antes numerado como C4, **«¿Cómo meditar con las Escrituras?»**, pasa a ser **C5**. Sus investigaciones, auditorías, hashes e IDs históricos se conservan como trazabilidad; la renumeración no implica reescritura de aquel trabajo.
+
+
+## Nuevo capítulo 4: investigación en curso
+
+El [expediente de transformación](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva el encargo de diez etapas, las objeciones y la separación de evidencia bíblica, empírica e inferencia teológica. La [etapa bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md) está completada localmente. La publicación y recuperación de cada avance se registran por separado.

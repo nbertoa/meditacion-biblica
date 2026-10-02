@@ -33,3 +33,6 @@ Los checkpoints de etapas 1–5 son `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y
 ## Nuevo capítulo 4 — transformación por contemplación
 
 Desde el 2026-10-02 el capítulo 4 queda reservado para investigar cómo aquello que contemplamos participa en nuestra transformación, con especial atención a 2 Corintios 3:18, la evidencia empírica pertinente y los límites de esa evidencia, y la importancia de la imagen o concepción del carácter de Dios. El tratamiento será deliberadamente condensado dentro de este libro; el desarrollo exhaustivo queda abierto para una obra independiente.
+
+
+El nuevo C4 cuenta ahora con [expediente propio](04-en-que-nos-transforma-aquello-que-contemplamos.md) e [investigación bíblica profunda](capitulo-04-transformacion/investigacion-biblica.md). Etapa 1 completada localmente; las demás etapas y la recuperación final se registrarán al realizarse. Los nuevos IDs `C4T-*` se distinguen de los históricos `C4-*` del actual C5.

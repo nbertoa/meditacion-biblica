@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título y ejes generales acordados; C1/C2 desarrollados y C3 terminado/verificado en main. C4 tiene seis etapas terminadas, publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`, con el manuscrito íntegro y relectura final completa con notas. Está listo para la revisión del autor. Revisión del autor y decisiones generales pendientes.
+**Estado:** título y cinco ejes acordados como orientación; C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas y verificadas. Nuevo C4 de transformación en investigación, bajo encargo de diez etapas. Revisión del autor y decisiones generales pendientes. Los registros históricos que nombran C4 práctico corresponden al actual C5 y conservan sus IDs y hashes.
 
 ## Estructura marco
 
@@ -37,7 +37,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
 - `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas, matriz Jennings y siete auditorías independientes disponibles; nueve etapas de C3 completadas y verificadas en main.
-- `../practicas/catalogo.md`: ocho fichas investigadas y revisadas hasta la auditoría integral de C4, cuyo contenido está verificado desde main; conserva los candidatos iniciales y sus agrupaciones, sin pruebas con lectores ni aprobación del autor.
+- `../practicas/catalogo.md`: ocho fichas investigadas y revisadas hasta la auditoría integral del actual C5, cuyo contenido está verificado desde main; conserva los candidatos iniciales y sus agrupaciones, sin pruebas con lectores ni aprobación del autor.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
 - `../capitulos/01-que-significa-meditar-en-la-biblia.md`: capítulo completo, con revisión de lenguaje y notas; pendiente de revisión del autor.
@@ -97,3 +97,8 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 
 
 - **2026-10-02 (Córdoba):** el autor decidió insertar un nuevo C4, «¿En qué nos transforma aquello que contemplamos?». Debe condensar el principio bíblico de transformación por contemplación, estudiar evidencia pertinente sobre entrenamiento mental/neuroplasticidad sin sobreextenderla, y desarrollar por qué importa el objeto contemplado y especialmente la concepción del carácter de Dios. El antiguo C4, «¿Cómo meditar con las Escrituras?», pasa a C5 conservando contenido, auditorías, hashes e IDs históricos. El tratamiento exhaustivo de transformación y carácter de Dios queda abierto para un libro futuro independiente.
+
+
+- **2026-10-02 UTC:** encargo integral del nuevo C4 sobre transformación por contemplación, recibido mediante documento del autor: diez etapas, investigación bíblica/científica/caracter de Dios, manuscrito, seis pasadas críticas y recuperación desde main. La investigación debe poder corregir la tesis propuesta. Nuevos identificadores `C4T-*`, sin reutilizar los históricos `C4-*` del actual C5. Prólogo, Epílogo y diseño de un libro nuevo siguen fuera de alcance.
+
+- **2026-10-02 UTC, nuevo C4:** etapa 1 bíblica completada localmente, con 23 fuentes/consultas y 25 afirmaciones. Se conservan alternativas de contemplar/reflejar, límites de gloria/carácter, acción del Espíritu y objeción de Jonás. Investigación científica, carácter de Dios, manuscrito y auditorías siguen su secuencia separada; no se declara verificación remota.
