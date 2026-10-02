@@ -20,20 +20,20 @@ Buscá una ocasión en la que puedas prestar atención. Si te ayuda, apartá el 
 
 Probá este recorrido breve:
 
-1. **Recibí el pasaje entero.** Leelo o escuchalo y tratá de decir de qué habla, antes de elegir una frase.
+1. **Leé o escuchá el pasaje entero.** Tratá de decir de qué habla antes de elegir una frase.
 2. **Volvé a algo concreto.** Puede ser una pregunta, una comparación o dos frases que parecen estar relacionadas. Buscá qué dicen dentro del conjunto.
 3. **Intentá explicar lo que entendiste.** Señalá las palabras que lo apoyan y reconocé lo que todavía no sabés.
 4. **Considerá una respuesta.** Tal vez haya algo que agradecer, pedir, corregir o hacer. También puede quedar una pregunta para seguir trabajando.
 
-No hace falta completar los cuatro puntos antes de orar ni dejar la comprensión totalmente resuelta antes de volver sobre algo significativo. Podés empezar con una petición de ayuda, regresar a la lectura mientras orás o descubrir al intentar responder que necesitás entender mejor. Las acciones se encuentran y pueden cambiar de orden.
+Las acciones pueden superponerse o cambiar de orden. Podés empezar con una petición de ayuda, regresar a la lectura mientras orás o descubrir al intentar responder que necesitás entender mejor. También podés volver sobre algo significativo aunque todavía tengas dudas.
 
-Reservá un tiempo que te permita recibir el pasaje y detenerte en una cuestión. Si tenés poco tiempo, elegí una unidad más breve o retomá un texto que ya conozcas. Podés continuar otro día. La cantidad de minutos no decide por sí sola qué atención le diste ni qué hiciste con lo comprendido.
+Reservá un tiempo que te permita leer o escuchar el pasaje y detenerte en una cuestión. Si tenés poco tiempo, elegí un pasaje más breve o retomá un texto que ya conozcas. Podés continuar otro día. La cantidad de minutos no decide por sí sola qué atención le diste ni qué hiciste con lo comprendido.
 
 Una Biblia o un audio alcanzan para comenzar. Escribir puede ayudarte a dejar visible una pregunta, pero también podés formularla en voz alta o considerarla en silencio. Los comentarios y las otras traducciones servirán cuando aparezca una dificultad concreta; no hace falta reunirlos todos antes de leer.
 
 ## Elegir un pasaje que conserve su sentido
 
-Una unidad de lectura es un tramo que permite seguir una idea o un movimiento reconocible. Puede ser una enseñanza con su explicación, un diálogo con su respuesta, una escena completa o un salmo. No tiene un número fijo de versículos.
+Una unidad de lectura es un tramo que permite seguir una idea, una escena o el recorrido de un poema sin cortarlos a la mitad. Puede ser una enseñanza con su explicación, un diálogo con su respuesta, una escena completa o un salmo. No tiene un número fijo de versículos.
 
 Para reconocerla, mirá cómo empieza y cómo termina. Si comienza con una expresión como *por eso*, buscá qué se dijo antes. Si menciona *estas cosas*, averiguá a qué se refiere. Si termina con una pregunta, leé la respuesta cuando esté a continuación. Los títulos que agregan las ediciones ayudan a orientarse, pero no reemplazan estas relaciones.
 
@@ -41,29 +41,29 @@ En Lucas 10, por ejemplo, la historia del hombre herido ocupa los versículos 30
 
 Antes de aplicar una frase, procurá responder algo sencillo: quién habla, a quién se dirige y qué está haciendo con esas palabras. ¿Da una orden, pide ayuda, cuenta lo que alguien hizo o expresa una pregunta? No todo lo narrado es una conducta aprobada. Tampoco una pregunta angustiada funciona como una afirmación definitiva sobre Dios.
 
-El género también orienta. Una enseñanza puede unir una indicación con su razón; un poema, expresar mediante imágenes lo que cuesta decir de otro modo; un relato, mostrar una diferencia a través de acciones. En cada caso buscamos comprender lo que el texto hace, sin exigirle siempre la forma de una lista de instrucciones.
+El tipo de texto, o género, también orienta. Una enseñanza puede dar una indicación y explicar por qué; un poema, expresar mediante imágenes lo que cuesta decir de otro modo; un relato, mostrar una diferencia a través de acciones. En cada caso buscamos comprender lo que el texto hace, sin exigirle siempre la forma de una lista de instrucciones.
 
-Esto no obliga a resolver todas las discusiones históricas antes de comenzar. Necesitamos comprender lo suficiente para saber de dónde sale nuestra reflexión. Si una aplicación depende de una promesa cuyo destinatario desconocemos, habrá que aclararlo primero. La promesa de éxito a Josué, por ejemplo, acompaña su encargo concreto; no decide el resultado de cualquier proyecto nuestro.[^3]
+Para comenzar necesitamos comprender lo suficiente para saber de dónde sale nuestra reflexión, aunque queden discusiones históricas sin resolver. Si una aplicación depende de una promesa cuyo destinatario desconocemos, habrá que aclararlo primero. La promesa de éxito a Josué, por ejemplo, acompaña su encargo concreto; no decide el resultado de cualquier proyecto nuestro.[^3]
 
 También importa cómo seguimos eligiendo. Volver a un pasaje que nos sostiene puede ser valioso. Para no quedarnos únicamente con frases que confirman lo que ya pensamos, podemos continuar leyendo el mismo libro o la unidad siguiente. Así damos lugar a palabras que quizá no habríamos elegido por nuestra cuenta.
 
 ## Volver al texto con una pregunta
 
-Releer tiene una función cuando volvemos para mirar algo. En una primera lectura quizá notamos un contraste; en la siguiente buscamos sus dos partes. O encontramos una petición y queremos entender qué necesidad expresa. No hace falta marcar cada palabra ni descubrir algo nuevo cada vez.
+Releer puede ayudarnos a examinar algo que notamos al principio. Quizá encontramos un contraste y en la siguiente lectura buscamos sus dos partes. O leemos una petición y queremos entender qué necesidad expresa. No hace falta marcar cada palabra ni descubrir algo nuevo cada vez.
 
 Podés comenzar por una de estas relaciones: algo que se repite, una razón introducida por *porque*, una pregunta seguida de una respuesta, un cambio entre lo que alguien dice y lo que hace. Elegí la que realmente aparezca. Preguntate qué aporta al conjunto.
 
-Conviene distinguir lo que **observamos** de lo que **interpretamos**. Observar es señalar palabras o acciones que podemos volver a localizar: una persona pregunta, otra responde, una enseñanza se repite. Interpretar es proponer qué significan esas relaciones. La distinción no vuelve infalible nuestra mirada; permite mostrar dónde se apoya una explicación y dónde hace falta revisarla.
+Conviene distinguir lo que **observamos** de lo que **interpretamos**. Observar es señalar palabras o acciones que podemos volver a localizar: una persona pregunta, otra responde, una enseñanza se repite. Interpretar es proponer qué significan esas relaciones. También podemos equivocarnos al observar. Esta distinción permite mostrar dónde se apoya una explicación y dónde hace falta revisarla.
 
 De la observación puede nacer una pregunta. En lugar de preguntar solamente qué frase me gusta, puedo preguntar por qué el pasaje insiste en algo, qué problema enfrenta o qué cambia entre el comienzo y el final. Una pregunta es más útil cuando deja abierta la posibilidad de corregir nuestra primera respuesta.
 
-Intentá responder con el texto delante. Después buscá qué parte podría poner en duda tu explicación. Si creés que un salmo promete resolver enseguida todo sufrimiento, mirá si realmente cuenta esa resolución. Si entendés una exhortación como dirigida sólo a los demás, examiná a quiénes incluye. Este regreso puede ampliar, precisar o descartar una idea.
+Intentá responder con el texto delante. Después buscá qué parte podría poner en duda tu explicación. Si creés que un salmo promete resolver enseguida todo sufrimiento, mirá si realmente cuenta esa resolución. Si entendés que una enseñanza sólo pide cambios a los demás, examiná a quiénes incluye. Este regreso puede ampliar, precisar o descartar una idea.
 
 Las preguntas tampoco tienen que convertirse en un interrogatorio interminable. Cuando una relación se aclara, podemos permanecer considerando lo que muestra: qué dice de Dios, qué descubre de una conducta o por qué resulta difícil recibirla. Ahí el trabajo de comprender alimenta la meditación. Podemos pedir ayuda o responder mientras todavía seguimos leyendo.
 
 ## Santiago: de escuchar a responder
 
-Leamos Santiago 1:19–27 después de conocer el comienzo del capítulo. La carta se presenta como dirigida a las doce tribus de la dispersión, una expresión que evoca al pueblo de Israel esparcido fuera de su tierra. Antes de la unidad que vamos a trabajar, habla de las pruebas, de pedir sabiduría y de los dones de Dios. En el versículo 18 menciona la palabra de verdad y la iniciativa de Dios. Recibir y hacer aparecen dentro de ese marco.[^4]
+Leamos Santiago 1:19–27 después de conocer el comienzo del capítulo. La carta se presenta como dirigida a las doce tribus de la dispersión, una expresión que evoca al pueblo de Israel esparcido fuera de su tierra. Antes de la unidad que vamos a trabajar, habla de las pruebas, de pedir sabiduría y de los dones de Dios. En el versículo 18 menciona la palabra de verdad y la iniciativa de Dios. La invitación a recibir la palabra y ponerla en práctica aparece dentro de ese marco.[^4]
 
 En una primera lectura podemos seguir el recorrido sin resolver cada término. Los versículos 19–20 relacionan escuchar, hablar y enojarse, y dan una razón para no dejarse llevar por la ira. El 21 invita a abandonar el mal y recibir la palabra con humildad. Los versículos 22–25 contraponen escuchar sin hacer con permanecer en la enseñanza y practicarla. Los dos últimos hablan de la lengua, del cuidado de huérfanos y viudas en su aflicción y de conservar una vida íntegra.
 
@@ -71,9 +71,9 @@ Ahora volvamos a una observación. En 22 aparece la advertencia contra engañars
 
 Una primera respuesta podría ser que necesita pasar más tiempo leyendo. Eso puede resultar necesario en una situación, pero no alcanza para explicar el pasaje. El espejo de 23–24 muestra a alguien que se mira, se va y olvida. El 25 reúne atención, permanencia y acción. La diferencia no consiste simplemente en mirar pocos segundos o muchos. Santiago dirige la atención hacia lo que se hace con aquello que se escuchó.[^5]
 
-Podemos formular entonces una interpretación: recibir la palabra necesita una respuesta que continúe en la conducta. Nos apoyamos en el contraste de 22–25 y en las concreciones de 26–27. Si recortáramos el final, podríamos convertir toda la reflexión en algo interior. El cuidado de personas afligidas impide hacerlo. Si, por el contrario, saltáramos directamente a una actividad sin atender a lo recibido, perderíamos la permanencia que el pasaje también valora.
+Podemos formular entonces una interpretación: recibir la palabra necesita una respuesta que continúe en la conducta. Nos apoyamos en el contraste de 22–25 y en los ejemplos de conducta de 26–27. Si recortáramos el final, podríamos convertir toda la reflexión en algo interior. El cuidado de personas afligidas impide hacerlo. Si, por el contrario, saltáramos directamente a una actividad sin atender a lo recibido, perderíamos la permanencia que el pasaje también valora.
 
-No estamos convirtiendo el versículo 19 en una técnica de meditación. La invitación a escuchar tiene un alcance que puede vincularse con la palabra y con la disposición general del oyente. El texto no prescribe leer en silencio ni pronunciar las palabras despacio. La cuestión de cómo hablamos vuelve expresamente en el versículo 26.[^6]
+La invitación a escuchar del versículo 19 puede vincularse con la palabra y con la disposición general de quien escucha. No prescribe leer en silencio ni pronunciar las palabras despacio. La cuestión de cómo hablamos vuelve expresamente en el versículo 26.[^6]
 
 Ahora podemos considerar una respuesta personal. Imaginemos, como ejemplo, que al leer alguien reconoce una afirmación injusta que hizo sobre otra persona. Puede revisar los hechos y corregir esa afirmación ante quien corresponda. La relación con el pasaje es concreta: atender a la palabra afecta el uso de la lengua. Una oración propia podría acompañarlo: «Ayudame a escuchar y a reconocer qué tengo que corregir en lo que dije».
 
@@ -89,35 +89,35 @@ A veces creemos haber entendido hasta que intentamos decirlo de otra manera. Una
 
 Probemos con Salmo 119:33–40. Leé ese tramo y elegí dos peticiones relacionadas. En el versículo 34, el salmista pide entendimiento para guardar la enseñanza. En el 36, pide que su corazón se incline hacia lo que Dios comunica y no hacia la ganancia codiciosa. Una paráfrasis breve, que resume sólo esas peticiones, podría ser: «Dame entendimiento para vivir según tu enseñanza; orientá mi corazón hacia ella y apartalo de la codicia».[^7]
 
-Después volvé al pasaje. ¿Se conserva quién pide, a quién se dirige y para qué busca comprensión? ¿Queda claro hacia qué pide orientar su corazón y de qué quiere apartarlo? ¿La frase sigue siendo una petición? Si escribiéramos «ya comprendo todo y voy a elegir siempre bien», habríamos cambiado su sentido. Si agregáramos una promesa de éxito en cualquier asunto, estaríamos introduciendo algo que no dice.
+Después compará tu paráfrasis con los versículos elegidos. ¿Conserva quién pide, a quién se dirige y para qué busca comprensión? ¿Queda claro hacia qué pide orientar su corazón y de qué quiere apartarlo? ¿La frase sigue siendo una petición? Si escribiéramos «ya comprendo todo y voy a elegir siempre bien», habríamos cambiado su sentido. Si agregáramos una promesa de éxito en cualquier asunto, estaríamos introduciendo algo que no dice.
 
-La pregunta que nace de este cotejo puede ser: ¿estoy dispuesto a pedir orientación también sobre lo que deseo, o sólo sobre cómo conseguirlo? Es una aplicación posible de la relación observada. El salmo no identifica una decisión nuestra, pero permite examinarla. Podemos pedir comprensión sobre algo que todavía no entendemos, sin afirmar que la petición ya quedó resuelta.
+Después de comparar, podemos preguntarnos: ¿estoy dispuesto a pedir orientación también sobre lo que deseo, o sólo sobre cómo conseguirlo? Es una aplicación posible de la relación observada. El salmo no identifica una decisión nuestra, pero permite examinarla. Podemos pedir comprensión sobre algo que todavía no entendemos, sin afirmar que la petición ya quedó resuelta.
 
 Para usar este recurso, elegí una o dos frases, explicalas y compará tu explicación con ellas. Podés mantener el texto a la vista. Si anotás tu versión, llamala *paráfrasis propia* o *resumen propio*. Conservá como pendiente la palabra que todavía no sabés explicar. Una frase más fácil de decir sólo es útil si sigue siendo fiel a lo leído.
 
 ### Cuando ayuda otra traducción
 
-Si una palabra impide entender la relación, compará ese tramo con otra versión identificada. Buscá exactamente qué cambia. Luego leé el contexto en ambas, en lugar de quedarte con la formulación que más te conviene.
+Si una palabra te impide entender lo que dice el pasaje, compará ese tramo con otra traducción y fijate cuál estás usando. Buscá exactamente qué cambia. Luego leé el contexto en ambas, en lugar de quedarte con la formulación que más te conviene.
 
 En 1 Timoteo 4:15, la Reina-Valera Antigua dice «Medita estas cosas» y la Reina-Valera 1960 dice «Ocúpate en estas cosas». La diferencia abre una pregunta: ¿a qué se refiere *estas cosas*? En 4:12–16 encontramos conducta, lectura pública, enseñanza y cuidado de la propia vida. Ese contexto permite entender una dedicación que abarca más que una sesión de pensamiento silencioso.[^8]
 
-La comparación ha servido para formular y trabajar una dificultad, no para decidir por mayoría. Si las versiones dejan una diferencia importante sin aclarar, buscá una nota o comentario sobre ese versículo. Fijate quién lo escribió y qué razones da. Una explicación que sólo propone una aplicación, sin atender a la frase discutida, puede no responder a la pregunta. Volvé después al pasaje y distinguí lo que se aclaró de lo que sigue abierto.
+Comparar nos permitió precisar la pregunta y buscar una respuesta en el contexto. Contar cuántas versiones usan cada palabra no resuelve por sí solo la diferencia. Si las versiones dejan una diferencia importante sin aclarar, buscá una nota o comentario sobre ese versículo. Fijate quién lo escribió y qué razones da. Una explicación que sólo propone una aplicación, sin atender a la frase discutida, puede no responder a la pregunta. Volvé después al pasaje y distinguí lo que se aclaró de lo que sigue abierto.
 
 ## Seguir la voz de un salmo
 
-Un poema puede avanzar mediante repeticiones, imágenes, recuerdos y cambios en la manera de dirigirse a Dios. Si tomamos cada frase como una máxima aislada, podemos perder lo que el conjunto expresa.
+Un poema puede avanzar mediante repeticiones, imágenes, recuerdos y cambios en la manera de dirigirse a Dios. Si tomamos cada frase como una enseñanza aislada, podemos perder lo que el conjunto expresa.
 
-Leé primero el salmo completo, o escuchalo sin interrumpirlo a cada momento. En la segunda lectura, elegí algo de su recorrido: qué se pide, qué se recuerda, qué se afirma, dónde cambia el tono. Podés señalar esos movimientos con frases breves o considerarlos sin escribir. No es necesario encontrar todos los recursos poéticos en todos los salmos.
+Leé primero el salmo completo, o escuchalo sin interrumpirlo a cada momento. En la segunda lectura, elegí algo de su recorrido: qué se pide, qué se recuerda, qué se afirma, dónde cambia el tono. Podés resumir esos cambios con frases breves o considerarlos sin escribir. No es necesario encontrar todos los recursos poéticos en todos los salmos.
 
 El Salmo 77 nos permite practicar con un texto cuyo dolor no debe borrarse. Al comienzo, quien habla clama a Dios, lo busca durante la noche y no encuentra consuelo. Recordarlo no elimina de inmediato la angustia. Después piensa en otros tiempos y pregunta por el favor, el amor y la compasión de Dios.
 
 Conservemos una primera observación: los versículos 7–9 contienen preguntas. El salmista se pregunta si Dios ha dejado de mostrar compasión; no está ofreciendo una definición según la cual Dios carece de ella. La forma de decir algo pertenece a su sentido.
 
-En los versículos 11–12, el hablante se dispone a recordar y considerar las obras divinas. Lo que sigue destaca el poder de Dios y la liberación del pueblo. Las aguas, los truenos y el camino por el mar forman parte de ese recuerdo poético. El final menciona la conducción del pueblo por medio de Moisés y Aarón.[^9]
+En los versículos 11–12, el salmista se dispone a recordar y considerar las obras de Dios. Lo que sigue destaca el poder de Dios y la liberación del pueblo. Las aguas, los truenos y el camino por el mar forman parte de ese recuerdo poético. El final menciona la conducción del pueblo por medio de Moisés y Aarón.[^9]
 
-Podemos reunir esas observaciones en una pregunta: **¿cómo se relaciona el recuerdo de aquella liberación con las preguntas que el salmista está haciendo ahora?** Para responder, volvamos tanto a 7–9 como a 11–20. El presente doloroso queda ante una historia de acción divina. El poema no se queda únicamente en el desconcierto inicial; afirma algo de Dios mientras recuerda sus obras.
+Podemos reunir esas observaciones en una pregunta: **¿cómo se relaciona el recuerdo de aquella liberación con las preguntas que el salmista está haciendo ahora?** Para responder, volvamos tanto a 7–9 como a 11–20. El salmista pone su dolor presente en relación con lo que Dios hizo por su pueblo. El poema no se queda únicamente en el desconcierto inicial; afirma algo de Dios mientras recuerda sus obras.
 
-Hasta ahí tenemos una interpretación apoyada en el recorrido. Si agregamos que al final desapareció toda angustia, vamos más allá de lo narrado. El salmo no informa cómo se siente entonces el hablante ni qué ocurrió con su problema. Podemos reconocer una afirmación de confianza sin convertirla en un informe de recuperación emocional.[^10]
+Hasta ahí tenemos una interpretación apoyada en el recorrido. Si agregamos que al final desapareció toda angustia, vamos más allá de lo narrado. El salmo no informa cómo se siente entonces quien habla ni qué ocurrió con su problema. Podemos reconocer una afirmación de confianza sin convertirla en un informe de recuperación emocional.[^10]
 
 También hay una dificultad que no hace falta esconder. El versículo 10 admite traducciones e interpretaciones diferentes. Si no logramos resolverlo, podemos anotar esa pregunta y trabajar con lo claro: el poema conserva el lamento, vuelve a las obras de Dios y termina recordando la conducción del pueblo. Nuestro recorrido no depende de convertir ese versículo en una fórmula exacta de cambio interior.[^11]
 
@@ -125,7 +125,7 @@ También hay una dificultad que no hace falta esconder. El versículo 10 admite 
 
 Si nuestra experiencia actual es distinta, podemos intentar comprender esa voz y pedir por quienes necesitan palabras para su dolor. No hace falta provocar angustia para leer un lamento con seriedad. Tampoco necesitamos adoptar todos sus detalles como si fueran nuestra historia.
 
-Esta manera de leer da lugar al movimiento del poema y a su límite. Nos permite recordar, preguntar y orar sin exigir que todo termine con el mismo sentimiento.
+Esta manera de leer sigue los cambios del poema y reconoce lo que su final no cuenta. Nos permite recordar, preguntar y orar sin exigir que todo termine con el mismo sentimiento.
 
 ### Detenerse en una imagen
 
@@ -151,37 +151,37 @@ La repetición de *ver* permite observar algo concreto: los tres advierten al he
 
 Al terminar, Jesús pregunta cuál de los tres se hizo prójimo del hombre asaltado. El interlocutor identifica a quien practicó misericordia. Jesús lo invita a hacer lo mismo. Comparemos esa pregunta con la anterior: **¿qué cambia entre preguntar quién es mi prójimo y reconocer quién actuó como prójimo del herido?**
 
-Una interpretación posible, apoyada en ambos extremos del diálogo, es que la atención se desplaza de delimitar a quién considerar prójimo hacia ejercer misericordia. El hombre que se acerca permite reconocerla por lo que hace. Podemos volver entonces sobre una respuesta inicial demasiado general, como «hay que ser buena persona», y precisarla: el relato muestra una ayuda que atiende una necesidad, y Jesús dirige hacia esa manera de actuar.
+Una interpretación posible, apoyada en el comienzo y el final del diálogo, es que la atención pasa de preguntar a quién considerar prójimo a mirar cómo se practica la misericordia. El samaritano la muestra al acercarse y cuidar al herido. Podemos volver entonces sobre una respuesta inicial demasiado general, como «hay que ser buena persona», y precisarla: el relato muestra una ayuda que atiende una necesidad, y Jesús dirige hacia esa manera de actuar.
 
 El texto también deja silencios. No explica por qué el sacerdote y el levita pasan de largo ni qué piensa el herido. Afirmar que los primeros evitaron ayudar para conservar su pureza ritual presentaría como hecho un motivo que Lucas no da. Es suficiente observar lo que hacen y cómo contrasta con la ayuda del samaritano.
 
-Esa distinción permite usar la imaginación con cuidado. Si querés, podés representarte al samaritano acercándose y vendando. Las acciones están en el relato. Si imaginás la luz de la tarde, una conversación o la expresión exacta del herido, esos detalles son añadidos tuyos. Reconocelos como posibilidades y comprobá que podés retirarlos sin perder la interpretación. No hagas depender la enseñanza de ellos.
+Esa distinción permite usar la imaginación con cuidado. Si querés, podés representarte al samaritano acercándose y vendando. Las acciones están en el relato. Si imaginás la luz de la tarde, una conversación o la expresión exacta del herido, esos detalles son añadidos tuyos. Reconocelos como posibilidades. Para comprobar que tu explicación no depende de ellos, repasá sólo lo que el texto cuenta y fijate si todavía podés sostenerla.
 
-Tampoco hace falta completar una escena interior. Podés recorrer la secuencia con palabras: ve, se compadece, se acerca, atiende, lleva, cuida. O escuchar el relato y detenerte después de cada personaje para decir qué hizo. Quien no visualiza con facilidad puede atender a las mismas relaciones. Jesús no tiene que decir frases nuevas en nuestra imaginación para que consideremos las palabras que el pasaje sí conserva.
+También podés recorrer la secuencia con palabras: ve, se compadece, se acerca, atiende, lleva, cuida. O escuchar el relato y detenerte después de cada personaje para decir qué hizo. Quien no visualiza con facilidad puede atender a las mismas relaciones. Jesús no tiene que decir frases nuevas en nuestra imaginación para que consideremos las palabras que el pasaje sí conserva.
 
-La respuesta actual requiere conocer nuestra situación. Podríamos preguntarnos si hay una necesidad concreta que estamos evitando mirar y cuál sería una ayuda pertinente. Un primer paso quizá sea escuchar a esa persona para averiguar qué necesita, o buscar con quién compartir el cuidado. Esa aplicación procura responder a la misericordia que muestra el relato; no reproduce todos los medios usados en la parábola.
+Para responder hoy, necesitamos conocer nuestra situación. Podríamos preguntarnos si hay una necesidad concreta que estamos evitando mirar y qué ayuda podría responder a ella. Un primer paso quizá sea escuchar a esa persona para averiguar qué necesita, o buscar con quién compartir el cuidado. Esa aplicación procura responder a la misericordia que muestra el relato; no reproduce todos los medios usados en la parábola.
 
 No sabemos qué ocurrió después con el herido. Tampoco el pasaje decide por sí solo cuánto dinero, qué tarea o qué compromiso corresponde en cada caso actual. La respuesta necesita atención a las personas y a los medios reales. Ese límite no borra la invitación a actuar; ayuda a darle una forma responsable.
 
-El recorrido narrativo nos llevó a comparar acciones y preguntas. Podríamos volver otro día al mismo pasaje y considerar algo distinto, siempre que podamos mostrar su relación con lo escrito. No es necesario identificarnos obligatoriamente con un personaje ni producir una vivencia que repita la escena.
+El recorrido narrativo nos llevó a comparar acciones y preguntas. Podríamos volver otro día al mismo pasaje y considerar algo distinto, siempre que podamos mostrar su relación con lo escrito. No necesitamos identificarnos con un personaje ni sentir que vivimos la escena.
 
 ## Un proverbio necesita sus razones
 
 Las mismas preguntas cambian de forma ante un proverbio. Proverbios 26:4 desaconseja responder según la necedad, para no volverse semejante al necio. El versículo siguiente pide responder para que el necio no se considere sabio. Si elegimos sólo el primero, podríamos justificar callar siempre; si elegimos sólo el segundo, discutir siempre. Al leerlos juntos advertimos dos riesgos que hay que considerar.[^16]
 
-Para trabajar con esa pareja, leé ambas razones y preguntá qué podría pasar en una discusión concreta. ¿Responder sería copiar el insulto o la falta de honestidad? ¿Callar dejaría sin cuestionar una afirmación que necesita respuesta? La pareja exige examinar la situación; no ofrece una fórmula que decida por nosotros. El versículo 12, que cuestiona a quien se tiene por sabio, también nos impide asignarnos ese lugar sin examinarnos.
+Para trabajar con esa pareja, leé ambas razones y preguntá qué podría pasar en una discusión concreta. ¿Responder sería copiar el insulto o la falta de honestidad? ¿Callar dejaría sin cuestionar una afirmación que necesita respuesta? La pareja exige examinar la situación; no ofrece una fórmula que decida por nosotros. El versículo 12 también cuestiona a quien se tiene por sabio. Nos impide dar por sentado que siempre somos nosotros quienes responden con sabiduría.
 
 Así, el género orienta la práctica: seguimos el recorrido de un poema, las acciones de un relato y las razones de estos dichos. Volver con atención conserva esas diferencias.
 
 ## Orar desde lo comprendido
 
-Una reflexión puede convertirse en oración cuando nos dirigimos a Dios a partir de lo leído. Para hacerlo, empezá por reconocer qué comunica el pasaje. Después considerá qué podés decir con honestidad: una gratitud, una petición, el reconocimiento de una falta o una pregunta. No es necesario incluir todo en cada ocasión.
+Una reflexión puede convertirse en oración cuando nos dirigimos a Dios a partir de lo leído. Para hacerlo, empezá por reconocer qué comunica el pasaje. Después considerá qué podés decir con honestidad: agradecer algo, pedir ayuda, reconocer una falta o expresar una pregunta. No es necesario incluir todo en cada ocasión.
 
 El Salmo 143 ofrece un ejemplo. Quien ora está abrumado y pide ayuda. Recuerda las obras de Dios y, en los versículos 8–10, pide conocer el camino que debe seguir y aprender a hacer su voluntad. El recuerdo y la petición se encuentran, mientras la necesidad continúa.[^17]
 
 Podemos observar esa relación y preguntar: ¿cómo pedir orientación sin afirmar que ya recibí una orden concreta sobre mi decisión? Una respuesta propia podría ser: «Necesito aprender a responder con fidelidad. Todavía no sé cómo resolver esta situación; ayudame a comprender qué corresponde hacer». La petición nace del pasaje, pero la situación actual y esas palabras pertenecen a quien ora.
 
-Si usamos las palabras exactas de un salmo, conviene conservar su sentido. Si las adaptamos, reconozcamos qué cambiamos. El Salmo 143 termina con una petición contra los enemigos del hablante; trasladarla automáticamente a cualquiera que nos disguste saltearía una cuestión que necesita examen. Podemos comprender la súplica urgente del poema sin adoptar cada una de sus palabras como nuestra respuesta inmediata.
+Si usamos las palabras exactas de un salmo, conviene conservar su sentido. Si las adaptamos, reconozcamos qué cambiamos. El Salmo 143 termina con una petición contra los enemigos de quien ora. Antes de hacerla nuestra, necesitamos examinar si estamos equiparando esos enemigos con alguien que simplemente nos disgusta. Podemos comprender la súplica urgente del poema sin adoptar cada una de sus palabras como nuestra respuesta inmediata.
 
 La oración puede decirse, escribirse o hacerse en silencio. A veces no aparecen palabras nuevas y permanecemos atentos a una petición ya leída. No hace falta fabricar un mensaje de Dios para completar ese momento. Una impresión que surja puede examinarse; su aparición durante la oración no la convierte por sí sola en una frase divina.
 
@@ -191,9 +191,9 @@ Timothy Jennings también destaca la participación personal, la atención al si
 
 Cuando conocemos el sentido de un pasaje, podemos retomarlo sin tenerlo abierto todo el tiempo. Recordar ofrece contenido para meditar; recitar puede acompañar esa atención. En Josué 1:8, la enseñanza en la boca se relaciona con meditar y actuar. Eso permite reconocer el lugar de las palabras expresadas, sin establecer un número de repeticiones.[^19]
 
-Para practicarlo, leé primero una unidad. Elegí después una frase que puedas explicar y conservá su referencia. Si querés aprender las palabras exactas, usá una versión identificada: leé la frase, intentá decirla y compará lo que recordaste con el texto. Si preferís llevarte su sentido, formulá un resumen propio. Ambas opciones permiten volver; cumplen funciones distintas de una prueba de memoria.
+Para practicarlo, leé primero una unidad. Elegí después una frase que puedas explicar y conservá su referencia. Si querés aprender las palabras exactas, usá una versión identificada: leé la frase, intentá decirla y compará lo que recordaste con el texto. Si preferís llevarte su sentido, formulá un resumen propio. En ambos casos importa volver a considerar lo que el pasaje comunica.
 
-Podemos hacerlo con Salmo 119:9–16. En su tramo final aparecen la atención a los preceptos y los caminos de Dios, el gusto por la enseñanza y la intención de no olvidarla. Después de leerlo, un resumen propio podría ser: «Quiero atender a lo que Dios enseña y mantenerlo presente». Al recordarlo, podemos preguntarnos qué orientación concreta habíamos reconocido en el pasaje.[^20]
+Podemos hacerlo con Salmo 119:9–16. En su tramo final, el salmista atiende a lo que Dios pide y considera sus caminos, expresa gusto por la enseñanza y se propone no olvidarla. Después de leerlo, un resumen propio podría ser: «Quiero atender a lo que Dios enseña y mantenerlo presente». Al recordarlo, podemos preguntarnos qué orientación concreta habíamos reconocido en el pasaje.[^20]
 
 Elegí una ocasión corriente para retomarlo, por ejemplo antes de una conversación o durante una pausa. Podés usar una tarjeta, una nota o el audio. Al volver, preguntá qué relación tiene lo recordado con ese momento. Si aparece una decisión, regresá al sentido que habías comprendido, en lugar de tratar las palabras como un mensaje privado separado del conjunto.
 
@@ -205,23 +205,23 @@ Algunos pasajes llaman expresamente a actuar. Ya vimos esa relación en Santiago
 
 Cuando veas una posible acción, tratá de expresar dos cosas: qué entendiste del pasaje y por qué ese paso sería coherente con ello. «Quiero ser mejor» puede expresar un deseo, pero todavía no dice qué harás. «Voy a revisar una afirmación que hice y corregirla si es falsa» identifica una respuesta que podés examinar. También deja lugar a comprobar los hechos antes de actuar.
 
-Considerá después qué necesitás saber y qué alcance podés asumir. Si querés ayudar a alguien, averiguá qué necesita. Si tenés que corregir lo que dijiste, pensá ante quién corresponde hacerlo. Identificá una oportunidad real para ese paso. La enseñanza orienta la respuesta; los datos de la situación ayudan a darle forma.
+Considerá después qué necesitás saber y qué podés hacer con los medios y el tiempo disponibles. Si querés ayudar a alguien, averiguá qué necesita. Si tenés que corregir lo que dijiste, pensá ante quién corresponde hacerlo. Identificá una oportunidad real para ese paso. La enseñanza orienta la respuesta; los datos de la situación ayudan a darle forma.
 
-Más adelante, volvé sobre lo ocurrido. ¿Hiciste lo que te propusiste? ¿La acción respondía a lo comprendido? ¿Apareció algo que obliga a corregirla? Podés reconsiderarlo en silencio, anotarlo o conversar lo pertinente con alguien. No hace falta llevar una planilla ni presentar un balance favorable cada vez.
+Más adelante, volvé sobre lo ocurrido. ¿Hiciste lo que te propusiste? ¿La acción respondía a lo comprendido? ¿Apareció algo que obliga a corregirla? Podés reconsiderarlo en silencio, anotarlo o conversar sobre lo ocurrido con alguien. No hace falta llevar una planilla ni mostrar que todo salió bien.
 
-Si todavía no hay base suficiente para actuar, nombrá lo que falta. Quizá necesites entender una frase o escuchar a otra persona. Y si el pasaje está orientando hacia gratitud o súplica, esa puede ser la respuesta del momento. Una pregunta abierta conserva su valor cuando expresa lo que realmente no sabemos, en lugar de encubrir una conclusión apresurada.
+Si todavía no hay base suficiente para actuar, nombrá lo que falta. Quizá necesites entender una frase o escuchar a otra persona. Y si el pasaje está orientando hacia gratitud o súplica, esa puede ser la respuesta del momento. Dejar clara la pregunta permite reconocer qué falta saber antes de sacar una conclusión.
 
 ## Leer con otras personas
 
 Conversar un pasaje permite escuchar qué vio otra persona y mostrarle dónde se apoya nuestra interpretación. La lectura compartida tiene antecedentes bíblicos, como la reunión para escuchar la Ley en Deuteronomio 31. El procedimiento de conversación que proponemos acá es una ayuda actual, no el reglamento de aquella reunión.[^22]
 
-Elijan una misma unidad y permitan que todos la reciban antes de comentarla. Alguien puede leerla en voz alta; quien prefiera simplemente escuchar también participa. Después, cada persona que quiera señala una observación con su referencia. A partir de esas observaciones, elijan una pregunta y ensayen respuestas volviendo al texto.
+Elijan un mismo pasaje y den tiempo para que todos lo lean o escuchen antes de comentarlo. Alguien puede leerlo en voz alta; quien prefiera simplemente escuchar también participa. Después, cada persona que quiera señala una observación con su referencia. A partir de esas observaciones, elijan una pregunta y ensayen respuestas volviendo al texto.
 
 Puede ayudar distinguir tres maneras de hablar: *el pasaje dice*, *entiendo que significa* y *en mi situación podría responder así*. Las tres tienen lugar, pero no afirman lo mismo. Una vivencia personal puede ser importante sin decidir por sí sola el significado para los demás.
 
 Volvamos al ejemplo de Santiago. Una persona nota el espejo y otra señala la advertencia sobre la lengua. Alguien concluye que lo único importante es actuar y que prestar atención no cuenta. El grupo puede volver al versículo 25, donde aparecen tanto permanecer como hacer, y corregir esa explicación. La conversación no necesita inventar una acusación contra ningún participante para tomar en serio la advertencia.
 
-Si dos lecturas siguen en desacuerdo, precisen qué palabra o relación deben revisar y busquen una explicación identificada. No hace falta resolverlo por votación. Quien guía también puede tener que corregirse y debe poder mostrar sus razones.
+Si siguen entendiendo el pasaje de maneras distintas, precisen qué palabra o relación deben revisar. Consulten una nota o comentario que dé razones y permita saber quién lo escribió. No hace falta resolverlo por votación. Quien guía también puede tener que corregirse y debe poder mostrar sus razones.
 
 Acuerden que nadie está obligado a revelar intimidad, contar una falta o aceptar una aplicación que otra persona le asigna. Se puede pasar el turno. Cada uno puede considerar en privado su respuesta. Al terminar, nombren lo que entendieron y, si la hay, la pregunta que queda abierta; pueden orar juntos si quieren. La participación personal se conserva incluso cuando no todos hablan.
 
@@ -229,7 +229,7 @@ Acuerden que nadie está obligado a revelar intimidad, contar una falta o acepta
 
 A veces perdemos el hilo. Podemos volver a la última frase comprendida y preguntarnos cómo se relaciona con la siguiente. Leerla en voz alta o escucharla de nuevo ofrece otra manera de retomarla. Si el tramo es demasiado amplio, trabajemos una parte, conservando lo que ya conocemos del conjunto. La distracción no basta para juzgar nuestra fe.
 
-Otras veces el problema es preciso: no entendemos una palabra, una referencia o una aparente contradicción. Conviene nombrarlo. «No entiendo por qué dice esto después de aquello» permite buscar mejor que «no entiendo nada». Leamos antes y después, comparemos otra versión y, si sigue siendo necesario, consultemos una explicación o pidamos ayuda a alguien que pueda dar razones. Cuando la duda cambia la aplicación, dejemos esa aplicación en suspenso. Podemos seguir considerando lo claro sin fingir que todo quedó resuelto.
+Otras veces el problema es preciso: no entendemos una palabra, una referencia o una aparente contradicción. Conviene nombrarlo. «No entiendo por qué dice esto después de aquello» permite buscar mejor que «no entiendo nada». Leamos antes y después, comparemos otra versión y, si sigue siendo necesario, consultemos una explicación o pidamos ayuda a alguien que pueda dar razones. Si una aplicación depende de esa duda, dejémosla pendiente hasta aclararla. Podemos seguir considerando lo claro sin fingir que todo quedó resuelto.
 
 También puede ocurrir que no aparezca nada nuevo. No necesitamos producir originalidad en cada encuentro. Reconocer nuevamente una enseñanza, agradecer lo conocido o volver a una pregunta pendiente puede tener sentido. Si no surge una acción, no hace falta inventarla para dar por terminada la lectura.
 
@@ -241,7 +241,7 @@ Aun con estas dificultades, es posible saber cómo continuar: volver a una frase
 
 ## Una atención que puede continuar
 
-Para meditar con las Escrituras podemos comenzar de una manera sencilla: recibir un pasaje, volver sobre algo que comunica y considerar una respuesta. A medida que lo hacemos, algunas preguntas se aclaran y otras necesitan más tiempo. Un relato nos lleva a seguir acciones; un poema, a escuchar una voz; una enseñanza, a revisar cómo vivimos.
+Para meditar con las Escrituras podemos comenzar de una manera sencilla: leer o escuchar un pasaje, volver sobre algo que comunica y considerar una respuesta. A medida que lo hacemos, algunas preguntas se aclaran y otras necesitan más tiempo. Un relato nos lleva a seguir acciones; un poema, a escuchar una voz; una enseñanza, a revisar cómo vivimos.
 
 No tenemos que usar todos los recursos en cada lectura. Podemos elegir el que permita atender mejor a ese texto y regresar al pasaje cuando nuestra interpretación lo necesite. Comprender, recordar, orar y actuar pueden acompañarse sin convertirse en la misma actividad.
 

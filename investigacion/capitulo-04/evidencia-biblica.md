@@ -129,3 +129,7 @@ El 2026-10-02 se auditó el manuscrito de `881924940b56980aa79d257b9924ad2d0279b
 - **Sal 77, Sal 1, Sal 143, memoria, Proverbios y respuesta:** se conservan con apoyo textual directo; preguntas, numeración, silencio del desenlace y variantes opcionales están detallados en la auditoría. Sal 77:10 sigue discutido; Ellington/Pavan se mantienen como respaldo heredado, no originales reabiertos
 
 Las glosas breves incorporadas en etapa 2 son suficientes para su función. No se necesitan nuevas afirmaciones históricas, clínicas o comparativas. Las ocho fichas quedan revisadas documentalmente; no probadas con personas. Etapas 4–6 y publicación de estas correcciones pendientes.
+
+## Cotejo de lenguaje — etapa 4 local
+
+La revisión de lenguaje cotejó el manuscrito simplificado con este soporte y con la auditoría documental. Conserva las afirmaciones bíblicas y su grado de certeza. «Preceptos» en el ejemplo de Sal 119:9–16 se explica como lo que Dios pide; no se elimina su exigencia. En Lucas se mantiene la interpretación posible del cambio de pregunta, los motivos no narrados y la alternativa sin imágenes. El control de lo añadido ahora explica la acción: repasar sólo lo narrado y comprobar si la interpretación se sostiene. No se agregaron afirmaciones especializadas ni se reabrieron originales en esta pasada; sus accesos pertenecen a las etapas documentadas antes. Véase la [auditoría de lenguaje](auditoria-lenguaje.md). Etapas 5–6 y publicación/verificación de las revisiones de etapas 3–4 pendientes.

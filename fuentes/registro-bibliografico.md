@@ -258,3 +258,7 @@ La [auditoría documental](../investigacion/capitulo-04/auditoria-documental.md#
 - **TXT-HEB-01:** herramienta complementaria de control: [Mechon-Mamre, Sal 77](https://mechon-mamre.org/p/pt/pt2677.htm), encabezamiento y numeración, consultados focalmente. No se identifica esta reproducción con WLC ni con un aparato crítico; no hay nuevo estudio léxico
 
 EST-01/02, Ellington, Pavan, los originales científicos, JEN-02 y antecedentes Orígenes/Guigo se reutilizan con sus accesos históricos; no fueron reabiertos en esta pasada. Los intentos fallidos de algunas páginas/capturas se delimitan en la auditoría y no cuentan como lecturas. Jennings 2017, Newberg/Waldman, Govinda y aparatos avanzados conservan sus pendientes.
+
+### Revisión de lenguaje de C4 — etapa 4, 2026-10-02 UTC
+
+Se cotejaron las simplificaciones del manuscrito con las fuentes y accesos registrados en los soportes de C4, sin nuevas consultas de originales, nuevos IDs ni ampliación de las afirmaciones. Las 22 notas se conservan byte por byte respecto del texto local corregido de etapa 3. No se presenta esta lectura documental como una nueva lectura de Jennings, de los comentarios o de los estudios citados. La [auditoría de lenguaje](../investigacion/capitulo-04/auditoria-lenguaje.md) identifica fecha y hash de entrada y salida. Etapas 5–6 y publicación/verificación de las revisiones de etapas 3–4 pendientes.

@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas, publicadas y verificadas en main; C4 autorizado, etapa 1 guardada en `d5f7bf8`, manuscrito de etapa 2 en `8819249` y etapa 3 documental/práctica completada localmente; etapas 4–6 pendientes. Las decisiones generales siguen abiertas.
+**Estado:** título elegido y ejes generales acordados; capítulos 1 y 2 desarrollados por encargo explícito del autor; nueve etapas de C3 completadas, publicadas y verificadas en main; C4 autorizado, etapa 1 guardada en `d5f7bf8`, manuscrito de etapa 2 en `8819249` y etapas 3 documental/práctica y 4 de lenguaje completadas localmente; etapas 5–6 y publicación/verificación de ambas revisiones pendientes. Las decisiones generales siguen abiertas.
 
 ## Estructura marco
 
@@ -36,7 +36,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 
 - `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
 - `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas, matriz Jennings y siete auditorías independientes disponibles; nueve etapas de C3 completadas y verificadas en main.
-- `../practicas/catalogo.md`: ocho fichas investigadas y revisadas documentalmente para C4; conserva los candidatos iniciales y sus agrupaciones, sin pruebas con lectores ni aprobación del autor.
+- `../practicas/catalogo.md`: ocho fichas investigadas, revisadas documentalmente y cotejadas con el lenguaje de C4; conserva los candidatos iniciales y sus agrupaciones, sin pruebas con lectores ni aprobación del autor.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
 - `../investigacion/01-que-significa-meditar-en-la-biblia.md`: evidencia, objeciones y límites que respaldan el capítulo.
 - `../capitulos/01-que-significa-meditar-en-la-biblia.md`: capítulo completo, con revisión de lenguaje y notas; pendiente de revisión del autor.
@@ -83,3 +83,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-02 UTC:** etapa 2 de C4 completada localmente sobre `d5f7bf80a8a3270467c9b96bcaa9fda1d0049780`: [manuscrito completo](../capitulos/04-como-meditar-con-las-escrituras.md) con orientación para comenzar, ocho funciones prácticas integradas en prosa, tres ejemplos completos, dificultades, cierre y 22 notas. Se conservaron la definición exacta de C1, las preguntas del Salmo 77 y los límites narrativos de Lucas. No se amplió el objeto con ciencia, historia de métodos o comparación religiosa nueva; Jennings tiene una mención puntual. Matriz, catálogo, registro de consulta y estados sincronizados. Los controles básicos son de redacción, no etapas 3–6. Faltan esas auditorías y publicar/verificar este checkpoint. C1–C3 intactos; revisión del autor y decisiones generales abiertas.
 
 - **2026-10-02 UTC:** etapa 3 de C4 completada localmente sobre `881924940b56980aa79d257b9924ad2d0279b962`: [auditoría documental, metodológica y práctica](../investigacion/capitulo-04/auditoria-documental.md) de 22 notas, 28 afirmaciones, ocho fichas y todas las variantes. Cotejos originales focales y herencia documental diferenciados. Se corrigen paráfrasis de Sal 119:34/36, alcance de NET 1 Tim 4:15, objeción grupal P07 y localizador Levine p. 121. Se conserva el resto con razones verificables; no se activan especializadas separadas. Revisión asistida por IA en rol crítico distinto, sin prueba con lectores o aprobación del autor. Faltan etapas 4–6 y publicación/verificación de este checkpoint. C1–C3 y sus auditorías intactos; decisiones generales abiertas.
+
+- **2026-10-02 UTC:** etapa 4 de C4 completada localmente: [revisión de lenguaje simple](../investigacion/capitulo-04/auditoria-lenguaje.md) sobre los archivos corregidos de etapa 3, con entrada fechada a las 17:06:21 UTC y SHA-256 de C4 `b0a1bf4f7247984555e02df413e4e5206e8f3c4780b37ba8dd67429dac471b2b`. HEAD `8819249` corresponde a etapa 2 y no identifica ese texto de entrada. Se aclararon términos, instrucciones y comprobaciones de interpretación; definición, ocho funciones, tres ejemplos mayores y 22 notas preservados. Sin fuentes nuevas, afirmaciones especializadas nuevas ni pruebas con lectores. Faltan etapas 5–6 y publicar/verificar las revisiones de etapas 3–4; C1–C3 y sus auditorías intactos, decisiones generales y aprobación del autor pendientes.
