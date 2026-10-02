@@ -24,11 +24,11 @@ Comparemos esa atención con la que propone un discurso budista sobre la respira
 
 La diferencia inmediata es concreta. Prestar atención al movimiento de la respiración y considerar qué muestra la ayuda de Dios son tareas distintas. Ambas pueden requerir constancia y volver cuando la atención se dispersa. Pero ese volver tiene un objeto diferente.
 
-También cambia lo que hacemos con un pensamiento. En un método moderno de meditación budista enseñado por Mahāsi, cuando aparece un recuerdo o una idea, se procura reconocer que se está recordando o pensando, y después regresar al objeto de atención. Durante ese ejercicio no se desarrolla el significado de cada idea. El manual, sin embargo, incluye compromisos éticos y confianza religiosa; no presenta el registro de pensamientos como una actividad que agota toda la vida espiritual.[^3]
+También cambia lo que hacemos con un pensamiento. En un método moderno de meditación budista enseñado por Mahāsi, cuando aparece un recuerdo o una idea, se procura reconocer que se está recordando o pensando, y después regresar al objeto de atención. Durante ese ejercicio no se desarrolla el significado de cada idea. El manual también incluye compromisos éticos y confianza religiosa: observar los pensamientos es sólo una parte de ese camino.[^3]
 
 La comparación se vuelve más cercana cuando encontramos prácticas budistas de recuerdo. Otro discurso invita a evocar las cualidades del Buda, su enseñanza y la comunidad, además de la virtud y la generosidad. Quien recuerda no se ocupa de sonidos indiferentes: mantiene presentes cualidades que valora. El texto vincula ese recuerdo con alegría, calma y concentración.[^4]
 
-Aquí la semejanza con los salmos tiene más peso que compartir una postura. En ambos casos se vuelve a algo reconocido como valioso y se le da lugar en la vida interior. La memoria proporciona contenido y orientación. Cambian, entre otras cosas, el referente del recuerdo y la comprensión religiosa que lo sostiene.
+Aquí la semejanza con los salmos tiene más peso que compartir una postura. En ambos casos se vuelve a algo reconocido como valioso y se le da lugar en la vida interior. La memoria proporciona contenido y orientación. Cambian, entre otras cosas, aquello que se recuerda y las creencias que dan sentido al recuerdo.
 
 Así aparece una primera distinción útil: algunas prácticas se parecen a la meditación bíblica por su manera de recordar; otras se concentran en una sensación o en advertir cómo aparece un pensamiento. Ninguna de esas diferencias se entiende bien si solamente preguntamos si la persona está en silencio.
 
@@ -38,9 +38,9 @@ A veces se resume la comparación diciendo que la meditación bíblica llena la 
 
 La práctica bíblica que estudiamos conserva un contenido significativo. Eso no obliga a producir explicaciones nuevas a cada instante. Recordar una ayuda, permanecer agradecido por ella y dirigirse a Dios pueden formar parte de una misma atención. La reflexión puede hacerse oración o acompañarse de silencio sin que por eso desaparezca aquello a lo que responde. Los salmos no nos permiten reconstruir segundo a segundo lo que pasaba por la mente de sus autores.
 
-Tampoco los textos budistas examinados rechazan todo pensamiento. En uno de ellos, el Buda relata cómo distinguía pensamientos de hostilidad y daño de otros orientados a no dañar. Los evaluaba por sus consecuencias para sí mismo y para los demás. Después, el relato da otro paso: incluso una elaboración favorable, si se prolonga mucho, puede fatigar. La mente se aquieta y se concentra.[^5]
+Tampoco los textos budistas examinados rechazan todo pensamiento. En uno de ellos, el Buda relata cómo distinguía pensamientos de hostilidad y daño de otros orientados a no dañar. Los evaluaba por sus consecuencias para sí mismo y para los demás. Después, el relato da otro paso: incluso prolongar esos pensamientos favorables puede fatigar. La mente se aquieta y se concentra.[^5]
 
-En ese recorrido hay evaluación y hay momentos de menor elaboración. No compiten como si uno perteneciera a la Biblia y el otro a todo el budismo. Son actividades distintas dentro del mismo entrenamiento. Tampoco calma y comprensión son caminos necesariamente separados: otro discurso contempla distintas maneras de desarrollarlas en relación entre sí.[^6]
+Ese entrenamiento combina evaluar pensamientos y aquietar la mente. No corresponde asignar una de esas actividades a la Biblia y la otra a todo el budismo. Tampoco calma y comprensión son caminos necesariamente separados: otro discurso contempla distintas maneras de desarrollarlas en relación entre sí.[^6]
 
 El Zen ofrece un contraste diferente. En la escuela Sōtō, la práctica llamada *shikantaza*, habitualmente explicada como «solo sentarse», no consiste en tomar una enseñanza y desarrollar su significado durante la meditación sentada. La postura tiene un lugar importante. La guía contemporánea de esa escuela indica permanecer erguido, con los ojos algo abiertos y la respiración natural. Ante los pensamientos, propone no seguirlos ni luchar contra ellos, y volver a la postura al advertir distracción o falta de alerta.[^7]
 
@@ -48,19 +48,19 @@ El maestro Dōgen pide dejar durante esa práctica incluso las evaluaciones sobr
 
 La diferencia con nuestra definición bíblica está en lo que se propone hacer durante ese momento: atender al sentido de una enseñanza, por un lado; sentarse sin desarrollar un tema, por el otro. No está en que una persona posea la capacidad de pensar y la otra deba perderla.
 
-Además, una sentada que no se dedica a elaborar un texto no convierte a toda la tradición en enemiga de las palabras. La vida Sōtō incluye estudio y recitación. La instrucción para ese ejercicio no describe todas las actividades de sus practicantes.[^9]
+Además, meditar sentado sin desarrollar el sentido de un texto no convierte a toda la tradición en enemiga de las palabras. La vida Sōtō incluye estudio y recitación. La instrucción para ese ejercicio no describe todas las actividades de sus practicantes.[^9]
 
 ## Cuando aquietar llega hasta la cesación
 
-Corregir una caricatura tampoco debería llevarnos a esconder una diferencia. Hay textos que proponen ir más allá de reducir la distracción y buscan una cesación de la actividad mental.
+Corregir una caricatura tampoco debería llevarnos a esconder una diferencia. Hay textos que proponen ir más allá de reducir la distracción y buscan que la actividad mental se detenga. A eso se refiere aquí la palabra *cesación*.
 
-Los *Yoga Sūtras*, atribuidos a Patañjali, permiten verlo. En una parte del recorrido distinguen fijar la mente en un objeto, sostener allí la atención y quedar absorbido en él. El comentario menciona zonas del cuerpo y objetos externos como posibles apoyos. En esa absorción, el objeto sigue presente: no sería preciso describirla como carencia de todo contenido. El texto y sus comentarios distinguen esa práctica de una culminación en la que cesan incluso los contenidos que sostenían la concentración.[^10]
+Los *Yoga Sūtras*, atribuidos a Patañjali, permiten verlo. En una parte del recorrido distinguen fijar la mente en un objeto, sostener allí la atención y quedar absorbido en él. El comentario menciona zonas del cuerpo y objetos externos como posibles apoyos.
 
-Esta meta no equivale a detenerse un poco para después pensar mejor. Forma parte de una comprensión de la liberación que veremos más adelante. En la meditación bíblica definida en este libro, en cambio, cesar todo contenido no es la finalidad que reúne los pasajes. La enseñanza y las obras de Dios conservan su sentido para quien responde a ellas.
+En esa absorción, el objeto sigue presente: no sería preciso describirla como carencia de todo contenido. El texto y sus comentarios distinguen esa práctica de una culminación en la que cesan incluso los contenidos que sostenían la concentración.[^10]
 
-La diferencia es importante, pero tiene un alcance preciso. Buscar una suspensión de contenidos en un estado meditativo no demuestra que alguien pierda luego la capacidad de razonar. El Yoga clásico también reconoce formas válidas de conocimiento y exige discernimiento. Su explicación de la cesación tampoco supone eliminar la conciencia misma.[^11]
+Esta meta no equivale a detenerse un poco para después pensar mejor. Forma parte de una comprensión de la liberación que veremos más adelante. En la meditación bíblica definida en este libro, en cambio, hacer que cese todo contenido mental no es la finalidad que reúne los pasajes. La enseñanza y las obras de Dios conservan su sentido para quien responde a ellas.
 
-Podemos reconocer, entonces, una diferencia de método y de meta sin convertirla en un diagnóstico de deterioro mental. Para afirmar ese deterioro harían falta otras pruebas.
+Buscar que esos contenidos cesen durante la meditación no demuestra que alguien pierda luego la capacidad de razonar. Para afirmar ese deterioro harían falta otras pruebas. El Yoga clásico también reconoce formas válidas de conocimiento y exige discernimiento. Su explicación de la cesación tampoco supone eliminar la conciencia misma.[^11]
 
 ## Qué cambia cuando se repiten palabras
 
@@ -68,11 +68,11 @@ La repetición puede confundirnos porque se reconoce fácilmente desde afuera. S
 
 En Josué 1:8, mantener la enseñanza en la boca está relacionado con meditar en ella y actuar conforme a lo escrito. Como vimos en el primer capítulo, recitar y reflexionar pueden acompañarse. Repetir una enseñanza no deja de ser bíblico por el solo hecho de repetirla. Tampoco basta con pronunciarla muchas veces para haber considerado lo que significa.[^12]
 
-La palabra *mantra* tampoco identifica un único uso. En los mismos *Yoga Sūtras*, la repetición de Oṃ se une a la atención a lo que ese sonido designa: Īśvara, la divinidad reconocida por ese sistema. El texto no propone aquí una sílaba declarada indiferente a su referente. Repetir y atender a lo divino están relacionados, aunque atender al referente no sea lo mismo que analizar una definición palabra por palabra.[^13]
+La palabra *mantra* tampoco identifica un único uso. En los mismos *Yoga Sūtras*, la repetición de Oṃ se une a la atención a lo que ese sonido nombra: Īśvara, la divinidad reconocida por ese sistema. No se trata aquí de repetir una sílaba sin atender a aquello que nombra. Repetir y atender a lo divino están relacionados, aunque esa atención no exija analizar una definición palabra por palabra.[^13]
 
 Otras enseñanzas de repetición religiosa, llamada *japa*, combinan el significado del nombre, la devoción y el poder que atribuyen al sonido. Hay que mirar cada propuesta. No podemos decidir de antemano que todo mantra funciona únicamente por su significado ni que todo mantra carece de él.[^14]
 
-La Meditación Trascendental ofrece un contraste más específico. Es una técnica moderna vinculada con Maharishi Mahesh Yogi. En su explicación del mantra, el fundador aparta la atención del significado y la dirige al sonido, hasta trascenderlo. La organización presenta la técnica como una práctica que no requiere concentración forzada ni adhesión a una creencia religiosa.[^15]
+La Meditación Trascendental ofrece un contraste más específico. Es una técnica moderna vinculada con Maharishi Mahesh Yogi. En su explicación del mantra, el fundador propone atender al sonido sin detenerse en su significado, hasta dejar atrás también la percepción del sonido. La organización presenta la técnica como una práctica que no requiere concentración forzada ni adhesión a una creencia religiosa.[^15]
 
 Considerar lo que una enseñanza comunica y utilizar un sonido sin desarrollar su significado son instrucciones diferentes. Esa diferencia resulta más precisa que enfrentar toda la Biblia con todo el hinduismo.
 
@@ -82,9 +82,9 @@ Al mismo tiempo, repetir puede compartir algunos componentes: mantener algo pres
 
 Hay otra expresión que suele provocar desconfianza: *observar sin juzgar*. ¿Significa que habría que dejar de distinguir entre lo bueno y lo malo?
 
-Para responder conviene separar un programa contemporáneo de las tradiciones antiguas. MBSR, sigla inglesa de reducción del estrés basada en mindfulness, es un programa clínico y educativo. Su formato de ocho semanas reúne meditación sentada, atención a distintas zonas del cuerpo, movimiento consciente y trabajo con experiencias cotidianas. No es el nombre de toda meditación budista ni de cualquier propuesta actual de atención plena.[^16]
+Para responder conviene separar un programa contemporáneo de las tradiciones antiguas. MBSR, por sus siglas en inglés, es un programa clínico y educativo de reducción del estrés basado en la atención plena, o *mindfulness*. Su formato de ocho semanas reúne meditación sentada, atención a distintas zonas del cuerpo, movimiento consciente y trabajo con experiencias cotidianas. No es el nombre de toda meditación budista ni de cualquier propuesta actual de atención plena.[^16]
 
-Durante algunos de sus ejercicios, la persona observa sensaciones, recuerdos o emociones sin ponerse enseguida a rechazarlos, perseguirlos o desarrollar una explicación. Esa disposición puede describirse como no juzgar la experiencia mientras se la reconoce. El mismo currículo, fuera y junto a esos momentos, incluye reflexión, conversación y decisiones.[^17]
+Durante algunos de sus ejercicios, la persona observa sensaciones, recuerdos o emociones sin ponerse enseguida a rechazarlos, perseguirlos o desarrollar una explicación. Esa disposición puede describirse como no juzgar la experiencia mientras se la reconoce. Junto a esos ejercicios, el programa incluye reflexión, conversación y decisiones.[^17]
 
 Un ejemplo ayuda a distinguir las acciones. Advertir que estoy enojado no equivale a decidir que sería correcto insultar. Puedo reconocer el enojo sin negar que apareció y, en otra parte de ese proceso, evaluar qué hacer con él. Aceptar la presencia de una emoción y aprobar una conducta son cosas diferentes. El ejemplo aclara la distinción; no demuestra que un curso vaya a producir siempre una respuesta mejor.
 
@@ -106,11 +106,11 @@ En los pasajes bíblicos estudiados, Dios es alguien de quien se recuerdan palab
 
 Por eso su finalidad no queda bien descrita como alcanzar cualquier estado interior agradable. La serenidad puede tener lugar, pero también puede permanecer una pregunta dolorosa. Y el salmista no aparece como alguien que fabrica por sí solo todo lo que necesita: sigue pidiendo comprensión, orientación y ayuda.
 
-El recuerdo budista de las cualidades del Buda permite reconocer una semejanza de atención y confianza sin volver intercambiables los referentes. En ese discurso, el Buda es presentado como maestro de seres humanos y divinos. El camino de los textos pali examinados no se funda en responder a un Dios creador como el de los pasajes bíblicos. Eso no significa que carezca de religión o de seres divinos: los propios textos hablan de ellos.[^22]
+El recuerdo budista de las cualidades del Buda permite reconocer una semejanza de atención y confianza sin tratar al Buda y a Dios como si fueran intercambiables. En ese discurso, el Buda es presentado como maestro de seres humanos y divinos. El camino de los textos pali examinados no se funda en responder a un Dios creador como el de los pasajes bíblicos. Eso no significa que carezca de religión o de seres divinos: los propios textos hablan de ellos.[^22]
 
 También el fin es distinto. Un discurso define el *nirvana* mediante el fin de la pasión, la aversión y el engaño. Dentro de ese marco, la liberación incluye terminar con el ciclo de renacimientos. Reducir esa meta a sentirse en paz por un rato la empobrece. Traducirla directamente como comunión con el Dios de los salmos borraría otra diferencia.[^23]
 
-Ni siquiera todas las prácticas budistas deben describirse como si buscaran el mismo resultado inmediato. Recordar cualidades, reconocer un obstáculo y concentrarse profundamente tienen funciones diferentes. En el Sōtō de Dōgen, además, la relación entre práctica y despertar recibe una formulación propia: la sentada no se concibe simplemente como un medio que se abandona una vez obtenido un premio. Practicar y realizar el camino se entienden como inseparables.[^24]
+Ni siquiera todas las prácticas budistas deben describirse como si buscaran el mismo resultado inmediato. Recordar cualidades, reconocer un obstáculo y concentrarse profundamente tienen funciones diferentes. En el Sōtō de Dōgen, además, la meditación sentada no se concibe simplemente como un medio que se abandona después de alcanzar el despertar. La práctica y el despertar se entienden como inseparables.[^24]
 
 En las tradiciones hindúes tampoco encontramos una única posición acerca de lo divino. Ya vimos que los *Yoga Sūtras* incluyen atención a Īśvara. La *Bhagavad Gītā* ofrece otro ejemplo: en su capítulo sexto, Krishna orienta hacia sí la atención del practicante y valora la devoción. El mismo capítulo manda aquietar la mente y llega a pedir no pensar en nada, con la mente establecida en el propio ser. También enseña a volver cuando la mente se distrae y a considerar el placer y el sufrimiento ajenos a partir de los propios.[^25]
 
@@ -124,11 +124,11 @@ Estas diferencias no son detalles que se puedan borrar porque alguien se sintió
 
 La diferencia se vuelve especialmente delicada cuando aparece la expresión budista *no-yo*. Puede sonar como si se le pidiera a la persona desaparecer, perder su memoria o dejar de ser responsable. Los discursos examinados no proponen eso.
 
-Uno de ellos considera el cuerpo, las sensaciones, las percepciones, las formaciones mentales y la conciencia. Pregunta si son permanentes y si podemos disponer de ellos a voluntad. Puesto que cambian, pueden afligirnos y no obedecen a un dominio absoluto, el texto rechaza tomarlos como un yo al que aferrarse.[^26]
+Uno de ellos examina el cuerpo y distintos aspectos de la vida mental, como las sensaciones, las percepciones y la conciencia. Pregunta si son permanentes y si podemos disponer de ellos a voluntad. Puesto que cambian, pueden afligirnos y no están bajo nuestro control absoluto, el texto rechaza tomarlos como un yo al que aferrarse.[^26]
 
-Podemos acercarnos a la pregunta con algo sencillo: tener una sensación agradable no permite ordenar que permanezca para siempre. La enseñanza lleva esa observación mucho más lejos que aconsejar paciencia. Cuestiona identificar esos componentes cambiantes con algo que podamos poseer como nuestro yo, y vincula ese desapego con la liberación.
+Podemos acercarnos a la pregunta con algo sencillo: tener una sensación agradable no permite ordenar que permanezca para siempre. La enseñanza lleva esa observación mucho más lejos que aconsejar paciencia. Cuestiona que identifiquemos esos componentes cambiantes con «mi yo» y nos aferremos a ellos. Dejar ese apego forma parte de la liberación que propone.
 
-Otro discurso utiliza la comparación de un carro y sus partes para explicar que se puede hablar de un ser de manera convencional. El lenguaje cotidiano sobre personas no obliga a afirmar un núcleo independiente e inmutable. Hay debates sobre el alcance filosófico del no-yo, pero no hace falta resolverlos todos para evitar la caricatura de una persona que debería dejar de existir.[^27]
+Otro discurso lo ilustra con un carro: llamamos así al conjunto de sus partes. De manera semejante, podemos hablar de personas en el lenguaje cotidiano sin afirmar un núcleo independiente que nunca cambia. Hay debates sobre el alcance filosófico del no-yo, pero no hace falta resolverlos todos para evitar la caricatura de una persona que debería dejar de existir.[^27]
 
 Tampoco sería preciso reducirlo a una forma budista de humildad. Reconocer que no soy el centro de todo puede parecerse en algunas consecuencias, pero no expresa por sí solo lo que esos textos plantean sobre los componentes de la experiencia.
 
@@ -136,7 +136,9 @@ El Yoga clásico presenta una explicación diferente. Distingue la conciencia, l
 
 Las escuelas que leen la *Gītā* ofrecen, a su vez, interpretaciones distintas sobre el yo y lo divino. Una lectura destaca la identidad del yo con Brahman, la realidad última; otra conserva la distinción entre los sujetos y explica su semejanza. Decir que todas las prácticas hindúes buscan exactamente la misma unión ocultaría esas diferencias.[^29]
 
-¿Qué necesitamos afirmar del lado bíblico para comparar? Lo que ya encontramos: alguien escucha, recuerda, considera su conducta, confía, pregunta y responde ante Dios. Los dos primeros capítulos no construyeron una teoría completa sobre el alma o la conciencia. No hace falta agregarla ahora para señalar que responder a Dios, dejar de apropiarse de los componentes de la experiencia y liberar la conciencia de su confusión con la naturaleza no son tres maneras de describir sin más una misma meta.
+¿Qué necesitamos afirmar del lado bíblico para comparar? Lo que ya encontramos: alguien escucha, recuerda, considera su conducta, confía, pregunta y responde ante Dios. Los dos primeros capítulos no construyeron una teoría completa sobre el alma o la conciencia.
+
+Para esta comparación alcanza con distinguir las metas ya descritas: responder a Dios, dejar de aferrarse al cuerpo y a la vida mental como «mi yo», o liberar la conciencia de su confusión con la naturaleza. No podemos tratarlas sin más como distintas maneras de nombrar lo mismo.
 
 ## Qué podemos conservar de Jennings
 
@@ -146,11 +148,11 @@ Sus contrastes necesitan corrección cuando pasan de algunos métodos a todo Ori
 
 El límite también alcanza a sus afirmaciones cerebrales. Como vimos en el capítulo anterior, el estudio que cita directamente sobre oración comparó tareas realizadas por veinte cristianos luteranos. No examinó todo el conjunto de meditaciones orientales ni midió una pérdida del pensamiento crítico.[^31]
 
-El trabajo de Newberg con ocho meditadores budistas, también revisado allí, estudió una visualización concentrativa. No identificó la imagen concreta ni el linaje de los participantes. Mostró cambios en el flujo sanguíneo cerebral durante esa tarea; no demostró deterioro del razonamiento. Tampoco permite describir a todo el budismo mediante esa visualización.[^32]
+El trabajo de Newberg con ocho meditadores budistas, también revisado allí, estudió cómo se concentraban en una imagen mental. No identificó la imagen concreta ni la línea de enseñanza que seguían. Mostró cambios en el flujo sanguíneo cerebral durante esa tarea; no demostró deterioro del razonamiento. Tampoco permite describir a todo el budismo mediante esa visualización.[^32]
 
 Los estudios examinados no justifican asignar la verdad a un hemisferio, el amor al otro y después clasificar las religiones según esa distribución. Tampoco demuestran que la práctica bíblica del libro produzca por sí sola crecimiento cerebral. La actividad durante una tarea, un cambio duradero y una capacidad para decidir bien son preguntas diferentes.[^33]
 
-Así, permanece en pie la importancia que Jennings concede al contenido y a la respuesta personal. Hay diferencias religiosas que su comparación ayuda a preguntar, pero su oposición general entre razonamiento bíblico y vaciamiento oriental no describe adecuadamente los casos examinados. Tampoco podemos dar por cerradas todas sus referencias indirectas: algunas páginas del libro al que remite su guía siguen sin poder cotejarse.[^34]
+Así, permanece en pie la importancia que Jennings concede al contenido y a la respuesta personal. Su comparación invita a examinar diferencias religiosas, pero su oposición general entre razonamiento bíblico y vaciamiento oriental no describe adecuadamente los casos examinados. Tampoco podemos dar por cerradas todas sus referencias indirectas: algunas páginas del libro al que remite su guía siguen sin poder cotejarse.[^34]
 
 ## Reconocer semejanzas sin perder las diferencias
 
@@ -162,7 +164,7 @@ Las semejanzas no son siempre superficiales. Recordar cualidades valiosas, exami
 
 Una acción también puede cambiar de sentido al cambiar su contexto. Respirar antes de leer un salmo no incorpora por ese gesto todas las enseñanzas de una tradición budista. Repetir una frase sobre Dios no convierte cualquier técnica en la meditación bíblica definida en este libro. Hay que considerar qué se conserva, qué se modifica y hacia qué respuesta se orienta la atención.
 
-Eso no significa que todo método pueda separarse por completo de sus creencias sin transformarse. La repetición de Oṃ dirigida a Īśvara incluye un referente religioso; la reflexión del Salmo 77 incluye unas obras atribuidas a Dios y una historia compartida. Quitarlos cambia algo importante de esas prácticas.
+Eso no significa que todo método pueda separarse por completo de sus creencias sin transformarse. La repetición de Oṃ dirigida a Īśvara incluye atención a esa divinidad; la reflexión del Salmo 77 incluye unas obras atribuidas a Dios y una historia compartida. Quitar esos elementos cambia algo importante de esas prácticas.
 
 Las fuentes nos permiten describir tales instrucciones y finalidades. No garantizan que todos sus practicantes alcancen lo propuesto, ni resuelven los efectos de cada posible adaptación. Para beneficios y riesgos concretos siguen siendo necesarios estudios de prácticas y personas identificadas, con los límites que vimos en el capítulo anterior.
 
@@ -224,7 +226,7 @@ Los pasajes bíblicos se explican mediante paráfrasis propias y con la numeraci
 
 [^25]: *Bhagavadgītā* 6.10–17, 20–26, 29–32 y 47; capítulo 6 completo en *The Mahabharata*, trad. Kisari Mohan Ganguli, 1883–1896, libro 6, sección XXX, [texto](https://sacred-texts.com/hin/m06/m06030.htm), pp. 67–70 reproducidas (C3-GIT-01). Cotejo de 6.14, 25, 32 y 47 en la traducción de Swami Gambhirananda, Gita Supersite, IIT Kanpur (C3-GIT-02; consulta parcial). En 6.25 la mente se establece en el *ātman* (sí mismo). El comentario de Śaṅkara traducido por Gambhirananda conserva «nada en absoluto»; el de Rāmānuja traducido por Adidevananda explica «nada distinto del sí mismo» (cotejo directo, C3-GIT-02). Se conserva la fuerza de la instrucción y su diferencia interpretativa, sin separarla de la orientación a Krishna y de 6.26. La palabra inglesa «devotion» de Ganguli no se toma siempre como traducción de *bhakti*.
 
-[^26]: *Anattalakkhaṇa Sutta*, SN22.59, trad. Ñāṇamoli Thera, [Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn22/sn22.059.nymo.html) (C3-BUD-06). La fuente examina los cinco agregados y rechaza apropiarlos como «mío», «yo» o «mi yo»; no diagnostica despersonalización ni prescribe pérdida de memoria. El ejemplo de la sensación ilustra un aspecto del argumento y no agota la enseñanza.
+[^26]: *Anattalakkhaṇa Sutta*, SN22.59, trad. Ñāṇamoli Thera, [Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn22/sn22.059.nymo.html) (C3-BUD-06). La fuente examina cinco agregados: cuerpo, sensaciones, percepciones, formaciones mentales y conciencia. Rechaza apropiarlos como «mío», «yo» o «mi yo»; no diagnostica despersonalización ni prescribe pérdida de memoria. El ejemplo de la sensación ilustra un aspecto del argumento y no agota la enseñanza.
 
 [^27]: *Vajirā Sutta*, SN5.10, trad. Bhikkhu Bodhi, [Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn05/sn05.010.bodh.html) (C3-BUD-08). *Ānanda Sutta*, SN44.10, trad. Ṭhānissaro Bhikkhu, [Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn44/sn44.010.than.html) (C3-BUD-07), conserva el silencio ante las alternativas propuestas y explica el riesgo de eternalismo y aniquilacionismo. No se usa ese silencio para postular un alma secreta ni para decidir toda la discusión «no-yo/no es yo».
 

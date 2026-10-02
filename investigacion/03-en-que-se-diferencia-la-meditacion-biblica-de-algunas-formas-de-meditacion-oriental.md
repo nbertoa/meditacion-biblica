@@ -2,7 +2,7 @@
 
 ## ¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?
 
-Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings, ciencia y equidad comparativa realizadas; etapas 7–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó localmente sobre ese checkpoint; su publicación y verificación remota quedan pendientes.
+Fecha: 2026-10-02 UTC. **Estado: investigación, redacción y auditorías de tradiciones, Jennings, ciencia, equidad comparativa y lenguaje realizadas; etapas 8–9 pendientes.** El expediente reúne evidencia, prácticas delimitadas, diferencias, semejanzas y límites de consulta, y registra al final su aplicación a la [primera redacción completa de C3](../capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md). No es el capítulo del libro ni sustituye las auditorías independientes solicitadas. La etapa 3 se realizó sobre el checkpoint de redacción `f07101929d2f9d8e89e825fd6b3c342c35c84b70`. La etapa 4 se completó sobre `8f6401030418837ca5176518594fee6a29594286` y su checkpoint posterior es `1115ef76d0a4d640a7a9287777f0b3b077c8a624`. La etapa 5 se completó sobre esa base y su checkpoint posterior es `6ad12edb4b8d60123f49ecc813d351746ae1b1e0`. La etapa 6 se completó sobre ese checkpoint y su checkpoint posterior es `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. La etapa 7 se completó localmente sobre esa base; su publicación y verificación remota quedan pendientes.
 
 ## Resultado de la investigación
 
@@ -39,6 +39,7 @@ El inventario léxico sigue incompleto. No se añade una antropología cristiana
 | [Auditoría de Jennings](capitulo-03/auditoria-jennings.md) | Etapa 4: relectura de guía/artículo, cincuenta filas, atribuciones del manuscrito y fuentes históricas; límites documentales preservados |
 | [Auditoría científica](capitulo-03/auditoria-cientifica.md) | Etapa 5: originales pertinentes, cobertura empírica y psicológica del manuscrito, medidas, comparadores, replicación y límites de transferencia |
 | [Auditoría de equidad comparativa](capitulo-03/auditoria-equidad-comparativa.md) | Etapa 6: control simétrico de normas, efectos y marcos religiosos; objeciones de ambos lados, sesgo inverso y trato justo de Jennings |
+| [Auditoría de lenguaje](capitulo-03/auditoria-lenguaje.md) | Etapa 7: claridad a primera lectura, expresiones abstractas, ritmo, términos necesarios y prueba editorial de comprensión |
 | [Registro bibliográfico](../fuentes/registro-bibliografico.md) | Entradas únicas con edición/traducción, localizador, enlace, uso y acceso real; fuentes de C2 reutilizadas sin duplicar estudios |
 
 Antecedentes que se reutilizan: [investigación C1](01-que-significa-meditar-en-la-biblia.md), [investigación C2](02-para-que-meditar.md), [evidencia bíblica](capitulo-02/evidencia-biblica.md), [Jennings/Newberg](capitulo-02/jennings-y-matriz.md), [neurociencia](capitulo-02/neurociencia.md), [ensayos cristianos](capitulo-02/ensayos-cristianos.md) y [meditación espiritual](capitulo-02/meditacion-espiritual.md). Las auditorías de C2 conservan su fecha y alcance históricos; la síntesis vigente se lee con su adenda posterior.
@@ -347,3 +348,29 @@ C1/C2 y su documentación permanecen intactos. No se cerraron los pendientes de 
 - SHA256 de C3 conservado: `653b430d4a53c3ec20a23abea9cc119af6935d0d2931c3c9a695f6ac7cc92ca3`
 
 Los controles validan el árbol local. No se hicieron commits ni push; la publicación y lectura desde main corresponden al checkpoint de integración.
+
+## Etapa 7 — Auditoría independiente de lenguaje simple
+
+Fecha: 2026-10-02 UTC. Base: `d8cf3515fb99e1af75b5da716e86d2d54f6798f7`. El [informe de lenguaje](capitulo-03/auditoria-lenguaje.md) documenta criterios, problemas reales, ejemplos antes/después, decisiones de conservación y una prueba editorial de comprensión. No se hizo una investigación nueva ni una prueba con lectores externos.
+
+Se reemplazaron expresiones abstractas por acciones o referentes explícitos: observar pensamientos, recordar algo, atender a lo que un sonido nombra y concentrarse en una imagen mental. Se explicó *cesación*, se separó el párrafo sobre absorción con objeto y culminación sin contenidos y se reunió una cautela repetida sobre deterioro. La cesación mantiene su fuerza y se distingue de silencio, reflexión, observación y eliminación de la conciencia.
+
+El no-yo conserva cambio, aflicción, falta de control absoluto, identificación y apego, lenguaje cotidiano sobre personas y liberación; no se vuelve un consejo de humildad. Su lista completa de cinco agregados pasa a la nota 26 y el cuerpo ofrece ejemplos explícitos. Se aclaró la comparación del carro y se separó el cierre de las tres metas. La explicación de MBSR sigue diferenciando el horizonte de su fundador, las instrucciones del programa y las creencias no exigidas a los participantes.
+
+La estructura y los ejemplos útiles se conservaron. Los nombres necesarios identifican prácticas y fuentes; los especialistas y discusiones técnicas permanecen principalmente en notas. No se redujo por cuota: el cuerpo pasó de 4101 a 4089 palabras, incluidos título y subtítulos. La nota 26 es la única cuyo texto cambió; el detalle científico y los límites de consulta siguen intactos.
+
+C1/C2 y su documentación permanecen sin cambios. No se cerraron los pendientes de Jennings 2017, Govinda o las consultas parciales de otras fuentes, no se fijó una antropología denominacional y no se inició C4. Se actualizaron sólo los estados actuales; los cierres históricos de etapas anteriores se conservan. **Faltan las etapas 8–9: continuidad y revisión final**, además de integrar y comprobar el checkpoint remoto.
+
+### Comprobaciones locales de la etapa 7
+
+- 34 notas definidas y 34 citadas distintas; 35 llamadas, sin faltantes, huérfanas ni definiciones duplicadas
+- Sólo la nota 26 cambia respecto de la base; 54 IDs bibliográficos de C3 presentes y 112 IDs únicos en el registro, sin fuentes nuevas
+- Enlaces relativos y anclas del repositorio comprobados, sin destinos ausentes; enlaces externos del capítulo conservados, sin una nueva comprobación de disponibilidad web
+- Cinco tablas comparativas con los mismos diecisiete casos; cincuenta IDs de afirmación únicos en la matriz Jennings
+- Trece archivos de C1/C2, incluidos manuscritos, expedientes y anexos/auditorías, idénticos byte por byte al checkpoint de partida
+- Definición literal de C1 conservada; cuerpo de C3 releído completo después de los cambios, además del cotejo del diff
+- Nueve archivos previstos: manuscrito, nuevo informe y siete archivos de documentación/estado; sin temporales, fuentes descargadas, auditorías futuras ni material de C4 incorporados
+- `git diff --check` sin errores; sin marcadores de conflicto
+- SHA256 de C3: `b9042fca7c9dee932b68686603b1eee0bcc79183b8e71678f06a10bc6aa1c2c5`
+
+Los controles validan el árbol local. No se hicieron commits ni push; la publicación y lectura desde main corresponden al checkpoint de integración. Esta pasada no certifica las dos auditorías restantes ni la aprobación editorial del autor.
