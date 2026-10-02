@@ -53,3 +53,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-01:** encargo del capítulo 2: investigación bíblica y científica profunda, verificación de Jennings y Newberg contra fuentes originales, redacción, auditoría documental, revisión de lenguaje, continuidad con el capítulo 1 y control final. Entrega autorizada directamente en main. La práctica comparativa general y los métodos detallados permanecen fuera del capítulo.
 
 - **2026-10-01:** capítulo 2 terminado con las cinco etapas solicitadas y verificado en main. Se mantienen los límites documentales, el capítulo 1 sin cambios y las decisiones generales abiertas. Véase `../investigacion/capitulo-02/auditoria-final.md`.
+
+- **2026-10-01 (Córdoba):** autorizado el capítulo 3 completo con nueve etapas de investigación, redacción y auditoría, y publicación verificada en main. La comparación se delimitará por prácticas concretas a partir de fuentes primarias y especialistas. Se conserva C1/C2 como base, incluida la auditoría posterior de C2 integrada en `8548102`; no se autoriza avanzar C4 ni cerrar otras decisiones abiertas.
