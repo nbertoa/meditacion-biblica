@@ -266,3 +266,17 @@ Se cotejaron las simplificaciones del manuscrito con las fuentes y accesos regis
 ### Continuidad integral de C4 — etapa 5, 2026-10-02 UTC
 
 Se cotejaron las notas de C1–C4, las entradas pertinentes y los registros de acceso de C4 sin nuevas consultas de originales, nuevos IDs ni cambios de localizadores. Los cuatro manuscritos y las 22 notas de C4 se conservan. Los 12 IDs de C4 siguen vinculados con sus fuentes existentes; Ellington/Pavan, Boyd-Taylor, Jennings y antecedentes históricos mantienen los grados de acceso registrados. El resultado vigente de Button/De Pretto se lee desde C2 y su adenda posterior, sin transferirlo a estas prácticas ni reescribir sus antecedentes. La [auditoría de continuidad](../investigacion/capitulo-04/auditoria-continuidad.md) identifica el checkpoint local y la cobertura. Etapa 6, publicación de etapa 5 y recuperación/verificación remota pendientes; la publicación de etapas 3–4 y el control remoto preliminar de etapa 4 fueron comunicados por coordinación durante continuidad, sin comprobación remota propia de esta pasada.
+
+### Cotejos finales de C4 — etapa 6, 2026-10-02 UTC
+
+El [informe final](../investigacion/capitulo-04/auditoria-final.md#6-fuentes-principales-y-acceso-efectivo) documenta estas consultas nuevas de obras ya registradas; no se añadieron IDs. Los localizadores y atribuciones vigentes se conservaron después del cotejo:
+
+- **TXT-CONT-01:** lectura traducida completa de Santiago 1 y 1 Timoteo 4. Cotejo complementario focal de Lucas 10:25–37 y 9:51–56, Sal 77 completo y Sal 119:33–40,9–16,57–64. Sólo versículos BSB; sin resúmenes automáticos ni aparato crítico nuevo
+- **C2-BIB-05:** Denyer, pp. 238–240, foco 239, por extracción textual paginada del PDF editorial. Relectura focal; no original platónico ni nueva lectura íntegra afirmados
+- **C4-BIB-01:** extracto autorizado completo de Loh/Hatton a Santiago 1:19; el manual sigue parcialmente consultado
+- **TR-ES-01:** comparador de 1 Tim 4:15, foco en citas RVA/RVR1960 y sus identificaciones. **COM-NET-01:** traducciones/notas 1 de 4:15 y 4:13; texto Prov 26:1–12 y notas 6–9. No se leen directamente las fuentes citadas dentro de las notas
+- **JEN-01:** cotejo del texto público de pp. impresas 24–25, especialmente segundo punto de 24 y cuarto/quinto de 25. Sin nueva inspección visual, descarga binaria o lectura íntegra. La atribución breve se conserva, sin adoptar todo el protocolo
+- **C4-BIB-02:** cotejo complementario por extracción paginada del PDF de 2011: p. 121, nota a 9:52–56; p. 123, recuadro; p. 124, notas a 10:25–37. Las capturas fallidas no acreditan inspección visual. No libro completo ni textos rabínicos consultados directamente
+- **COM-NET-01 / COM-SAL-01:** cotejo complementario de Sal 77:10, nota textual NET 2 completa, e introducción/notas 3–12 de Kirkpatrick. Las alternativas siguen abiertas; sin nueva colación hebrea
+
+El resto del respaldo de C4 se reutilizó en sus grados anteriores. No se reabrieron Ellington, Pavan, Boyd-Taylor, Bock, JEN-02, Orígenes/Guigo, léxicos avanzados o estudios científicos. Jennings 2017 y las cadenas pendientes no se dan por cerradas. La revisión local de etapa 6 conserva las 22 notas y sus doce IDs; aún requiere publicación y recuperación final desde main.
