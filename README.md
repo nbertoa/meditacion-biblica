@@ -77,6 +77,8 @@ Checkpoints reales de etapas 1–5: `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y
 El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aquello que contemplamos?»**, centrado en transformación por contemplación, contenido de la atención y concepción del carácter de Dios. El manuscrito antes numerado como C4, **«¿Cómo meditar con las Escrituras?»**, pasa a ser **C5**. Sus investigaciones, auditorías, hashes e IDs históricos se conservan como trazabilidad; la renumeración no implica reescritura de aquel trabajo.
 
 
-## Nuevo capítulo 4: investigación en curso
+## Nuevo capítulo 4: manuscrito completo, auditorías en curso
 
 El [expediente de transformación](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva el encargo de diez etapas, las objeciones y la separación de evidencia bíblica, empírica e inferencia teológica. Las etapas [bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md) y [científica](investigacion/capitulo-04-transformacion/investigacion-cientifica.md), con su [matriz](investigacion/capitulo-04-transformacion/matriz-cientifica.md), están completadas localmente. La etapa 3 añade [carácter de Dios, representaciones y respuesta](investigacion/capitulo-04-transformacion/investigacion-caracter-dios.md). La etapa 1 ya fue publicada y recuperada en `4bc45b4`, con árbol idéntico a su checkpoint. El expediente distingue cada publicación del cierre final todavía pendiente.
+
+El [nuevo capítulo 4](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) tiene primera redacción completa y [matriz de afirmaciones](investigacion/capitulo-04-transformacion/matriz-afirmaciones.md). Las tres investigaciones se publicaron y recuperaron con árboles idénticos; sus commits están en el expediente. Quedan las auditorías 5–10 y la recuperación final del manuscrito.

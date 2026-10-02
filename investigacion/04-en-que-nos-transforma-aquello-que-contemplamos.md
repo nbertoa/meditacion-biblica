@@ -104,3 +104,27 @@ Estos registros distinguen snapshots locales de commits remotos creados por la i
 | 1, bíblica | `5086bbe6f5298f09bf152541c796c254b6460eaf` | `4bc45b41cc93f4f9027ab115aa10c4d9f41ab921` | Árbol remoto idéntico `73f77ab11abff225eff94cc6b4342f79b0bf921b`; siete blobs cotejados, actualización no forzada, fetch/main comprobados el 2026-10-02 UTC |
 
 La recuperación integral del manuscrito final desde main pertenece a la etapa 10; la constatación de etapa 1 no la sustituye.
+
+
+## Etapa 4 — Manuscrito completo
+
+Sobre `85531ddd1790dffd6486ef06cff0809b22d53673` se redactó el [capítulo completo](../capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md), con 3882 palabras antes de notas, 26 notas y una [matriz de 39 afirmaciones](capitulo-04-transformacion/matriz-afirmaciones.md). No quedan apartados por escribir ni marcadores de completado en el manuscrito. Su SHA-256 en este checkpoint es `0c282fa45d4c48c8d77a42b02122caeb1e1fbb5b326f74c000ed4621e2ce025f`.
+
+La estructura surgida de la investigación usa Jonás para abrir y cerrar la objeción de conocimiento sin respuesta; una sección científica acotada sobre especificidad; exposición contextual de 2 Cor 3–4; dirección de semejanza; idolatría y Salmo 50; representaciones de Dios; revelación en Cristo; recepción y una conclusión explícita de superioridad teológica. La última pregunta prepara C5 sin enseñar nuevamente su método. C1–C3 y C5 permanecen intactos.
+
+**Tesis redactada:** la experiencia repetida puede formar capacidades específicas, pero el cambio cristiano descrito por Pablo depende del Espíritu y tiene su referencia en el Señor conocido en Cristo. Dentro de esas premisas, la meditación bíblica es superior en referente y finalidad; esa primacía no garantiza efectos clínicos ni mayor virtud en cada practicante. Por eso debe someterse a examen tanto la comprensión de Dios como la respuesta a lo comprendido.
+
+Las objeciones ya alteraron la primera redacción: no se usa una ley universal, no se esconde reflejar, no se identifica gloria con carácter ni MRI con virtud, ReSource no aísla el objeto, se conservan contraejemplos sobre castigo y conducta, y Jonás impide una causalidad automática desde doctrina correcta. Esto no sustituye las pasadas críticas posteriores.
+
+La revisión inicial de redacción comprobó cuerpo, notas, matriz y continuidad de la pregunta; no constituye las etapas 5–10. Se hicieron relecturas bíblicas focales propias en BSB y un cotejo RVR1960 de 2 Cor 3–4, documentados en el registro. El respaldo académico/experimental se reutilizó de las tres investigaciones cerradas, sin simular nuevas lecturas de todos los originales.
+
+### Publicaciones previas verificadas durante la redacción
+
+Coordinación confirmó, mediante recuperación y comparación de árbol completo:
+
+| Etapa | Snapshot local | Commit remoto | Árbol coincidente |
+|---|---|---|---|
+| 2, científica | `2e663c20ee0f8d83ba8cfc9295f964cf1b7bf385` | `d8ed6dea94f6be8e4d103c4b4820857526fcc25a` | `d411d9944a72a24420bcee9798aa8e4c4983eed9` |
+| 3, carácter de Dios | `85531ddd1790dffd6486ef06cff0809b22d53673` | `bdc2d7be5c4078e85e8f6864a3d8c89bd5ca9320` | `4359e7e1e30d2bbeaa51ee4485bcd88187f2db2b` |
+
+Se verificaron respectivamente ocho y siete blobs por SHA y main/fetch. El checkout local conservó su cadena editorial, sin sobrescribir trabajo. Estas comprobaciones no anticipan la recuperación de la versión final del manuscrito.

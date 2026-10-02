@@ -393,3 +393,10 @@ El [expediente de carácter de Dios](../investigacion/capitulo-04-transformacion
 | C4T-GOD-15 | Timothy R. Jennings, extracto del prefacio de *The God-Shaped Brain: How Changing Your View of God Transforms Your Life*, edición ampliada, IVP, 2017. [Dossier de prensa de IVP](https://www.ivpress.com/Media/Default/Press-Kits/4495-press.pdf), dos páginas, leído completo. Fuente primaria de lo que Jennings sostiene, no estudio primario de sus afirmaciones neurocientíficas. No se utiliza la biografía promocional de 2017 como prueba de sus cargos actuales. |
 
 **JEN-02:** artículo de 2023 releído completo para esta etapa. **JEN-03:** el prefacio divulgado en el dossier editorial (C4T-GOD-15) es una consulta parcial nueva al mismo libro, no un estudio científico independiente. No cierra las pp. 222–228 y notas históricamente pendientes. JEN-01, Newberg y el resto de C2/C3 se reutilizan en sus grados previamente documentados.
+
+
+### Relectura focal de redacción del nuevo C4 — etapa 4
+
+Se cotejaron directamente 2 Cor 3–4 completos en [RVR1960](https://www.biblegateway.com/passage/?search=2+Corintios+3-4&version=RVR1960) y BSB; [Jonás 3](https://biblehub.com/bsb/jonah/3.htm) y [4](https://biblehub.com/bsb/jonah/4.htm) completos; Rom 12, Col 3, Sal 115/135, 1 Jn 3/4 y Jn 14 completos en BSB. Consultas focales: Jn 1:1–18;5:17–47;16:1–33;Heb 1:1–14;Mt 5:38–48 y Éx 34:1–26. Sólo texto bíblico, sin adoptar resúmenes automáticos de la interfaz. Se amplía el respaldo contextual C4T-BIB-23 con Jon 3:10, sin alterar su registro histórico de etapa 1. Los bloques TXT/C4T-BIB/C4T-GOD siguen identificando fuentes compartidas, no pruebas independientes acumuladas.
+
+No se releyeron por esta redacción todos los artículos científicos, comentarios, libros de Jennings/Newberg ni sus fuentes indirectas. Las 26 notas conservan los grados de acceso de los tres expedientes. No se usan citas extensas de traducciones protegidas ni se adopta una versión oficial del libro.
