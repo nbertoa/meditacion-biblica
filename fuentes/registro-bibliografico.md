@@ -36,7 +36,7 @@ Anotar cada fuente antes de usarla: autor, título, fecha, editorial o sitio, ed
 - **TXT-NT-01:** texto electrónico de [Lc 2:19](https://biblehub.com/text/luke/2-19.htm), [2:51](https://biblehub.com/text/luke/2-51.htm), [21:14](https://biblehub.com/text/luke/21-14.htm), [Flp 4:8](https://biblehub.com/text/philippians/4-8.htm), [1 Tim 4:15](https://biblehub.com/text/1_timothy/4-15.htm), [Hch 4:25](https://biblehub.com/text/acts/4-25.htm), [Mc 13:11](https://biblehub.com/text/mark/13-11.htm). La interfaz presenta Nestle 1904/WH 1881 y otras ediciones. NA28/SBLGNT no fueron consultados directamente. En Mc 13:11 se comprobó la diferencia entre TR/mayoritario y WH/Nestle, sin reconstruir toda la evidencia manuscrita.
 - **LEX-GR-01, LEX-GR-02, LEX-GR-03:** conservan su estado de consulta directa pendiente; no se presentan como fuentes leídas para el capítulo.
 - **EST-01:** corregido el nombre del autor: Cameron Boyd-Taylor, no Rolf. Revista 77(1), a6668 (2021). [Texto HTML consultado](https://hts.org.za/index.php/hts/article/view/6668/19088).
-- **JEN-01 y JEN-02:** no se utilizaron como fundamento del capítulo 1; fueron leídos y auditados para el capítulo 2. La comparación específica se documenta ahora en el expediente de C3; auditorías de tradiciones, Jennings y ciencia realizadas, etapas 6–9 pendientes.
+- **JEN-01 y JEN-02:** no se utilizaron como fundamento del capítulo 1; fueron leídos y auditados para el capítulo 2. La comparación específica se documenta ahora en el expediente de C3; auditorías de tradiciones, Jennings, ciencia y equidad comparativa realizadas, etapas 7–9 pendientes.
 
 ## Fuentes bíblicas y académicas por incorporar
 
