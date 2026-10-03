@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título y cinco ejes acordados como orientación. C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas/verificadas. El nuevo C4 tiene manuscrito completo, investigación y diez etapas editoriales cerradas localmente; quedan publicación y recuperación final. La revisión del autor y decisiones generales siguen pendientes. Los registros históricos de C4 práctico corresponden al actual C5 y conservan IDs y hashes.
+**Estado:** título y cinco ejes acordados como orientación. C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas/verificadas. El nuevo C4 tiene manuscrito completo, investigación y diez etapas editoriales cerradas, publicadas y verificadas desde main. La revisión del autor y decisiones generales siguen pendientes. Los registros históricos de C4 práctico corresponden al actual C5 y conservan IDs y hashes.
 
 ## Estructura marco
 
@@ -120,3 +120,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-03 UTC, nuevo C4:** etapa 9 completada con lectura consecutiva de C1–C5 y notas. Se conservan todos los manuscritos; C4 no duplica C2/C3 y prepara C5. Los 39 archivos históricos y aportes externos de C2 permanecen íntegros. Etapa 10 y recuperación final pendientes.
 
 - **2026-10-03 UTC, nuevo C4:** etapa 10 completada localmente. El informe final contiene los veinte puntos; se corrigió y recotejó AFI-01 sobre las dos presentaciones de Chételat, sin cambiar el manuscrito. Las fuentes mantienen sus límites y los 39 históricos se preservan. Publicación y recuperación final pendientes.
+
+- **2026-10-03 UTC, 01:19–01:20, nuevo C4:** contenido final publicado y recuperado en `f5ab978501e59acf8f4f18405236d4c63dcc7c90`, árbol `19eb2eb474043529a440ba375c271581e99ca4db`, idéntico al checkpoint de etapa 10. Relectura completa de C4 con notas desde origin/main, comprobación de HEAD/main y controles finales sin errores ni avisos. C1–C3/C5 y 39 históricos intactos. Esta constancia posterior sólo actualiza estado; C4 queda listo para la revisión del autor.

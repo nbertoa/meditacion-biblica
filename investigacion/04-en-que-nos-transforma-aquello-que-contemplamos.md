@@ -1,6 +1,6 @@
 # Nuevo C4 — ¿En qué nos transforma aquello que contemplamos?
 
-**Estado de cierre:** diez etapas editoriales completas localmente. Publicación y recuperación final todavía pendientes. Los cierres anteriores conservan su fecha y alcance.
+**Estado de cierre:** diez etapas editoriales completas, publicadas y verificadas desde main. Contenido final `f5ab978501e59acf8f4f18405236d4c63dcc7c90`; relectura integral y controles completados el 2026-10-03 a las 01:19–01:20 UTC. La constancia posterior no modifica el manuscrito. Los cierres anteriores conservan su fecha y alcance.
 
 Expediente editorial y documental del capítulo nuevo. Inicio: 2026-10-02 UTC. Base estructural recuperada: `5937539e8592af4951864c48d51cef4c56465876`. El capítulo práctico anterior es ahora C5; sus archivos, hashes e identificadores `C4-*` se conservan como historia de aquel trabajo. Los identificadores de este expediente empiezan por `C4T-`.
 
@@ -197,6 +197,17 @@ Se sincronizan dossier científico, matriz científica, matriz de afirmaciones, 
 
 La [auditoría final integral](capitulo-04-transformacion/auditoria-final.md) contiene los veinte puntos pedidos, relectura completa del capítulo y los soportes, fuentes efectivamente consultadas, objeciones, correcciones y límites. La revisión integral recotejó AFI-01 y no encontró otra corrección necesaria del manuscrito. C1–C3/C5, sus investigaciones y los 39 archivos históricos protegidos permanecen íntegros; toda la bibliografía de base se conserva como prefijo idéntico. No se añaden temporales ni se declara CI.
 
-Se actualizan las síntesis vigentes de README, índice, plan y AGENTS sin alterar registros históricos de C1–C3/C5. Quedan la publicación, la recuperación del árbol final y la relectura de C4 desde main. El punto 20 del informe distingue expresamente este cierre local de la comprobación remota todavía pendiente.
+Se actualizan las síntesis vigentes de README, índice, plan y AGENTS sin alterar registros históricos de C1–C3/C5. Al entregar este cierre local quedaron pendientes la publicación, la recuperación del árbol final y la relectura de C4 desde main. La constancia posterior de abajo y el punto 20 del informe registran su cumplimiento efectivo.
 
 **Publicación previa:** coordinación confirmó la etapa 9 publicada y recuperada en `8e26a09c49739b967d74346c23c00cec3d8e5efe`, equivalente al snapshot `d01546c55882f3ad38659e57a42d7133a827c902`. Árbol idéntico `df9111057f56053878bc4e8253b4e865342c56ca`; seis blobs comprobados. Esa constancia no anticipa la publicación del cierre integral.
+
+
+## Recuperación final y constancia posterior — 2026-10-03 UTC
+
+La etapa 10 se guardó localmente en `2f1747cf287f194981b35900cf0d3f5f755e4263` y se publicó en **`f5ab978501e59acf8f4f18405236d4c63dcc7c90`**. El árbol **`19eb2eb474043529a440ba375c271581e99ca4db`** coincide exactamente. Coordinación comprobó once blobs cambiados, actualizó main sin forzar y completó fetch; después alineó el checkout sólo tras confirmar identidad del árbol y estado limpio.
+
+A las **01:19–01:20 UTC** se recuperó C4 mediante `git show origin/main:capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md` y se releyó completo, cuerpo y 26 notas, sin encontrar otra corrección. Coordinación de publicación realizó también su propia relectura completa, sin que eso se cuente como una nueva auditoría de los originales científicos.
+
+La comprobación propia confirmó `HEAD = origin/main = f5ab978501e59acf8f4f18405236d4c63dcc7c90`; `git ls-remote` coincidió con esa referencia. Se compararon los **58 archivos** recuperados con el checkout: idénticos. Controles: **376 enlaces relativos, 40 anclas, cero errores y cero avisos**; C4 conserva 26 notas, 27 llamadas y SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`. C1–C5 suman 121 notas y 126 llamadas. Se preservan los 39 históricos y toda la bibliografía de base como prefijo idéntico. Sin temporales, referencias locales rotas, cambios fuera de alcance ni CI inventada.
+
+C4 queda terminado y listo para la revisión del autor. El presente registro de comprobación se guardará en un commit posterior al contenido verificado: no puede contener de antemano su propio hash. Se mantiene el contenido final identificado arriba; la publicación de esta constancia se verifica por separado. No se avanza al Prólogo, Epílogo ni a otra obra.

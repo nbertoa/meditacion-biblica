@@ -8,7 +8,7 @@
 
 **El manuscrito está completo y supera esta auditoría en su alcance declarado.** No se encontró otra corrección necesaria de su cuerpo o sus notas. Sobreviven la participación limitada de la atención en la formación, la transformación cristiana por el Espíritu, el criterio cristológico, la necesidad de comprender y responder, los bienes posibles fuera del cristianismo y el examen crítico de la propia práctica. La conclusión de superioridad es teológica y condicionada; no es una ley psicológica ni una clasificación experimental de personas.
 
-La revisión encontró **C4T-AFI-01**, una negación documental excesiva en los soportes científicos, y verificó su corrección. El resultado local queda cerrado; **la publicación y recuperación final de etapa 10 siguen pendientes en el punto 20**. El cierre local no las sustituye.
+La revisión encontró **C4T-AFI-01**, una negación documental excesiva en los soportes científicos, y verificó su corrección. El resultado local quedó cerrado antes de publicar. **La publicación y recuperación final se completaron posteriormente y están registradas en el punto 20**, con el commit de contenido diferenciado del registro de verificación.
 
 Se leyó completo el mandato del autor, AGENTS, instrucciones, README, plan, índice de investigación y registro de experiencias. Se leyeron C1–C5 completos, incluidas sus notas; los tres dossiers nuevos, las dos matrices, el expediente central y las auditorías 5–9. También se leyeron el expediente de C1; el expediente y la adenda de C2, sus materiales de neurociencia, Jennings/Newberg y meditación espiritual, y sus auditorías documental/final; las auditorías científica y de equidad de C3; y la bibliografía pertinente. No se reabrió innecesariamente la investigación histórica de C5.
 
@@ -237,12 +237,28 @@ Hashes SHA-256 comprobados:
 - C4: `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`
 - C5: `4a48edec06291b9e03583562dc4f0d930660dde7d7a955f61f6b46503210e928`
 
-El diff de cierre contiene las precisiones documentales descritas y la actualización de síntesis vigentes, sin borrar la historia de C5. No aparecen PDFs, capturas, cachés, descargas, scripts o temporales nuevos dentro del repositorio. No se configura ni se declara CI. El árbol de trabajo de esta etapa contiene cambios previstos aún por guardar/publicar; eso no es un árbol remoto limpio ya verificado.
+El diff de cierre contiene las precisiones documentales descritas y la actualización de síntesis vigentes, sin borrar la historia de C5. No aparecen PDFs, capturas, cachés, descargas, scripts o temporales nuevos dentro del repositorio. No se configura ni se declara CI. Al entregar la auditoría local, el árbol de trabajo contenía cambios previstos aún por guardar/publicar; ese estado no era un árbol remoto ya verificado. La comprobación posterior está en el punto 20.
 
 ## 20. Resultado de recuperación final desde main
 
-**Pendiente al cerrar esta auditoría local.** Este rol no publicó ni recuperó desde main la etapa 10. La constancia comunicada por coordinación de etapa 9 —commit remoto `8e26a09c49739b967d74346c23c00cec3d8e5efe`, árbol `df9111057f56053878bc4e8253b4e865342c56ca`— corresponde al checkpoint previo y **no certifica este informe ni las correcciones de cierre**.
+**Completado el 2026-10-03 a las 01:19–01:20 UTC.** Esta constancia fue añadida por coordinación después de publicar y recuperar la etapa 10. El rol auditor había dejado este punto pendiente al entregar su revisión local; esa limitación histórica no se presenta como una verificación que hubiera realizado antes.
 
-Después de publicar, corresponde registrar aquí el commit de contenido final y su árbol recuperado, comparar rutas y blobs, repetir controles de notas/enlaces/preservación/temporales y **leer C4 completo desde la versión efectivamente recuperada**. La constancia posterior debe distinguir el commit de contenido comprobado del commit que guarde esa constancia. Sólo entonces podrá declararse terminado el encargo de publicación y verificación remota.
+- Snapshot local de cierre: `2f1747cf287f194981b35900cf0d3f5f755e4263`
+- Commit de contenido final publicado y recuperado: **[`f5ab978501e59acf8f4f18405236d4c63dcc7c90`](https://github.com/nbertoa/meditacion-biblica/commit/f5ab978501e59acf8f4f18405236d4c63dcc7c90)**
+- Árbol recuperado: **`19eb2eb474043529a440ba375c271581e99ca4db`**, idéntico al snapshot local
+- Publicación: once blobs cambiados cotejados por SHA, actualización no forzada de main y fetch completado por coordinación de publicación. El checkout se alineó únicamente después de confirmar identidad del árbol y estado limpio
 
-La entrega local está lista para esa integración, con AFI-01 corregido y sin otra objeción de esta pasada que requiera cambiar el manuscrito. No se anticipan la recuperación, la aprobación editorial del autor ni una revisión humana que no ocurrió.
+**Recuperación y lectura propias de coordinación editorial:** se extrajo C4 desde `origin/main` y se leyó completo en tres ventanas consecutivas, desde el título hasta la última nota. No se encontró otra corrección. La coordinación de publicación hizo además su propia lectura completa del mismo texto y sus notas. Ninguna de estas dos relecturas se cuenta como recotejo nuevo de todos los originales científicos.
+
+**Comprobaciones posteriores al fetch y previas a escribir esta constancia:**
+
+1. `HEAD = origin/main = f5ab978501e59acf8f4f18405236d4c63dcc7c90`; consulta directa `git ls-remote origin refs/heads/main` coincidente
+2. Diff completo entre el snapshot local de etapa 10 y origin/main: sin diferencias. Los **58 archivos recuperados** coinciden byte por byte con el checkout
+3. SHA-256 de C4 recuperado: `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`; 3980 palabras de cuerpo, 26 notas y 27 llamadas
+4. **376 enlaces relativos y 40 anclas, cero errores y cero avisos**; C1–C5: 121 notas y 126 llamadas, correspondencias íntegras
+5. **39 archivos históricos protegidos idénticos** a la base estructural; C1–C3/C5 preservados. Todo el registro bibliográfico anterior permanece como prefijo byte por byte idéntico
+6. Dieciocho rutas de alcance total: trece creadas y cinco modificadas. Sin temporales, fuentes descargadas, referencias locales rotas, marcadores de conflicto o cambios fuera de alcance. `git diff --check` satisfactorio y árbol de trabajo limpio antes de esta constancia
+
+**Resultado:** el nuevo C4 y sus soportes están terminados, publicados y verificados desde main, listos para la revisión del autor. Se conservan los límites de fuentes y de inferencia descritos; no se declara aprobación del autor, revisión humana externa, prueba con lectores ni CI.
+
+El commit citado es el de **contenido efectivamente recuperado y leído**. El commit posterior que guarda este punto y actualiza las síntesis de estado no cambia el manuscrito ni los resultados de investigación. Su publicación se comprueba por separado; este documento no anticipa ni intenta incluir su propio hash. Prólogo, Epílogo y el eventual libro nuevo permanecen fuera del encargo.
