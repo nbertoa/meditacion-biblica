@@ -66,4 +66,17 @@ Palabras contadas por espacios antes de «Notas y fuentes», incluyendo título 
 
 Checkpoints locales anteriores al cierre: `fc0922a2525a11e50fad5fda7e09c39e6a6a23e6` para criterios y `765a2977b27c21644ab6b4c9ffead5d3e84d9223` para manuscrito/informes. El commit de esta auditoría añadirá la constancia de cierre sin modificar los manuscritos del segundo checkpoint. Su identificador debe leerse del historial real, no anticiparse dentro de su propio contenido.
 
-**Estado remoto:** no verificado como publicado. El control de permisos solicitó confirmación adicional para main; esa solicitud sigue separada del cierre editorial local. Esta auditoría no declara actualización de la rama ni crea un PR.
+**Estado remoto al cerrar la pasada local:** todavía no verificado como publicado. El control de permisos había solicitado confirmación adicional para main. Ese estado histórico quedó resuelto en la comprobación posterior que sigue; no se creó PR.
+
+
+## Comprobación posterior desde main
+
+El 2026-10-03 a las 18:51:28 UTC el autor confirmó expresamente integrar esta revisión y sus criterios en main. La coordinación publicó los tres checkpoints; una recuperación adicional mediante `git fetch origin`, completada a las 18:55 UTC, confirmó `origin/main = 2fe2b5c95b1afd414779a969449e5a776ab30531`.
+
+Se recotejaron los árboles de los tres pares local/remoto registrados en el índice. El árbol final `33aca81850f8d98df1b0ff1d7d4ea656a141fdaa` coincide con `30763cd4c3200176af90f71dfa67c3c95c155f92`. Se comparó cada uno de los 66 archivos recuperados con los bytes del cierre local: cero diferencias. Esta comprobación no se presenta como una nueva investigación de fuentes ni una reescritura del manuscrito.
+
+Sobre esos mismos archivos se repitieron todos los controles: cero errores, 427 enlaces relativos, 44 anclas, 48 históricos íntegros, las mismas 96 notas y 100 llamadas, los cinco hashes finales consignados arriba y `git diff --check` limpio. Con árbol idéntico y checkout limpio, HEAD se alineó con origin/main. La recuperación y validación finalizaron a las 18:56 UTC.
+
+El contenido de la revisión está publicado y verificado. Esta constancia posterior sólo actualiza los estados y documenta la confirmación y comprobación efectivas; no modifica capítulos, fuentes, investigaciones ni auditorías históricas. La aprobación editorial de lectura del autor sigue abierta.
+
+El control de esta constancia, realizado antes de guardarla, también devuelve cero errores: 429 enlaces relativos y 44 anclas. Los dos enlaces internos añadidos explican el cambio respecto de los 427 comprobados en el contenido recuperado. Sólo cambian README, plan y tres documentos de cierre de esta revisión; los manuscritos, las fuentes y los expedientes anteriores permanecen idénticos a `2fe2b5c…`.

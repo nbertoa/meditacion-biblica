@@ -16,4 +16,4 @@ Las investigaciones anteriores se conservan completas. Las decisiones sobre qué
 
 Se releyó el conjunto y se revisaron notas, referencias cruzadas, enlaces locales y continuidad. Las alternativas exegéticas que seguían abiertas no se convirtieron en certezas. No surgió una nueva decisión editorial necesaria para completar este encargo; la lectura y aprobación final del autor siguen pendientes.
 
-La revisión está terminada localmente. La publicación en main y su comprobación remota quedan sujetas a la confirmación solicitada por el flujo de permisos. El [registro de entrega](README.md) identifica los checkpoints y distingue trabajo local de publicación verificada.
+La revisión está publicada y verificada en main: [commit de cierre](https://github.com/nbertoa/meditacion-biblica/commit/2fe2b5c95b1afd414779a969449e5a776ab30531). Después de la confirmación del autor se recuperaron los 66 archivos y se comprobó su coincidencia completa con la versión revisada, sin errores. El [registro de entrega](README.md) identifica los tres commits publicados y sus comprobaciones. La lectura y aprobación editorial del autor siguen pendientes.
