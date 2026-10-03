@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título y cinco ejes acordados como orientación. C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas/verificadas. El nuevo C4 tiene manuscrito completo, investigación y diez etapas editoriales cerradas, publicadas y verificadas desde main. La revisión del autor y decisiones generales siguen pendientes. Los registros históricos de C4 práctico corresponden al actual C5 y conservan IDs y hashes.
+**Estado:** cinco capítulos escritos; revisión transversal del 2026-10-03 terminada localmente, con publicación y recuperación remota pendientes de la confirmación solicitada. La revisión del autor y las decisiones generales siguen abiertas. Los cierres anteriores en main y la antigua numeración C4 del práctico conservan su alcance histórico; el capítulo práctico vigente es C5.
 
 ## Estructura marco
 
@@ -130,3 +130,5 @@ El encargo actual es revisar los cinco capítulos existentes, no escribir otros.
 - **2026-10-03 UTC, 01:19–01:20, nuevo C4:** contenido final publicado y recuperado en `f5ab978501e59acf8f4f18405236d4c63dcc7c90`, árbol `19eb2eb474043529a440ba375c271581e99ca4db`, idéntico al checkpoint de etapa 10. Relectura completa de C4 con notas desde origin/main, comprobación de HEAD/main y controles finales sin errores ni avisos. C1–C3/C5 y 39 históricos intactos. Esta constancia posterior sólo actualiza estado; C4 queda listo para la revisión del autor.
 
 - **2026-10-03 UTC, 16:25:** nuevo encargo del autor de revisión transversal de C1–C5. Argumentación positiva, uso selectivo de autores, ciencia sólo suficientemente sólida para el alcance exacto, rigor íntegro en expedientes y comparación respetuosa desde una perspectiva cristiana monoteísta explícita. Sustituye criterios incompatibles anteriores y rige capítulos futuros. No autoriza capítulos nuevos ni otras decisiones editoriales. Base remota comprobada: `ed201198a9aed210429b4e66e417f5467db7d1f0`.
+
+- **2026-10-03 UTC, revisión transversal:** edición local de C1–C5, relectura íntegra, depuración de notas y continuidad completadas. C1 permanece idéntico; C2–C5 incorporan los ajustes. Se conservan 48 archivos históricos byte por byte y todas las fichas bibliográficas anteriores. Snapshots locales: `fc0922a2525a11e50fad5fda7e09c39e6a6a23e6` (criterios) y `765a2977b27c21644ab6b4c9ffead5d3e84d9223` (manuscrito e informes por capítulo). La actualización de main está pendiente de la confirmación adicional solicitada por el flujo de permisos; no se confunde objeto de commit remoto con rama actualizada. Véase la auditoría integral de esta revisión.

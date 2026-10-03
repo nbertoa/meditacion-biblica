@@ -24,7 +24,7 @@ Los cinco capítulos escritos tienen archivos canónicos separados. La revisión
 4. [¿En qué nos transforma aquello que contemplamos?](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md)
 5. [¿Cómo meditar con las Escrituras?](capitulos/05-como-meditar-con-las-escrituras.md)
 
-**Estado de esta revisión:** edición por capítulos en integración local; relectura del conjunto y controles finales pendientes. No se declara todavía una nueva publicación en main. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones.
+**Estado de esta revisión:** edición, relectura del conjunto y controles finales completados localmente. La publicación en main requiere la confirmación adicional solicitada por el flujo de permisos; no se declara todavía una nueva publicación. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones. El [informe breve](investigacion/revision-editorial-2026-10-03/informe-autor.md) resume el resultado para el autor.
 
 ## Carpetas
 

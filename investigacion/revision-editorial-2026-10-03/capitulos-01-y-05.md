@@ -77,3 +77,8 @@ Se conserva el repertorio en vez de reescribirlo sin necesidad. La voz rioplaten
 - SHA-256 de C5 después: `78bf65a9e5e5f4a06df9a3196702e7d8ba0bce4f1fb303f5f37fde14376a6646`
 
 Esta pasada sólo escribe C5 y este informe nuevo. Conserva los expedientes, auditorías, matrices, catálogo y experiencias existentes. No declara aprobación editorial del autor, prueba con lectores ni publicación de estos cambios. No surgió una decisión nueva que deba consultar el autor para completar C1 y C5.
+
+
+### Relectura integral final posterior al último ajuste
+
+El 2026-10-03 a las 16:45 UTC se releyó C5 íntegro con sus 22 notas, después del ajuste final de la nota 15. Se comprobó antes y después el SHA-256 `78bf65a9e5e5f4a06df9a3196702e7d8ba0bce4f1fb303f5f37fde14376a6646`. No se encontraron problemas nuevos ni se modificaron archivos en esa lectura. Esta constancia complementa la lectura de las 16:33 UTC y el cotejo focal posterior.
