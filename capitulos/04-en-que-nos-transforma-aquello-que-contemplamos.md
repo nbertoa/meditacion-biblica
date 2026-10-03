@@ -8,21 +8,21 @@ La escena nos obliga a pensar con cuidado. Si conocer algo acerca de Dios bastar
 
 Esto no vuelve irrelevante lo que conocemos. Nos ayuda a formular mejor la pregunta: ¿qué lugar tienen aquello a lo que prestamos atención, la manera de comprenderlo y nuestra respuesta en la persona que llegamos a ser?
 
-El capítulo anterior mostró que las prácticas meditativas no tienen siempre el mismo objeto, la misma actividad ni la misma finalidad. Ahora necesitamos dar un paso más. Si esas diferencias son reales, importa preguntar hacia dónde orientan nuestra formación. Y, cuando volvemos a las Escrituras, hace falta preguntar qué Dios creemos encontrar en ellas.
+El capítulo anterior mostró que las prácticas meditativas no siempre dirigen la atención hacia lo mismo ni proponen las mismas actividades o metas. Ahora necesitamos dar un paso más. Si esas diferencias son reales, importa preguntar hacia dónde orientan nuestra formación. Y, cuando volvemos a las Escrituras, hace falta preguntar qué Dios creemos encontrar en ellas.
 
 ## Aprender una cosa no es aprenderlo todo
 
-La experiencia puede cambiarnos. Aprendemos una habilidad, advertimos algo que antes pasaba inadvertido o llegamos a realizar con facilidad una actividad que nos costaba. La investigación estudia también los cambios cerebrales relacionados con ese aprendizaje. A esa capacidad de cambiar con la experiencia se la llama *plasticidad*.[^2]
+La experiencia puede cambiarnos. Aprendemos una habilidad, advertimos algo que antes pasaba inadvertido o llegamos a realizar con facilidad una actividad que nos costaba. La investigación estudia también los cambios cerebrales relacionados con ese aprendizaje. A esa capacidad del cerebro de cambiar con la experiencia se la llama *plasticidad*.[^2]
 
 Pero el término no significa que cada pensamiento modifique todo nuestro carácter ni que cualquier cambio cerebral sea una mejora. Para saber qué ocurrió necesitamos precisar qué se practicó y qué se midió. Aprender a sostener la atención, reconocer una emoción y comprender la perspectiva de otra persona son capacidades relacionadas, pero diferentes.
 
-Un proyecto de investigación llamado ReSource permite ver por qué importa esa diferencia. Adultos sanos siguieron módulos de unos tres meses. Unos ejercicios se concentraban en la atención a la respiración y al cuerpo. Otros buscaban cultivar respuestas de compasión. Otros trabajaban la comprensión de pensamientos y perspectivas. Algunos incluían prácticas con otra persona, alternando hablar y escuchar.[^3]
+Un proyecto de investigación llamado ReSource permite ver por qué importa esa diferencia. Adultos sanos siguieron bloques de entrenamiento de unos tres meses. Unos ejercicios se concentraban en la atención a la respiración y al cuerpo. Otros buscaban cultivar respuestas de compasión. Otros trabajaban la comprensión de pensamientos y perspectivas. Algunos incluían prácticas con otra persona, alternando hablar y escuchar.[^3]
 
-Los resultados no fueron idénticos. El entrenamiento de atención mejoró sobre todo la precisión en una prueba. El de compasión mostró cambios en el cuidado y la calidez que las personas declaraban sentir ante relatos de otros. Los resultados sobre comprender perspectivas fueron menos consistentes. También hubo mejoras compartidas entre módulos. La conclusión no es que cada práctica active una capacidad exclusiva, sino que el entrenamiento concreto puede orientar de manera diferente algunas respuestas.
+Los resultados no fueron idénticos. El entrenamiento de atención mejoró sobre todo la precisión en una prueba. El de compasión mostró cambios en el cuidado y la calidez que las personas declaraban sentir ante relatos de otros. Los resultados sobre comprender perspectivas fueron menos consistentes. También hubo mejoras compartidas entre bloques. La conclusión no es que cada práctica active una capacidad exclusiva, sino que el entrenamiento concreto puede orientar de manera diferente algunas respuestas.
 
-En ese mismo proyecto se encontraron cambios regionales distintos en el grosor de la corteza, la capa externa del cerebro, estimado mediante resonancia. Eso aporta evidencia sobre plasticidad, pero no demuestra que quienes participaron se hayan vuelto moralmente mejores. El estudio tampoco permite asegurar que esos cambios sean permanentes.[^4]
+En ese mismo proyecto, las imágenes de resonancia permitieron estimar el grosor de la corteza, la capa externa del cerebro. Se encontraron cambios distintos en algunas regiones. Eso aporta evidencia sobre plasticidad, pero no demuestra que quienes participaron se hayan vuelto moralmente mejores. El estudio tampoco permite asegurar que esos cambios sean permanentes.[^4]
 
-Hay otro límite importante: los módulos cambiaban varias cosas al mismo tiempo. Variaban los ejercicios, las instrucciones y la relación con otra persona. Por eso no podemos atribuir toda diferencia únicamente al objeto que ocupaba la mente. Importa qué se atiende, pero también qué se hace con ello y en qué condiciones.
+Hay otro límite importante: los bloques cambiaban varias cosas al mismo tiempo. Variaban los ejercicios, las instrucciones y la relación con otra persona. Por eso no podemos atribuir toda diferencia únicamente al objeto que ocupaba la mente. Importa qué se atiende, pero también qué se hace con ello y en qué condiciones.
 
 Las revisiones científicas y otros ensayos refuerzan esa cautela. Se encuentran mejoras pequeñas en algunas capacidades, junto con resultados que no muestran una ventaja clara. Incluso programas prolongados pueden no producir el cambio esperado en ciertas pruebas. Además, mejorar en una tarea no garantiza llevar esa mejora a toda la vida. Su permanencia necesita comprobarse después.[^5]
 
@@ -32,13 +32,13 @@ Esta investigación nos da una razón para no tratar todas las prácticas como i
 
 ## Un rostro descubierto
 
-Segunda de Corintios 3:18 suele resumirse con la frase «por la contemplación somos transformados». Es una manera conocida de expresar una lectura del pasaje. Pero, si queremos apoyarnos en él, conviene recuperar lo que ese resumen deja afuera.
+Un pasaje de la segunda carta de Pablo a los corintios, 3:18, suele resumirse con la frase «por la contemplación somos transformados». Es una manera conocida de expresar una lectura del pasaje. Pero, si queremos apoyarnos en él, conviene recuperar lo que ese resumen deja afuera.
 
 Pablo está hablando de su servicio a la comunidad y del nuevo pacto: la relación con Dios que anuncia por medio de Cristo. Al comienzo del capítulo presenta a los corintios como una carta de Cristo, escrita por el Espíritu de Dios en corazones humanos. Después afirma que su capacidad para servir procede de Dios. La transformación no aparece como un logro que él pueda atribuirse.[^6]
 
 Para desarrollar el argumento, vuelve a Moisés. Al final de Éxodo 34, Moisés desciende de la montaña después de hablar con Dios. Su rostro resplandece. Comunica al pueblo lo recibido y después se cubre con un velo. Cuando vuelve a hablar con el Señor, se lo quita. El relato une encuentro, palabra y gloria; no describe un ejercicio para producir luz mediante concentración.[^7]
 
-Pablo retoma esa escena y la interpreta desde Cristo. Contrasta la gloria del ministerio anterior con la del ministerio del Espíritu. Reconoce que había gloria en el primero, aunque afirma una gloria mayor y permanente en el segundo. No está diciendo que el Dios de Israel careciera de misericordia. El mismo Éxodo 34 presenta compasión, fidelidad y perdón junto con la seriedad de la culpa.
+Pablo retoma esa escena y la interpreta desde Cristo. Contrasta la gloria del servicio anterior, el de Moisés, con la del servicio del Espíritu. Reconoce que había gloria en el primero, aunque afirma una gloria mayor y permanente en el segundo. No está diciendo que el Dios de Israel careciera de misericordia. El mismo Éxodo 34 presenta compasión, fidelidad y perdón junto con la seriedad de la culpa.
 
 El velo también cambia de función en la carta. Pasa del rostro de Moisés al corazón de quienes leen sin reconocer lo que Pablo anuncia en Cristo. Volverse al Señor se relaciona con quitar ese velo. El contraste culmina en personas que tienen el rostro descubierto y son transformadas hacia la misma imagen.
 
@@ -46,7 +46,7 @@ No necesitamos convertir ese lenguaje en una descalificación de todo el judaís
 
 ¿Qué hacen las personas de 3:18 con la gloria del Señor? Aquí aparece una diferencia real entre traducciones. Algunas hablan de mirar o contemplar como en un espejo; otras, de reflejar. La palabra griega admite una discusión que los especialistas todavía sostienen. La primera lectura destaca recibir o contemplar la gloria. La segunda destaca manifestarla, como un rostro que la refleja.[^8]
 
-La lectura de contemplar tiene buen respaldo. Podemos emplearla, siempre que no escondamos la alternativa. Pero el argumento central no necesita derrumbarse si alguien prefiere *reflejar*. En ambas lecturas permanecen el Señor, la transformación hacia su imagen y la acción del Espíritu. La transformación tiene un referente definido; no es algo que la persona produzca por sí sola.
+La lectura de contemplar tiene buen respaldo. Podemos emplearla, siempre que no escondamos la alternativa. Pero el argumento central no necesita derrumbarse si alguien prefiere *reflejar*. En ambas lecturas permanecen el Señor, la transformación hacia su imagen y la acción del Espíritu. La transformación tiene una dirección definida: la imagen del Señor. No es algo que la persona produzca por sí sola.
 
 El verbo principal expresa que somos transformados. La frase final sitúa el origen de esa transformación en Dios y vuelve a destacar la acción del Espíritu. Quitar esa iniciativa divina para dejar solamente una técnica mental cambiaría el sentido del pasaje.
 
@@ -54,7 +54,7 @@ Tampoco dice que cualquier persona se vuelva inevitablemente semejante a cualqui
 
 ## Hacia la imagen de quién
 
-El capítulo siguiente aclara hacia dónde mirar. Pablo llama a Cristo imagen de Dios y sitúa el conocimiento de la gloria divina en el rostro de Jesucristo (2 Co 4:4–6). La gloria no queda como una luz anónima o una experiencia interior cuyo contenido da lo mismo.[^10]
+En 2 Corintios 4, Pablo aclara hacia dónde mirar. Llama a Cristo imagen de Dios y sitúa el conocimiento de la gloria divina en el rostro de Jesucristo (2 Co 4:4–6). La gloria no queda como una luz anónima o una experiencia interior cuyo contenido da lo mismo.[^10]
 
 Hablar del rostro de Cristo tampoco exige imaginarnos sus rasgos físicos. El contexto habla del evangelio que se anuncia y de Jesucristo como Señor. Se trata de reconocer a Dios en él, a través de lo que se da a conocer de su persona y su obra.
 
@@ -66,13 +66,13 @@ Verdad, servicio y entrega permiten ver una dirección concreta. No son una trad
 
 Tampoco convierte a la persona en alguien invulnerable. Los mensajeros siguen siendo frágiles, padecen aflicción y esperan la resurrección. Pablo puede hablar de renovación interior mientras reconoce desgaste exterior. La expresión *de gloria en gloria* presenta una transformación cuyo alcance los intérpretes explican de distintas maneras. No dibuja una curva de mejoría visible todos los días.[^11]
 
-Otros textos ayudan a precisar esa dirección sin decir exactamente lo mismo. Romanos 12 comienza con la misericordia de Dios, invita a ofrecer la vida corporal y habla de renovación de la mente para discernir su voluntad. Después concreta esa vida en servicio, amor sincero, hospitalidad y una respuesta al enemigo que renuncia a vengarse. La mente renovada no queda encerrada en sí misma.[^12]
+Otros textos ayudan a precisar esa dirección sin decir exactamente lo mismo. Romanos 12 comienza con la misericordia de Dios, invita a poner el cuerpo al servicio de Dios y habla de renovar la mente para reconocer su voluntad. Después concreta esa vida en servicio, amor sincero, hospitalidad y una respuesta al enemigo que renuncia a vengarse. La mente renovada no queda encerrada en sí misma.[^12]
 
 Colosenses 3 relaciona la renovación según la imagen del Creador con abandonar mentira, malicia y codicia, y revestirse de compasión, paciencia y amor. El conocimiento importa, pero aparece junto a exigencias de vida compartida. No funciona como una cantidad de información que, al acumularse, se convierte automáticamente en bondad.
 
 Primera de Juan 3:2 añade un horizonte futuro: semejanza y visión se encuentran en la esperanza de lo que todavía no se ha manifestado. Esa esperanza tiene consecuencias presentes, pero el versículo no describe lo que ocurre al terminar una sesión de meditación.[^13]
 
-Los pasajes convergen en una orientación, sin formar un único procedimiento: conocer a Dios, recibir su acción y responder de una manera coherente con él. Esa orientación permite relacionarlos con la definición que seguimos desde el primer capítulo: volver con atención a Dios, a sus palabras y a sus obras, considerar qué muestran y dejar que orienten nuestra respuesta.
+Los pasajes convergen en una orientación, sin formar un único procedimiento: conocer a Dios, recibir su acción y responder de una manera coherente con él. Esa orientación permite relacionarlos con la definición que seguimos desde el primer capítulo: volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.
 
 ## Lo que ponemos en el lugar de Dios
 
@@ -92,11 +92,11 @@ Dos personas pueden llamar a Dios *Padre* y no esperar lo mismo de él. Una pued
 
 Cuando hablamos de una *imagen de Dios* nos referimos aquí a esa comprensión, no necesariamente a una figura visual. Incluye lo que afirmamos de él y también lo que esperamos cuando nos acercamos. Podemos decir que Dios es bueno y, en una dificultad, esperar que actúe de una manera que no sabemos conciliar con esa confesión.
 
-La psicología estudia estas diferencias. Distingue las creencias declaradas de la experiencia afectiva y de la relación percibida con Dios. Algunas investigaciones hablan de *apego a Dios*: la seguridad, la ansiedad ante el rechazo o la distancia que una persona experimenta en esa relación.[^16]
+La psicología estudia estas diferencias. Distingue lo que las personas dicen creer acerca de Dios, lo que sienten hacia él y cómo viven esa relación. Algunas investigaciones hablan de *apego a Dios*: la seguridad, la ansiedad ante el rechazo o la distancia que una persona experimenta en esa relación.[^16]
 
-Las revisiones encuentran asociaciones entre estas representaciones y el bienestar o el malestar. Pero una asociación no decide qué produjo qué. El sufrimiento puede modificar la manera de experimentar a Dios; la historia personal y la comunidad pueden influir en ambas cosas. Incluso los seguimientos de varios años dejan abierta la causalidad. No sería responsable prometer que cambiar una idea acerca de Dios cura la angustia.[^17]
+Las revisiones encuentran asociaciones entre estas representaciones y el bienestar o el malestar. Pero una asociación no decide qué produjo qué. El sufrimiento puede modificar la manera de experimentar a Dios; la historia personal y la comunidad pueden influir en ambas cosas. Seguir a las mismas personas durante varios años, por sí solo, no basta para saber qué causa qué. No sería responsable prometer que cambiar una idea acerca de Dios cura la angustia.[^17]
 
-Los resultados tampoco se dejan ordenar en dos columnas fáciles: amoroso y saludable, justiciero y dañino. Algunos estudios relacionan creencias de castigo divino con menos trampa en una tarea o con un reparto más imparcial con personas de la misma religión que viven lejos. Esos resultados no prueban amor universal, confianza ni una transformación global del carácter. Sí impiden fabricar una oposición científica más simple que la evidencia.[^18]
+Los resultados tampoco se dejan ordenar en dos columnas fáciles: amoroso y saludable, justiciero y dañino. Algunos estudios relacionan creencias de castigo divino con menos trampa en una tarea o con un reparto más imparcial con personas de la misma religión que viven lejos. Esos resultados no prueban amor universal, confianza ni una transformación global del carácter. Sí impiden afirmar que la ciencia respalda esa división tan simple.[^18]
 
 La pregunta bíblica tiene otro centro: si nuestra comprensión de Dios es fiel a lo que él da a conocer y qué respuesta pide. Juan 16:2–3 presenta un caso extremo: alguien puede creer que sirve a Dios mientras mata, y Jesús vincula esa conducta con no conocer al Padre ni a él. La convicción religiosa no se valida por su intensidad.[^19]
 
@@ -110,7 +110,7 @@ En Juan 14, Felipe le pide a Jesús que les muestre al Padre. Jesús responde re
 
 El comienzo del mismo evangelio presenta a Jesús como quien da a conocer a Dios. Colosenses lo llama imagen del Dios invisible. Hebreos afirma que el Dios que habló por los profetas ha hablado en el Hijo y lo describe como resplandor de su gloria y expresión fiel de su ser. Estos textos no resuelven todas las preguntas sobre Dios en una sola frase. Sí fundamentan una convicción cristiana decisiva: Jesús tiene un lugar central para reconocer quién es Dios.[^21]
 
-De ahí nace un criterio para nuestra meditación: **la imagen de Dios que sostenemos debe dejarse corregir por Jesucristo**. Es una conclusión teológica construida a partir de esos textos. No es un resultado de laboratorio ni significa que cada impresión que tengamos acerca de Jesús sea correcta.
+De ahí nace un criterio para nuestra meditación: **la imagen de Dios que sostenemos debe dejarse corregir por Jesucristo**. Es una conclusión teológica construida a partir de esos textos. Eso no significa que cada impresión que tengamos acerca de Jesús sea correcta.
 
 Necesitamos atender al Jesús que muestran los pasajes: sus palabras, sus acciones, su entrega y sus exigencias. Un Jesús al que le quitamos todo lo que nos incomoda también puede convertirse en una figura hecha a nuestra medida.
 
@@ -142,21 +142,19 @@ Volver sobre la misericordia puede abrir una pregunta acerca de cómo tratamos a
 
 ## En qué sentido la meditación bíblica es superior
 
-Ya podemos formular una conclusión sin pedirle a la ciencia que responda por la fe.
-
 Desde la comprensión bíblica desarrollada aquí, la vida encuentra su orientación en conocer a Dios y responder a él. El Nuevo Testamento presenta a Jesucristo como revelación decisiva de Dios y sitúa la transformación bajo la acción del Espíritu, hacia su imagen. Si esas afirmaciones son verdaderas, el objeto de la meditación bíblica posee un valor que no puede sustituirse simplemente por otra actividad capaz de producir concentración o calma.
 
-El criterio de esta comparación es la fidelidad al Dios que se revela en Cristo y la orientación hacia su semejanza. Con ese criterio, una práctica dirigida a esa revelación tiene primacía frente a otra que propone un referente o una finalidad diferentes.
+El criterio de esta comparación es la fidelidad al Dios que se revela en Cristo y la orientación hacia su semejanza. Con ese criterio, una práctica dirigida a esa revelación tiene mayor valor que otra que orienta la atención hacia alguien o algo diferente, o busca otro fin.
 
 **La meditación bíblica es teológicamente superior por aquel a quien dirige la atención y por la semejanza hacia la que orienta la vida.** Su valor principal está en atender al Dios que se da a conocer y responder a su revelación, culminante en Jesucristo. No posee en exclusiva el silencio, la memoria, la repetición ni la capacidad humana de concentrarse.[^25]
 
-Esta conclusión depende de premisas reconocibles: quién es Dios, cómo se revela y qué finalidad tiene nuestra vida ante él. Esas premisas se han hecho visibles en los textos; no fueron demostradas por los estudios cerebrales. Un lector que no las comparta puede comprender el argumento sin estar obligado a aceptar su conclusión por una evidencia que no la establece.
+Esta conclusión parte de afirmaciones de fe: quién es Dios, cómo se revela y para qué nos llama a vivir. Se apoyan en los textos bíblicos, no en los estudios cerebrales. Quien no las comparta puede entender el argumento sin aceptar la conclusión.
 
-Tampoco se sigue que toda persona que medita con la Biblia sea más compasiva que cualquier persona de otra tradición. Existen conductas admirables fuera del cristianismo y evidencia de respuestas prosociales en entrenamientos que no consisten en leer las Escrituras. Reconocerlas es coherente con los límites que venimos estableciendo.[^26]
+Tampoco se sigue que toda persona que medita con la Biblia sea más compasiva que cualquier persona de otra tradición. Existen conductas admirables fuera del cristianismo y evidencia de respuestas de ayuda o cuidado hacia otros en entrenamientos que no consisten en leer las Escrituras.[^26]
 
 La comparación justa no enfrenta un cristiano ideal con el peor resultado de otro camino. Ni niega que otras tradiciones busquen algo más que relajación. El capítulo anterior mostró finalidades religiosas y éticas profundas. La diferencia que ahora afirmamos es que, para la fe cristiana, esas finalidades no vuelven intercambiable al Dios revelado en Cristo. Compartir una capacidad valiosa no equivale a compartir todo el sentido de una relación.
 
-También debemos volver la exigencia sobre nuestra propia práctica. Una meditación llamada bíblica puede usarse para justificar dureza, confirmar prejuicios o evitar una respuesta. Su nombre no asegura fidelidad a su objeto. La superioridad teológica de la orientación no convierte cada ejecución en superior ni vuelve innecesario revisar sus frutos. Si una manera de leer legitima crueldad, engaño o desprecio, debemos revisar también la interpretación, la enseñanza y el modo de practicar, no culpar automáticamente a quien la sigue.
+También debemos volver la exigencia sobre nuestra propia práctica. Una meditación llamada bíblica puede usarse para justificar dureza, confirmar prejuicios o evitar una respuesta. Su nombre no asegura fidelidad a su objeto. La superioridad teológica de la orientación no convierte cada forma de practicarla en superior ni vuelve innecesario revisar sus frutos. Si una manera de leer legitima crueldad, engaño o desprecio, debemos revisar también la interpretación, la enseñanza y el modo de practicar, no culpar automáticamente a quien la sigue.
 
 Y la meditación no reemplaza toda la vida cristiana. En los textos, el Espíritu, la comunidad, el servicio y la respuesta tienen lugar. La atención a Dios participa de ese conjunto; no es una técnica privada que pueda garantizarlo entero.
 

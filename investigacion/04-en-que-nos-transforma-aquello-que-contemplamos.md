@@ -163,3 +163,14 @@ La prueba de retirar la ciencia conserva la argumentación teológica; retirar l
 SHA-256 de C4 corregido: `c8bcf1bb66ab5ca05fb737de7fa6a3ae191d60d90562519c43ee83513faafffd`. Sin nueva comparación general, catálogo clínico, método práctico o cambio de C1–C3/C5. Quedan lenguaje, continuidad y final integral.
 
 **Publicación previa:** la etapa 6 se publicó y recuperó en `fb3227e3ebaf7ceda58e987e13fa99c02f6ace3c`, equivalente al snapshot `889c6a36`. Árbol idéntico `168d203e390b778b308ee12424462737aa567c7e`, once archivos y hashes comprobados, según coordinación.
+
+
+## Etapa 8 — Lenguaje simple, aplicada y recotejada
+
+Fecha: **2026-10-03 UTC**. Entrada efectiva: `577d8418f14cd7e310b967f2f631bd6e7d0dc1a6`. La [auditoría de lenguaje](capitulo-04-transformacion/auditoria-lenguaje.md) registra L01–L20, relectura íntegra de salida y comprobación posterior de una repetición menor de «Pablo». Se explican plasticidad, bloques, servicio, relaciones, causalidad y superioridad con palabras comunes; se reducen tres reiteraciones del comentario metodológico.
+
+Se explicita que la referencia a «el capítulo siguiente» era 2 Corintios 4, y se restaura «para considerar» al remitir a la definición de C1. Sobreviven los límites de las etapas 5–7, incluidos reflejar, Espíritu, receptividad, ciencia específica, carácter de Dios, frutos ajenos, comparador y examen de la propia enseñanza. No se añaden datos ni nuevas prácticas. Las notas completas permanecen idénticas byte por byte al checkpoint de entrada.
+
+Salida: **3980 palabras de cuerpo, 26 notas, 27 llamadas**, SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`. Sin pruebas con lectores ni aprobación del autor. Se normalizan además espacios en las adendas nuevas de bibliografía, sin tocar entradas históricas ni cambiar sus accesos. Quedan continuidad integral y revisión final.
+
+**Publicación previa:** etapa 7 recuperada en `5dd4adc8fbe385145b71756f2312be509f6a659d`, equivalente al snapshot `577d8418`, con árbol idéntico `6c9407d473365e7859c5e65d7495c9cc89213dd9` y nueve archivos/hashes comprobados por coordinación.
