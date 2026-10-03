@@ -58,7 +58,7 @@ Se aplicaron ABT-01/02/03 de la [auditoría bíblica/teológica](auditoria-bibli
 
 ## Actualización de etapa 6
 
-A05 conserva exactitud frente a índice atencional combinado y precisa el promedio de compasión nulo en Affect-solo, además del orden; A27 aclara la dirección del reparto. La matriz científica corrige por separado el rótulo estadístico de Chételat y el momento de definición de sus secundarios. Son precisiones de evidencia, sin convertir ningún resultado en juicio religioso ni añadir un catálogo de beneficios al cuerpo.
+A05 conserva exactitud frente a índice atencional combinado y precisa el promedio de compasión nulo en Affect-solo, además del orden; A27 aclara la dirección del reparto. La matriz científica adopta por separado la presentación de tabla 2 de Chételat y registra el momento de definición de sus secundarios. La etapa 10 precisó después que el resumen sí utiliza Cohen d; esa denominación no se declara un error demostrado del original. Son precisiones de evidencia, sin convertir ningún resultado en juicio religioso ni añadir un catálogo de beneficios al cuerpo.
 
 
 ## Actualización de etapa 7

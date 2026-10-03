@@ -1,5 +1,7 @@
 # Nuevo C4 — ¿En qué nos transforma aquello que contemplamos?
 
+**Estado de cierre:** diez etapas editoriales completas localmente. Publicación y recuperación final todavía pendientes. Los cierres anteriores conservan su fecha y alcance.
+
 Expediente editorial y documental del capítulo nuevo. Inicio: 2026-10-02 UTC. Base estructural recuperada: `5937539e8592af4951864c48d51cef4c56465876`. El capítulo práctico anterior es ahora C5; sus archivos, hashes e identificadores `C4-*` se conservan como historia de aquel trabajo. Los identificadores de este expediente empiezan por `C4T-`.
 
 ## Encargo y pregunta
@@ -145,7 +147,7 @@ SHA-256 de salida: `1f2a9f7af147c23385ce16f9c457539fd1380aacd7fa9cc7d52a165a87b4
 
 Fecha de cierre local: **2026-10-03 UTC**. Base posterior a etapa 5: `18135c9ab0f67bdf195e9ffdc00be2466bf2266d`. La [auditoría científica](capitulo-04-transformacion/auditoria-cientifica.md) comenzó sobre la primera redacción y volvió a comprobar después el diff integrado de etapas 5/6. Veinte fuentes centrales fueron reabiertas, con sus lecturas focales explicitadas; las 26 notas fueron cubiertas según su clase de evidencia.
 
-Se aplicaron R1–R4: el promedio de compasión de Affect-solo y el orden quedan explícitos en nota 3; también el índice atencional combinado que no supera retest. La matriz corrige 0,52 de Chételat como diferencia entre cambios del compuesto estandarizado, no d de Cohen, y registra secundarios definidos después de comenzar el ensayo. La frase de Purzycki ahora expresa reparto más imparcial con correligionarios distantes. Dossier, matrices y registro quedan sincronizados.
+Se aplicaron R1–R4: el promedio de compasión de Affect-solo y el orden quedan explícitos en nota 3; también el índice atencional combinado que no supera retest. La matriz adoptó la descripción de 0,52 de Chételat como diferencia entre cambios del compuesto estandarizado y registró secundarios definidos después de comenzar el ensayo. **Precisión posterior de etapa 10:** el resumen sí lo denomina Cohen d; se corrige la negación inicial de esa denominación, no se demuestra un error estadístico del artículo. La frase de Purzycki ahora expresa reparto más imparcial con correligionarios distantes. Dossier, matrices y registro quedan sincronizados.
 
 El recotejo final del auditor confirmó las correcciones y la compatibilidad con etapa 5, sin nuevas consultas de originales en ese recotejo. SHA-256 C4: `2b351895ef4c7304b81e22ea2091b9ccd5f329793816cff6b7c627afdbba1600`. El cuerpo no se amplía con otro catálogo clínico. C1–C3 y C5 siguen intactos. Quedan tesis/objeciones, lenguaje, continuidad y final.
 
@@ -185,3 +187,16 @@ Dictamen: **conservar los cinco manuscritos**. C4 mantiene la definición, no re
 Se compararon los 39 archivos históricos protegidos con `5937539`, incluido el archivo de plantilla que explica la diferencia con una primera selección de 38. C2 coincide también con la ampliación externa `eacc1c5`; C5 e IDs históricos se mantienen. C4 conserva SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`. Sin consultas externas nuevas, cambios de capítulos o afirmación de comprobación remota propia del auditor. La precisión documental AFI-01 sobre Chételat permanece para el cierre integral.
 
 **Publicación previa:** etapa 8 publicada y recuperada en `640cf19c26c7dcb2acfd06686a972bc4fff62526`, snapshot local `9fe2d8da`, árbol idéntico `fd07f6caa9c688c459aa44f36d9e1e764192be84`; ocho archivos, hashes y fetch comprobados por coordinación.
+
+
+## Etapa 10 — Auditoría integral completada localmente
+
+La lectura integral posterior a `d01546c55882f3ad38659e57a42d7133a827c902` encontró C4T-AFI-01. Se reabrió Chételat 2022 en JAMA: el resumen usa Cohen d para 0,52, mientras tabla 2 presenta diferencia entre cambios estandarizados. Se mantiene la descripción neutral de la tabla y se corrige la negación de que el original utilizara aquel rótulo, sin resolver por cuenta propia su equivalencia estadística ni atribuir error al artículo.
+
+Se sincronizan dossier científico, matriz científica, matriz de afirmaciones, auditoría científica con adenda posterior, bibliografía y relato de integración de etapa 6. La historia de la recomendación inicial queda identificada, no borrada. C4 no utiliza la cifra y permanece íntegro con SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`.
+
+La [auditoría final integral](capitulo-04-transformacion/auditoria-final.md) contiene los veinte puntos pedidos, relectura completa del capítulo y los soportes, fuentes efectivamente consultadas, objeciones, correcciones y límites. La revisión integral recotejó AFI-01 y no encontró otra corrección necesaria del manuscrito. C1–C3/C5, sus investigaciones y los 39 archivos históricos protegidos permanecen íntegros; toda la bibliografía de base se conserva como prefijo idéntico. No se añaden temporales ni se declara CI.
+
+Se actualizan las síntesis vigentes de README, índice, plan y AGENTS sin alterar registros históricos de C1–C3/C5. Quedan la publicación, la recuperación del árbol final y la relectura de C4 desde main. El punto 20 del informe distingue expresamente este cierre local de la comprobación remota todavía pendiente.
+
+**Publicación previa:** coordinación confirmó la etapa 9 publicada y recuperada en `8e26a09c49739b967d74346c23c00cec3d8e5efe`, equivalente al snapshot `d01546c55882f3ad38659e57a42d7133a827c902`. Árbol idéntico `df9111057f56053878bc4e8253b4e865342c56ca`; seis blobs comprobados. Esa constancia no anticipa la publicación del cierre integral.

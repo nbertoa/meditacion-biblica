@@ -20,15 +20,16 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 - `plan/decisiones-pendientes.md`: estructura marco y preguntas de diseño pendientes.
 - `investigacion/`: materiales para el estudio bíblico y léxico.
 - `fuentes/registro-bibliografico.md`: registro de fuentes.
-- `capitulos/`: manuscrito del libro; capítulos 1 y 2 preparados para revisión del autor y C3 terminado, con nueve etapas y publicación verificadas en main. El actual C5 tiene manuscrito completo y seis etapas publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`, cuando aún se numeraba C4; está listo para la revisión del autor. El nuevo C4 sobre transformación está en investigación. También incluye la plantilla inicial.
+- `capitulos/`: manuscrito del libro; capítulos 1 y 2 preparados para revisión del autor y C3 terminado, con nueve etapas y publicación verificadas en main. El actual C5 tiene manuscrito completo y seis etapas publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`, cuando aún se numeraba C4; está listo para la revisión del autor. El nuevo C4 sobre transformación tiene manuscrito completo y diez etapas editoriales terminadas; falta su publicación y recuperación final. También incluye la plantilla inicial.
 - `practicas/catalogo.md`: ocho fichas investigadas y revisadas en las pasadas documental, lenguaje, continuidad y final integral de C4; conserva el destino de los candidatos iniciales. No son prácticas probadas ni aprobadas por el autor.
 - `experiencias/registro.md`: experiencias que aporte el autor.
 
 ## Estado
 
-El título y los cinco ejes orientan la estructura vigente. C1/C2 están desarrollados y C3 está terminado y verificado en main. El capítulo práctico, ahora **C5**, tiene sus seis etapas terminadas, publicadas y verificadas; su aprobación editorial sigue correspondiendo al autor. El **nuevo C4**, «¿En qué nos transforma aquello que contemplamos?», se desarrolla mediante diez etapas diferenciadas de investigación, redacción, auditorías y recuperación final. El inventario léxico general y las decisiones generales continúan abiertos. Las referencias históricas a C4 dentro del registro del capítulo práctico nombran el actual C5.
+El título y los cinco ejes orientan la estructura vigente. C1/C2 están desarrollados; C3 y el capítulo práctico, ahora **C5**, están terminados y verificados en main. El **nuevo C4**, «¿En qué nos transforma aquello que contemplamos?», tiene investigación, manuscrito completo y diez etapas editoriales cerradas localmente. Su publicación y recuperación definitiva están pendientes. La aprobación editorial corresponde al autor; el inventario léxico y las decisiones generales siguen abiertos.
 
-Base estructural del nuevo encargo: `5937539e8592af4951864c48d51cef4c56465876`. No se reescriben C1–C3 ni C5.
+Base estructural del nuevo encargo: `5937539e8592af4951864c48d51cef4c56465876`. C1–C3/C5 y sus documentos históricos permanecen intactos. Las referencias históricas a C4 práctico nombran el actual C5.
+
 
 - [Capítulo 1 — ¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
 - [Investigación y límites documentales del capítulo](investigacion/01-que-significa-meditar-en-la-biblia.md)
@@ -77,8 +78,16 @@ Checkpoints reales de etapas 1–5: `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y
 El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aquello que contemplamos?»**, centrado en transformación por contemplación, contenido de la atención y concepción del carácter de Dios. El manuscrito antes numerado como C4, **«¿Cómo meditar con las Escrituras?»**, pasa a ser **C5**. Sus investigaciones, auditorías, hashes e IDs históricos se conservan como trazabilidad; la renumeración no implica reescritura de aquel trabajo.
 
 
-## Nuevo capítulo 4: manuscrito completo, auditorías en curso
+## Nuevo capítulo 4: cierre editorial completo
 
-El [expediente de transformación](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva el encargo de diez etapas, las objeciones y la separación de evidencia bíblica, empírica e inferencia teológica. Las etapas [bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md) y [científica](investigacion/capitulo-04-transformacion/investigacion-cientifica.md), con su [matriz](investigacion/capitulo-04-transformacion/matriz-cientifica.md), están completadas localmente. La etapa 3 añade [carácter de Dios, representaciones y respuesta](investigacion/capitulo-04-transformacion/investigacion-caracter-dios.md). La etapa 1 ya fue publicada y recuperada en `4bc45b4`, con árbol idéntico a su checkpoint. El expediente distingue cada publicación del cierre final todavía pendiente.
+El [capítulo completo](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) tiene 3980 palabras de cuerpo y 26 notas. Investiga la dirección de la transformación, explica 2 Corintios 3–4 y pregunta cómo nuestra comprensión de Dios debe dejarse corregir por Cristo. Afirma una superioridad teológica con criterio y premisas explícitos, sin convertirla en prueba científica o ranking moral de personas.
 
-El [nuevo capítulo 4](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) tiene primera redacción completa y [matriz de afirmaciones](investigacion/capitulo-04-transformacion/matriz-afirmaciones.md). Las tres investigaciones se publicaron y recuperaron con árboles idénticos; sus commits están en el expediente. La [auditoría bíblica/teológica](investigacion/capitulo-04-transformacion/auditoria-biblica-teologica.md) está integrada con sus correcciones. La [auditoría científica](investigacion/capitulo-04-transformacion/auditoria-cientifica.md) también está integrada y recotejada. La [auditoría de tesis y objeciones](investigacion/capitulo-04-transformacion/auditoria-tesis-objeciones.md) explicita criterio, comparación y examen de la propia práctica. La [revisión de lenguaje](investigacion/capitulo-04-transformacion/auditoria-lenguaje.md) está aplicada y recotejada, con 3980 palabras de cuerpo y 26 notas. La [continuidad integral C1–C5](investigacion/capitulo-04-transformacion/auditoria-continuidad.md) está comprobada y conserva los cinco capítulos. Quedan la auditoría final y la recuperación definitiva.
+El [expediente general](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva las diez etapas, checkpoints, límites y constancias de publicación. Soportes:
+
+- [Investigación bíblica](investigacion/capitulo-04-transformacion/investigacion-biblica.md)
+- [Investigación científica](investigacion/capitulo-04-transformacion/investigacion-cientifica.md) y [matriz de estudios](investigacion/capitulo-04-transformacion/matriz-cientifica.md)
+- [Carácter de Dios, representaciones y respuesta](investigacion/capitulo-04-transformacion/investigacion-caracter-dios.md)
+- [Matriz de 39 afirmaciones del manuscrito](investigacion/capitulo-04-transformacion/matriz-afirmaciones.md)
+- Auditorías [bíblica/teológica](investigacion/capitulo-04-transformacion/auditoria-biblica-teologica.md), [científica](investigacion/capitulo-04-transformacion/auditoria-cientifica.md), [tesis/objeciones](investigacion/capitulo-04-transformacion/auditoria-tesis-objeciones.md), [lenguaje](investigacion/capitulo-04-transformacion/auditoria-lenguaje.md) y [continuidad C1–C5](investigacion/capitulo-04-transformacion/auditoria-continuidad.md)
+
+La [auditoría final integral](investigacion/capitulo-04-transformacion/auditoria-final.md) documenta los veinte puntos del cierre, la corrección documental de Chételat y los controles satisfactorios. La publicación y recuperación final se registrarán cuando se realicen. Las pasadas son asistidas por IA, con accesos parciales declarados y sin prueba con lectores o aprobación del autor. No se avanzó al Prólogo, Epílogo ni a otro libro.

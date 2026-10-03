@@ -32,23 +32,12 @@ Los checkpoints de etapas 1–5 son `d5f7bf8`, `8819249`, `5bff007`, `6618b1c` y
 
 ## Nuevo capítulo 4 — transformación por contemplación
 
-Desde el 2026-10-02 el capítulo 4 queda reservado para investigar cómo aquello que contemplamos participa en nuestra transformación, con especial atención a 2 Corintios 3:18, la evidencia empírica pertinente y los límites de esa evidencia, y la importancia de la imagen o concepción del carácter de Dios. El tratamiento será deliberadamente condensado dentro de este libro; el desarrollo exhaustivo queda abierto para una obra independiente.
+El [expediente central](04-en-que-nos-transforma-aquello-que-contemplamos.md) registra diez etapas editoriales completadas localmente del [manuscrito](../capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md). Los IDs `C4T-*` pertenecen a este nuevo capítulo; los antiguos `C4-*` siguen identificando el actual C5 práctico.
 
+- [Biblia: contexto, léxico, interpretaciones y objeciones](capitulo-04-transformacion/investigacion-biblica.md)
+- [Ciencia: entrenamiento diferencial, transferencia y límites](capitulo-04-transformacion/investigacion-cientifica.md), con [matriz de estudios](capitulo-04-transformacion/matriz-cientifica.md)
+- [Carácter de Dios: revelación, representaciones y respuesta](capitulo-04-transformacion/investigacion-caracter-dios.md)
+- [39 afirmaciones del capítulo y respaldo](capitulo-04-transformacion/matriz-afirmaciones.md)
+- Auditorías [bíblica/teológica](capitulo-04-transformacion/auditoria-biblica-teologica.md), [científica](capitulo-04-transformacion/auditoria-cientifica.md), [tesis](capitulo-04-transformacion/auditoria-tesis-objeciones.md), [lenguaje](capitulo-04-transformacion/auditoria-lenguaje.md) y [continuidad](capitulo-04-transformacion/auditoria-continuidad.md)
 
-El nuevo C4 cuenta ahora con [expediente propio](04-en-que-nos-transforma-aquello-que-contemplamos.md) e [investigación bíblica profunda](capitulo-04-transformacion/investigacion-biblica.md). Etapa 1 completada localmente; las demás etapas y la recuperación final se registrarán al realizarse. Los nuevos IDs `C4T-*` se distinguen de los históricos `C4-*` del actual C5.
-
-La etapa 2 añade [dossier científico](capitulo-04-transformacion/investigacion-cientifica.md) y [matriz](capitulo-04-transformacion/matriz-cientifica.md): entrenamiento diferencial, especificidad, transferibilidad y límites de neuroimagen. Se distingue acceso al artículo completo de lectura focal, sin promesa de superioridad religiosa.
-
-La etapa 3 incorpora [carácter de Dios y transformación](capitulo-04-transformacion/investigacion-caracter-dios.md): revelación en Cristo, conocimiento y respuesta, imágenes afectivas, apego, causalidad y contraejemplos. Las tres investigaciones están listas para la redacción. La primera fue publicada y recuperada; el expediente central distingue constancias remotas de cierre final.
-
-La etapa 4 entrega [manuscrito completo](../capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) y [matriz de 39 afirmaciones](capitulo-04-transformacion/matriz-afirmaciones.md), con 26 notas. Las tres investigaciones están publicadas/recuperadas; las auditorías especializadas y de cierre siguen pendientes.
-
-La etapa 5 queda integrada: [auditoría bíblica/teológica](capitulo-04-transformacion/auditoria-biblica-teologica.md), tres correcciones de precisión, notas y matriz sincronizadas. La etapa 4 también está publicada/recuperada. Etapas 6–10 pendientes.
-
-La etapa 6 queda integrada y recotejada: [auditoría científica](capitulo-04-transformacion/auditoria-cientifica.md), con veinte fuentes reabiertas y correcciones de desenlaces, orden, estadística secundaria y sentido del reparto. Etapas 7–10 pendientes; el cierre científico no se presenta como prueba teológica.
-
-La etapa 7 integra [tesis y objeciones](capitulo-04-transformacion/auditoria-tesis-objeciones.md): ocho objeciones del encargo, pruebas de quitar ciencia/premisas y correcciones del criterio de superioridad y examen de la propia práctica. Lenguaje, continuidad y final pendientes.
-
-La etapa 8 incorpora [lenguaje simple](capitulo-04-transformacion/auditoria-lenguaje.md): L01–L20 y microcorrección final, con las 26 notas íntegras. Restan continuidad C1–C5 y cierre integral.
-
-La etapa 9 documenta [lectura consecutiva completa C1–C5](capitulo-04-transformacion/auditoria-continuidad.md), sin cambios necesarios de manuscritos. Se preservan los 39 archivos históricos; sólo queda cierre integral y recuperación final.
+Se distinguen fuentes consultadas, acceso parcial y referencias pendientes. La ciencia no verifica superioridad religiosa ni una ley universal de semejanza. La investigación abre cuestiones para una obra futura sin diseñarla. La [auditoría final integral](capitulo-04-transformacion/auditoria-final.md) reúne veinte puntos y controles satisfactorios. La publicación y recuperación final desde main se conservan como comprobaciones pendientes hasta realizarlas; los checkpoints publicados previos están identificados en el expediente.

@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** título y cinco ejes acordados como orientación; C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas y verificadas. Nuevo C4 de transformación en investigación, bajo encargo de diez etapas. Revisión del autor y decisiones generales pendientes. Los registros históricos que nombran C4 práctico corresponden al actual C5 y conservan sus IDs y hashes.
+**Estado:** título y cinco ejes acordados como orientación. C1/C2 desarrollados, C3 terminado y verificado en main, y actual C5 práctico con sus seis etapas publicadas/verificadas. El nuevo C4 tiene manuscrito completo, investigación y diez etapas editoriales cerradas localmente; quedan publicación y recuperación final. La revisión del autor y decisiones generales siguen pendientes. Los registros históricos de C4 práctico corresponden al actual C5 y conservan IDs y hashes.
 
 ## Estructura marco
 
@@ -118,3 +118,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-03 UTC, nuevo C4:** etapa 8 aplicada y recotejada, L01–L20. Cuerpo: 3980 palabras; notas íntegras. Referencia a 2 Cor 4 explícita, definición C1 restaurada literalmente y terminología simplificada sin quitar límites. Restan continuidad y final.
 
 - **2026-10-03 UTC, nuevo C4:** etapa 9 completada con lectura consecutiva de C1–C5 y notas. Se conservan todos los manuscritos; C4 no duplica C2/C3 y prepara C5. Los 39 archivos históricos y aportes externos de C2 permanecen íntegros. Etapa 10 y recuperación final pendientes.
+
+- **2026-10-03 UTC, nuevo C4:** etapa 10 completada localmente. El informe final contiene los veinte puntos; se corrigió y recotejó AFI-01 sobre las dos presentaciones de Chételat, sin cambiar el manuscrito. Las fuentes mantienen sus límites y los 39 históricos se preservan. Publicación y recuperación final pendientes.
