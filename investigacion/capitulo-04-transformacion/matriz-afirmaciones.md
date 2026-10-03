@@ -20,7 +20,7 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 | C4T-A12 | Un rostro; 7 | Moisés resplandece, habla y luego se cubre; se descubre ante Dios | T, alta; Éx 34:29–35; C4T-BIB-02, C4T-BIB-04 | No inventar apagamiento del brillo como frase de Éxodo ni técnica concentrativa |
 | C4T-A13 | Un rostro; 6–9 | Velo funciona como imagen de lectura/acceso y se remueve al volverse al Señor | T/E; 2 Co 3:12–18; C4T-BIB-08 | No descalificación étnica ni infalibilidad automática cristiana |
 | C4T-A14 | Un rostro; 8 | Contemplar/reflejar son alternativas serias | E, certeza alta de disputa; C4T-BIB-03, C4T-BIB-05, C4T-BIB-07, C4T-BIB-08, C4T-BIB-09, C4T-BIB-10, C4T-BIB-11 | No variantes de manuscritos ni sentidos obligatoriamente simultáneos; acceso parcial declarado |
-| C4T-A15 | Un rostro; 9 | El agente y la imagen quedan aun con lectura reflejar | T/E/S; 3:18 y 4:4–6; C4T-BIB-09, C4T-BIB-12, C4T-BIB-14 | No causalidad exclusiva de mirar; no alcance universal de «todos» |
+| C4T-A15 | Un rostro; 9 | El agente y la imagen quedan aun con lectura reflejar | T/E/S; 3:18 y 4:4–6; C4T-BIB-09, C4T-BIB-12, C4T-BIB-14 | No causalidad exclusiva de mirar; reflejar no se redefine como atención; procedencia divina sin enumerar dos agentes; no alcance universal de «todos» |
 | C4T-A16 | Un rostro; 9 | Aplicación a meditación escrituraria es inferencial | S explícita; definición C1 y contexto 2 Co 3–4 | El versículo no prescribe espejo=Biblia, silencio, repetición ni dosis |
 | C4T-A17 | Hacia la imagen; 10 | Cristo especifica la revelación de gloria e imagen de Dios | T/E, alta contextual; 2 Co 4:4–6, C4T-BIB-01 | No visualizar rasgos físicos ni elegir cualquier ideal subjetivo |
 | C4T-A18 | Hacia la imagen; 10 | Gloria no equivale sólo a carácter; ética se argumenta contextualmente | E/S; Éx 33–34; 2 Co 4:2,5,10–12;5:14–21 | No diccionario doxa=carácter ni transferencia indiscriminada de ministerio apostólico |
@@ -29,7 +29,7 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 | C4T-A21 | Hacia la imagen; 12 | Colosenses vincula imagen/renovación y virtudes | T/S; Col 3:1–17, C4T-BIB-15 | Exhortación no garantía automática de convertir información en bondad |
 | C4T-A22 | Hacia la imagen; 13 | 1 Jn 3:2 vincula visión/semejanza futura | T/E; C4T-BIB-15, C4T-BIB-16 | Referentes y relación de cláusulas discutidos; no efecto de sesión actual |
 | C4T-A23 | Ídolos; 14 | Salmos 115/135 relacionan fabricantes/confianza e impotencia de ídolos | T/E; C4T-BIB-18, C4T-BIB-19, C4T-BIB-20 | Lectura declarativa/imprecatoria; no psicología de exposición visual ni diagnóstico de religiones actuales |
-| C4T-A24 | Ídolos; 15 | Salmo 50 muestra recitación dañina y concepción proyectada | T/E; 50:16–21, C4T-BIB-23 | No causa unidireccional aislada entre concepción y conducta |
+| C4T-A24 | Ídolos; 15 | Salmo 50 muestra recitación dañina y concepción que toma el silencio divino como aprobación | T/E; 50:16–23, C4T-BIB-23 | No causa unidireccional aislada entre concepción y conducta |
 | C4T-A25 | La misma palabra; 16 | Mismo nombre religioso puede contener expectativas distintas | I conceptual apoyada por distinciones de C4T-GOD-06 | No participantes observados ni prueba de que dos lectores específicos sean así |
 | C4T-A26 | La misma palabra; 16–17 | Concepto, afecto y apego no son idénticos; asociaciones con bienestar/malestar | P/conceptual; C4T-GOD-06, C4T-GOD-07, C4T-GOD-08, C4T-GOD-10 | Autoinforme, confusión y reciprocidad; no causalidad ni diagnóstico espiritual |
 | C4T-A27 | La misma palabra; 18 | Castigo divino tiene asociaciones con menos trampa/reparto a correligionarios distantes | P; C4T-GOD-11, C4T-GOD-12 | Muestras/tareas acotadas, correlación, priming nulo; no amor universal ni ranking moral |
@@ -49,3 +49,8 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 ## Ruta de comprobación
 
 Cada nota del capítulo tiene cobertura en esta matriz; 12 también cubre Colosenses, y 10 aparece dos veces. Las auditorías deben volver a la afirmación exacta, a la medida o al texto original cuando sea necesario, y no convertir la presente evaluación en prueba autosuficiente. Una fuente sólo localizada no puede sostener una afirmación interior no leída. Los accesos bibliográficos completos están en los tres dossiers y en el registro central.
+
+
+## Actualización de etapa 5
+
+Se aplicaron ABT-01/02/03 de la [auditoría bíblica/teológica](auditoria-biblica-teologica.md): A15 conserva referente y procedencia sin atribuir atención a ambas lecturas ni coordinar dos agentes; A24 explicita la interpretación del silencio en Sal 50. La nota 15 amplía el foco a 16–23. Las demás afirmaciones y las 26 notas conservan su alcance; ABT-04 se reserva a la pasada de tesis.

@@ -128,3 +128,14 @@ Coordinación confirmó, mediante recuperación y comparación de árbol complet
 | 3, carácter de Dios | `85531ddd1790dffd6486ef06cff0809b22d53673` | `bdc2d7be5c4078e85e8f6864a3d8c89bd5ca9320` | `4359e7e1e30d2bbeaa51ee4485bcd88187f2db2b` |
 
 Se verificaron respectivamente ocho y siete blobs por SHA y main/fetch. El checkout local conservó su cadena editorial, sin sobrescribir trabajo. Estas comprobaciones no anticipan la recuperación de la versión final del manuscrito.
+
+
+## Etapa 5 — Auditoría bíblica/teológica y correcciones aplicadas
+
+Fecha de cierre local: **2026-10-03 UTC**. Base `294f84304c57d552a975f3a2a741978f1a2c66b2`. La [auditoría separada](capitulo-04-transformacion/auditoria-biblica-teologica.md) coteja el capítulo completo, sus 26 notas y 39 afirmaciones, con nuevas consultas de textos, versiones, léxico y especialistas delimitadas por acceso. La continuidad fue focal y la ciencia no se declara reauditada por esta pasada.
+
+Se aplicaron tres hallazgos: después de reconocer reflejar no se atribuye actividad atencional a las dos lecturas; la frase Señor/Espíritu expresa procedencia divina sin enumerar dos agentes; Salmo 50 muestra también una imagen permisiva del daño al interpretar el silencio como aprobación. Notas 9/15 y matriz A15/A24 se sincronizan. No se añade una paráfrasis redundante del versículo ni se modifica el contenido de C1–C3/C5. El comparador de superioridad continúa hacia etapa 7.
+
+SHA-256 de salida: `1f2a9f7af147c23385ce16f9c457539fd1380aacd7fa9cc7d52a165a87b46532`. Etapa 5 completada localmente; quedan auditoría científica integrada, tesis, lenguaje, continuidad y final. La recuperación remota no se presupone.
+
+**Constancia previa de coordinación:** la etapa 4 se publicó y recuperó en `8c3843e2d3feaa6bc001d12295672224585c642f`, correspondiente al snapshot `294f843`. Árbol `340b81ec6edf80f588a3e2e36dc9defbbebdff85` idéntico, ocho blobs comprobados por SHA. La interrupción técnica posterior no perdió el checkout ni los cotejos de los auditores; la reanudación confirmó el hash intacto antes de aplicar esta etapa.

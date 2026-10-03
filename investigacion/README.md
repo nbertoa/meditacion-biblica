@@ -42,3 +42,5 @@ La etapa 2 añade [dossier científico](capitulo-04-transformacion/investigacion
 La etapa 3 incorpora [carácter de Dios y transformación](capitulo-04-transformacion/investigacion-caracter-dios.md): revelación en Cristo, conocimiento y respuesta, imágenes afectivas, apego, causalidad y contraejemplos. Las tres investigaciones están listas para la redacción. La primera fue publicada y recuperada; el expediente central distingue constancias remotas de cierre final.
 
 La etapa 4 entrega [manuscrito completo](../capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) y [matriz de 39 afirmaciones](capitulo-04-transformacion/matriz-afirmaciones.md), con 26 notas. Las tres investigaciones están publicadas/recuperadas; las auditorías especializadas y de cierre siguen pendientes.
+
+La etapa 5 queda integrada: [auditoría bíblica/teológica](capitulo-04-transformacion/auditoria-biblica-teologica.md), tres correcciones de precisión, notas y matriz sincronizadas. La etapa 4 también está publicada/recuperada. Etapas 6–10 pendientes.
