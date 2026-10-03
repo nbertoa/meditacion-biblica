@@ -102,7 +102,7 @@ En los pasajes bíblicos estudiados, Dios es alguien de quien se recuerdan palab
 
 Por eso su finalidad no queda bien descrita como alcanzar cualquier estado interior agradable. La serenidad puede tener lugar, pero también puede permanecer una pregunta dolorosa. Y el salmista no aparece como alguien que fabrica por sí solo todo lo que necesita: sigue pidiendo comprensión, orientación y ayuda.
 
-Desde la fe cristiana que orienta este libro, hay un solo Dios. Las divinidades veneradas en otras religiones no se reconocen como dioses adicionales realmente existentes. Esta es una convicción teológica cristiana, que se sostiene junto con el respeto hacia quienes creen de otra manera.[^22]
+Desde la fe cristiana que orienta este libro, hay un solo Dios. Las divinidades veneradas en otras religiones no se entienden, desde esta fe, como otros dioses junto al único Dios. Esta es una convicción teológica cristiana, que se sostiene junto con el respeto hacia quienes creen de otra manera.[^22]
 
 El recuerdo budista de las cualidades del Buda permite reconocer una semejanza de atención y confianza, dentro de una relación religiosa diferente. En ese discurso, el Buda es presentado como maestro de seres humanos y divinos. El camino de los textos pali examinados no se funda en responder a un Dios creador como el de los pasajes bíblicos. Es un camino no teísta en ese sentido, aunque los propios textos hablan de seres divinos, llamados *devas*.[^23]
 
