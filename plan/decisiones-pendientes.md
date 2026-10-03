@@ -116,3 +116,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-03 UTC, nuevo C4:** etapa 7 integrada y recotejada, ATO-01–03: criterio/comparador de superioridad explícitos y revisión del propio método cuando legitima daño. No se jerarquizan todas las formas cristianas ni se infiere mayor virtud promedio. La ley universal automática se descarta; se conserva participación limitada y conclusión teológica.
 
 - **2026-10-03 UTC, nuevo C4:** etapa 8 aplicada y recotejada, L01–L20. Cuerpo: 3980 palabras; notas íntegras. Referencia a 2 Cor 4 explícita, definición C1 restaurada literalmente y terminología simplificada sin quitar límites. Restan continuidad y final.
+
+- **2026-10-03 UTC, nuevo C4:** etapa 9 completada con lectura consecutiva de C1–C5 y notas. Se conservan todos los manuscritos; C4 no duplica C2/C3 y prepara C5. Los 39 archivos históricos y aportes externos de C2 permanecen íntegros. Etapa 10 y recuperación final pendientes.

@@ -50,3 +50,5 @@ La etapa 6 queda integrada y recotejada: [auditoría científica](capitulo-04-tr
 La etapa 7 integra [tesis y objeciones](capitulo-04-transformacion/auditoria-tesis-objeciones.md): ocho objeciones del encargo, pruebas de quitar ciencia/premisas y correcciones del criterio de superioridad y examen de la propia práctica. Lenguaje, continuidad y final pendientes.
 
 La etapa 8 incorpora [lenguaje simple](capitulo-04-transformacion/auditoria-lenguaje.md): L01–L20 y microcorrección final, con las 26 notas íntegras. Restan continuidad C1–C5 y cierre integral.
+
+La etapa 9 documenta [lectura consecutiva completa C1–C5](capitulo-04-transformacion/auditoria-continuidad.md), sin cambios necesarios de manuscritos. Se preservan los 39 archivos históricos; sólo queda cierre integral y recuperación final.

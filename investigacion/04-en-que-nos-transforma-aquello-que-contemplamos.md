@@ -174,3 +174,14 @@ Se explicita que la referencia a «el capítulo siguiente» era 2 Corintios 4, y
 Salida: **3980 palabras de cuerpo, 26 notas, 27 llamadas**, SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`. Sin pruebas con lectores ni aprobación del autor. Se normalizan además espacios en las adendas nuevas de bibliografía, sin tocar entradas históricas ni cambiar sus accesos. Quedan continuidad integral y revisión final.
 
 **Publicación previa:** etapa 7 recuperada en `5dd4adc8fbe385145b71756f2312be509f6a659d`, equivalente al snapshot `577d8418`, con árbol idéntico `6c9407d473365e7859c5e65d7495c9cc89213dd9` y nueve archivos/hashes comprobados por coordinación.
+
+
+## Etapa 9 — Continuidad integral C1–C5, completada
+
+Fecha: **2026-10-03 UTC**. Entrada `9fe2d8da9c54531fcd5a0f870560429b2a91615c`, correspondiente exactamente al texto de salida de lenguaje leído. La [auditoría de continuidad](capitulo-04-transformacion/auditoria-continuidad.md) documenta lectura completa consecutiva de C1, C2, C3, C4 y C5, incluidas las 121 notas y 126 llamadas del conjunto.
+
+Dictamen: **conservar los cinco manuscritos**. C4 mantiene la definición, no repite el catálogo de C2 ni la comparación de C3 y prepara la lectura contextual de C5 sin anticipar su método. Los resultados nuevos no contradicen los límites científicos vigentes. Las correcciones de remisión a 2 Corintios 4 y «para considerar» ya aplicadas se comprobaron. La sección científica propia ocupa 492 palabras de exposición.
+
+Se compararon los 39 archivos históricos protegidos con `5937539`, incluido el archivo de plantilla que explica la diferencia con una primera selección de 38. C2 coincide también con la ampliación externa `eacc1c5`; C5 e IDs históricos se mantienen. C4 conserva SHA-256 `4a9b3187efa2e4bf56f745e4635f67dd5e048781e35a4bb9f10fe727061e49f5`. Sin consultas externas nuevas, cambios de capítulos o afirmación de comprobación remota propia del auditor. La precisión documental AFI-01 sobre Chételat permanece para el cierre integral.
+
+**Publicación previa:** etapa 8 publicada y recuperada en `640cf19c26c7dcb2acfd06686a972bc4fff62526`, snapshot local `9fe2d8da`, árbol idéntico `fd07f6caa9c688c459aa44f36d9e1e764192be84`; ocho archivos, hashes y fetch comprobados por coordinación.
