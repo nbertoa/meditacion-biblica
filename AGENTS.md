@@ -1,5 +1,15 @@
 # Guía para agentes y colaboradores
 
+## Prioridad vigente: revisión editorial transversal del 2026-10-03
+
+El autor encargó revisar **los cinco capítulos ya escritos**, sus notas, referencias y transiciones, y registrar criterios para los futuros. Lee primero la sección de decisiones del 2026-10-03 en `INSTRUCCIONES_PROYECTO.md` y el encargo íntegro en `investigacion/revision-editorial-2026-10-03/encargo-autor.md`. Esas decisiones reemplazan las incompatibles de los registros siguientes, que se conservan como historia.
+
+El manuscrito desarrolla su argumento positivo: Jennings, Newberg y otros autores sólo se citan por aportes útiles y respaldados, sin refutación pública tampoco en notas. Toda afirmación científica exige evidencia sólida para su alcance exacto; omitir lo insuficiente, sin fabricar certeza ni extrapolar de otras prácticas. Preservar íntegros expedientes y auditorías anteriores. Describir con respeto las tradiciones e integrar la convicción cristiana de un solo Dios, distinguiendo monoteísmo, múltiples divinidades y no-teísmo. Conservar tesis, voz, experiencias y distinciones entre texto, interpretación y aplicación. No crear nuevos capítulos ni cerrar decisiones ajenas.
+
+C4 vigente es transformación; el práctico es C5. Releer el conjunto completo después de editar y comprobar notas, enlaces, fuentes y continuidad. Guardar checkpoints y distinguir revisiones locales de contenido publicado y recuperado desde main. Véase `investigacion/revision-editorial-2026-10-03/README.md`.
+
+## Registros de encargos y cierres anteriores
+
 Lee `INSTRUCCIONES_PROYECTO.md`, `plan/decisiones-pendientes.md` y los materiales pertinentes antes de editar.
 
 El 2026-10-01 el autor autorizó expresamente investigar y terminar el capítulo 1, actualizar sus fuentes y aplicar los cambios directamente en main. La prohibición provisional de redactar ya no rige para ese capítulo. Los demás capítulos y las decisiones editoriales no resueltas siguen pendientes: no presentes propuestas como acuerdos confirmados.

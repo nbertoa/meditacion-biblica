@@ -15,6 +15,12 @@
 
 Los ejes y su orden son una orientación inicial. Los capítulos, apartados y metodología pueden cambiar mientras se construye el libro.
 
+## Decisiones vigentes del 2026-10-03
+
+El autor confirmó una propuesta positiva, cristiana monoteísta y respetuosa. La evaluación crítica de autores y fuentes queda en los expedientes; el manuscrito sólo conserva aportes útiles y suficientemente respaldados, sin refutaciones públicas ni beneficios científicos tentativos. La ciencia se incluye únicamente cuando la evidencia sostiene su alcance exacto. Estos criterios sustituyen las decisiones anteriores incompatibles y se aplican a C1–C5 y a los capítulos futuros. No cierran denominación, público, inventario léxico ni otros temas pendientes.
+
+El encargo actual es revisar los cinco capítulos existentes, no escribir otros. Véanse las [instrucciones vigentes](../INSTRUCCIONES_PROYECTO.md#decisiones-editoriales-vigentes-para-todo-el-libro--2026-10-03), el [encargo íntegro](../investigacion/revision-editorial-2026-10-03/encargo-autor.md) y el [registro de revisión](../investigacion/revision-editorial-2026-10-03/README.md).
+
 ## Líneas de investigación posibles
 
 - En el capítulo sobre **para qué meditar**, estudiar los propósitos y frutos que presentan los textos bíblicos. También se podría investigar qué beneficios atribuyen la psicología y la neurociencia a prácticas de meditación bíblica, si existen estudios pertinentes.
@@ -26,7 +32,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 1. **Lector y propósito:** qué espera el autor que comprenda o pueda hacer el lector, y para quién se escribe.
 2. **Alcance léxico:** qué significa investigar todas las palabras; qué lenguas, corpus, traducciones y expresiones relacionadas entran.
 3. **Metodología:** cómo se estudiarán las palabras, los pasajes, las prácticas, el material de Timothy Jennings y las experiencias personales.
-4. **Criterios de evidencia:** qué fuentes hacen falta para cada tipo de afirmación y cómo se presentarán los desacuerdos.
+4. **Criterios de evidencia:** rige el umbral editorial confirmado el 2026-10-03; quedan por resolver las preguntas documentales concretas que surjan, sin trasladar toda la auditoría al lector.
 5. **Comparación:** qué tradiciones y prácticas específicas se compararán.
 6. **Investigación científica:** qué preguntas concretas se harán y cómo se distinguirán evidencia clínica, interpretación y afirmaciones teológicas.
 7. **Experiencias personales:** qué relatos aportará el autor y cómo se distinguirán de las conclusiones bíblicas.
@@ -35,7 +41,7 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 
 ## Materiales de trabajo
 
-- `../INSTRUCCIONES_PROYECTO.md`: principios posibles de trabajo, aún por revisar.
+- `../INSTRUCCIONES_PROYECTO.md`: instrucciones vigentes, incluidas las decisiones editoriales confirmadas el 2026-10-03.
 - `../fuentes/registro-bibliografico.md`: fuentes de C1/C2 y de la investigación C3 con estado de consulta explícito; comparación de prácticas, matriz Jennings y siete auditorías independientes disponibles; nueve etapas de C3 completadas y verificadas en main.
 - `../practicas/catalogo.md`: ocho fichas investigadas y revisadas hasta la auditoría integral del actual C5, cuyo contenido está verificado desde main; conserva los candidatos iniciales y sus agrupaciones, sin pruebas con lectores ni aprobación del autor.
 - `../investigacion/palabras-biblicas/inventario.md`: inventario preliminar y auditoría delimitada para el capítulo 1; no concordancia exhaustiva.
@@ -122,3 +128,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-03 UTC, nuevo C4:** etapa 10 completada localmente. El informe final contiene los veinte puntos; se corrigió y recotejó AFI-01 sobre las dos presentaciones de Chételat, sin cambiar el manuscrito. Las fuentes mantienen sus límites y los 39 históricos se preservan. Publicación y recuperación final pendientes.
 
 - **2026-10-03 UTC, 01:19–01:20, nuevo C4:** contenido final publicado y recuperado en `f5ab978501e59acf8f4f18405236d4c63dcc7c90`, árbol `19eb2eb474043529a440ba375c271581e99ca4db`, idéntico al checkpoint de etapa 10. Relectura completa de C4 con notas desde origin/main, comprobación de HEAD/main y controles finales sin errores ni avisos. C1–C3/C5 y 39 históricos intactos. Esta constancia posterior sólo actualiza estado; C4 queda listo para la revisión del autor.
+
+- **2026-10-03 UTC, 16:25:** nuevo encargo del autor de revisión transversal de C1–C5. Argumentación positiva, uso selectivo de autores, ciencia sólo suficientemente sólida para el alcance exacto, rigor íntegro en expedientes y comparación respetuosa desde una perspectiva cristiana monoteísta explícita. Sustituye criterios incompatibles anteriores y rige capítulos futuros. No autoriza capítulos nuevos ni otras decisiones editoriales. Base remota comprobada: `ed201198a9aed210429b4e66e417f5467db7d1f0`.

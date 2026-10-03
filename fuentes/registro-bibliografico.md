@@ -1,5 +1,7 @@
 # Registro bibliográfico
 
+**Uso editorial vigente — 2026-10-03:** este registro conserva también fuentes investigadas que ya no se citan en el manuscrito. Sus fichas, límites y estados históricos no se borran. La inclusión actual se documenta en [la revisión transversal](../investigacion/revision-editorial-2026-10-03/README.md) y en sus registros por capítulo; tener una ficha no implica que una afirmación haya sido admitida para el lector. Rigen los criterios científicos y comparativos de `INSTRUCCIONES_PROYECTO.md`.
+
 Anotar cada fuente antes de usarla: autor, título, fecha, editorial o sitio, edición, URL/DOI, páginas consultadas y afirmaciones para las que sirve. Registrar también límites, sesgos posibles y fuentes que la contradicen.
 
 | ID | Fuente | Tipo | Secciones / páginas | Afirmación que puede apoyar | Límites / verificación |
