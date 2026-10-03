@@ -82,59 +82,9 @@ Santiago 1:22–25 ofrece una advertencia complementaria. Una persona puede escu
 
 Estas acciones están relacionadas con la meditación, pero conservan su sentido propio. Juntas muestran la importancia de responder a lo comprendido y recordado.
 
-Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza, la alegría y el consuelo también aparecen en ese recorrido, sin borrar el sufrimiento. Son parte de una relación con Dios, no resultados asegurados por una práctica aislada.
-
-## Qué puede añadir la investigación científica
-
-También podemos preguntar si una práctica semejante ayuda a la atención, al bienestar o a afrontar el estrés. Esa pregunta es legítima, pero exige otra clase de evidencia. Un salmo expresa cómo una persona vive y comprende su relación con Dios. Un estudio científico examina los resultados de una práctica concreta, en determinadas personas y durante cierto tiempo.
-
-No alcanza con encontrar un artículo que diga *meditación*. Leer un pasaje, pensar en su sentido y responder en oración no es exactamente lo mismo que atender a la respiración, repetir una sílaba o visualizar una imagen. Aunque compartan algunos elementos, sus resultados pueden ser distintos.
-
-También importa con qué se compara la práctica. Un grupo puede recibir enseñanza, acompañamiento y tiempo para detenerse, mientras otro espera. Si al primero le va mejor, todavía hace falta saber cuánto ayudó cada cosa. Compararlo con otra actividad de duración y acompañamiento semejantes permite distinguir mejor qué aporta la meditación.
-
-Una parte importante de la investigación estudia la *atención plena*, también llamada *mindfulness*: prestar atención de manera consciente a lo que se está viviendo en el presente, procurando observarlo sin juzgarlo. Las revisiones de estos programas encuentran beneficios psicológicos en algunos grupos de personas. La ventaja suele ser más clara frente a quienes no reciben una actividad semejante, y menos constante frente a quienes hacen otra actividad. Son hallazgos valiosos, pero no prueban directamente los efectos de meditar con la Biblia.[^12]
-
-## Los estudios más próximos a leer y reflexionar
-
-Sí existen investigaciones que incluyen pasajes bíblicos. En un pequeño estudio de 1988, algunas personas oraban y reflexionaban sobre material bíblico; otras practicaban relajación muscular, y un tercer grupo quedaba en espera. Según el resumen, los resultados coincidieron solo en parte con lo que los autores esperaban. Es un antecedente que vale la pena conocer, aunque por sí solo no permite llegar a una conclusión firme.[^13]
-
-Más recientemente, un estudio de una semana ofreció instrucciones para leer salmos, reflexionar y orar. El resumen publicado informa que, frente al grupo de control, quienes siguieron esa práctica mejoraron en esperanza y bienestar. Participaron pocas personas y el grupo de comparación quedó en espera, sin una actividad semejante. Además, no pudimos consultar el artículo completo para auditar todos los análisis, y la evaluación al terminar esa semana no permite saber si los cambios se mantuvieron.[^14]
-
-Otro estudio probó durante dos semanas una lectura meditativa con cristianos negros estadounidenses. Buscaba abordar el estrés traumático relacionado con el racismo. Hubo mejorías en ambos grupos, pero los resultados no permitieron concluir que quienes meditaban mejoraran más que quienes seguían en espera. Mejorar durante el estudio no basta para saber si la práctica produjo esa mejoría.[^15]
-
-Los estudios no son votos que podamos sumar a favor o en contra. Cambian las personas, las necesidades, los pasajes y las formas de practicar. Algunas propuestas cercanas a la reflexión bíblica muestran indicios de ayuda. Para saber hasta dónde llega esa ayuda, hacen falta resultados más firmes y que se repitan en nuevas investigaciones.
-
-También hay programas que combinan reflexión sobre las Escrituras, conversación grupal y otras prácticas contemplativas. En uno de ellos, el grupo que siguió el programa redujo más que el grupo de espera la tendencia a volver una y otra vez a pensamientos negativos. En ansiedad, en cambio, no se encontró una ventaja clara. Un programa puede ayudar en un aspecto y no mostrar esa misma ventaja en otro; además, al reunir varias actividades, no sabemos cuánto del cambio se debe a leer y pensar un pasaje.[^16]
-
-## Qué muestran las imágenes del cerebro
-
-Andrew Newberg es un médico e investigador que estudia la relación entre la actividad del cerebro y las experiencias religiosas y espirituales. Para investigar qué ocurre durante la oración o la meditación, utiliza imágenes que permiten observar la actividad cerebral. Sus trabajos nos interesan porque examinan prácticas concretas y ayudan a precisar qué puede decir la ciencia sobre ellas.[^newberg-contexto]
-
-Uno de sus primeros estudios examinó a ocho meditadores budistas experimentados mientras realizaban una visualización; otro, a tres monjas franciscanas. En el segundo, las participantes repetían interiormente una frase de la Biblia o de una oración. Se observaron cambios en el flujo de sangre en distintas regiones cerebrales durante esas tareas.[^17]
-
-Los cambios en la circulación de sangre ofrecen información sobre la actividad cerebral durante esas tareas. No bastan para afirmar que el cerebro se haya transformado de manera permanente, que la persona esté más sana o razone mejor. Tampoco permiten decidir si Dios se comunicó con ella. Y repetir una frase, como hicieron las monjas, no abarca todas las maneras cristianas de reflexionar sobre las Escrituras.
-
-En otro estudio de ocho semanas, Newberg y sus colaboradores examinaron una práctica que combina sílabas y movimientos de los dedos. Participaron personas con problemas de memoria. Frente a un grupo que escuchaba música, quienes meditaban mejoraron más en una prueba de *fluidez verbal*: decir tantos nombres de animales como fuera posible en un tiempo limitado. Ambos grupos eran pequeños y el estudio no describe una asignación al azar. La práctica no consistía en leer y reflexionar sobre la Biblia, y las imágenes registraban circulación de sangre, no crecimiento de tejido cerebral.[^18]
-
-Para saber si una práctica cambia el cerebro, necesitamos mirar qué se midió y si el cambio fue distinto del observado en otros grupos. Al reunir dos estudios más grandes de un programa de atención plena de ocho semanas, los investigadores no encontraron diferencias entre los grupos en los cambios de estructura cerebral. El resultado impide dar por seguro ese efecto del programa. No descarta todo cambio posible en el cerebro por el aprendizaje o la meditación.[^19]
-
-## Cómo leer las afirmaciones de Jennings
-
-Timothy R. Jennings es un médico psiquiatra cristiano y fundador de Come and Reason Ministries, una organización que ofrece materiales sobre la fe y la salud mental.[^jennings-contexto] Aquí examinamos dos de sus publicaciones: una guía de meditación de 2020 y un artículo de 2023, ambos disponibles en el sitio de esa organización.
-
-La guía se titula *Meditation: Biblical Method Versus Eastern Method*, con el subtítulo *A Guide to a Bible-based Experience with God*. En español, el título puede traducirse como «Meditación: método bíblico frente a método oriental. Una guía para una experiencia con Dios basada en la Biblia». Es un folleto que propone maneras de meditar con las Escrituras y compara lo que Jennings llama meditación bíblica y oriental. Combina una propuesta espiritual con afirmaciones sobre el cerebro; por eso conviene evaluar cada parte con la evidencia que le corresponde.[^21]
-
-Su artículo «Lectio Divina: A Biblical Meditation Practice» —«Lectio divina: una práctica de meditación bíblica»— presenta una forma cristiana de lectura meditativa. Jennings destaca la comprensión de Dios, la relación con él y la transformación de la conducta: insiste en pasar de conocer un contenido a considerarlo y vivirlo. Esa relación entre comprender y vivir también aparece en los pasajes bíblicos que examinamos.[^20]
-
-En la guía de 2020 también hace afirmaciones más fuertes: atribuye a unas prácticas un desarrollo del razonamiento y a otras una disminución de esa capacidad. Esas comparaciones necesitan pruebas propias. No quedan demostradas porque su propuesta espiritual nos resulte valiosa.[^21]
-
-Uno de los estudios que cita comparó la oración personal y la recitación del Padrenuestro en veinte cristianos luteranos. Encontró diferencias entre esas tareas, pero no comparó meditación bíblica con el conjunto de prácticas orientales. Tampoco evaluó si las personas perdían capacidad de pensar críticamente. Ese estudio, por lo tanto, no demuestra tal deterioro.[^22]
-
-Esta distinción permite aprovechar una propuesta de lectura y oración sin aceptar automáticamente toda la explicación cerebral que la acompaña. Para saber si una afirmación científica es correcta, hay que volver a lo que se hizo y se midió, no quedarse con la interpretación de un divulgador.
-
 ## Una expectativa proporcionada
 
-Los posibles beneficios merecen atención, y también las experiencias difíciles. Algunas personas han comunicado malestar o problemas durante o después de distintas prácticas meditativas, aunque eso no demuestra en cada caso que la práctica los haya causado. La frecuencia registrada varía mucho según qué se considere un problema y cómo se pregunte por él. Esos resultados no pueden aplicarse sin más a la lectura bíblica. Tampoco podemos garantizar que toda práctica sea beneficiosa para todos.[^23]
+Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza, la alegría y el consuelo también aparecen en ese recorrido, sin borrar el sufrimiento. Son parte de una relación con Dios, no resultados asegurados por una práctica aislada.
 
 El alivio puede ser valioso. Su ausencia no convierte una reflexión en inútil, ni debería utilizarse para acusar a quien sigue angustiado. La práctica espiritual tampoco reemplaza la atención profesional cuando una persona la necesita.
 
@@ -144,31 +94,16 @@ El fruto que los pasajes buscan no se agota en cómo nos sentimos al terminar de
 
 ## Notas y fuentes
 
-Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración habitual de Biblias españolas. El [expediente](../investigacion/02-para-que-meditar.md) distingue afirmación explícita, interpretación y aplicación, y registra muestras, métodos, resultados y límites. Los identificadores de las notas remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md).
+Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración habitual de Biblias españolas. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md).
 
-[^1]: Jos 1:1–9, especialmente 8; texto hebreo, cláusula לְמַעַן…לַעֲשׂוֹת. NET, notas a 1:7–8 (COM-NET-01); Boyd-Taylor, «Deuteronomic antecedents» (EST-01). Se conserva la dimensión de éxito del texto dentro de su misión, sin sustituirla por bienestar interior.
-[^2]: Sal 1 completo; Sal 73 como contrapunto dentro del Salterio; Sal 119:23, 78. Botha (EST-02), análisis de los salmos 1 y 119. No se atribuye al poema una medición causal de una práctica aislada.
-[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. La relación causal de 99 y la relación entre comprensión y obediencia de 100–104 se cotejaron en hebreo. Mensah, sección C.4, pp. 179–181 (C2-BIB-01), recoge lecturas alternativas de las comparaciones; no se adopta toda su reconstrucción.
-[^4]: Sal 119:59–60. חִשַּׁבְתִּי, de חשב, ya diferenciado en el inventario y expediente del capítulo 1.
-[^5]: Sal 63 completo, especialmente 6–8; Sal 48:9–14 y 145:4–7. En 48:9 el verbo es דמה; en 145:5, שיח admite reflexión/expresión. No se impone una etapa silenciosa previa a la alabanza.
-[^6]: Sal 143 completo, especialmente 2, 4–10. Los verbos de 5 y las peticiones posteriores no demuestran que el rescate ya haya ocurrido.
-[^7]: Sal 77 completo; NET, nota a 77:10 (COM-NET-01). Ellington, tesis, §4.2.7, pp. 148–156 (C2-BIB-02), defiende lamento no resuelto. Pavan, resumen institucional (C2-BIB-03), sostiene una lectura distinta del movimiento de la memoria; artículo no consultado íntegramente. No se basa el argumento en resolver la dificultad textual de 77:10.
-[^8]: Sal 119:49–52, 81–88, 111, 143, 161–176. El consuelo y la gran paz no borran las peticiones de ayuda del poema.
-[^9]: Flp 4 completo, especialmente 2–9, 11–14. Snyman, pp. 235–240 (C2-BIB-04): 235–236 para oración/paz; 237–240 para considerar/practicar. λογίζεσθε en 8 es considerar; el objeto no está restringido explícitamente a versículos bíblicos.
-[^10]: 2 Tim 2:1–13 y 1 Tim 4:6–16; texto griego electrónico (TXT-NT-01 ampliado para C2). En 2 Tim 2:7 existe variante «dará/dé», sin efecto decisivo para la relación entre consideración y comprensión. No se afirma consulta de aparato crítico completo.
-[^11]: Sant 1:19–27. El v. 25 reúne seguir atendiendo, permanecer y hacer. Denyer, pp. 237–240, especialmente 239 (C2-BIB-05), ayuda a evitar una oposición simplista entre un vistazo rápido y una mirada prolongada. Su propuesta de paralelo platónico no se presenta como dependencia demostrada.
-[^12]: Galante et al. 2023 (C2-REV-01); Goyal et al. 2014 (C2-REV-02); Goldberg et al. 2022 (C2-REV-03). Son programas específicos, no ensayos de nuestra definición bíblica. No sumar muestras superpuestas entre revisiones ni confundir falta de superioridad con equivalencia demostrada.
-[^13]: Carlson, Bacaseta y Simanton 1988 (C2-CLI-01), 36 participantes. Consulta parcial: resumen editorial original, sin acceso al método/resultados íntegros.
-[^14]: Button y De Pretto 2023 (C2-CLI-02), grupos reportados 29/32. El resumen original informa mejoras significativas frente al grupo de control en esperanza y bienestar; se leyeron además cinco suplementos primarios, pero no el artículo completo. El suplemento identifica control pasivo, práctica flexible y exclusiones por variable. No se afirma que 61 personas completaran siete sesiones ni se extrapola el resultado a cada subescala o análisis no cotejado.
-[^15]: Vazquez et al. 2024 (C2-CLI-03), 42 participantes reportados, 23/19. Resumen original en EBSCO y datos editoriales corroborados. No acceso al artículo completo. El resultado nulo no demuestra ausencia de cualquier efecto posible.
-[^16]: Knabb et al. 2020 (C2-CLI-04), artículo completo: 101 asignados, 71 en el análisis denominado ITT, 54 completos. Programa de cuatro encuentros, con postest al comienzo del cuarto y dos semanas efectivas de práctica meditativa. Pensamiento repetitivo: diferencia favorable; ansiedad: interacción p=.12 y ANCOVA p=.34. Sin prueba de prevención de trastornos a largo plazo.
-[^17]: Newberg et al. 2001 y 2003 (C2-NEW-01 y C2-NEW-02), originales completos. Los controles adicionales evaluaron reposo o estabilidad instrumental, no eficacia clínica. Se omiten porcentajes de 2003 porque resumen y resultados difieren.
-[^18]: Newberg et al. 2010 (C2-NEW-03), pp. 519–524 y tablas 2–4: 15 reclutados para meditación, 14 analizados, más 5 controles musicales; piloto abierto sin asignación aleatoria descrita, en personas con problemas de memoria. Fluidez verbal significativa; no ventaja general en todos los tests. Kirtan Kriya no equivale a lectura bíblica reflexiva.
-[^19]: Kral et al. 2022 (C2-REV-04), dos ensayos combinados, 218 participantes con neuroimagen completada; adultos seleccionados por su buena salud. Sin diferencias entre grupos en cambios de volumen, densidad o espesor cortical. La asociación exploratoria entre horas de práctica y reducción de la amígdala no fue robusta en los análisis de sensibilidad. Resultado referido a su programa y medidas; no refutación de toda neuroplasticidad.
-[^20]: Timothy R. Jennings, [«Lectio Divina: A Biblical Meditation Practice»](https://comeandreason.com/lectio-divina/), Come and Reason Ministries, 2023 (JEN-02), artículo completo. Su descripción se usa como propuesta cristiana posterior, sin atribuir a la Biblia el esquema de cuatro pasos ni adoptar afirmaciones históricas no cotejadas.
-[^21]: Timothy R. Jennings, [*Meditation: Biblical Method Versus Eastern Method. A Guide to a Bible-based Experience with God*](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), Come and Reason Ministries, 2020 (JEN-01). PDF original de 32 páginas de archivo; afirmaciones cotejadas en pp. impresas 8, 15–16, 21–22. La traducción del título en el cuerpo es propia. El [cotejo específico](../investigacion/capitulo-02/jennings-y-matriz.md) separa sus afirmaciones de lo que midieron las fuentes. La cadena por su libro 2017, pp. 222–228, queda parcialmente abierta.
-[^22]: Schjoedt et al. 2009 (C2-NEU-01), métodos/resultados/discusión. Referencia citada en Jennings 2020, p. 20, nota 5 (DOI en p. 28). No comparación de tradiciones ni prueba de pensamiento crítico o anatomía.
-[^23]: Farias et al. 2020 (C2-REV-05), original consultado en métodos, resultados de prevalencia y discusión, especialmente pp. 385–389. Un evento adverso reportado no prueba por sí solo causalidad. No se extrapola su frecuencia agregada a reflexión bíblica ni se convierte cualquier malestar en daño clínico.
-
-[^newberg-contexto]: Presentación del autor verificada en su [biografía oficial](https://www.andrewnewberg.com/about), consultada el 2026-10-02. Esta fuente respalda su formación y su campo de investigación; los resultados científicos se documentan por separado en las notas 17–18.
-[^jennings-contexto]: Formación y vínculo institucional verificados en la [biografía de Timothy R. Jennings publicada por InterVarsity Press](https://www.ivpress.com/timothy-r-jennings), consultada el 2026-10-02. El carácter devocional de la guía y su procedencia se comprueban en el PDF original, especialmente portada, créditos e índice.
+[^1]: Jos 1:1–9, especialmente 8. La cláusula hebrea לְמַעַן…לַעֲשׂוֹת expresa la finalidad de actuar. NET, notas a 1:7–8 (COM-NET-01); Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», sección «Deuteronomic antecedents» (EST-01).
+[^2]: Sal 1 completo; Sal 73; Sal 119:23, 78. Philippus J. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119», secciones sobre Sal 119 y conclusión (EST-02).
+[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. Michael Kodzo Mensah, «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts», sección C.4, pp. 179–181 (C2-BIB-01), sobre las comparaciones con maestros y ancianos.
+[^4]: Sal 119:59–60. El verbo חָשַׁב, considerar, expresa aquí el examen de los propios caminos (TXT-HEB-01; LEX-HEB-01).
+[^5]: Sal 63 completo, especialmente 6–8; Sal 48:9–14 y 145:4–7. En 48:9 aparece דמה, considerar; en 145:5, שיח permite destacar reflexión o expresión (TXT-HEB-01; LEX-HEB-01).
+[^6]: Sal 143 completo, especialmente 2, 4–10: el recuerdo de las obras de Dios se reúne con las peticiones de ayuda y orientación.
+[^7]: Sal 77 completo. Sobre sus distintas lecturas: Scott Arthur Ellington, *Reality, Remembrance, and Response*, §4.2.7, pp. 148–156 (C2-BIB-02), destaca el lamento no resuelto; Marco Pavan, «La memoria nel Sal 77», resumen institucional consultado (C2-BIB-03), destaca el movimiento hacia la memoria colectiva y la recuperación de la relación con Dios. La nota de NET a 77:10 documenta la dificultad de traducción de ese versículo (COM-NET-01).
+[^8]: Sal 119:49–52, 81–88, 111, 143, 161–176, donde se reúnen consuelo, alegría, paz, aflicción y peticiones de ayuda.
+[^9]: Flp 4 completo, especialmente 2–9, 11–14. A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 235–236 para oración y paz; pp. 237–240 para considerar y practicar (C2-BIB-04). En 4:8, λογίζεσθε significa considerar; el objeto no está restringido explícitamente a versículos bíblicos.
+[^10]: 2 Tim 2:1–13 y 1 Tim 4:6–16. Reproducciones electrónicas del texto griego, identificadas en TXT-NT-01. En 2 Tim 2:7, las variantes «dará» y «dé» mantienen la relación entre considerar lo dicho y recibir comprensión del Señor.
+[^11]: Sant 1:19–27. Nicholas Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», pp. 237–240, especialmente 239 (C2-BIB-05), sobre la mirada al espejo y el olvido. El v. 25 reúne seguir atendiendo, permanecer y hacer.

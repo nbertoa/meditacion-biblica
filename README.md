@@ -14,33 +14,40 @@ Repositorio de trabajo para investigar y escribir un libro sobre la meditación 
 
 Este es un marco general, no un índice cerrado. Los capítulos, apartados y metodología se irán definiendo durante la investigación.
 
+## Manuscrito vigente
+
+Los cinco capítulos escritos tienen archivos canónicos separados. La revisión transversal del 2026-10-03 aplica las nuevas decisiones del autor a todos ellos, con notas, transiciones y referencias. C4 es el capítulo sobre transformación; el práctico es C5.
+
+1. [¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
+2. [¿Para qué meditar?](capitulos/02-para-que-meditar.md)
+3. [¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?](capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md)
+4. [¿En qué nos transforma aquello que contemplamos?](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md)
+5. [¿Cómo meditar con las Escrituras?](capitulos/05-como-meditar-con-las-escrituras.md)
+
+**Estado de esta revisión:** edición por capítulos en integración local; relectura del conjunto y controles finales pendientes. No se declara todavía una nueva publicación en main. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones.
+
 ## Carpetas
 
-- `INSTRUCCIONES_PROYECTO.md`: instrucciones vigentes del proyecto.
-- `plan/decisiones-pendientes.md`: estructura marco y preguntas de diseño pendientes.
-- `investigacion/`: materiales para el estudio bíblico y léxico.
-- `fuentes/registro-bibliografico.md`: registro de fuentes.
-- `capitulos/`: manuscrito del libro; capítulos 1 y 2 preparados para revisión del autor y C3 terminado, con nueve etapas y publicación verificadas en main. El actual C5 tiene manuscrito completo y seis etapas publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`, cuando aún se numeraba C4; está listo para la revisión del autor. El nuevo C4 sobre transformación tiene manuscrito completo y diez etapas editoriales terminadas, publicadas y verificadas desde main. También incluye la plantilla inicial.
-- `practicas/catalogo.md`: ocho fichas investigadas y revisadas en las pasadas documental, lenguaje, continuidad y final integral del actual C5; conserva el destino de los candidatos iniciales. No son prácticas probadas ni aprobadas por el autor.
-- `experiencias/registro.md`: experiencias que aporte el autor.
+- `INSTRUCCIONES_PROYECTO.md`: criterios vigentes, incluidas las decisiones del 2026-10-03
+- `plan/decisiones-pendientes.md`: estructura, decisiones confirmadas e historial; público, denominación específica e inventario léxico siguen abiertos
+- `capitulos/`: cinco manuscritos escritos y plantilla; no hay Prólogo o Epílogo redactados
+- `investigacion/`: expedientes, matrices y auditorías; se conservan los registros anteriores íntegros
+- `fuentes/registro-bibliografico.md`: fuentes consultadas, límites y accesos, incluidas las que ya no aparecen en el manuscrito
+- `practicas/catalogo.md`: ocho fichas investigadas del actual C5; no equivalen a prácticas probadas con lectores o aprobadas por el autor
+- `experiencias/registro.md`: espacio para experiencias que aporte el autor; no se inventan testimonios
 
-## Estado
+## Criterios de trabajo vigentes
 
-El título y los cinco ejes orientan la estructura vigente. C1/C2 están desarrollados; C3 y el capítulo práctico, ahora **C5**, están terminados y verificados en main. El **nuevo C4**, «¿En qué nos transforma aquello que contemplamos?», tiene investigación, manuscrito completo y diez etapas editoriales terminadas, publicadas y verificadas desde main. La aprobación editorial corresponde al autor; el inventario léxico y las decisiones generales siguen abiertos.
+- Escribir una propuesta positiva de meditación bíblica, en español claro y natural
+- Citar lo necesario para verificar las afirmaciones, sin convertir cuerpo o notas en refutaciones de investigadores
+- Incorporar ciencia sólo con evidencia sólida, pertinente y convergente para su alcance exacto; omitir beneficios tentativos y extrapolaciones
+- Distinguir texto bíblico, interpretación, aplicación pastoral y evidencia empírica
+- Describir tradiciones concretas con respeto y conservar una perspectiva cristiana monoteísta explícita
+- Mantener las comprobaciones, incertidumbres y razones de descarte en los expedientes internos
 
-Base estructural del nuevo encargo: `5937539e8592af4951864c48d51cef4c56465876`. C1–C3/C5 y sus documentos históricos permanecen intactos. Las referencias históricas a C4 práctico nombran el actual C5.
+## Registros históricos de investigación y escritura
 
-
-- [Capítulo 1 — ¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
-- [Investigación y límites documentales del capítulo](investigacion/01-que-significa-meditar-en-la-biblia.md)
-
-## Criterios de trabajo propuestos
-
-- Escribir en español claro y natural.
-- Citar edición, página o ubicación estable para las fuentes consultadas.
-- Distinguir texto bíblico, interpretación, evidencia científica e hipótesis.
-- No atribuir al texto bíblico una práctica que solo aparezca en una tradición posterior.
-- En cada sección, indicar qué está confirmado, qué está debatido y qué falta investigar.
+Los cierres siguientes documentan las versiones anteriores a la revisión transversal del 2026-10-03. Sus cifras, hashes, numeraciones y afirmaciones de preservación corresponden a esas fechas; no describen automáticamente el manuscrito revisado. La aprobación editorial del autor sigue pendiente. Las menciones históricas a C4 práctico designan el actual C5.
 
 ## Capítulo 2: revisión editorial completada
 
