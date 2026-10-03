@@ -139,3 +139,14 @@ Se aplicaron tres hallazgos: después de reconocer reflejar no se atribuye activ
 SHA-256 de salida: `1f2a9f7af147c23385ce16f9c457539fd1380aacd7fa9cc7d52a165a87b46532`. Etapa 5 completada localmente; quedan auditoría científica integrada, tesis, lenguaje, continuidad y final. La recuperación remota no se presupone.
 
 **Constancia previa de coordinación:** la etapa 4 se publicó y recuperó en `8c3843e2d3feaa6bc001d12295672224585c642f`, correspondiente al snapshot `294f843`. Árbol `340b81ec6edf80f588a3e2e36dc9defbbebdff85` idéntico, ocho blobs comprobados por SHA. La interrupción técnica posterior no perdió el checkout ni los cotejos de los auditores; la reanudación confirmó el hash intacto antes de aplicar esta etapa.
+
+
+## Etapa 6 — Auditoría científica integrada y recotejada
+
+Fecha de cierre local: **2026-10-03 UTC**. Base posterior a etapa 5: `18135c9ab0f67bdf195e9ffdc00be2466bf2266d`. La [auditoría científica](capitulo-04-transformacion/auditoria-cientifica.md) comenzó sobre la primera redacción y volvió a comprobar después el diff integrado de etapas 5/6. Veinte fuentes centrales fueron reabiertas, con sus lecturas focales explicitadas; las 26 notas fueron cubiertas según su clase de evidencia.
+
+Se aplicaron R1–R4: el promedio de compasión de Affect-solo y el orden quedan explícitos en nota 3; también el índice atencional combinado que no supera retest. La matriz corrige 0,52 de Chételat como diferencia entre cambios del compuesto estandarizado, no d de Cohen, y registra secundarios definidos después de comenzar el ensayo. La frase de Purzycki ahora expresa reparto más imparcial con correligionarios distantes. Dossier, matrices y registro quedan sincronizados.
+
+El recotejo final del auditor confirmó las correcciones y la compatibilidad con etapa 5, sin nuevas consultas de originales en ese recotejo. SHA-256 C4: `2b351895ef4c7304b81e22ea2091b9ccd5f329793816cff6b7c627afdbba1600`. El cuerpo no se amplía con otro catálogo clínico. C1–C3 y C5 siguen intactos. Quedan tesis/objeciones, lenguaje, continuidad y final.
+
+**Publicación previa:** coordinación confirmó etapa 5 publicada y recuperada en `d99dada6023aef0b9c98f084ad8ec9233d732f3b`, equivalente al snapshot `18135c9`, con árbol idéntico `17fcda134a299f88a6bf058b5857e462a892d34d` y nueve blobs cotejados por SHA. Esa recuperación no anticipa el cierre de C4.

@@ -10,7 +10,7 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 | C4T-A02 | Apertura; sin nueva nota | Prácticas difieren en objeto, actividad y finalidad | Síntesis heredada; C3 completo y expediente comparativo | No volverlas idénticas ni rehacer comparación de tradiciones |
 | C4T-A03 | Aprender; 2 | Experiencia/aprendizaje pueden relacionarse con cambios cerebrales | P, bien establecido en diseños específicos; C4T-SCI-001, C4T-SCI-002 | No todo pensamiento cambia globalmente; señal MRI no cuenta sinapsis ni virtud |
 | C4T-A04 | Aprender; 3 | ReSource contiene módulos de atención, compasión y perspectiva de unos tres meses | P/descripción; C4T-SCI-006 §§2.1–2.5 | Cohortes/orden no tres ensayos simples independientes; algunos incluyen díadas |
-| C4T-A05 | Aprender; 3 | Perfiles parcialmente diferentes, atención especialmente exactitud | P, moderada y dependiente de medida; C4T-SCI-006 §§3–4 | Compasión autoinformada; perspectiva inconsistente; solapamiento y orden importan |
+| C4T-A05 | Aprender; 3 | Perfiles parcialmente diferentes, atención especialmente exactitud | P, moderada y dependiente de medida; C4T-SCI-006 §§3–4 | Compasión autoinformada; promedio de Affect-solo no superior a retest; perspectiva inconsistente; solapamiento y orden importan |
 | C4T-A06 | Aprender; 4 | Valk informa cambios regionales de grosor cortical | P, moderada en este proyecto; C4T-SCI-005 | Sin neurogénesis, virtud ni permanencia demostradas; T4 no analizado |
 | C4T-A07 | Aprender; 3–4 | ReSource no aísla sólo el contenido contemplado | Inferencia metodológica fuerte desde 005/006 | Instrucciones, vínculo y tareas también cambian; no causalidad exclusiva del objeto |
 | C4T-A08 | Aprender; 5 | Hay mejoras pequeñas y resultados nulos, incluso en programas prolongados | P, síntesis acotada; C4T-SCI-010, C4T-SCI-011, C4T-SCI-012, C4T-SCI-014, C4T-SCI-015 | Comparadores y desenlaces distintos; nulo no prueba equivalencia o efecto exactamente cero |
@@ -32,7 +32,7 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 | C4T-A24 | Ídolos; 15 | Salmo 50 muestra recitación dañina y concepción que toma el silencio divino como aprobación | T/E; 50:16–23, C4T-BIB-23 | No causa unidireccional aislada entre concepción y conducta |
 | C4T-A25 | La misma palabra; 16 | Mismo nombre religioso puede contener expectativas distintas | I conceptual apoyada por distinciones de C4T-GOD-06 | No participantes observados ni prueba de que dos lectores específicos sean así |
 | C4T-A26 | La misma palabra; 16–17 | Concepto, afecto y apego no son idénticos; asociaciones con bienestar/malestar | P/conceptual; C4T-GOD-06, C4T-GOD-07, C4T-GOD-08, C4T-GOD-10 | Autoinforme, confusión y reciprocidad; no causalidad ni diagnóstico espiritual |
-| C4T-A27 | La misma palabra; 18 | Castigo divino tiene asociaciones con menos trampa/reparto a correligionarios distantes | P; C4T-GOD-11, C4T-GOD-12 | Muestras/tareas acotadas, correlación, priming nulo; no amor universal ni ranking moral |
+| C4T-A27 | La misma palabra; 18 | Castigo divino tiene asociaciones con menos trampa/reparto más imparcial con correligionarios distantes | P; C4T-GOD-11, C4T-GOD-12 | Muestras/tareas acotadas, correlación, priming nulo; no amor universal ni ranking moral |
 | C4T-A28 | La misma palabra; 19 | Invocar a Dios puede coexistir con violencia que desconoce al Padre/Hijo | T/S; Jn 16:1–4, C4T-GOD-01 | Aplicación autocrítica; no descalificación global de judíos o no cristianos |
 | C4T-A29 | Jesús y Padre; 20–21 | El Hijo da a conocer a Dios | T/E; Jn 1:14–18;14:7–11;Col 1:15–20;Heb 1:1–4, C4T-GOD-01, C4T-GOD-02, C4T-GOD-03 | No confundir charaktēr con carácter moral; no resolver ontología o todo canon desde un vocablo |
 | C4T-A30 | Jesús y Padre; 21,25 | Cristo es criterio para corregir la imagen de Dios | S explícita sobre A29 y 2 Co 4:4–6 | No resultado científico; no Jesús recortado a conveniencia ni licencia para borrar textos difíciles |
@@ -54,3 +54,8 @@ Cada nota del capítulo tiene cobertura en esta matriz; 12 también cubre Colose
 ## Actualización de etapa 5
 
 Se aplicaron ABT-01/02/03 de la [auditoría bíblica/teológica](auditoria-biblica-teologica.md): A15 conserva referente y procedencia sin atribuir atención a ambas lecturas ni coordinar dos agentes; A24 explicita la interpretación del silencio en Sal 50. La nota 15 amplía el foco a 16–23. Las demás afirmaciones y las 26 notas conservan su alcance; ABT-04 se reserva a la pasada de tesis.
+
+
+## Actualización de etapa 6
+
+A05 conserva exactitud frente a índice atencional combinado y precisa el promedio de compasión nulo en Affect-solo, además del orden; A27 aclara la dirección del reparto. La matriz científica corrige por separado el rótulo estadístico de Chételat y el momento de definición de sus secundarios. Son precisiones de evidencia, sin convertir ningún resultado en juicio religioso ni añadir un catálogo de beneficios al cuerpo.

@@ -44,3 +44,5 @@ La etapa 3 incorpora [carácter de Dios y transformación](capitulo-04-transform
 La etapa 4 entrega [manuscrito completo](../capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) y [matriz de 39 afirmaciones](capitulo-04-transformacion/matriz-afirmaciones.md), con 26 notas. Las tres investigaciones están publicadas/recuperadas; las auditorías especializadas y de cierre siguen pendientes.
 
 La etapa 5 queda integrada: [auditoría bíblica/teológica](capitulo-04-transformacion/auditoria-biblica-teologica.md), tres correcciones de precisión, notas y matriz sincronizadas. La etapa 4 también está publicada/recuperada. Etapas 6–10 pendientes.
+
+La etapa 6 queda integrada y recotejada: [auditoría científica](capitulo-04-transformacion/auditoria-cientifica.md), con veinte fuentes reabiertas y correcciones de desenlaces, orden, estadística secundaria y sentido del reparto. Etapas 7–10 pendientes; el cierre científico no se presenta como prueba teológica.

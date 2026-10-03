@@ -110,3 +110,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-02 UTC, nuevo C4:** etapa 4 redactada, 3882 palabras de cuerpo, 26 notas y 39 afirmaciones trazables. Ciencia acotada, lectura contextual y superioridad teológica explícita sin automatismo. Las etapas 1–3 ya se publicaron/recuperaron; faltan seis pasadas críticas y recuperación final. No se modifica C1–C3/C5 ni se avanza otro libro.
 
 - **2026-10-03 UTC, nuevo C4:** etapa 5 bíblica/teológica integrada: reflejar no se convierte en atención, Señor/Espíritu no se enumera como dos agentes y Salmo 50 explicita la aprobación imaginada del daño. Se conservan 26 notas y los cuatro capítulos anteriores; el comparador de superioridad se precisa en la siguiente pasada de tesis.
+
+- **2026-10-03 UTC, nuevo C4:** etapa 6 científica integrada y recotejada después de etapa 5. Correcciones R1–R4 aplicadas; veinte fuentes centrales reabiertas. Se conservan 26 notas, 27 llamadas y límites de causalidad/transferencia. Tesis, lenguaje, continuidad y final pendientes.
