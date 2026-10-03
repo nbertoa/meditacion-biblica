@@ -112,3 +112,5 @@ Los ejes y su orden son una orientación inicial. Los capítulos, apartados y me
 - **2026-10-03 UTC, nuevo C4:** etapa 5 bíblica/teológica integrada: reflejar no se convierte en atención, Señor/Espíritu no se enumera como dos agentes y Salmo 50 explicita la aprobación imaginada del daño. Se conservan 26 notas y los cuatro capítulos anteriores; el comparador de superioridad se precisa en la siguiente pasada de tesis.
 
 - **2026-10-03 UTC, nuevo C4:** etapa 6 científica integrada y recotejada después de etapa 5. Correcciones R1–R4 aplicadas; veinte fuentes centrales reabiertas. Se conservan 26 notas, 27 llamadas y límites de causalidad/transferencia. Tesis, lenguaje, continuidad y final pendientes.
+
+- **2026-10-03 UTC, nuevo C4:** etapa 7 integrada y recotejada, ATO-01–03: criterio/comparador de superioridad explícitos y revisión del propio método cuando legitima daño. No se jerarquizan todas las formas cristianas ni se infiere mayor virtud promedio. La ley universal automática se descarta; se conserva participación limitada y conclusión teológica.

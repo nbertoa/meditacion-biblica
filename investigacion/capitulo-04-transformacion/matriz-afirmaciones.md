@@ -41,9 +41,9 @@ Primera redacción: etapa 4, 2026-10-02 UTC. Esta matriz enlaza el [manuscrito](
 | C4T-A33 | Jesús y Padre; 7,23 | Misericordia y justicia no son opuestos bíblicos | T/S; Éx 34:6–7;Jn 5:19–30;Heb 1:8–9 | No teoría cerrada del juicio, violencia, expiación o providencia |
 | C4T-A34 | Conocerlo; 24 | Examinar Escrituras no garantiza acudir a Cristo | T/E; Jn 5:37–47, C4T-GOD-01 | No rechazo de estudio; forma verbal discutida no elimina 5:40 |
 | C4T-A35 | Conocerlo; 9,24 | Comprender, responder y relacionarse no son idénticos | S/I; Jon 4;Jn 5;Rabens C4T-BIB-12; aportación JEN-02 delimitada | Dios no es su representación; Espíritu no técnica; ejemplos no garantías |
-| C4T-A36 | Superioridad; 25 | Superioridad teológica por referente y fin, dentro de premisas cristianas | S argumentada; A15–18,A29–31 y definición C1 | Ciencia no demuestra verdad religiosa; no neutralidad universal ni técnica exclusiva |
+| C4T-A36 | Superioridad; 25 | Superioridad teológica por fidelidad al referente y formación hacia su semejanza, con comparador/premisas explícitos | S argumentada; A15–18,A29–31 y definición C1 | Ciencia no demuestra verdad religiosa; comparación con referente/finalidad distintos, no ranking de toda oración/culto cristianos ni técnica exclusiva |
 | C4T-A37 | Superioridad; 26 | Otros entrenamientos pueden producir respuestas prosociales acotadas | P; C4T-SCI-006, C2-NEU-05; C3 para normas | No virtud universal ni apropiación de resultados; tampoco negar conductas admirables ajenas |
-| C4T-A38 | Superioridad/cierre; 25–26 | Finalidad superior no garantiza superioridad de toda ejecución o persona | Inferencia ética y límite lógico desde A01,A24,A28,A34 | No inmunizar toda mala práctica como infalsable; evaluar afirmaciones empíricas por resultados, teología por razones |
+| C4T-A38 | Superioridad/cierre; 25–26 | Finalidad superior no garantiza superioridad de toda ejecución o persona | Inferencia ética y límite lógico desde A01,A18,A24,A28,A32,A34; 2 Co 4:2 y 1 Jn 4:20–21 | Revisar también interpretación, enseñanza y método si justifican daño; no culpar automáticamente al practicante. Evaluar efectos por datos y teología por razones |
 | C4T-A39 | Cierre | C4 prepara comprensión/atención/respuesta para C5 | Decisión editorial con continuidad C1–C5 | No enseñar todo el método, no alterar C5, no diseñar futuro libro |
 
 ## Ruta de comprobación
@@ -59,3 +59,8 @@ Se aplicaron ABT-01/02/03 de la [auditoría bíblica/teológica](auditoria-bibli
 ## Actualización de etapa 6
 
 A05 conserva exactitud frente a índice atencional combinado y precisa el promedio de compasión nulo en Affect-solo, además del orden; A27 aclara la dirección del reparto. La matriz científica corrige por separado el rótulo estadístico de Chételat y el momento de definición de sus secundarios. Son precisiones de evidencia, sin convertir ningún resultado en juicio religioso ni añadir un catálogo de beneficios al cuerpo.
+
+
+## Actualización de etapa 7
+
+A36 explicita el criterio de superioridad y su comparador, incluida la exclusión de una jerarquía entre todas las prácticas cristianas dirigidas al mismo Cristo. A38 exige revisar interpretación, enseñanza y práctica cuando legitiman daño; no inmuniza el método culpando al lector. La prueba de retirar el bloque científico deja en pie el argumento teológico; retirar sus premisas no permite reconstruirlo desde ReSource. La ley psicológica universal no sobrevivió y no se recupera con otra formulación.

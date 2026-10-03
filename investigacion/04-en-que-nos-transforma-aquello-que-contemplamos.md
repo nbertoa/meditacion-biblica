@@ -150,3 +150,16 @@ Se aplicaron R1–R4: el promedio de compasión de Affect-solo y el orden quedan
 El recotejo final del auditor confirmó las correcciones y la compatibilidad con etapa 5, sin nuevas consultas de originales en ese recotejo. SHA-256 C4: `2b351895ef4c7304b81e22ea2091b9ccd5f329793816cff6b7c627afdbba1600`. El cuerpo no se amplía con otro catálogo clínico. C1–C3 y C5 siguen intactos. Quedan tesis/objeciones, lenguaje, continuidad y final.
 
 **Publicación previa:** coordinación confirmó etapa 5 publicada y recuperada en `d99dada6023aef0b9c98f084ad8ec9233d732f3b`, equivalente al snapshot `18135c9`, con árbol idéntico `17fcda134a299f88a6bf058b5857e462a892d34d` y nueve blobs cotejados por SHA. Esa recuperación no anticipa el cierre de C4.
+
+
+## Etapa 7 — Tesis y objeciones, correcciones integradas
+
+Fecha: **2026-10-03 UTC**. Base posterior a las auditorías especializadas: `889c6a36bcc60d0e33c6f486184e2b66f47b95c0`. La [auditoría de tesis](capitulo-04-transformacion/auditoria-tesis-objeciones.md) reconstruye el argumento, examina las ocho objeciones obligatorias y diez problemas adicionales, y coteja el manuscrito completo después de 5/6. Distingue sus reconsultas focales de los originales ya verificados por otros roles.
+
+Se integraron ATO-01–03: criterio y comparación de superioridad junto a la conclusión; nota 25 que excluye una jerarquía entre todas las formas cristianas dirigidas al mismo Cristo o tratar cualquier ayuda atencional como rival religioso; y revisión de interpretación, enseñanza y práctica cuando una lectura justifica daño, sin culpar automáticamente al practicante. A36/A38 y los respaldos de esta última quedaron sincronizados. El auditor recotejó la salida.
+
+La prueba de retirar la ciencia conserva la argumentación teológica; retirar las premisas acerca de Dios y Cristo impide obtenerla desde ReSource. Lo descartado es la versión universal y automática del influjo contemplativo; no se atribuye esa versión exagerada al autor, cuya hipótesis decía que la atención repetida **participa** en la formación. Falta de prueba no se convierte en negación de cualquier influencia. La conclusión superviviente conserva esa participación con límites y la primacía teológica condicionada por referente y fin.
+
+SHA-256 de C4 corregido: `c8bcf1bb66ab5ca05fb737de7fa6a3ae191d60d90562519c43ee83513faafffd`. Sin nueva comparación general, catálogo clínico, método práctico o cambio de C1–C3/C5. Quedan lenguaje, continuidad y final integral.
+
+**Publicación previa:** la etapa 6 se publicó y recuperó en `fb3227e3ebaf7ceda58e987e13fa99c02f6ace3c`, equivalente al snapshot `889c6a36`. Árbol idéntico `168d203e390b778b308ee12424462737aa567c7e`, once archivos y hashes comprobados, según coordinación.

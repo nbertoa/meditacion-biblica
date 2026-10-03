@@ -46,3 +46,5 @@ La etapa 4 entrega [manuscrito completo](../capitulos/04-en-que-nos-transforma-a
 La etapa 5 queda integrada: [auditoría bíblica/teológica](capitulo-04-transformacion/auditoria-biblica-teologica.md), tres correcciones de precisión, notas y matriz sincronizadas. La etapa 4 también está publicada/recuperada. Etapas 6–10 pendientes.
 
 La etapa 6 queda integrada y recotejada: [auditoría científica](capitulo-04-transformacion/auditoria-cientifica.md), con veinte fuentes reabiertas y correcciones de desenlaces, orden, estadística secundaria y sentido del reparto. Etapas 7–10 pendientes; el cierre científico no se presenta como prueba teológica.
+
+La etapa 7 integra [tesis y objeciones](capitulo-04-transformacion/auditoria-tesis-objeciones.md): ocho objeciones del encargo, pruebas de quitar ciencia/premisas y correcciones del criterio de superioridad y examen de la propia práctica. Lenguaje, continuidad y final pendientes.
