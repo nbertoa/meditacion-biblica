@@ -62,4 +62,6 @@ La revisión editorial asistida por IA no es una prueba con lectores ni una audi
 
 ## Estado de publicación
 
-Edición y controles locales completos. La publicación y recuperación efectiva desde main se registrarán después de realizarlas; este estado no las da por cumplidas.
+El contenido se publicó y recuperó desde main el 2026-10-04, en [2dd681d](https://github.com/nbertoa/meditacion-biblica/commit/2dd681df9997c99d48b502d0a4b9749e15ccc5ae). Árbol: `8639674318076c00a6a9801deed848ac4a50390a`, idéntico al checkpoint local `29f990d`. Se compararon los 73 archivos recuperados, byte por byte: cero diferencias. Se releyó C3 completo con notas desde origin/main y se confirmaron nuevamente el conteo y las notas.
+
+Esta constancia posterior sólo actualiza el estado documental. No modifica el capítulo. La lectura y aprobación editorial del autor siguen pendientes.
