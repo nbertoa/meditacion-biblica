@@ -6,11 +6,7 @@ También puede ocurrir lo contrario: dos personas de religiones diferentes recue
 
 La comparación de este capítulo necesita conservar ambas cosas. Hay acciones compartidas y diferencias reales. Para reconocerlas, vamos a preguntar qué ocupa la atención, qué se hace con ello, para qué se hace y cómo se lo comprende.
 
-Nuestro punto de partida sigue siendo la definición del primer capítulo:
-
-**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
-
-Esa definición reúne lo encontrado en los pasajes. No exige una postura única ni una cadena ininterrumpida de razonamientos. Tampoco abarca automáticamente todo lo que, en distintos momentos de la historia, se llamó meditación cristiana.[^1]
+Del lado bíblico, partimos de la atención a Dios, a sus palabras y a sus obras que definimos en el primer capítulo. Los pasajes la vinculan con considerar su significado y responder.[^1] Esa definición no abarca automáticamente todo lo que, a lo largo de la historia, se llamó meditación cristiana.
 
 Del otro lado, la expresión *meditación oriental* es demasiado amplia para describir una sola práctica. Incluye métodos budistas e hindúes distintos entre sí, enseñanzas de diferentes épocas y propuestas modernas que han cambiado el contexto de sus antecedentes. Incluso dentro de una tradición, recordar a un maestro, atender a la respiración y desarrollar una concentración profunda pueden ser actividades diferentes.
 
@@ -154,7 +150,7 @@ La comparación se refiere a lo que estas fuentes enseñan y proponen. Cómo res
 
 La particularidad de la meditación bíblica que venimos estudiando está en esa atención significativa a Dios, sus palabras y sus obras, abierta a una respuesta. No consiste en poseer en exclusiva la memoria, el silencio, la razón o la preocupación por vivir bien. Y reconocer que otras prácticas comparten algunas de esas acciones no obliga a afirmar que buscan lo mismo o que expresan la misma fe.
 
-Comparar con precisión permite comprender mejor a los otros y también saber con más claridad qué queremos decir cuando hablamos de meditar bíblicamente.
+Comparar con precisión permite comprender mejor a los otros y saber qué queremos decir cuando hablamos de meditar bíblicamente. También deja abierta una pregunta para nosotros: si importa aquello a lo que atendemos, ¿hacia qué transformación nos orienta contemplar a Dios?
 
 ## Notas y fuentes
 

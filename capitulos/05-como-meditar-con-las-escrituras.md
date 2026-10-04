@@ -1,6 +1,6 @@
 # 5. ¿Cómo meditar con las Escrituras?
 
-Tenemos un pasaje delante. Lo leemos, entendemos algunas de sus frases y quizá reconocemos algo importante. Pero ¿qué hacemos después? ¿Hay que leerlo otra vez, buscar una explicación, decir algo a Dios o pensar en una decisión?
+Ya vimos por qué importa a quién contemplamos. Ahora tenemos un pasaje delante. Lo leemos, entendemos algunas de sus frases y quizá reconocemos algo importante. Pero ¿qué hacemos después? ¿Hay que leerlo otra vez, buscar una explicación, decir algo a Dios o pensar en una decisión?
 
 Cualquiera de esas acciones puede tener lugar. La elección depende de lo que el texto comunica y de lo que todavía necesitamos comprender. Un salmo que expresa angustia pide una atención distinta de una enseñanza sobre cómo tratar a los demás. Una historia se sigue de otra manera que una frase breve de un proverbio.
 
@@ -10,7 +10,7 @@ El punto de partida sigue siendo el que encontramos en el primer capítulo:
 
 Ahora vamos a llevar esa definición a la lectura. Los pasajes ofrecen contenidos, preguntas y orientaciones; las propuestas de este capítulo son ayudas para trabajar con ellos. Elegir un tramo, releerlo, escribir una explicación o conversar con alguien son decisiones prácticas. La Biblia no las reúne en una secuencia que todos deban cumplir de la misma manera.[^1]
 
-El propósito sigue siendo el de los capítulos anteriores: conocer a Dios, contemplar su carácter revelado en Cristo y responder a lo que comprendemos. Buscamos algo más que información, sin despreciarla. Morris Venden y Lee Venden han insistido en leer la Biblia para conocer personalmente a Jesús. Ese énfasis ayuda a recordar para qué estudiamos, leemos y oramos.[^2]
+El propósito sigue siendo conocer a Dios, contemplar su carácter revelado en Cristo y responder a lo que comprendemos. La información ayuda a conocer a alguien; cobra sentido dentro de esa relación. Así podemos leer la Biblia para conocer personalmente a Jesús.[^2]
 
 En este capítulo integro también recomendaciones de mi experiencia. Son herramientas que me ayudan, no reglas bíblicas para todos. Los recorridos por Santiago, los salmos y Lucas son ejemplos preparados para mostrar cómo leer y responder; no relatos de resultados que yo haya obtenido.
 
@@ -73,9 +73,7 @@ Conviene distinguir lo que **observamos** de lo que **interpretamos**. Observar 
 
 De la observación nacen preguntas: ¿qué ocurre?, ¿quién participa?, ¿dónde?, ¿cuándo?, ¿cómo? A mí me resultan especialmente productivas **¿por qué?** y **¿para qué?** ¿Por qué Jesús hizo esto? ¿Por qué no hizo aquello? ¿Para qué formuló esa pregunta? ¿Por qué respondió así? No siempre el texto revela sus motivos; una buena pregunta también permite reconocer lo que no podemos saber.
 
-Podemos preguntar como los niños, incluso aquello que parece obvio. A veces los adultos dejamos de mirar porque creemos que «ya sabemos». No descartes una pregunta por sencilla. Intentá responderla con el pasaje delante y dejá abierta la posibilidad de corregirte.
-
-Intentá responder con el texto delante. Después buscá qué parte podría poner en duda tu explicación. Si creés que un salmo promete resolver enseguida todo sufrimiento, mirá si realmente cuenta esa resolución. Si entendés que una enseñanza sólo pide cambios a los demás, examiná a quiénes incluye. Este regreso puede ampliar, precisar o descartar una idea.
+Podemos preguntar como los niños, incluso aquello que parece obvio. A veces los adultos dejamos de mirar porque creemos que «ya sabemos». No descartes una pregunta por sencilla. Intentá responderla con el texto delante. Después buscá qué parte podría poner en duda tu explicación. Si creés que un salmo promete resolver enseguida todo sufrimiento, mirá si realmente cuenta esa resolución. Si entendés que una enseñanza sólo pide cambios a los demás, examiná a quiénes incluye. Este regreso puede ampliar, precisar o descartar una idea.
 
 Las preguntas tampoco tienen que convertirse en un interrogatorio interminable. Cuando una relación se aclara, podemos permanecer considerando lo que muestra: qué dice de Dios, qué descubre de una conducta o por qué resulta difícil recibirla. Ahí el trabajo de comprender alimenta la meditación. Podemos pedir ayuda o responder mientras todavía seguimos leyendo.
 
@@ -181,7 +179,7 @@ Meditar es una actividad que podemos hacer con Dios. No hace falta separar artif
 
 Müller relata que, tras pedir brevemente la ayuda de Dios, comenzó a meditar en pequeñas porciones antes de una oración prolongada. Leía para alimentar su propio corazón, no primero para preparar sermones. Lo leído daba lugar a confesión, gratitud, intercesión y petición. Su testimonio muestra cómo meditación y oración pueden alimentarse mutuamente; no exige que todos oren en ese orden.[^22]
 
-El material de Diez días de oración de 2025, preparado por Pavel Goia, ofrece otra ayuda: responder en oración a las frases de un pasaje. En Lucas 11:1, la petición de aprender a orar da lugar a pedir esa enseñanza personalmente. Adaptamos el sentido comprendido, sin suponer que toda afirmación bíblica sea una promesa dirigida individualmente a nosotros.[^23]
+Otra posibilidad es responder en oración a las frases de un pasaje. En Lucas 11:1, la petición de aprender a orar puede orientar nuestra propia petición de ayuda.[^23] Adaptamos el sentido comprendido, sin suponer que toda afirmación bíblica sea una promesa dirigida individualmente a nosotros.
 
 El Salmo 143 ofrece un ejemplo. Quien ora está abrumado y pide ayuda. Recuerda las obras de Dios y, en los versículos 8–10, pide conocer el camino que debe seguir y aprender a hacer su voluntad. El recuerdo y la petición se encuentran, mientras la necesidad continúa.[^24]
 
@@ -189,9 +187,9 @@ Podemos observar esa relación y preguntar: ¿cómo pedir orientación sin afirm
 
 Si usamos las palabras exactas de un salmo, conviene conservar su sentido. Si las adaptamos, reconozcamos qué cambiamos. El Salmo 143 termina con una petición contra los enemigos de quien ora. Antes de hacerla nuestra, necesitamos examinar si estamos equiparando esos enemigos con alguien que simplemente nos disgusta. Podemos comprender la súplica urgente del poema sin adoptar cada una de sus palabras como nuestra respuesta inmediata.
 
-La oración puede decirse, escribirse o hacerse en silencio. A veces no aparecen palabras nuevas y permanecemos atentos a una petición ya leída. No hace falta fabricar un mensaje de Dios para completar ese momento. Una impresión que surja puede examinarse; su aparición durante la oración no la convierte por sí sola en una frase divina.
+La oración puede decirse, escribirse o hacerse en silencio. A veces permanecemos atentos a una petición ya leída. Admitir lo que todavía no comprendemos también es una respuesta sincera.[^25]
 
-La meditación puede dar combustible a la oración y la oración llevarnos otra vez al texto. Admitir lo que todavía no comprendemos también es una respuesta sincera, como señala Timothy Jennings.[^25]
+La meditación puede alimentar la oración y la oración llevarnos otra vez al texto. Más adelante veremos cómo examinar las impresiones que surjan.
 
 ## Rumiar: volver para asimilar
 
@@ -205,7 +203,7 @@ Si el bloque que reservaste se fue en dos versículos, no pasa nada. Podés dedi
 
 ## Conservar una enseñanza para volver durante el día
 
-Cuando conocemos el sentido de un pasaje, podemos retomarlo sin tenerlo abierto todo el tiempo. Recordar ofrece contenido para meditar; recitar puede acompañar esa atención. En Josué 1:8, la enseñanza en la boca se relaciona con meditar y actuar. Eso permite reconocer el lugar de las palabras expresadas, sin establecer un número de repeticiones.[^28]
+Cuando conocemos el sentido de un pasaje, podemos retomarlo sin tenerlo abierto todo el tiempo. Recordar ofrece contenido para meditar; decir las palabras puede acompañar esa atención, como vimos al leer Josué 1:8.[^28]
 
 Para practicarlo, leé primero una unidad. Elegí después una frase que puedas explicar y conservá su referencia. Si querés aprender las palabras exactas, usá una versión identificada: leé la frase, intentá decirla y compará lo que recordaste con el texto. Si preferís llevarte su sentido, formulá un resumen propio. En ambos casos importa volver a considerar lo que el pasaje comunica.
 
@@ -223,7 +221,7 @@ Desde mi fe cristiana, entiendo que el Espíritu Santo puede utilizar la Escritu
 
 Examinemos su relación con el pasaje, el carácter de Dios revelado en Cristo y el resto de las Escrituras. Consideremos también los hechos de la situación y las consecuencias de actuar. Podemos pedir consejo y tomarnos tiempo. Un impulso intenso no sustituye una evaluación responsable. La Escritura puede corregir incluso la primera interpretación que hicimos de nuestra emoción.
 
-Bullón relaciona meditar en la Palabra con examinar la propia vida. Su reflexión sobre Hageo 1:5 invita a mirar las actitudes a la luz de lo leído.[^30] Eso puede ayudarnos a preguntar qué necesitamos revisar, sin convertir cualquier malestar en prueba de culpa ni cualquier entusiasmo en aprobación divina.
+Ese examen incluye nuestras actitudes: ¿qué necesitamos revisar a la luz de lo leído?[^30] No todo malestar demuestra culpa ni todo entusiasmo confirma que una decisión sea buena.
 
 ## Dar una forma concreta a la respuesta
 
@@ -259,7 +257,7 @@ Elijan un mismo pasaje y den tiempo para que todos lo lean o escuchen antes de c
 
 Puede ayudar distinguir tres maneras de hablar: *el pasaje dice*, *entiendo que significa* y *en mi situación podría responder así*. Las tres tienen lugar, pero no afirman lo mismo. Una vivencia personal puede ser importante sin decidir por sí sola el significado para los demás.
 
-Volvamos al ejemplo de Santiago. Una persona nota el espejo y otra señala la advertencia sobre la lengua. Alguien concluye que lo único importante es actuar y que prestar atención no cuenta. El grupo puede volver al versículo 25, donde aparecen tanto permanecer como hacer, y corregir esa explicación. La conversación no necesita inventar una acusación contra ningún participante para tomar en serio la advertencia.
+En Santiago, por ejemplo, una persona puede notar el espejo y otra, la advertencia sobre la lengua. Al relacionar ambas observaciones con el versículo 25, el grupo considera cómo se unen atención y conducta. No necesita convertir esa conversación en una acusación contra algún participante.
 
 Si siguen entendiendo el pasaje de maneras distintas, precisen qué palabra o relación deben revisar. Consulten una nota o comentario que dé razones y permita saber quién lo escribió. No hace falta resolverlo por votación. Quien guía también puede tener que corregirse y debe poder mostrar sus razones.
 

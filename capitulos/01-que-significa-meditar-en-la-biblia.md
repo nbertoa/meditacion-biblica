@@ -193,7 +193,7 @@ Meditar puede ocurrir con un texto delante o a partir de algo ya recordado acerc
 
 Quienes meditan en estos textos no aparecen necesariamente apartados de todas sus responsabilidades. Josué debe conducir al pueblo; el salmista del Salmo 119 enfrenta oposición. La meditación aparece dentro de la vida, no fuera de ella.
 
-Cuando una palabra sigue con nosotros después de leerla, todavía queda por ver qué haremos con ella. La meditación comienza a tomar forma cuando le damos atención, buscamos comprenderla y permitimos que cuestione u oriente nuestra respuesta.
+Cuando una palabra sigue con nosotros después de leerla, todavía queda por ver qué haremos con ella. Darle atención y considerar su significado abre la siguiente pregunta: ¿para qué meditar y qué lugar puede tener en nuestra vida?
 
 ## Notas y fuentes
 

@@ -8,19 +8,13 @@ Al reunir los pasajes aparece un hilo común: **mantener presente lo conocido de
 
 ## Que la enseñanza llegue a la conducta
 
-En Josué 1:8, la finalidad está dicha con claridad. Josué debe mantener el libro de la Ley en su boca y meditar en él día y noche para actuar conforme a lo escrito. Volver una y otra vez a la enseñanza debe ayudarlo a decidir y actuar.[^1]
+En Josué 1:8, que leímos en el capítulo anterior, la finalidad está dicha con claridad: mantener presente la enseñanza para actuar conforme a ella.[^1] Al conducir al pueblo, Josué necesita una orientación que no dependa solamente de sus impulsos o de las presiones que encuentre.
 
-Josué está por conducir al pueblo después de la muerte de Moisés. Necesita valentía, pero también una orientación que no dependa solamente de su impulso o de las presiones que encuentre. Volver sobre la enseñanza forma parte de esa responsabilidad.
+Podemos aprender de ese vínculo entre atención y conducta sin apropiarnos de todas las promesas de su encargo. El éxito de aquella misión no se convierte en una garantía para cualquier proyecto nuestro.
 
-El texto relaciona esa fidelidad con el éxito de su misión. La promesa acompaña a Josué en una responsabilidad concreta; no asegura que cualquier persona que medite logrará todo lo que se proponga. Podemos aprender de su ejemplo a mantener presente una enseñanza para actuar de acuerdo con ella, sin hacer nuestras todas las promesas de su encargo.
+El Salmo 1 expresa esa orientación mediante el árbol junto al agua: una vida que recibe alimento y da fruto.[^2] Su retrato abarca lo que la persona ama, los consejos que escucha y el camino que sigue. Meditar forma parte de esa vida; el salmo no le atribuye por separado todos sus frutos.
 
-El Salmo 1 amplía la escena. Presenta dos caminos: dejarse orientar por el consejo de los malvados o encontrar gusto en la enseñanza de Dios y volver a ella habitualmente. La persona que medita es comparada con un árbol junto al agua, que da fruto a su tiempo y conserva sus hojas.[^2]
-
-El árbol recibe alimento y da fruto. Así presenta el poema una vida que se nutre de la enseñanza de Dios y encuentra en ella su orientación. Es una imagen de una vida fecunda y bien encaminada, no una garantía de ganancias ni de protección contra toda pérdida.
-
-El mismo libro de los Salmos contiene oraciones de personas fieles que sufren. Y el Salmo 119 muestra al salmista meditando mientras otros lo calumnian. Leer esos textos juntos impide convertir la imagen del árbol en una promesa de ausencia de dificultades.
-
-El retrato abarca lo que esa persona ama, los consejos que escucha y el camino que sigue. Meditar forma parte de esa vida; el salmo no le atribuye por separado todos sus frutos.
+La imagen tampoco promete protección contra toda pérdida. El mismo libro contiene oraciones de personas fieles que sufren; el Salmo 119 muestra a alguien meditando mientras otros lo calumnian. Una vida orientada por Dios puede atravesar dificultades.
 
 ## Comprender para elegir mejor
 
@@ -84,13 +78,11 @@ Estas acciones están relacionadas con la meditación, pero conservan su sentido
 
 ## Una expectativa proporcionada
 
-Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza, la alegría y el consuelo también aparecen en ese recorrido, sin borrar el sufrimiento. Son parte de una relación con Dios, no resultados asegurados por una práctica aislada.
-
-El alivio puede ser valioso. Su ausencia no convierte una reflexión en inútil, ni debería utilizarse para acusar a quien sigue angustiado. La práctica espiritual tampoco reemplaza la atención profesional cuando una persona la necesita.
+Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza y el consuelo pertenecen a esa relación con Dios; no son resultados asegurados por una práctica aislada. La práctica espiritual tampoco reemplaza la atención profesional cuando una persona la necesita.
 
 Volvamos entonces a la pregunta inicial. Según los textos examinados, meditar sirve para mantener presente lo que conocemos de Dios, comprenderlo mejor y dejar que oriente nuestra respuesta. En esa relación pueden aparecer comprensión, confianza, consuelo y una conducta distinta. También pueden permanecer dificultades y preguntas.
 
-El fruto que los pasajes buscan no se agota en cómo nos sentimos al terminar de pensar: importa qué hacemos con lo comprendido, cómo seguimos buscando y hacia dónde dirigimos nuestros pasos.
+El fruto que los pasajes buscan no se agota en cómo nos sentimos al terminar de pensar: importa qué hacemos con lo comprendido y hacia dónde dirigimos nuestros pasos. Otras prácticas también procuran orientar la vida. ¿En qué se parecen a esta atención bíblica y en qué se diferencian?
 
 ## Notas y fuentes
 

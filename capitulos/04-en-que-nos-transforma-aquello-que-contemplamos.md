@@ -136,13 +136,13 @@ Por eso, al meditar con las Escrituras, la pregunta no termina en cómo sostener
 
 ## La pregunta que llevamos a la lectura
 
-El próximo paso será concreto: cómo leer, detenernos en un pasaje, comprender y responder. Pero ahora sabemos por qué no alcanza con elegir un procedimiento y repetirlo.
-
 Los pasajes que recorrimos muestran por qué importa aquello a lo que prestamos atención, cómo lo comprendemos y cómo respondemos. La Biblia sitúa la transformación cristiana en una relación con el Señor, por su Espíritu y hacia su imagen. Por eso meditar con las Escrituras incluye estar dispuestos a que lo leído corrija incluso lo que suponíamos saber de Dios.
 
 Jonás conocía las palabras sobre la misericordia. Todavía tenía delante la pregunta por las personas a quienes esa misericordia alcanzaba.
 
 Al abrir la Biblia, la pregunta también nos alcanza: **¿qué clase de Dios estamos contemplando, y estamos dispuestos a parecernos a él?**
+
+Con esa pregunta presente, podemos dar el paso práctico: ¿cómo meditar concretamente con las Escrituras?
 
 ## Notas y fuentes
 
