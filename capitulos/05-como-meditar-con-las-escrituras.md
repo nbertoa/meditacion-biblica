@@ -37,7 +37,7 @@ No todos nos concentramos igual. Algunos piensan mejor sentados y quietos. A mí
 
 La lectura devocional no tiene como tarea principal preparar una tesis, una predicación o una presentación. Podés elegir una traducción fiel y comprensible, que te resulte cómoda de leer. Entre las opciones están Reina-Valera 1960, La Biblia de las Américas, Nueva Biblia de las Américas, Biblia Textual IV, Nueva Versión Internacional y Nueva Traducción Viviente.
 
-Las traducciones más **formales**, llamadas también literales, procuran conservar más de las palabras y estructuras del original. Las más **dinámicas** buscan expresar su sentido en formas naturales del idioma del lector. Son tendencias, no casilleros absolutos: toda traducción necesita interpretar y tomar decisiones. La NBLA mantiene un enfoque relativamente formal. La NTV emplea un enfoque más dinámico, combinado con recursos formales; es una traducción, no una simple paráfrasis. Una traducción más literal no siempre comunica mejor el sentido.[^4]
+Las traducciones más **formales**, llamadas también literales, procuran conservar más de las palabras y estructuras del original. Las más **dinámicas** buscan expresar su sentido en formas naturales del idioma del lector. Son tendencias, no casilleros absolutos: toda traducción necesita interpretar y tomar decisiones. La NBLA mantiene un enfoque relativamente formal. La NTV emplea un enfoque más dinámico, combinado con recursos formales; es una traducción, no una paráfrasis. Una traducción más literal no siempre comunica mejor el sentido.[^4]
 
 Comparar una misma historia en dos versiones puede renovar la atención. Si aparece una diferencia importante, habrá que examinarla; elegir la frase más agradable no decide cuál explica mejor el original. Más adelante veremos un ejemplo.
 
@@ -89,7 +89,7 @@ Para quien lee demasiado rápido, propongo una ayuda: después de conocer el con
 
 Un cuaderno, las notas del teléfono o una aplicación permiten conservar palabras desconocidas, detalles, observaciones, comparaciones y conexiones. También preguntas, posibles aplicaciones y personas que vienen a nuestra mente. No necesitamos redactar un comentario bíblico: una frase puede bastar. Distinguir «el texto dice», «pienso que significa» y «podría responder así» ayuda a revisar después.
 
-Müller cuenta que meditaba con pluma para precisar lo que entendía. Lo dice en un apartado sobre preparación para predicar. Podemos adaptar ese recurso a nuestra lectura personal, sin atribuirle un mandato general de llevar un diario devocional.[^7]
+George Müller cuenta que meditaba con pluma para precisar lo que entendía. Lo dice en un apartado sobre preparación para predicar. Podemos adaptar ese recurso a nuestra lectura personal, sin atribuirle un mandato general de llevar un diario devocional.[^7]
 
 ## Santiago: de escuchar a responder
 

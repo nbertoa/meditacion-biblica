@@ -81,7 +81,7 @@ Luego el poema recuerda la liberación de Israel y describe el camino de Dios a 
 
 No se trata simplemente de repetirse algo alentador. El salmista examina su experiencia a la luz de lo que conoce de Dios. Sus preguntas son difíciles precisamente porque toma en serio el amor y la fidelidad que antes ha reconocido.
 
-El salmo termina recordando que Dios condujo a su pueblo por medio de Moisés y Aarón. No relata una solución concreta al problema presente ni declara que la angustia haya desaparecido. Podemos reconocer un cambio de atención y una afirmación de la acción de Dios. No podemos medir el estado emocional final de quien habla.[^8]
+El salmo termina recordando que Dios condujo a su pueblo por medio de Moisés y Aarón. No relata una solución concreta al problema presente ni declara que la angustia haya desaparecido. Podemos reconocer un cambio de atención y una afirmación de la acción de Dios. El poema no dice cómo se sentía al terminar.[^8]
 
 Este pasaje ensancha nuestra comprensión: la reflexión sobre Dios puede convivir con preguntas, lamento y una búsqueda que todavía no ha encontrado todas las respuestas.
 
@@ -93,7 +93,7 @@ No necesitamos aprender una clasificación de cada término para seguir el poema
 
 En el versículo 15, meditar en los preceptos aparece junto con prestar atención a los caminos de Dios. En el 27, el salmista pide comprender esa enseñanza para reflexionar sobre sus maravillas. La reflexión y la petición de ayuda se encuentran en la misma oración.
 
-¿Qué son esas maravillas? Podríamos pensar enseguida en acontecimientos extraordinarios. Sin embargo, los versículos 18 y 27 permiten entender también lo admirable que el orante descubre en la enseñanza divina. El contexto permite esa lectura, sin reducir las maravillas a una sola clase de obra de Dios.[^9]
+¿Qué son esas maravillas? Podríamos pensar enseguida en acontecimientos extraordinarios. Sin embargo, los versículos 18 y 27 permiten entender también lo admirable que el salmista descubre en la enseñanza divina. El contexto permite esa lectura, sin reducir las maravillas a una sola clase de obra de Dios.[^9]
 
 El poema también muestra a alguien que medita mientras otros hablan contra él: ocurre en los versículos 23 y 78. La meditación no requiere una vida libre de conflictos. Se integra en una situación en la que la persona necesita orientación.
 
@@ -141,7 +141,7 @@ Una lectura puede convertirse en meditación mientras todavía leemos. El estudi
 
 Las distinciones son útiles para explicar qué hacemos, pero no constituyen cinco etapas que la Biblia ordene seguir siempre en ese orden.
 
-Pensemos en alguien que lee Salmo 119:59. Comprender que el orante examina su conducta es parte de la lectura y del estudio. Volver sobre esa idea y considerar su importancia para la propia vida se acerca a meditar. Pedir ayuda a Dios para corregir un camino es orar. El ejemplo ilustra cómo pueden encontrarse las actividades; no pretende establecer todavía un método completo.
+Pensemos en alguien que lee Salmo 119:59. Comprender que el salmista examina su conducta es parte de la lectura y del estudio. Volver sobre esa idea y considerar su importancia para la propia vida se acerca a meditar. Pedir ayuda a Dios para corregir un camino es orar. El ejemplo ilustra cómo pueden encontrarse las actividades; no pretende establecer todavía un método completo.
 
 ## ¿Y qué lugar tiene imaginar?
 

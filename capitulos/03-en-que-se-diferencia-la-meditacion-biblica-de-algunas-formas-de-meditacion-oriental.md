@@ -54,7 +54,7 @@ En esa absorción, es decir, al quedar la atención enteramente concentrada en e
 
 Esta meta no equivale a detenerse un poco para después pensar mejor. Forma parte de una comprensión de la liberación que veremos más adelante. En la meditación bíblica definida en este libro, en cambio, hacer que cese todo contenido mental no es la finalidad que reúne los pasajes. La enseñanza y las obras de Dios conservan su sentido para quien responde a ellas.
 
-El Yoga clásico relaciona esa cesación con el discernimiento: aprender a distinguir la conciencia de aquello que aparece en la mente. Reconoce formas válidas de conocimiento y distingue los contenidos que cesan de la conciencia. Más adelante veremos cómo entiende esa distinción.[^11]
+El Yoga clásico reconoce formas válidas de conocimiento. Relaciona la cesación con el discernimiento: aprender a distinguir la conciencia de aquello que aparece en la mente.[^11]
 
 ## Qué cambia cuando se repiten palabras
 
@@ -123,8 +123,6 @@ La expresión budista *no-yo* nos lleva a otra diferencia: cómo se entiende la 
 Podemos acercarnos a la pregunta con algo sencillo: tener una sensación agradable no permite ordenar que permanezca para siempre. La enseñanza lleva esa observación mucho más lejos que aconsejar paciencia. Cuestiona que identifiquemos esos componentes cambiantes con «mi yo» y nos aferremos a ellos. Dejar ese apego forma parte de la liberación que propone.
 
 Otro discurso lo ilustra con un carro: llamamos así al conjunto de sus partes. De manera semejante, podemos hablar de personas en el lenguaje cotidiano sin afirmar un núcleo independiente que nunca cambia.[^28]
-
-La enseñanza cuestiona, entonces, qué tomamos por «mi yo». Su alcance va más allá de reconocer que uno no es el centro de todo.
 
 El Yoga clásico presenta una explicación diferente. Distingue la conciencia, llamada *puruṣa*, de la naturaleza, a la que pertenecen también la mente y sus operaciones. Su liberación consiste en que esa conciencia quede libre de su confusión con la naturaleza. La cesación que describimos antes se entiende dentro de este recorrido.[^29]
 

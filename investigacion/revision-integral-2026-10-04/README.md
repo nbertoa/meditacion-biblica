@@ -25,7 +25,7 @@ Los expedientes anteriores conservan sus fechas, cifras y estados históricos. L
 | 1. Estructura | Recapitulaciones proporcionadas, transiciones C1→C2→C3→C4→C5, función propia de ejemplos y autores | `6165a8c` |
 | 2. Lenguaje | Frases y conceptos más claros; distinción de imaginación; voz personal documentada; menos anatomía y repeticiones | `400fff3` |
 | 3. Biblia y teología | Sal 63 como distinción pedagógica, comparador religioso explícito y apoyo contextual del discernimiento | `f75620e` |
-| 4. Documentación | Atribución NET, fuentes editoriales directas, glosa de nirvana, notas más útiles y soportes sincronizados | En integración |
-| 5. Lectura real | Relectura íntegra de C1–C5 y control de cómo empezar, dificultades y continuidad | Pendiente del cierre |
+| 4. Documentación | Atribución NET, fuentes editoriales directas, glosa de nirvana, notas más útiles y soportes sincronizados | `bb0f910` |
+| 5. Lectura real | Relectura íntegra posterior a la integración, siete retoques locales recotejados y controles finales sin errores | Cierre local; SHA identificado después de guardar |
 
 La publicación y recuperación remotas se registrarán después de comprobarlas. Un checkpoint local no acredita que main haya cambiado.

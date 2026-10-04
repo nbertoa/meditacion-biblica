@@ -1,10 +1,10 @@
 # Informe de revisión integral
 
-Fecha: 2026-10-04. Estado de este documento: cierre editorial en preparación; publicación todavía no comprobada. El [registro](README.md) identifica pasadas y comprobaciones.
+Fecha: 2026-10-04. Las cinco pasadas y los controles locales están completos; la publicación todavía no se da por comprobada. El [registro](README.md) identifica pasadas y comprobaciones.
 
 ## 1. Estado general
 
-Los cinco capítulos conservan la tesis, la definición central y la voz del libro. La edición reduce repeticiones y hace más clara la progresión desde qué significa meditar hasta cómo comenzar. Se preservan los consejos personales y los matices bíblicos. No se escribieron prólogo, introducción general nueva, epílogo ni capítulos adicionales.
+Los cinco capítulos están consolidados mediante cinco pasadas, incluida una relectura completa posterior a la integración. Conservan la tesis, la definición central y la voz del libro. La edición reduce repeticiones y hace más clara la progresión desde qué significa meditar hasta cómo comenzar. Se preservan los consejos personales y los matices bíblicos. No se escribieron prólogo, introducción general nueva, epílogo ni capítulos adicionales.
 
 ## 2. Cambios por capítulo
 

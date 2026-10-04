@@ -46,7 +46,7 @@ No apareció una formulación que exigiera sustituir la orientación teológica 
 
 ## Pasada 4 — Documentación
 
-**Estado:** integrada localmente; checkpoint se registra en el índice después de guardarlo.
+**Checkpoint:** `bb0f910`. Fuentes y soportes integrados, con control local sin errores.
 
 - C1 corrige NET: las notas explican recitación, mientras el texto consultado traduce memorizar.
 - C3 precisa *delusion* como confusión y evita que «pasión» se lea como cualquier entusiasmo. La discusión especializada de *sati* queda en nota; se identifica la Gītā al presentarla.
@@ -78,10 +78,37 @@ Las ocho funciones P01–P08 siguen presentes: observar/preguntar, parafrasear, 
 
 ## Pasada 5 — Lectura real
 
-Pendiente de registrar la relectura final completa de C1–C5 y sus notas después de la integración documental. No se sustituye por un diff ni por los controles de sintaxis. Se comprobarán las cinco preguntas del lector y el comienzo práctico de mañana.
+Se releyeron consecutivamente C1–C5 completos, con sus notas, después de la integración documental de `bb0f910`. La lectura se hizo desde las cinco preguntas del lector, no sólo sobre el diff. Produjo siete retoques locales, recotejados después dentro de sus secciones: «medir el estado emocional» pasa a «el poema no dice cómo se sentía»; dos usos de «orante» se vuelven «salmista»; se retiran dos reiteraciones de conciencia/no-yo en C3; se identifica a George Müller en su primera aparición; y se quita «simple» delante de paráfrasis. Ninguno amplía una afirmación o cambia su fuente.
+
+| Pregunta de lectura | Comprobación |
+|---|---|
+| ¿Entiende qué es? | C1 llega a una definición estable mediante pasajes; distingue actividades sin exigir lenguas originales |
+| ¿Entiende para qué? | C2 une conocimiento presente con comprensión, oración, confianza, decisiones y conducta, sin promesas de alivio automático |
+| ¿Entiende las diferencias? | C3 compara objetos, acciones, creencias y fines concretos; conserva semejanzas éticas y devocionales |
+| ¿Entiende por qué importa contemplar a Dios? | C4 sitúa transformación en el Señor, por el Espíritu y hacia Cristo, y examina también nuestra comprensión y respuesta |
+| ¿Sabe cómo empezar mañana? | C5 ofrece una unidad concreta y cuatro acciones flexibles antes de desarrollar herramientas. Permite volver al texto, preguntar, pedir ayuda o retomar otro día |
+
+El cierre de C5 puede leerse sin abrir anexos. Las notas documentan el argumento sin exigir que el lector siga el proceso de investigación. No se simuló una prueba con personas ni una grabación de audiolibro: fue lectura editorial atendiendo a comprensión y ritmo oral.
 
 ## Controles y límites
 
 Se dispone de control automatizado de los cinco archivos canónicos, notas y primera llamada, IDs bibliográficos —incluidos sufijos abreviados—, rutas y anclas relativas, conflictos y espacios. Un manifiesto de entrada permite comprobar qué archivos históricos permanecen idénticos. Los resultados finales y hashes se registran al cerrar la lectura, sobre la misma versión que se publique.
 
 El control externo de enlaces y sus fallos se describe por separado en [consultas](fuentes-consultadas.md#enlaces-y-límites-de-acceso). No equivale a lectura completa de todas las páginas ni a verificación de todos los enlaces científicos históricos. La publicación remota, recuperación y comparación de bytes son un paso posterior; no se presuponen.
+
+
+## Resultado local del cierre
+
+Controles sin errores: cinco capítulos, definición central conservada, notas completas y consecutivas por primera llamada, IDs bibliográficos presentes, enlaces/anclas relativos válidos, ausencia de conflictos y `git diff --check` limpio. Se conservan íntegros 53 de los 68 archivos iniciales; los demás tienen los cambios editoriales o adendas identificados. No se borró ningún archivo ni se reescribieron las auditorías históricas.
+
+| Capítulo | Palabras de cuerpo antes | Después | Notas | Llamadas | SHA-256 del manuscrito final |
+|---|---:|---:|---:|---:|---|
+| C1 | 3502 | 3413 | 14 | 15 | `38298486e1464d9642663ffa5e76bd5b3b8c7c1cdb12ad411b97ac99f66e34f5` |
+| C2 | 1830 | 1652 | 11 | 12 | `96c9879025f6d812851ed07e13a223f4a9382c2a6c1069206792946861cf361a` |
+| C3 | 3447 | 3375 | 30 | 31 | `52eec48ca906f3d28bf7289fd7f3bf85b699b6fb3ae77cce85fa75b5c45ca432` |
+| C4 | 3221 | 3159 | 19 | 20 | `188df8f7e5db067ab7ed81272ab88151220e22855a23bb02875034930fc6f0ae` |
+| C5 | 6393 | 6201 | 33 | 33 | `67c8f6c1d31b8b98408e71046eb4c3e48a38dd6f386c1ae26f177258195f861b` |
+
+Conteo por espacios antes de «Notas y fuentes», incluidos título y subtítulos. El cuerpo pasa de 18.393 a 17.800 palabras: una reducción aproximada del 3,2 %, no una reescritura para acortar a toda costa. Total: 107 notas y 111 llamadas; las reutilizaciones de una misma nota son legítimas. El inventario general conserva sus límites.
+
+Las rutas y anclas se comprueban de nuevo después de las constancias documentales, porque sus enlaces pueden aumentar el conteo sin cambiar los capítulos. La publicación y comparación remotas se documentarán tras realizarlas.
