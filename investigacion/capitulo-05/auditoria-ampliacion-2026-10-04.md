@@ -57,3 +57,11 @@ Resultado local: 68 archivos Markdown, 446 enlaces locales, 32 notas de C5, defi
 ## Cuestiones abiertas
 
 No quedó una cuestión esencial de este encargo sin resolver. Las atribuciones específicas sin evidencia se omitieron o acotaron. Permanecen abiertas la aprobación de lectura de esta versión por Nicolás y las decisiones generales del libro que no corresponden a esta ampliación. No se crean capítulos, formatos comerciales o testimonios ajenos al encargo.
+
+## Publicación y recuperación comprobadas
+
+El contenido de los nueve archivos quedó publicado en main mediante la conexión de GitHub en `2fd3637bf97ef786485d912dce841edb32a7e470`, árbol `0811efdb69077cc4d538e016b2b4029921f80c2d`. El intento previo de push por Git falló por falta de credenciales en el entorno; no fue un rechazo de aprobación. La publicación por la conexión creó el mismo árbol que el checkpoint local `7980d4d`, sin modificar contenido ni forzar referencias.
+
+El 2026-10-04 a las 16:52 UTC se recuperó origin/main mediante fetch y se comparó con los archivos locales, sin diferencias. El C5 recuperado tiene SHA-256 `5603f3df6e277ea244c1a22d002e6eabf213be6f81b897c4b80747d532947d85`. Se volvió a ejecutar el control estructural: 68 Markdown, 446 enlaces locales, 32 notas, definición literal y cero errores. `git diff --check` pasó; C1–C4 se compararon sin diferencias con `83b4fa9`. La rama local se alineó con el commit remoto del mismo contenido y el árbol quedó limpio.
+
+Esta constancia y su enlace en README se guardan después del commit de contenido. No se asigna al registro un hash autorreferencial ni se adjudica a las auditorías históricas la lectura del capítulo ampliado. La entrega comprende nueve archivos y sólo un manuscrito modificado, el C5 canónico.

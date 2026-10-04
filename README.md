@@ -30,6 +30,8 @@ Los cinco capítulos escritos tienen archivos canónicos separados. La revisión
 
 El capítulo 5 integra los 23 consejos personales aportados por Nicolás y fuentes verificadas de White, Müller, Bullón, Morris Venden, Lee Venden y Goia. Conserva la definición, los tres ejemplos bíblicos principales y las ocho funciones prácticas. Se amplían preparación, observación propia, oración, rumia, discernimiento y estudio posterior, con 32 notas renumeradas. C1–C4 no cambian.
 
+**Contenido publicado y recuperado desde main:** [2fd3637](https://github.com/nbertoa/meditacion-biblica/commit/2fd3637bf97ef786485d912dce841edb32a7e470), comprobado el 2026-10-04 a las 16:52 UTC, sin diferencias ni errores estructurales.
+
 El [expediente](investigacion/capitulo-05/ampliacion-practica-2026-10-04.md) registra fuentes, contextos y omisiones; la [auditoría](investigacion/capitulo-05/auditoria-ampliacion-2026-10-04.md) documenta las cinco pasadas. Los registros de ausencia de experiencias, preservación integral y 22 notas que siguen corresponden a las versiones anteriores. La revisión es asistida por IA; no constituye prueba con lectores ni aprobación editorial de la versión por el autor.
 
 ## Carpetas
