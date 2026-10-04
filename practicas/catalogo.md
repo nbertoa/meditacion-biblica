@@ -1,5 +1,8 @@
 # Catálogo de prácticas para meditar con las Escrituras
 
+> **Versión ampliada de C5 — 2026-10-04:** véase el [expediente nuevo](../investigacion/capitulo-05/ampliacion-practica-2026-10-04.md). Las constancias de las etapas anteriores describen sus fechas y versiones; los aportes personales actuales y las fuentes devocionales no estaban incorporados entonces.
+
+
 Actualización: 2026-10-02 UTC. **Ocho fichas investigadas, integradas en el actual C5 y revisadas en las pasadas documental/práctica, lenguaje, continuidad y final integral; ninguna probada con lectores ni aprobada editorialmente por el autor.** La [auditoría final](../investigacion/capitulo-05/auditoria-final.md), sobre `ecf0f988a234f665b1cbf4c17d76a0972c3cfd67`, conserva las ocho fichas y el manuscrito. Las seis etapas quedaron publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8` el 2026-10-02 a las 17:58–17:59 UTC, incluida la relectura completa del actual C5 con notas comunicada por coordinación. El contenido está listo para la revisión del autor. Cada registro posterior mantiene el estado histórico de su pasada. No hay experiencias personales disponibles: las ilustraciones son pedagógicas.
 
 El catálogo inicial contenía candidatos. Se conserva su trazabilidad abajo. Las fichas no forman una escalera obligatoria: pueden combinarse, superponerse o cambiar de orden. Actuar, orar, memorizar y meditar mantienen sus diferencias. Las condiciones, las secuencias y las duraciones sugeridas son ayudas actuales, no mandatos bíblicos ni dosis clínicas.
@@ -230,3 +233,7 @@ Se releyeron P01–P08 completas, sus doce componentes, todos los ejemplos y las
 ## Constancia posterior de cierre remoto del actual C5
 
 El contenido final de las seis etapas quedó publicado y recuperado en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. Coordinación confirmó comparación sin diferencias, control final sin errores/advertencias/avisos y relectura completa del actual C5 con notas desde origin/main el 2026-10-02 a las 17:58–17:59 UTC. C4 está listo para la revisión del autor. Este registro posterior no cambia el respaldo, los grados de acceso ni el estado de las prácticas; los pendientes anteriores conservan el contexto histórico de cada pasada. El punto 14 de la auditoría final distingue el commit de contenido comprobado del commit posterior de esta constancia.
+
+## Actualización práctica del 2026-10-04
+
+Nicolás aportó 23 recomendaciones personales para ampliar C5. La ausencia de experiencias señalada en los registros anteriores describe aquel momento. La [cobertura nueva](../investigacion/capitulo-05/ampliacion-practica-2026-10-04.md#cobertura-de-los-23-aportes-personales) añade tiempo, ambiente, soporte, notas, rumia, discernimiento e investigación posterior. Las fichas P01–P08 conservan su función y fundamento; sus ejemplos más extensos permanecen como respaldo de los recorridos abreviados del manuscrito. El consejo de observar antes de consultar admite ayuda temprana si una duda bloquea la comprensión. Las recomendaciones son opcionales, no un noveno método ni prácticas probadas. Fuente personal E y apoyo devocional D se distinguen del texto A y de su interpretación B.

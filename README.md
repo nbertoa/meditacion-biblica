@@ -26,6 +26,12 @@ Los cinco capítulos escritos tienen archivos canónicos separados. La revisión
 
 **Estado de esta revisión:** edición, relectura del conjunto y controles finales completados; contenido publicado y recuperado desde main en [2fe2b5c](https://github.com/nbertoa/meditacion-biblica/commit/2fe2b5c95b1afd414779a969449e5a776ab30531). El 2026-10-03 a las 18:55–18:56 UTC se comprobaron los tres checkpoints publicados, los 66 archivos recuperados y el control final sin diferencias ni errores. La aprobación editorial de lectura del autor sigue pendiente. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones. El [informe breve](investigacion/revision-editorial-2026-10-03/informe-autor.md) resume el resultado para el autor.
 
+## Ampliación práctica de C5 — 2026-10-04
+
+El capítulo 5 integra los 23 consejos personales aportados por Nicolás y fuentes verificadas de White, Müller, Bullón, Morris Venden, Lee Venden y Goia. Conserva la definición, los tres ejemplos bíblicos principales y las ocho funciones prácticas. Se amplían preparación, observación propia, oración, rumia, discernimiento y estudio posterior, con 32 notas renumeradas. C1–C4 no cambian.
+
+El [expediente](investigacion/capitulo-05/ampliacion-practica-2026-10-04.md) registra fuentes, contextos y omisiones; la [auditoría](investigacion/capitulo-05/auditoria-ampliacion-2026-10-04.md) documenta las cinco pasadas. Los registros de ausencia de experiencias, preservación integral y 22 notas que siguen corresponden a las versiones anteriores. La revisión es asistida por IA; no constituye prueba con lectores ni aprobación editorial de la versión por el autor.
+
 ## Carpetas
 
 - `INSTRUCCIONES_PROYECTO.md`: criterios vigentes, incluidas las decisiones del 2026-10-03

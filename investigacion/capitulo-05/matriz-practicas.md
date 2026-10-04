@@ -1,5 +1,8 @@
 # C5 — Matriz de afirmaciones y prácticas
 
+> **Versión ampliada de C5 — 2026-10-04:** véase el [expediente nuevo](ampliacion-practica-2026-10-04.md). Las constancias de las etapas anteriores describen sus fechas y versiones; los aportes personales actuales y las fuentes devocionales no estaban incorporados entonces.
+
+
 > **Nota de renumeración:** este material fue producido cuando «¿Cómo meditar con las Escrituras?» era el capítulo 4. Desde el 2026-10-02 pasa a ser el capítulo 5. Se conservan los IDs históricos `C4-*`, los hashes y las menciones de etapa para no romper la trazabilidad.
 
 Fecha: 2026-10-02 UTC. Matriz de 28 afirmaciones y ocho funciones, desarrollada en etapas 1–2 y cotejada en las pasadas documental, lenguaje, continuidad y [final integral](auditoria-final.md). El cierre local sobre `ecf0f988a234f665b1cbf4c17d76a0972c3cfd67` conserva afirmaciones, clasificación y localización sin cambiar el manuscrito. Las seis etapas quedaron publicadas y verificadas desde main en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8` el 2026-10-02 a las 17:58–17:59 UTC, incluida la relectura completa de C4 con notas comunicada por coordinación. El contenido está listo para la revisión del autor. Esta trazabilidad no demuestra eficacia o prueba con lectores.
@@ -93,3 +96,7 @@ La lectura crítica nueva verificó las 28 filas contra capítulo, notas y ficha
 ## Constancia posterior de cierre remoto de C4
 
 El contenido final de las seis etapas quedó publicado y recuperado en `8b3ee67a938d2be919b4a609b058cf1c1b3352c8`. Coordinación confirmó comparación sin diferencias, control final sin errores/advertencias/avisos y relectura completa de C4 con notas desde origin/main el 2026-10-02 a las 17:58–17:59 UTC. C4 está listo para la revisión del autor. Este registro posterior no cambia el respaldo, los grados de acceso ni el estado de las prácticas; los pendientes anteriores conservan el contexto histórico de cada pasada. El punto 14 de la auditoría final distingue el commit de contenido comprobado del commit posterior de esta constancia.
+
+## Cobertura vigente después de la ampliación del 2026-10-04
+
+Las tablas anteriores describen sus versiones históricas. La [matriz de los 23 aportes](ampliacion-practica-2026-10-04.md#cobertura-de-los-23-aportes-personales) completa la cobertura actual y distingue C/E de A/B/D. Se conservan las ocho funciones y todos los encabezados previos, por lo que sus enlaces siguen siendo útiles. Los tres ejemplos mayores se abrevian conservando observación, pregunta, interpretación, aplicación y límite; la mención de Samaria conserva tensiones sin generalizar a cada persona. Se añaden fuentes devocionales sin darles autoridad bíblica ni trasladar eficacia experimental. Las notas se renumeran por aparición; los números históricos pertenecen a las versiones auditadas entonces. Véase la [auditoría de ampliación](auditoria-ampliacion-2026-10-04.md).

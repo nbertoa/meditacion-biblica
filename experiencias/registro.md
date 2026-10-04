@@ -16,3 +16,11 @@ Este espacio es para relatos que comparta el autor. No completar con experiencia
 - **Posible uso en el libro:**
 
 Las experiencias muestran posibilidades, no prueban por sí mismas una interpretación ni garantizan el mismo resultado a otros lectores.
+
+## Aporte personal para C5 — 2026-10-04
+
+Procedencia: encargo directo de Nicolás para revisar y publicar C5, con 23 consejos. No se aportaron fechas de episodios, pasajes experimentados o resultados observados; no se inventan. El [expediente](../investigacion/capitulo-05/ampliacion-practica-2026-10-04.md#cobertura-de-los-23-aportes-personales) conserva su cobertura.
+
+Datos personales expresos utilizados: prefiere pensar caminando; usa bastante IA después del primer trabajo propio; llama «flechazos del corazón» a impresiones que pueden surgir al meditar. Recomienda reservar tiempo, herramientas cómodas, porciones pequeñas, preguntas, escritura, imaginación delimitada, lectura o escucha y revisión posterior. MyBible, ElevenReader y audio dramatizado son ejemplos autorizados, no se afirma que haya usado cada producto ni se narran éxitos.
+
+Su convicción sobre la posible acción del Espíritu se presenta como interpretación cristiana del autor, con examen de las impresiones. El permiso abarca integrar estas recomendaciones en C5; no autoriza fabricar testimonios, eficacia general o episodios biográficos.
