@@ -18,6 +18,8 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 
 Los cinco capítulos escritos tienen archivos canónicos separados y se revisan como una sola obra. La [consolidación integral del 2026-10-04](investigacion/revision-integral-2026-10-04/README.md) parte de la ampliación de C5 ya publicada ese día. Revisa estructura, lenguaje, Biblia y teología, documentación y lectura completa. C4 trata la transformación; el práctico es C5. El [informe actual](investigacion/revision-integral-2026-10-04/informe-autor.md) y la [auditoría](investigacion/revision-integral-2026-10-04/auditoria.md) distinguen trabajo local y publicación comprobada.
 
+**Estado de la consolidación del 2026-10-04:** cinco pasadas completas; contenido publicado y recuperado en [0998e93](https://github.com/nbertoa/meditacion-biblica/commit/0998e934bab03e66706c993d3a5b4371d6b4b794), con coincidencia de los 72 archivos y controles sin errores. La lectura y aprobación editorial del autor siguen pendientes.
+
 1. [¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
 2. [¿Para qué meditar?](capitulos/02-para-que-meditar.md)
 3. [¿En qué se diferencia la meditación bíblica de algunas formas de meditación oriental?](capitulos/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md)

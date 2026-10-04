@@ -1,6 +1,6 @@
 # Informe de revisión integral
 
-Fecha: 2026-10-04. Las cinco pasadas y los controles locales están completos; la publicación todavía no se da por comprobada. El [registro](README.md) identifica pasadas y comprobaciones.
+Fecha: 2026-10-04. Las cinco pasadas están completas y su contenido fue publicado y recuperado desde main en [0998e93](https://github.com/nbertoa/meditacion-biblica/commit/0998e934bab03e66706c993d3a5b4371d6b4b794). Los 72 archivos recuperados coinciden con el cierre revisado. El [registro](README.md) identifica pasadas y comprobaciones.
 
 ## 1. Estado general
 

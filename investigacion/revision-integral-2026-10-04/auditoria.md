@@ -1,12 +1,12 @@
 # Auditoría de consolidación del manuscrito
 
-Fecha: 2026-10-04. Base: `635fe22185bbae4804c20e8f5da384924cccfabf`. El encargo comprende los cinco capítulos como una obra. Este documento registra hallazgos y decisiones comprobables; no reproduce razonamientos privados ni convierte revisiones asistidas en lectura humana externa.
+Fecha: 2026-10-04. Base: `635fe22185bbae4804c20e8f5da384924cccfabf`. El encargo comprende los cinco capítulos como una obra. Este documento registra hallazgos y decisiones comprobables. La revisión es asistida por IA y no equivale a una lectura humana externa.
 
 ## Lectura de entrada y distribución del trabajo
 
 Se recuperó el repositorio actual y se identificaron 68 archivos Markdown. Se leyeron README, instrucciones, AGENTS, plan, registro de experiencias, plantilla, cinco capítulos completos con sus notas, registro bibliográfico y catálogo. La revisión de soportes cubrió los cinco expedientes centrales, el inventario léxico, los nueve archivos de C2, los doce de C3, los once de C4 transformación y todos los de C5, incluidas la ampliación y auditoría del 4 de octubre. Los registros editoriales del 3 de octubre se utilizaron para preservar las decisiones vigentes y no reinstalar material descartado.
 
-Hubo auditorías focales en roles separados sobre C1/C2, comparación, Biblia/transformación y prácticas/testimonios. La integración de escritura fue única. Cada revisión distinguió los documentos del repositorio de los originales realmente reabiertos, individualizados en [consultas y límites](fuentes-consultadas.md). La revisión no es una nueva investigación exhaustiva de toda la bibliografía científica histórica.
+Se realizaron controles focales sobre C1/C2, comparación, Biblia/transformación y prácticas/testimonios. Se distinguieron los documentos del repositorio de los originales realmente reabiertos, individualizados en [consultas y límites](fuentes-consultadas.md). La revisión no es una nueva investigación exhaustiva de toda la bibliografía científica histórica.
 
 ## Pasada 1 — Estructura
 
@@ -111,4 +111,13 @@ Controles sin errores: cinco capítulos, definición central conservada, notas c
 
 Conteo por espacios antes de «Notas y fuentes», incluidos título y subtítulos. El cuerpo pasa de 18.393 a 17.800 palabras: una reducción aproximada del 3,2 %, no una reescritura para acortar a toda costa. Total: 107 notas y 111 llamadas; las reutilizaciones de una misma nota son legítimas. El inventario general conserva sus límites.
 
-Las rutas y anclas se comprueban de nuevo después de las constancias documentales, porque sus enlaces pueden aumentar el conteo sin cambiar los capítulos. La publicación y comparación remotas se documentarán tras realizarlas.
+Las rutas y anclas se comprueban de nuevo después de las constancias documentales, porque sus enlaces pueden aumentar el conteo sin cambiar los capítulos.
+
+
+## Recuperación y comprobación remotas
+
+El 2026-10-04 a las 18:32 UTC se recuperó `origin/main` en `0998e934bab03e66706c993d3a5b4371d6b4b794`, con árbol `dab56f8852ead48d3f96504aaf15098738ee5c3d`. Los 72 archivos coinciden byte por byte con el cierre local `51c1690`; los cinco manuscritos conservan los hashes de la tabla. La correspondencia de checkpoints publicados está en el [índice](README.md#publicación-y-recuperación-comprobadas). Se verificó main antes de actualizarlo y se usó avance normal, sin force.
+
+El control local regenerado sobre el snapshot de cierre devolvió cero errores, 465 enlaces relativos y 53 anclas válidas; 107 notas y 111 llamadas. La comprobación externa final abarcó 62 destinos distintos del manuscrito: 59 HTTP 200 y tres HTTP 403, con las limitaciones y vías de consulta declaradas en el [registro de fuentes](fuentes-consultadas.md#enlaces-y-límites-de-acceso). No se confunde el shell HTTP 200 de Gita Supersite con su lector bloqueado.
+
+La constancia posterior modifica únicamente documentación de estado y comprobación; no cambia el contenido bíblico, las fuentes utilizadas ni los manuscritos. No se presenta el permiso de publicación como aprobación editorial del autor.

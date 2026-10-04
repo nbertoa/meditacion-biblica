@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** cinco capítulos escritos, con ampliación práctica de C5 publicada el 2026-10-04. La [consolidación integral de ese día](../investigacion/revision-integral-2026-10-04/README.md) revisa el conjunto con cinco pasadas; su registro distingue edición y recuperación remota. La aprobación editorial del autor sigue pendiente. Los cierres anteriores y la antigua numeración C4 del práctico conservan su alcance histórico; el práctico vigente es C5.
+**Estado:** cinco capítulos escritos, con ampliación práctica de C5 publicada el 2026-10-04. La [consolidación integral de ese día](../investigacion/revision-integral-2026-10-04/README.md) completó cinco pasadas y quedó publicada y recuperada en `0998e934bab03e66706c993d3a5b4371d6b4b794`, con 72 archivos idénticos al cierre revisado. La aprobación editorial del autor sigue pendiente. Los cierres anteriores y la antigua numeración C4 del práctico conservan su alcance histórico; el práctico vigente es C5.
 
 ## Estructura marco
 

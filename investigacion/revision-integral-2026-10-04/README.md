@@ -26,6 +26,20 @@ Los expedientes anteriores conservan sus fechas, cifras y estados históricos. L
 | 2. Lenguaje | Frases y conceptos más claros; distinción de imaginación; voz personal documentada; menos anatomía y repeticiones | `400fff3` |
 | 3. Biblia y teología | Sal 63 como distinción pedagógica, comparador religioso explícito y apoyo contextual del discernimiento | `f75620e` |
 | 4. Documentación | Atribución NET, fuentes editoriales directas, glosa de nirvana, notas más útiles y soportes sincronizados | `bb0f910` |
-| 5. Lectura real | Relectura íntegra posterior a la integración, siete retoques locales recotejados y controles finales sin errores | Cierre local; SHA identificado después de guardar |
+| 5. Lectura real | Relectura íntegra posterior a la integración, siete retoques locales recotejados y controles finales sin errores | `51c1690` |
 
-La publicación y recuperación remotas se registrarán después de comprobarlas. Un checkpoint local no acredita que main haya cambiado.
+## Publicación y recuperación comprobadas
+
+El contenido de las cinco pasadas se publicó y recuperó desde main el 2026-10-04 a las 18:32 UTC, en [0998e93](https://github.com/nbertoa/meditacion-biblica/commit/0998e934bab03e66706c993d3a5b4371d6b4b794). Árbol: `dab56f8852ead48d3f96504aaf15098738ee5c3d`, idéntico al cierre local `51c1690`. Se compararon los 72 archivos recuperados, byte por byte: cero diferencias. Los cinco árboles publicados coinciden con sus checkpoints locales.
+
+| Pasada | Snapshot local | Commit publicado |
+|---|---|---|
+| Estructura | `6165a8c` | `a5687d449e876d12bf9ab1a7eabe93709a8d1ad6` |
+| Lenguaje | `400fff3` | `303a2472ab24ba5c30dd43a5b7599e5f35c63452` |
+| Biblia y teología | `f75620e` | `e4581fbe68c860327ea410776ff5c47568b73a35` |
+| Documentación | `bb0f910` | `0920d11c6490a254a43fc80c936d4575cd64a55b` |
+| Lectura integral y cierre | `51c1690` | `0998e934bab03e66706c993d3a5b4371d6b4b794` |
+
+El transporte git permitió leer, pero el push no tenía autenticación configurada. Se publicaron los mismos árboles mediante el conector autorizado y se actualizó main sin force, después de comprobar que seguía en la base prevista. El fetch posterior confirma la actualización efectiva, no sólo la creación de objetos. No se solicitó ni extrajo una credencial.
+
+Esta constancia posterior actualiza estados y conserva los manuscritos exactos del contenido verificado. La aprobación editorial de lectura del autor sigue pendiente.
