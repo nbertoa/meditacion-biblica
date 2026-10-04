@@ -1,6 +1,10 @@
 # Guía para agentes y colaboradores
 
-## Prioridad vigente: revisión editorial transversal del 2026-10-03
+## Prioridad vigente: consolidación integral del 2026-10-04
+
+El autor pidió revisar los cinco capítulos como una sola obra, con cinco pasadas y aplicación directa de mejoras editoriales, bíblicas, teológicas, metodológicas y documentales. Rigen sus criterios de lenguaje para lectores sin formación teológica, voz personal comprobada, comparación por prácticas concretas y superioridad expresamente teológica. Consultar las nuevas decisiones de `INSTRUCCIONES_PROYECTO.md` y `investigacion/revision-integral-2026-10-04/README.md`. No escribir prólogo, introducción general nueva, epílogo ni capítulos adicionales. Los registros siguientes conservan su alcance histórico.
+
+## Registro de la revisión editorial transversal del 2026-10-03
 
 El autor encargó revisar **los cinco capítulos ya escritos**, sus notas, referencias y transiciones, y registrar criterios para los futuros. Lee primero la sección de decisiones del 2026-10-03 en `INSTRUCCIONES_PROYECTO.md` y el encargo íntegro en `investigacion/revision-editorial-2026-10-03/encargo-autor.md`. Esas decisiones reemplazan las incompatibles de los registros siguientes, que se conservan como historia.
 

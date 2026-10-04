@@ -237,3 +237,7 @@ El contenido final de las seis etapas quedó publicado y recuperado en `8b3ee67a
 ## Actualización práctica del 2026-10-04
 
 Nicolás aportó 23 recomendaciones personales para ampliar C5. La ausencia de experiencias señalada en los registros anteriores describe aquel momento. La [cobertura nueva](../investigacion/capitulo-05/ampliacion-practica-2026-10-04.md#cobertura-de-los-23-aportes-personales) añade tiempo, ambiente, soporte, notas, rumia, discernimiento e investigación posterior. Las fichas P01–P08 conservan su función y fundamento; sus ejemplos más extensos permanecen como respaldo de los recorridos abreviados del manuscrito. El consejo de observar antes de consultar admite ayuda temprana si una duda bloquea la comprensión. Las recomendaciones son opcionales, no un noveno método ni prácticas probadas. Fuente personal E y apoyo devocional D se distinguen del texto A y de su interpretación B.
+
+## Consolidación integral del 2026-10-04
+
+Las ocho funciones P01–P08 y los 23 aportes personales se conservan en el manuscrito revisado. Se abrevia repetición, sin retirar preguntas, variantes ni resguardos. El discernimiento de impresiones recibe apoyo bíblico contextual explícito; sigue siendo una aplicación razonada, no un método de certificación de revelaciones. En P02, comprobar con el original significa volver a los versículos leídos, no exigir hebreo o griego al principiante. El [control actual](../investigacion/revision-integral-2026-10-04/auditoria.md) registra cobertura y límites. Las fichas y constancias anteriores conservan su fecha.

@@ -28,7 +28,7 @@ El versículo 8 reúne tres elementos: el libro de la Ley debe permanecer en su 
 
 La referencia a la boca merece atención: la enseñanza debe estar presente también en las palabras de Josué.
 
-La unión entre la “boca” y *hāgâ* encaja bien con leer o recitar el texto para uno mismo, quizá en voz baja. La NET Bible traduce el verbo en esa dirección, y el estudio de Boyd-Taylor muestra por qué recitación y reflexión no tienen por qué excluirse.[^2]
+La unión entre la “boca” y *hāgâ* encaja bien con leer o recitar el texto para uno mismo, quizá en voz baja. Las notas de la NET Bible explican el verbo en esa dirección, y el estudio de Boyd-Taylor muestra por qué recitación y reflexión no tienen por qué excluirse.[^2]
 
 La finalidad está expresada en el propio versículo: mantener la enseñanza presente para cumplirla. El punto no es cuánto se oía la voz de Josué, sino cómo esa atención lo prepara para conducir al pueblo y tomar decisiones.
 
@@ -161,7 +161,7 @@ La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayud
 
 Hechos 4:25, por ejemplo, lo emplea al citar Salmo 2:1 sobre los planes inútiles de los pueblos. Y en 1 Timoteo 4:15 aparece dentro de instrucciones a Timoteo sobre conducta, lectura pública, enseñanza y ministerio. Allí puede abarcar ocuparse de esas responsabilidades, practicarlas o dedicarles atención; no describe sin más una sesión silenciosa de meditación.[^13]
 
-Hay otros textos que se parecen en la acción, aunque usan palabras diferentes. Lucas 2:19 presenta a María conservando lo ocurrido en su corazón. El verbo que suele traducirse como *ponderar* o *reflexionar* también se ha entendido como poner esas cosas en relación para comprenderlas. Su sentido preciso se discute. El pasaje relaciona atención y comprensión, sin demostrar que Lucas describa la misma práctica de Josué 1 o Salmo 1.[^14]
+Hay otros textos que se parecen en la acción, aunque usan palabras diferentes. Lucas 2:19 presenta a María conservando lo ocurrido y reflexionando sobre ello en su corazón. Este segundo verbo suele traducirse como *ponderar* o *reflexionar*, pero también se ha entendido como poner esas cosas en relación para comprenderlas. Su sentido preciso se discute. El pasaje relaciona atención y comprensión, sin demostrar que Lucas describa la misma práctica de Josué 1 o Salmo 1.[^14]
 
 Más adelante, Lucas dice que los padres de Jesús no comprendieron una respuesta suya y que su madre conservaba esas cosas en el corazón (2:50-51). Guardar algo interiormente no exige haberlo entendido por completo.
 

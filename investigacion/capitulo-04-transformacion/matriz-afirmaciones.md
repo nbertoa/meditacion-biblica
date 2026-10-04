@@ -64,3 +64,7 @@ A05 conserva exactitud frente a índice atencional combinado y precisa el promed
 ## Actualización de etapa 7
 
 A36 explicita el criterio de superioridad y su comparador, incluida la exclusión de una jerarquía entre todas las prácticas cristianas dirigidas al mismo Cristo. A38 exige revisar interpretación, enseñanza y práctica cuando legitiman daño; no inmuniza el método culpando al lector. La prueba de retirar el bloque científico deja en pie el argumento teológico; retirar sus premisas no permite reconstruirlo desde ReSource. La ley psicológica universal no sobrevivió y no se recupera con otra formulación.
+
+## Precisión de alcance del 2026-10-04
+
+La conclusión de superioridad mantiene su contenido y explicita en el cuerpo que compara orientaciones religiosas. No clasifica cualquier actividad cotidiana, ayuda para concentrarse ni todas las formas cristianas de oración o servicio. La iniciativa del Espíritu, la alternativa contemplar/reflejar y el criterio de semejanza con Cristo permanecen. El [registro integral](../revision-integral-2026-10-04/auditoria.md) documenta este ajuste y la simplificación sin reescribir la matriz histórica.

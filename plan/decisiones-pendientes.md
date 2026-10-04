@@ -1,7 +1,7 @@
 # Diseño del libro — estructura marco y decisiones pendientes
 
 **Título elegido:** *¿Qué significa meditar en la Biblia?*  
-**Estado:** cinco capítulos escritos; revisión transversal del 2026-10-03 terminada, publicada y recuperada desde main en `2fe2b5c95b1afd414779a969449e5a776ab30531`, con comprobación final el 2026-10-03 a las 18:55–18:56 UTC. La revisión editorial de lectura del autor y las decisiones generales siguen abiertas. Los cierres anteriores en main y la antigua numeración C4 del práctico conservan su alcance histórico; el capítulo práctico vigente es C5.
+**Estado:** cinco capítulos escritos, con ampliación práctica de C5 publicada el 2026-10-04. La [consolidación integral de ese día](../investigacion/revision-integral-2026-10-04/README.md) revisa el conjunto con cinco pasadas; su registro distingue edición y recuperación remota. La aprobación editorial del autor sigue pendiente. Los cierres anteriores y la antigua numeración C4 del práctico conservan su alcance histórico; el práctico vigente es C5.
 
 ## Estructura marco
 
@@ -21,23 +21,26 @@ El autor confirmó una propuesta positiva, cristiana monoteísta y respetuosa. L
 
 El encargo actual es revisar los cinco capítulos existentes, no escribir otros. Véanse las [instrucciones vigentes](../INSTRUCCIONES_PROYECTO.md#decisiones-editoriales-vigentes-para-todo-el-libro--2026-10-03), el [encargo íntegro](../investigacion/revision-editorial-2026-10-03/encargo-autor.md) y el [registro de revisión](../investigacion/revision-editorial-2026-10-03/README.md).
 
+## Decisiones vigentes del 2026-10-04
+
+El lector de referencia es una persona sin formación teológica que quiere aprender a meditar con la Biblia. El libro conserva orientación cristiana sin volverse denominacional. Se consolidan los cinco capítulos existentes como un recorrido; prólogo, introducción general nueva y epílogo quedan expresamente para después. Los consejos personales son opciones, no mandatos bíblicos ni resultados probados. La definición central permanece intacta. Véanse las [instrucciones actualizadas](../INSTRUCCIONES_PROYECTO.md#consolidación-de-los-cinco-capítulos--2026-10-04).
+
 ## Líneas de investigación posibles
 
 - En el capítulo sobre **para qué meditar**, estudiar los propósitos y frutos que presentan los textos bíblicos. También se podría investigar qué beneficios atribuyen la psicología y la neurociencia a prácticas de meditación bíblica, si existen estudios pertinentes.
 - En el capítulo comparativo, examinar afirmaciones sobre beneficios, límites o posibles problemas asociados con prácticas específicas de meditación oriental, sin asumir que todas son iguales ni dar por probado de antemano que sean dañinas.
 - Distinguir estudios de meditación bíblica explícita de estudios sobre mindfulness, relajación u otras prácticas. No trasladar automáticamente sus resultados de una práctica a otra.
 
-## Aspectos por definir durante el proceso
+## Pendientes después de consolidar el cuerpo
 
-1. **Lector y propósito:** qué espera el autor que comprenda o pueda hacer el lector, y para quién se escribe.
-2. **Alcance léxico:** qué significa investigar todas las palabras; qué lenguas, corpus, traducciones y expresiones relacionadas entran.
-3. **Metodología:** cómo se estudiarán las palabras, los pasajes, las prácticas, el material de Timothy Jennings y las experiencias personales.
-4. **Criterios de evidencia:** rige el umbral editorial confirmado el 2026-10-03; quedan por resolver las preguntas documentales concretas que surjan, sin trasladar toda la auditoría al lector.
-5. **Comparación:** qué tradiciones y prácticas específicas se compararán.
-6. **Investigación científica:** qué preguntas concretas se harán y cómo se distinguirán evidencia clínica, interpretación y afirmaciones teológicas.
-7. **Experiencias personales:** qué relatos aportará el autor y cómo se distinguirán de las conclusiones bíblicas.
-8. **Tono y formato:** nivel de profundidad, lenguaje, extensión y uso de ejercicios o guías.
-9. **Desarrollo de los ejes:** qué apartados o capítulos hacen falta, a medida que avance la investigación.
+1. **Lectura del autor:** confirmar que la voz, la extensión y los consejos personales representan lo que quiere publicar. La revisión asistida no sustituye esa lectura.
+2. **Traducción bíblica de referencia:** los capítulos usan principalmente paráfrasis propias y atribuyen las citas breves. No se eligió una versión única ni una edición para la publicación final.
+3. **Inventario léxico:** sigue delimitado e incompleto. Decidir si el proyecto necesita completarlo; el libro no debe presentarse como concordancia exhaustiva.
+4. **Fuentes parciales:** conservar sus límites y completar sólo las consultas que lleguen a sostener una afirmación más fuerte. Los libros o cadenas omitidos del manuscrito no bloquean su uso actual.
+5. **Preguntas teológicas mayores:** juicio, violencia, cruz, perdón y sufrimiento siguen abiertos para estudio posterior. El capítulo 4 ofrece un criterio cristológico, no una solución exhaustiva.
+6. **Prólogo y epílogo:** escribirlos después de aprobar el cuerpo, según el recorrido real. El informe de esta revisión distingue qué conviene resolver antes y qué recordar al cerrar.
+
+El lector, la progresión de los cinco capítulos, la comparación por prácticas concretas y el criterio editorial de evidencia ya están definidos para este encargo; no siguen pendientes por aparecer así en un registro antiguo.
 
 ## Materiales de trabajo
 

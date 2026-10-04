@@ -16,7 +16,7 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 
 ## Manuscrito vigente
 
-Los cinco capítulos escritos tienen archivos canónicos separados. La revisión transversal del 2026-10-03 aplica las nuevas decisiones del autor a todos ellos, con notas, transiciones y referencias. C4 es el capítulo sobre transformación; el práctico es C5.
+Los cinco capítulos escritos tienen archivos canónicos separados y se revisan como una sola obra. La [consolidación integral del 2026-10-04](investigacion/revision-integral-2026-10-04/README.md) parte de la ampliación de C5 ya publicada ese día. Revisa estructura, lenguaje, Biblia y teología, documentación y lectura completa. C4 trata la transformación; el práctico es C5. El [informe actual](investigacion/revision-integral-2026-10-04/informe-autor.md) y la [auditoría](investigacion/revision-integral-2026-10-04/auditoria.md) distinguen trabajo local y publicación comprobada.
 
 1. [¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
 2. [¿Para qué meditar?](capitulos/02-para-que-meditar.md)
@@ -24,7 +24,7 @@ Los cinco capítulos escritos tienen archivos canónicos separados. La revisión
 4. [¿En qué nos transforma aquello que contemplamos?](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md)
 5. [¿Cómo meditar con las Escrituras?](capitulos/05-como-meditar-con-las-escrituras.md)
 
-**Estado de esta revisión:** edición, relectura del conjunto y controles finales completados; contenido publicado y recuperado desde main en [2fe2b5c](https://github.com/nbertoa/meditacion-biblica/commit/2fe2b5c95b1afd414779a969449e5a776ab30531). El 2026-10-03 a las 18:55–18:56 UTC se comprobaron los tres checkpoints publicados, los 66 archivos recuperados y el control final sin diferencias ni errores. La aprobación editorial de lectura del autor sigue pendiente. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones. El [informe breve](investigacion/revision-editorial-2026-10-03/informe-autor.md) resume el resultado para el autor.
+**Estado de la revisión histórica del 2026-10-03:** edición, relectura del conjunto y controles finales completados; contenido publicado y recuperado desde main en [2fe2b5c](https://github.com/nbertoa/meditacion-biblica/commit/2fe2b5c95b1afd414779a969449e5a776ab30531). El 2026-10-03 a las 18:55–18:56 UTC se comprobaron los tres checkpoints publicados, los 66 archivos recuperados y el control final sin diferencias ni errores. La aprobación editorial de lectura del autor sigue pendiente. La base recuperada fue `ed201198a9aed210429b4e66e417f5467db7d1f0`. La [revisión transversal](investigacion/revision-editorial-2026-10-03/README.md) registra pasadas, fuentes incluidas u omitidas y comprobaciones. El [informe breve](investigacion/revision-editorial-2026-10-03/informe-autor.md) resume el resultado para el autor.
 
 ## Ampliación práctica de C5 — 2026-10-04
 
@@ -37,7 +37,7 @@ El [expediente](investigacion/capitulo-05/ampliacion-practica-2026-10-04.md) reg
 ## Carpetas
 
 - `INSTRUCCIONES_PROYECTO.md`: criterios vigentes, incluidas las decisiones del 2026-10-03
-- `plan/decisiones-pendientes.md`: estructura, decisiones confirmadas e historial; público, denominación específica e inventario léxico siguen abiertos
+- `plan/decisiones-pendientes.md`: estructura, decisiones confirmadas e historial; lector sin formación teológica y orientación no denominacional confirmados; versión de referencia, aprobación de lectura e inventario léxico siguen abiertos
 - `capitulos/`: cinco manuscritos escritos y plantilla; no hay Prólogo o Epílogo redactados
 - `investigacion/`: expedientes, matrices y auditorías; se conservan los registros anteriores íntegros
 - `fuentes/registro-bibliografico.md`: fuentes consultadas, límites y accesos, incluidas las que ya no aparecen en el manuscrito

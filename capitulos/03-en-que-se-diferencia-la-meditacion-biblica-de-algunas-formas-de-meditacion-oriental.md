@@ -54,7 +54,7 @@ En esa absorción, es decir, al quedar la atención enteramente concentrada en e
 
 Esta meta no equivale a detenerse un poco para después pensar mejor. Forma parte de una comprensión de la liberación que veremos más adelante. En la meditación bíblica definida en este libro, en cambio, hacer que cese todo contenido mental no es la finalidad que reúne los pasajes. La enseñanza y las obras de Dios conservan su sentido para quien responde a ellas.
 
-El Yoga clásico relaciona esa cesación con el discernimiento: aprender a distinguir la conciencia de aquello que aparece en la mente. Reconoce formas válidas de conocimiento; detener esos contenidos no significa, para este sistema, destruir la conciencia. Más adelante veremos cómo entiende esa distinción.[^11]
+El Yoga clásico relaciona esa cesación con el discernimiento: aprender a distinguir la conciencia de aquello que aparece en la mente. Reconoce formas válidas de conocimiento y distingue los contenidos que cesan de la conciencia. Más adelante veremos cómo entiende esa distinción.[^11]
 
 ## Qué cambia cuando se repiten palabras
 
@@ -82,7 +82,7 @@ Un ejemplo ayuda a distinguir las acciones. Advertir que estoy enojado no equiva
 
 MBSR tiene raíces budistas que su fundador reconoce. Él lo vincula además con aliviar el sufrimiento y cultivar sabiduría y compasión. Al llevar prácticas contemplativas a la medicina, también cambió su contexto y su presentación. El programa no exige que sus participantes profesen el budismo. Se trata de una adaptación contemporánea con raíces e intenciones identificables.[^18]
 
-En los discursos pali, la facultad llamada *sati* se relaciona también con recordar y mantener presente la orientación del entrenamiento. Su relación exacta con memoria y comprensión es discutida por los especialistas. Lo que sí resulta claro en los textos es que forma parte de un camino donde se distinguen intenciones, palabras y acciones que deben abandonarse o cultivarse.[^19]
+En los discursos pali, la atención llamada *sati* también se relaciona con recordar y mantener presente lo aprendido. Forma parte de un camino donde se distinguen intenciones, palabras y acciones que deben abandonarse o cultivarse.[^19]
 
 Algo semejante ocurre con la instrucción Sōtō de suspender distinciones durante la sentada. Su tradición conserva preceptos contra matar, robar y mentir, y habla de decisiones morales en la vida diaria. Los *Yoga Sūtras*, por su parte, incluyen obligaciones como no dañar y decir la verdad. Ante pensamientos contrarios a esas obligaciones, proponen cultivar una orientación opuesta y considerar sus consecuencias.[^20]
 
@@ -102,11 +102,11 @@ Desde la fe cristiana que orienta este libro, hay un solo Dios. Las divinidades 
 
 El recuerdo budista de las cualidades del Buda permite reconocer una semejanza de atención y confianza, dentro de una relación religiosa diferente. En ese discurso, el Buda es presentado como maestro de seres humanos y divinos. El camino de los textos pali examinados no se funda en responder a un Dios creador como el de los pasajes bíblicos. Es un camino no teísta en ese sentido, aunque los propios textos hablan de seres divinos, llamados *devas*.[^23]
 
-También el fin es distinto. Un discurso define el *nirvana* mediante el fin de la pasión, la aversión y el engaño. Dentro de ese marco, la liberación incluye terminar con el ciclo de renacimientos. Esa es la meta religiosa en la que se inscriben las prácticas descritas.[^24]
+También el fin es distinto. Un discurso describe el *nirvana* como el fin de la avidez, la aversión y la confusión. Dentro de ese marco, la liberación incluye terminar con el ciclo de renacimientos. Esa es la meta religiosa en la que se inscriben las prácticas descritas.[^24]
 
 Dentro de ese camino, recordar cualidades, reconocer un obstáculo y concentrarse profundamente tienen funciones diferentes. En el Sōtō de Dōgen, además, la meditación sentada no se concibe simplemente como un medio que se abandona después de alcanzar el despertar. La práctica y el despertar se entienden como inseparables.[^25]
 
-En las tradiciones hindúes tampoco encontramos una única posición acerca de lo divino. Ya vimos que los *Yoga Sūtras* incluyen atención a Īśvara. La *Bhagavad Gītā* ofrece otro ejemplo: en su capítulo sexto, Krishna orienta hacia sí la atención del practicante y valora la devoción. El mismo capítulo manda aquietar la mente y llega a pedir no pensar en nada, con la mente establecida en el propio ser. También enseña a volver cuando la mente se distrae y a considerar el placer y el sufrimiento ajenos a partir de los propios.[^26]
+En las tradiciones hindúes tampoco encontramos una única posición acerca de lo divino. Ya vimos que los *Yoga Sūtras* incluyen atención a Īśvara. La *Bhagavad Gītā*, un texto hindú que presenta un diálogo entre Krishna y Arjuna, ofrece otro ejemplo: en su capítulo sexto, Krishna orienta hacia sí la atención del practicante y valora la devoción. El mismo capítulo manda aquietar la mente y llega a pedir no pensar en nada, con la mente establecida en el propio ser. También enseña a volver cuando la mente se distrae y a considerar el placer y el sufrimiento ajenos a partir de los propios.[^26]
 
 La quietud y la devoción aparecen juntas. La devoción ofrece un punto de comparación con los salmos, pero todavía importa quién es reconocido como divino y cómo se entiende la relación con él, con los demás y con el mundo.
 
@@ -114,7 +114,7 @@ En su presentación clínica y educativa, MBSR propone afrontar el estrés y las
 
 Al comparar, necesitamos distinguir las distintas concepciones de un único Dios, la veneración de varias divinidades y los caminos no teístas. Una diferencia en la manera de concebir a Dios no basta por sí sola para afirmar que se habla de una divinidad distinta. Tampoco una semejanza devocional demuestra que todas las religiones se dirijan al mismo Dios.
 
-Estas diferencias no son detalles que se puedan borrar porque alguien se sintió bien en dos prácticas. Una experiencia de calma no establece por sí sola qué interpretación religiosa es verdadera ni vuelve equivalentes las metas.
+Una experiencia de calma no establece por sí sola qué interpretación religiosa es verdadera ni vuelve equivalentes las metas.
 
 ## Qué significa hablar del yo
 
@@ -156,7 +156,7 @@ Comparar con precisión permite comprender mejor a los otros y saber qué querem
 
 Los pasajes bíblicos se explican mediante paráfrasis propias y con la numeración habitual de las Biblias españolas. Las descripciones de otros textos también son paráfrasis; no se presentan como traducciones castellanas publicadas. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md). El [expediente de investigación](../investigacion/03-en-que-se-diferencia-la-meditacion-biblica-de-algunas-formas-de-meditacion-oriental.md) y la [matriz comparativa](../investigacion/capitulo-03/matriz-comparativa.md) conservan el detalle, las interpretaciones discutidas y el grado de acceso a cada fuente. Las instrucciones y metas tradicionales se describen como tales, no como resultados empíricos garantizados.
 
-[^1]: Definición exacta del [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes), preservada en el [capítulo 2](02-para-que-meditar.md). Base: Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10 (TXT-HEB-01; TXT-CONT-01). Se conserva la diferencia entre términos explícitos y acciones afines; Sal 119:59 no emplea los mismos verbos que Jos 1:8. La síntesis no es una traducción léxica universal ni un procedimiento único.
+[^1]: Definición desarrollada en el [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes), preservada en el [capítulo 2](02-para-que-meditar.md). Base: Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10 (TXT-HEB-01; TXT-CONT-01). Se conserva la diferencia entre términos explícitos y acciones afines; Sal 119:59 no emplea los mismos verbos que Jos 1:8. La síntesis no es una traducción léxica universal ni un procedimiento único.
 
 [^2]: *Ānāpānasati Sutta*, MN118, trad. Ṭhānissaro Bhikkhu, [Dhammatalks](https://www.dhammatalks.org/suttas/MN/MN118.html), secciones «Mindfulness of in-&-Out Breathing», «The Seven Factors for Awakening» y «Clear Knowing & Release» (C3-BUD-03). El recorrido comprende dieciséis aspectos de la atención a la respiración. MN identifica una colección de discursos pali, y 118 el discurso; las otras siglas canónicas de estas notas cumplen una función semejante.
 
@@ -190,9 +190,9 @@ Los pasajes bíblicos se explican mediante paráfrasis propias y con la numeraci
 
 [^17]: Jon Kabat-Zinn, «An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results», *General Hospital Psychiatry* 4(1), 1982, pp. 33–47, especialmente la descripción del método en pp. 34 y 36, [DOI](https://doi.org/10.1016/0163-8343(82)90026-3) (C3-MBSR-01). Para reflexión guiada, observación de pensamientos y decisiones en el currículo posterior de ocho semanas, C3-MBSR-02, pp. 24–25.
 
-[^18]: Jon Kabat-Zinn, «Some reflections on the origins of MBSR, skillful means, and the trouble with maps», *Contemporary Buddhism* 12(1), 2011, pp. 281–306, especialmente 282, 285, 288–292 y 294–295, [DOI](https://doi.org/10.1080/14639947.2011.564844) (C3-MBSR-04). Para los requisitos de participación y los ejercicios, C3-MBSR-02, pp. 7, 12 y 24–25. Se distinguen el horizonte que declara el fundador y las instrucciones del programa.
+[^18]: Jon Kabat-Zinn, «Some reflections on the origins of MBSR, skillful means, and the trouble with maps», *Contemporary Buddhism* 12(1), 2011, pp. 281–306, especialmente 282, 285, 288–292 y 294–295, [DOI](https://doi.org/10.1080/14639947.2011.564844) y [copia del autor](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_SomeReflectionsOriginsMBSR.pdf) (C3-MBSR-04). Para los requisitos de participación y los ejercicios, C3-MBSR-02, pp. 7, 12 y 24–25. Se distinguen el horizonte que declara el fundador y las instrucciones del programa.
 
-[^19]: *Indriya-Vibhaṅga Sutta*, SN48.10, y *Mahā Cattārīsaka Sutta*, MN117, trad. Ṭhānissaro Bhikkhu, [SN48.10](https://www.dhammatalks.org/suttas/SN/SN48_10.html) y [MN117](https://www.dhammatalks.org/suttas/MN/MN117.html) (C3-BUD-10; C3-BUD-11). Para las distinciones especializadas: Bhikkhu Bodhi, «What Does Mindfulness Really Mean? A Canonical Perspective», *Contemporary Buddhism* 12(1), 2011, pp. 22–34 (C3-BUD-14); Rupert Gethin, «On Some Definitions of Mindfulness», *Contemporary Buddhism* 12(1), 2011, pp. 269–276 (C3-BUD-15); Anālayo 2018, pp. 1047–1051, y Bryan Levman 2018, pp. 1981–1986 (C3-BUD-16; C3-BUD-17).
+[^19]: *Indriya-Vibhaṅga Sutta*, SN48.10, y *Mahā Cattārīsaka Sutta*, MN117, trad. Ṭhānissaro Bhikkhu, [SN48.10](https://www.dhammatalks.org/suttas/SN/SN48_10.html) y [MN117](https://www.dhammatalks.org/suttas/MN/MN117.html) (C3-BUD-10; C3-BUD-11). La relación precisa entre memoria, atención y comprensión es discutida. Véanse Bhikkhu Bodhi, «What Does Mindfulness Really Mean? A Canonical Perspective», *Contemporary Buddhism* 12(1), 2011, pp. 22–34 (C3-BUD-14); Rupert Gethin, «On Some Definitions of Mindfulness», *Contemporary Buddhism* 12(1), 2011, pp. 269–276 (C3-BUD-15); Anālayo 2018, pp. 1047–1051, y Bryan Levman 2018, pp. 1981–1986 (C3-BUD-16; C3-BUD-17).
 
 [^20]: Dōgen, *Bendowa: A Talk on Exerting the Way*, trads. Anzan Hoshin y Yasuda Joshu Dainen, Great Matter Publications, ebook de 2009, pregunta XI sobre preceptos, [PDF](https://wwzc.org/wp-content/uploads/2025/02/Bendowa-book.pdf), p. 17 del archivo (C3-ZEN-04). *Sōtō Zen: An Introduction to Zazen*, pp. 60–63 (C3-ZEN-09). Yoga Sūtra II.30–34 y comentario, Woods, pp. 178–184 (C3-YOG-01): obligaciones y respuesta a pensamientos contrarios; I.33, p. 71, distingue actitudes ante felicidad, dolor, virtud y vicio.
 
@@ -202,7 +202,7 @@ Los pasajes bíblicos se explican mediante paráfrasis propias y con la numeraci
 
 [^23]: AN11.12 (C3-BUD-12), evocación del Buda como maestro y de los devas. *Brahmajāla Sutta*, DN1, trad. Ṭhānissaro Bhikkhu, [«Partial Eternalism»](https://www.dhammatalks.org/suttas/DN/DN01.html), primer caso y contexto inmediato, sobre la creencia de Brahmā de ser creador (C3-BUD-13). La descripción del cuerpo se refiere a estos discursos.
 
-[^24]: *Nibbāna Sutta*, SN38.1, trad. Ṭhānissaro Bhikkhu, [Dhammatalks](https://www.dhammatalks.org/suttas/SN/SN38_1.html) (C3-BUD-09). *Nibbāna* es la forma pali correspondiente a *nirvana*. El marco del fin del renacimiento aparece también en los cierres de MN19 y SN22.59 (C3-BUD-04; C3-BUD-06).
+[^24]: *Nibbāna Sutta*, SN38.1, trad. Ṭhānissaro Bhikkhu, [Dhammatalks](https://www.dhammatalks.org/suttas/SN/SN38_1.html) (C3-BUD-09). *Nibbāna* es la forma pali correspondiente a *nirvana*. «Confusión» alude aquí a comprender equivocadamente la realidad, no a engañar deliberadamente a otra persona. El marco del fin del renacimiento aparece también en los cierres de MN19 y SN22.59 (C3-BUD-04; C3-BUD-06).
 
 [^25]: Dōgen, *Bendōwa*, pregunta sobre para qué practicar después de despertar, VII en la traducción de Anzan Hoshin y Yasuda Joshu Dainen, PDF pp. 13–14 (C3-ZEN-04). Seijun Ishii, *Shusho Itto (Oneness and equality of practice and realization)*, trad. Issho Fujita y colaboradores, [Sōtōshū](https://www.sotozen.com/eng/library/key_terms/pdf/key_terms07.pdf), pp. 1–2 y 4 (C3-ZEN-05), sobre la continuidad de la práctica y sus interpretaciones.
 
@@ -214,4 +214,4 @@ Los pasajes bíblicos se explican mediante paráfrasis propias y con la numeraci
 
 [^29]: Yoga Sūtra I.2–4 y IV.34, Woods, pp. 8–16 y 347–348 (C3-YOG-01); Bryant, «Yoga Sutras of Patanjali», §§2–4 y 6 (C3-YOG-02); Maas 2009, pp. 264–267 y 276–280 (C3-YOG-03). *Puruṣa*, sujeto consciente, se distingue de *prakṛti*, naturaleza; *kaivalya* designa su independencia liberadora.
 
-[^30]: Śaṅkara y Rāmānuja, comentarios a *Bhagavadgītā* 6.29, trads. Swami Gambhirananda y Swami Adidevananda, respectivamente, [Gita Supersite, IIT Kanpur](https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etradi=1&field_chapter_value=6&field_nsutra_value=29&language=dv&scram=1&scsh=1) (C3-GIT-03). El contraste corresponde a ese comentario: identidad del yo con Brahman y semejanza de naturaleza de los distintos sujetos.
+[^30]: Śaṅkara y Rāmānuja, comentarios a *Bhagavadgītā* 6.29, trads. Swami Gambhirananda y Swami Adidevananda, respectivamente, [Gita Supersite, IIT Kanpur](https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etradi=1&field_chapter_value=6&field_nsutra_value=29&language=dv&scram=1&scsh=1) (C3-GIT-03; consulta parcial del texto indexado). El contraste corresponde a ese comentario: identidad del yo con Brahman y semejanza de naturaleza de los distintos sujetos.

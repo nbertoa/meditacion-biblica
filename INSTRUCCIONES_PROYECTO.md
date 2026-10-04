@@ -66,7 +66,7 @@ Investiga qué estudios existen sobre meditación bíblica específicamente y so
 
 ## Estilo y colaboración
 
-Escribe en español rioplatense claro, natural y directo. Evita jerga innecesaria, tono grandilocuente y conclusiones apologéticas o antirreligiosas prefabricadas. La perspectiva cristiana monoteísta está confirmada; la denominación específica, el lector y las demás decisiones no resueltas siguen abiertos. Avanza con el autor, conserva las decisiones confirmadas y deja explícito qué aspectos siguen abiertos.
+Escribe en español rioplatense claro, natural y directo. Evita jerga innecesaria, tono grandilocuente y conclusiones apologéticas o antirreligiosas prefabricadas. La perspectiva es cristiana monoteísta, sin convertir el libro en una obra denominacional. Desde el encargo del 2026-10-04, el lector de referencia es una persona sin formación teológica ni conocimientos previos de meditación. Las demás decisiones no resueltas siguen abiertas. Avanza con el autor, conserva las decisiones confirmadas y deja explícito qué aspectos siguen abiertos.
 
 ## Decisión estructural — 2026-10-02
 
@@ -92,3 +92,18 @@ Describe fielmente las creencias de cada tradición con fuentes apropiadas. No r
 Conserva la tesis, los argumentos bíblicos pertinentes, la voz y las experiencias personales existentes. No inventes testimonios. Distingue lo que dice un pasaje, su interpretación y la aplicación pastoral. No endurezcas hipótesis bíblicas ni conviertas promesas espirituales en garantías clínicas para compensar la eliminación de ciencia.
 
 El encargo actual revisa C1–C5, con sus notas, referencias cruzadas, conclusiones, ejemplos y transiciones; no autoriza nuevos capítulos ni una reescritura total. Relee íntegros los capítulos modificados y verifica que no queden polémicas públicas de autores, beneficios tentativos, extrapolaciones, generalizaciones religiosas ni dependencias rotas. La publicación requiere comprobar el estado remoto real: un commit local no demuestra que main haya sido actualizado.
+
+
+## Consolidación de los cinco capítulos — 2026-10-04
+
+El nuevo encargo profundiza la edición del manuscrito existente como una sola obra. Su [registro](investigacion/revision-integral-2026-10-04/README.md) documenta cinco pasadas distintas y sus controles. No es una reescritura total ni autoriza prólogo, introducción general nueva, epílogo, nuevos capítulos o cambio de título.
+
+- Conservar la definición: **Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.** Las recapitulaciones breves no deben introducir una definición rival.
+- Cada capítulo tiene una pregunta principal: significado, propósito, comparación, dirección de la transformación y práctica. Retomar lo necesario y avanzar; no explicar desde cero los mismos límites en cada capítulo.
+- Estudiar ayuda a comprender; meditar vuelve atentamente sobre lo comprendido y considera su significado y nuestra respuesta. Cuanto mejor comprendemos, más rica puede ser la meditación. Son actividades relacionadas, no rivales. La oración puede nacer del texto y devolvernos a él.
+- Mantener como eje de C4 2 Co 3:18, su contexto en 3–4, la acción del Espíritu y la imagen de Cristo. La superioridad se afirma desde las premisas cristianas por el objeto y la finalidad, sin ranking experimental de personas o técnicas.
+- Los recursos de C5 son posibilidades. Conservar los consejos aportados por Nicolás; no transformar recomendaciones en usos autobiográficos de cada herramienta ni inventar resultados. La experiencia aporta cercanía, no autoridad bíblica.
+- Distinguir lo que el texto dice, lo que se infiere con razones y lo que se imagina como ejercicio. Los añadidos imaginados no se convierten en datos históricos. Los «flechazos del corazón» admiten una interpretación cristiana de la acción del Espíritu, junto con examen del texto, las Escrituras, Cristo, los hechos, la reflexión y el consejo pertinente.
+- Elegir traducciones fieles y comprensibles. Formal y dinámica describen tendencias; NBLA es relativamente formal y NTV es traducción, no paráfrasis. La literalidad no asegura por sí sola mayor exactitud.
+- Autores y testimonios sostienen el recorrido, sin ocupar su centro. Distinguir cita, paráfrasis, síntesis y aplicación propia. Priorizar fuentes primarias y declarar accesos parciales. Conservar en investigación la trazabilidad de lo omitido.
+- Leer nuevamente los cinco capítulos con todas sus notas después de integrar cambios. El criterio de cierre es que un lector pueda entender el recorrido y saber cómo comenzar, sin confundir esa lectura editorial con una prueba realizada con personas.

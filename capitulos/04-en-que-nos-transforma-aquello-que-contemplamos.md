@@ -116,7 +116,7 @@ Volver sobre la misericordia puede abrir una pregunta acerca de cómo tratamos a
 
 ## En qué sentido la meditación bíblica es superior
 
-Desde la fe cristiana, la vida encuentra su orientación en conocer al único Dios, revelado en Jesucristo, y responder a él.[^18] El Nuevo Testamento sitúa la transformación bajo la acción del Espíritu, hacia la imagen de Cristo. Si esas afirmaciones son verdaderas, el objeto de la meditación bíblica posee un valor que no puede sustituirse simplemente por otra actividad que también ocupe nuestra atención.
+Desde la fe cristiana, la vida encuentra su orientación en conocer al único Dios, revelado en Jesucristo, y responder a él.[^18] El Nuevo Testamento sitúa la transformación bajo la acción del Espíritu, hacia la imagen de Cristo. Si esas afirmaciones son verdaderas, el objeto de la meditación bíblica posee un valor que no puede sustituirse simplemente por otra orientación espiritual.
 
 El criterio de esta comparación es la fidelidad al Dios que se revela en Cristo y la orientación hacia su semejanza. Comparamos aquí orientaciones religiosas. Desde esas premisas, una práctica dirigida a esa revelación tiene mayor valor que otra que dirige la atención hacia alguien o algo diferente, o propone otra meta espiritual.
 
