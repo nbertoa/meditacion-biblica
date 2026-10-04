@@ -57,7 +57,7 @@ En el versículo 6, quien habla recuerda a Dios mientras está acostado y medita
 
 Aquí el objeto de la meditación es Dios mismo. Eso no significa intentar imaginar su apariencia. El salmo ofrece contenidos concretos: su amor, su poder y la ayuda recibida. La persona piensa en quién es Dios a partir de cómo lo ha conocido.
 
-Recordar y meditar aparecen juntos. En este salmo podemos ver una diferencia útil: recordar trae nuevamente algo a la atención; meditar implica seguir ocupándose de ello, volver sobre su significado y considerar lo que implica.
+Recordar y meditar aparecen juntos. Para comprender esa relación, podemos distinguir entre traer nuevamente algo a la atención y seguir considerando su significado. Es una distinción útil para explicar lo que hacemos; el salmo reúne ambas acciones sin establecer entre ellas una frontera rígida.
 
 Podemos entender la diferencia con una experiencia común. Recordar que alguien nos ayudó es traer ese hecho a la memoria. Detenernos a considerar qué mostró esa ayuda sobre la persona, y qué cambia en nuestra confianza, es un paso más. El ejemplo ilustra la diferencia; no pretende reconstruir los pensamientos exactos del salmista.
 

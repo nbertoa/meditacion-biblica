@@ -217,15 +217,15 @@ No es necesario repetir mientras realizás una tarea que requiere toda tu atenci
 
 Llamo así a esos momentos en que una frase o escena nos toca de una manera particular. Puede incomodar, mostrar un defecto o algo que venimos postergando. Quizá recordemos a alguien con quien estamos peleados y deseemos escribirle u orar por él. O aparezcan gozo, consuelo, gratitud, una comprensión nueva o una frase que despierta esperanza. Recomiendo anotarlo, sin apresurarse a explicar su origen.
 
-Desde mi fe cristiana, entiendo que el Espíritu Santo puede utilizar la Escritura para convencer, corregir, consolar y orientar, y también traer personas a nuestra atención. Esa convicción no vuelve infalible toda impresión interior. Haberla sentido durante la meditación no la convierte automáticamente en una orden o revelación divina.
+Desde mi fe cristiana, entiendo que el Espíritu Santo puede utilizar la Escritura para convencer, recordar, corregir, consolar y orientar, y también traer personas a nuestra atención. Esa convicción no vuelve infalible toda impresión interior. Haberla sentido durante la meditación no la convierte automáticamente en una orden o revelación divina.[^30]
 
 Examinemos su relación con el pasaje, el carácter de Dios revelado en Cristo y el resto de las Escrituras. Consideremos también los hechos de la situación y las consecuencias de actuar. Podemos pedir consejo y tomarnos tiempo. Un impulso intenso no sustituye una evaluación responsable. La Escritura puede corregir incluso la primera interpretación que hicimos de nuestra emoción.
 
-Ese examen incluye nuestras actitudes: ¿qué necesitamos revisar a la luz de lo leído?[^30] No todo malestar demuestra culpa ni todo entusiasmo confirma que una decisión sea buena.
+Ese examen incluye nuestras actitudes: ¿qué necesitamos revisar a la luz de lo leído?[^31] No todo malestar demuestra culpa ni todo entusiasmo confirma que una decisión sea buena.
 
 ## Dar una forma concreta a la respuesta
 
-Algunos pasajes llaman expresamente a actuar. Ya vimos esa relación en Santiago y Lucas. Salmo 119:59–60 reúne considerar los propios caminos y dirigir los pasos hacia la enseñanza de Dios. La reflexión puede llevar a corregir algo de la vida; reconocerlo no significa que todo texto deba producir una tarea inmediata.[^31]
+Algunos pasajes llaman expresamente a actuar. Ya vimos esa relación en Santiago y Lucas. Salmo 119:59–60 reúne considerar los propios caminos y dirigir los pasos hacia la enseñanza de Dios. La reflexión puede llevar a corregir algo de la vida; reconocerlo no significa que todo texto deba producir una tarea inmediata.[^32]
 
 Cuando veas una posible acción, tratá de expresar dos cosas: qué entendiste del pasaje y por qué ese paso sería coherente con ello. «Quiero ser mejor» puede expresar un deseo, pero todavía no dice qué harás. «Voy a revisar una afirmación que hice y corregirla si es falsa» identifica una respuesta que podés examinar. También deja lugar a comprobar los hechos antes de actuar.
 
@@ -251,7 +251,7 @@ Yo uso bastante la inteligencia artificial después de esa primera meditación. 
 
 ## Leer con otras personas
 
-Conversar un pasaje permite escuchar qué vio otra persona y mostrarle dónde se apoya nuestra interpretación. La lectura compartida tiene antecedentes bíblicos, como la reunión para escuchar la Ley en Deuteronomio 31. El procedimiento de conversación que proponemos acá es una ayuda actual, no el reglamento de aquella reunión.[^32]
+Conversar un pasaje permite escuchar qué vio otra persona y mostrarle dónde se apoya nuestra interpretación. La lectura compartida tiene antecedentes bíblicos, como la reunión para escuchar la Ley en Deuteronomio 31. El procedimiento de conversación que proponemos acá es una ayuda actual, no el reglamento de aquella reunión.[^33]
 
 Elijan un mismo pasaje y den tiempo para que todos lo lean o escuchen antes de comentarlo. Alguien puede leerlo en voz alta; quien prefiera simplemente escuchar también participa. Después, cada persona que quiera señala una observación con su referencia. A partir de esas observaciones, elijan una pregunta y ensayen respuestas volviendo al texto.
 
@@ -349,7 +349,10 @@ Los pasajes se explican mediante paráfrasis propias, con la numeración habitua
 
 [^29]: Sal 119:9–16, especialmente 15–16; Dt 6:4–12, 20–25 y Sal 63:6–8 como contextos relacionados, no instrucciones idénticas (TXT-CONT-01). La selección de frase, cotejo de memoria, tarjeta u ocasión cotidiana son adaptaciones actuales. Guardar la palabra no se reduce a reproducirla exactamente.
 
-[^30]: Alejandro Bullón, «Meditad», 12 de diciembre de 2020, reflexión sobre Hag 1:5 y párrafos finales de aplicación, [devocional en su sitio](https://www.alejandrobullon.com/devocionales/meditad) (C5-DEV-03). Se incorpora su consejo de examen personal; el llamado original de Hageo conserva su contexto histórico.
-[^31]: Sal 119:59–60; Sant 1:22–27; Lc 10:36–37 (TXT-CONT-01). Se conserva la diferencia léxica de Sal 119:59 ya registrada en C1/C2. Elegir un paso, definir su alcance y revisarlo después son ayudas propias; actuar responde a la meditación y no reemplaza su definición.
+[^30]: Jn 14:25–26 y 16:7–15 hablan del Espíritu dentro de la despedida de Jesús a sus discípulos. 2 Tim 3:14–17 vincula Escritura, corrección y preparación para obrar; Rom 15:1–7 relaciona Escrituras, consuelo y vida compartida. 1 Ts 5:19–22 pide examinar en un contexto que menciona profecías; 1 Jn 4:1–6, frente a falsos profetas, vincula el discernimiento con Jesucristo (TXT-CONT-01). Su aplicación a las impresiones personales es una orientación cristiana razonada, no una promesa de mensajes privados ni una certificación de su origen.
 
-[^32]: Dt 31:9–13 (TXT-CONT-01), antecedente de escucha compartida; Sant 1:22–27 y C2-BIB-05 para el ejemplo conversacional. Turnos, derecho a pasar, privacidad y revisión de las razones del guía son decisiones pedagógicas actuales. El acuerdo grupal no se presenta como prueba de interpretación ni se afirma que este procedimiento haya sido probado con lectores.
+[^31]: Alejandro Bullón, «Meditad», 12 de diciembre de 2020, reflexión sobre Hag 1:5 y párrafos finales de aplicación, [devocional en su sitio](https://www.alejandrobullon.com/devocionales/meditad) (C5-DEV-03). Se incorpora su consejo de examen personal; el llamado original de Hageo conserva su contexto histórico.
+
+[^32]: Sal 119:59–60; Sant 1:22–27; Lc 10:36–37 (TXT-CONT-01). Se conserva la diferencia léxica de Sal 119:59 ya registrada en C1/C2. Elegir un paso, definir su alcance y revisarlo después son ayudas propias; actuar responde a la meditación y no reemplaza su definición.
+
+[^33]: Dt 31:9–13 (TXT-CONT-01), antecedente de escucha compartida; Sant 1:22–27 y C2-BIB-05 para el ejemplo conversacional. Turnos, derecho a pasar, privacidad y revisión de las razones del guía son decisiones pedagógicas actuales. El acuerdo grupal no se presenta como prueba de interpretación ni se afirma que este procedimiento haya sido probado con lectores.
