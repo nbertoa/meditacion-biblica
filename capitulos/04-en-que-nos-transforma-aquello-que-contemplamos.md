@@ -6,7 +6,7 @@ El relato cuenta que los habitantes de Nínive abandonan su mala conducta y que 
 
 La escena nos obliga a pensar con cuidado. Si conocer algo acerca de Dios bastara para parecernos a él, Jonás no tendría ese problema. Puede decir algo verdadero y, sin embargo, no querer compartir la misericordia que describe.
 
-Esto no vuelve irrelevante lo que conocemos. Nos ayuda a formular mejor la pregunta: ¿qué lugar tienen aquello a lo que prestamos atención, la manera de comprenderlo y nuestra respuesta en la persona que llegamos a ser?
+Lo que conocemos sigue importando. La escena nos ayuda a preguntar mejor: ¿cómo participan nuestra atención, nuestra comprensión y nuestra respuesta en la persona que llegamos a ser?
 
 El capítulo anterior mostró que las prácticas meditativas no siempre dirigen la atención hacia lo mismo ni proponen las mismas actividades o metas. Ahora necesitamos dar un paso más. Si esas diferencias son reales, importa preguntar hacia dónde orientan nuestra formación. Y, cuando volvemos a las Escrituras, hace falta preguntar qué comprendemos de Dios y cómo respondemos a lo que él da a conocer.
 
@@ -26,9 +26,9 @@ No necesitamos convertir ese lenguaje en una descalificación de todo el judaís
 
 ¿Qué hacen las personas de 3:18 con la gloria del Señor? Aquí aparece una diferencia real entre traducciones. Algunas hablan de mirar o contemplar como en un espejo; otras, de reflejar. La palabra griega admite una discusión que los especialistas todavía sostienen. La primera lectura destaca recibir o contemplar la gloria. La segunda destaca manifestarla, como un rostro que la refleja.[^4]
 
-La lectura de contemplar tiene buen respaldo. Podemos emplearla, siempre que no escondamos la alternativa. Pero el argumento central no necesita derrumbarse si alguien prefiere *reflejar*. En ambas lecturas permanecen el Señor, la transformación hacia su imagen y la acción del Espíritu. La transformación tiene una dirección definida: la imagen del Señor. No es algo que la persona produzca por sí sola.
+La lectura de contemplar tiene buen respaldo. Podemos emplearla reconociendo la alternativa. En ambas lecturas permanecen el Señor, la transformación hacia su imagen y la acción del Espíritu.
 
-El verbo principal expresa que somos transformados. La frase final sitúa el origen de esa transformación en Dios y vuelve a destacar la acción del Espíritu. Quitar esa iniciativa divina para dejar solamente una técnica mental cambiaría el sentido del pasaje.
+Pablo dice que somos transformados y sitúa el origen de esa transformación en Dios. Su dirección es la imagen del Señor. Reducirla a una técnica mental que manejamos por nuestra cuenta cambiaría el sentido del pasaje.
 
 Tampoco dice que cualquier persona se vuelva inevitablemente semejante a cualquier cosa que mira. Habla de quienes participan de esta relación con el Señor. No prescribe una cantidad de minutos, no identifica el espejo con una Biblia abierta sobre la mesa y no promete una mejora moral por cada repetición. Aplicarlo a nuestra meditación con las Escrituras exige un paso de interpretación, que debemos reconocer.[^5]
 
@@ -58,7 +58,7 @@ Los pasajes convergen en una orientación, sin formar un único procedimiento: c
 
 Los salmos 115 y 135 vuelven la atención hacia aquello en lo que confiamos. Contraponen al Dios que actúa con las imágenes fabricadas para el culto y hablan de una semejanza entre esas imágenes y quienes las hacen y confían en ellas. El Salmo 115 llama después a Israel a confiar en el Señor como su ayuda y protección.[^10]
 
-Los poemas hablan de fabricar y confiar, no simplemente de mirar. La semejanza puede señalar un destino compartido con aquello que no puede salvar; también se discute si la frase anuncia ese destino o pide que lo compartan. El énfasis está en dónde se deposita la confianza, sin ofrecer una ley sobre cómo cada pensamiento forma el carácter.
+Los poemas hablan de fabricar y confiar, no simplemente de mirar. La semejanza puede señalar que quienes confían en esas imágenes terminan compartiendo su impotencia. Se discute si el salmo anuncia ese desenlace o lo expresa como un deseo. El énfasis está en dónde se deposita la confianza, sin ofrecer una ley sobre cómo cada pensamiento forma el carácter.
 
 Para nuestra lectura, estos textos abren una pregunta: ¿en qué estamos apoyando nuestra vida?
 
@@ -94,7 +94,7 @@ Aquí la semejanza tiene contenido. Reconocer la bondad divina cuestiona el lím
 
 Primera de Juan 4 sigue una relación parecida. El amor comienza en Dios y se manifiesta en el envío del Hijo; por eso los creyentes deben amarse. La misma unidad habla de confianza ante el juicio y del amor que deja atrás el temor al castigo. El propósito no es mantener toda la relación encerrada en el miedo.[^16]
 
-Eso no elimina la responsabilidad ni vuelve indiferente el mal. Los evangelios también presentan a Jesús juzgando, confrontando y llamando a cambiar. Amor y justicia no son lo mismo que amor y arbitrariedad. Un Dios confiable puede exigir algo difícil; no por eso es caprichoso. Su misericordia tampoco empieza recién en el Nuevo Testamento, como ya vimos en Éxodo.
+Eso no elimina la responsabilidad ni vuelve indiferente el mal. Los evangelios también presentan a Jesús juzgando, confrontando y llamando a cambiar. Que Dios ame y juzgue no significa que actúe por capricho. Puede exigir algo difícil y seguir siendo confiable. Su misericordia tampoco empieza recién en el Nuevo Testamento, como ya vimos en Éxodo.
 
 Y una persona que sigue angustiada no queda condenada por estos textos como alguien que ama poco o cree en un Dios equivocado. La exhortación de Juan no es una prueba clínica. Como vimos en el capítulo 2, el sufrimiento necesita ser atendido, no usado para medir la calidad de la fe.
 

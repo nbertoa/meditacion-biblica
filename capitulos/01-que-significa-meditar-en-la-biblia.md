@@ -14,9 +14,7 @@ Dos palabras hebreas tienen especial importancia en este tema: *hāgâ* y *śîa
 
 La primera, *hāgâ*, aparece en Josué 1:8 y en Salmo 1:2, donde muchas Biblias españolas traducen *meditar*. Pero también se usa para emitir sonidos o expresar palabras. En Salmo 37:30, la boca del justo expresa sabiduría. En Isaías 31:4, el mismo verbo describe el sonido de un león sobre su presa.[^1]
 
-Esto no significa que una persona que medita deba imitar a un león. Una palabra puede tener distintos usos. El pasaje del león muestra que el verbo puede describir un sonido; no establece cómo debe meditar una persona.
-
-La observación útil es más sencilla: *hāgâ* no nos obliga a imaginar un pensamiento completamente silencioso. En algunos contextos, la reflexión puede ir acompañada de palabras dichas o repetidas.
+El pasaje del león muestra un uso sonoro de la palabra; no enseña a meditar imitando ese sonido. La observación útil es más sencilla: *hāgâ* no nos obliga a imaginar un pensamiento completamente silencioso. En algunos contextos, la reflexión puede ir acompañada de palabras dichas o repetidas.
 
 También hay usos claramente relacionados con pensar. Proverbios 15:28 describe al justo considerando cómo responder. Y Salmo 2:1 emplea el verbo para los planes inútiles de los pueblos. La palabra, por sí sola, no convierte una actividad en buena ni religiosa. Importa qué se está pensando o diciendo y con qué intención.
 
@@ -28,13 +26,11 @@ Josué 1 comienza con una responsabilidad difícil. Moisés ha muerto y Josué d
 
 El versículo 8 reúne tres elementos: el libro de la Ley debe permanecer en su boca; debe meditar en él día y noche; y debe hacerlo para actuar conforme a lo escrito.
 
-La referencia a la boca merece atención. El texto no habla solamente de tener información guardada en la mente. La enseñanza debe estar presente también en las palabras de Josué.
+La referencia a la boca merece atención: la enseñanza debe estar presente también en las palabras de Josué.
 
 La unión entre la “boca” y *hāgâ* encaja bien con leer o recitar el texto para uno mismo, quizá en voz baja. La NET Bible traduce el verbo en esa dirección, y el estudio de Boyd-Taylor muestra por qué recitación y reflexión no tienen por qué excluirse.[^2]
 
-El punto del pasaje no es decidir cuánto se oía la voz de Josué. Es mantener la enseñanza presente para vivir de acuerdo con ella.
-
-La finalidad está expresada en el propio versículo. Josué debe volver sobre el libro para cumplirlo. La meditación forma parte de su preparación para conducir al pueblo y tomar decisiones.
+La finalidad está expresada en el propio versículo: mantener la enseñanza presente para cumplirla. El punto no es cuánto se oía la voz de Josué, sino cómo esa atención lo prepara para conducir al pueblo y tomar decisiones.
 
 ¿Significa esto que cualquier lector que medite tendrá éxito en todo lo que emprenda? El pasaje no permite esa conclusión. La promesa aparece dentro del encargo particular de Josué y de su fidelidad a la enseñanza de Dios. Convertirla en una garantía de prosperidad para cualquier proyecto quitaría las palabras de su contexto.
 
@@ -45,9 +41,7 @@ El Salmo 1 lleva la atención a una persona cuya manera de vivir se alimenta de 
 
 La palabra *Ley* puede sonar a una lista de prohibiciones. Pero la palabra hebrea *Torá* también se usa para enseñanza o instrucción. Aquí se trata de la instrucción de Dios que orienta la vida. Incluye exigencias concretas; no es simplemente información agradable.[^3]
 
-No sabemos con total precisión cuánto abarca aquí *Torá*. Puede referirse de manera especial a la enseñanza de Moisés o, más ampliamente, a la instrucción de Dios. Para el argumento del salmo alcanza con algo más básico: esta persona vuelve una y otra vez a la enseñanza que reconoce como proveniente de Dios.[^3]
-
-Eso tampoco significa que el salmista estuviera pensando en nuestra Biblia completa. Aplicar hoy el principio al conjunto de las Escrituras es una extensión posterior, no la situación original.
+El alcance de *Torá* en este salmo se discute: puede destacar la enseñanza de Moisés o referirse más ampliamente a la instrucción de Dios.[^3] En cualquier caso, la persona vuelve a una enseñanza que reconoce como divina. Aplicar hoy ese principio a nuestra Biblia completa es una extensión posterior; no supone que el salmista ya conociera todos esos escritos.
 
 La expresión *día y noche* presenta una atención habitual. No parece imponer una lectura ininterrumpida que impida dormir, trabajar o conversar. Las notas de la NET Bible la entienden como una forma enfática de describir una conducta constante.[^4]
 
@@ -99,7 +93,7 @@ No necesitamos aprender una clasificación de cada término para seguir el poema
 
 En el versículo 15, meditar en los preceptos aparece junto con prestar atención a los caminos de Dios. En el 27, el salmista pide comprender esa enseñanza para reflexionar sobre sus maravillas. La reflexión y la petición de ayuda se encuentran en la misma oración.
 
-¿Qué son esas maravillas? Podríamos pensar enseguida en acontecimientos extraordinarios. Sin embargo, los versículos 18 y 27 permiten entender también lo admirable que el orante descubre en la enseñanza divina. El comentario de A. F. Kirkpatrick destaca esa lectura. Conviene conservar el vínculo con el contexto, sin reducir la palabra a una sola clase de obra de Dios.[^9]
+¿Qué son esas maravillas? Podríamos pensar enseguida en acontecimientos extraordinarios. Sin embargo, los versículos 18 y 27 permiten entender también lo admirable que el orante descubre en la enseñanza divina. El contexto permite esa lectura, sin reducir las maravillas a una sola clase de obra de Dios.[^9]
 
 El poema también muestra a alguien que medita mientras otros hablan contra él: ocurre en los versículos 23 y 78. La meditación no requiere una vida libre de conflictos. Se integra en una situación en la que la persona necesita orientación.
 
@@ -141,7 +135,7 @@ Estas actividades suelen encontrarse. Separarlas puede ayudarnos a entenderlas, 
 
 **Orar** es dirigirse a Dios. Puede incluir una petición, gratitud, alabanza o queja. Cuando la reflexión se convierte en una respuesta a Dios, meditación y oración se encuentran. Eso ocurre con frecuencia en los salmos.
 
-**Meditar**, tal como la estamos reconociendo en estos textos, es volver con atención sobre un contenido significativo y permanecer considerando lo que muestra y lo que implica. En la práctica bíblica que elogia estos pasajes, ese contenido se relaciona con Dios y con su enseñanza.
+**Meditar**, tal como la estamos reconociendo en estos textos, es volver con atención sobre un contenido significativo y permanecer considerando lo que muestra y lo que implica. En la práctica bíblica que elogian estos pasajes, ese contenido se relaciona con Dios y con su enseñanza.
 
 Una lectura puede convertirse en meditación mientras todavía leemos. El estudio puede alimentar la meditación al aclarar una frase. La memoria puede sostenerla durante el día. La oración puede expresar lo que la reflexión despierta.
 
@@ -155,7 +149,7 @@ Los textos bíblicos contienen relatos, imágenes y comparaciones. Pensar en ell
 
 Pero las palabras estudiadas no significan automáticamente *visualizar una escena*. Y el poema no explica si su autor realizó un ejercicio de imaginación. Lo que podemos observar es el lenguaje que utiliza para recordar y expresar las acciones de Dios.
 
-Por eso conviene distinguir dos cosas: atender a una imagen que el texto ofrece y agregar detalles que el texto no menciona. La primera puede ayudarnos a comprender. La segunda puede servir como recurso de lectura, pero requiere reconocer que estamos imaginando.
+Al pensar en una escena, conviene separar lo que el texto dice, lo que deducimos con razones y los detalles que imaginamos. Estos últimos pueden acompañar la lectura, pero no añaden información sobre lo ocurrido.
 
 Si nos representamos el desierto del Salmo 63, podemos atender a la sed que expresa el poema. No sabemos, en cambio, qué paisaje exacto tenía ante sus ojos quien lo compuso ni cuáles eran todos sus pensamientos.
 
@@ -167,7 +161,7 @@ La antigua traducción griega de las Escrituras, conocida como Septuaginta, ayud
 
 Hechos 4:25, por ejemplo, lo emplea al citar Salmo 2:1 sobre los planes inútiles de los pueblos. Y en 1 Timoteo 4:15 aparece dentro de instrucciones a Timoteo sobre conducta, lectura pública, enseñanza y ministerio. Allí puede abarcar ocuparse de esas responsabilidades, practicarlas o dedicarles atención; no describe sin más una sesión silenciosa de meditación.[^13]
 
-Hay otros textos que se parecen en la acción, aunque usan palabras diferentes. Lucas 2:19 dice que María conserva lo ocurrido y *symballō* esas cosas en su corazón. Muchas traducciones lo expresan como *ponderar* o *reflexionar*, pero también se ha defendido que aquí significa poner las cosas en relación para comprenderlas. La discusión sigue abierta. Por eso el pasaje muestra atención sostenida y búsqueda de comprensión, pero no conviene usarlo como prueba de que Lucas está describiendo la misma práctica que Josué 1 o Salmo 1.[^14]
+Hay otros textos que se parecen en la acción, aunque usan palabras diferentes. Lucas 2:19 presenta a María conservando lo ocurrido en su corazón. El verbo que suele traducirse como *ponderar* o *reflexionar* también se ha entendido como poner esas cosas en relación para comprenderlas. Su sentido preciso se discute. El pasaje relaciona atención y comprensión, sin demostrar que Lucas describa la misma práctica de Josué 1 o Salmo 1.[^14]
 
 Más adelante, Lucas dice que los padres de Jesús no comprendieron una respuesta suya y que su madre conservaba esas cosas en el corazón (2:50-51). Guardar algo interiormente no exige haberlo entendido por completo.
 

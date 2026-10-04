@@ -18,7 +18,7 @@ La imagen tampoco promete protección contra toda pérdida. El mismo libro conti
 
 ## Comprender para elegir mejor
 
-El Salmo 119 permite acercarnos a lo que significa esa orientación. En los versículos 97–104, quien ora dice que ama la enseñanza de Dios. Afirma comprender más que sus maestros porque medita en los testimonios divinos, y más que los ancianos porque guarda sus preceptos. Con *testimonios* y *preceptos*, el poema nombra lo que Dios comunica y pide: una enseñanza a la que vuelve y que procura seguir.[^3]
+El Salmo 119 permite acercarnos a lo que significa esa orientación. En los versículos 97–104, quien ora dice que ama la enseñanza de Dios. Afirma comprender más que sus maestros porque medita en los testimonios divinos, y más que los ancianos porque guarda sus preceptos. Son las palabras de Dios a las que vuelve y que procura seguir.[^3]
 
 La afirmación es fuerte, pero su contexto ayuda a entenderla. El salmista habla de apartarse del mal, guardar los preceptos y rechazar los caminos falsos. La sabiduría que celebra tiene que ver con reconocer cómo vivir. No está afirmando que meditar lo haya convertido en experto en cualquier asunto ni que ya no necesite aprender de nadie.
 

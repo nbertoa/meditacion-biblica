@@ -12,7 +12,7 @@ Ahora vamos a llevar esa definición a la lectura. Los pasajes ofrecen contenido
 
 El propósito sigue siendo conocer a Dios, contemplar su carácter revelado en Cristo y responder a lo que comprendemos. La información ayuda a conocer a alguien; cobra sentido dentro de esa relación. Así podemos leer la Biblia para conocer personalmente a Jesús.[^2]
 
-En este capítulo integro también recomendaciones de mi experiencia. Son herramientas que me ayudan, no reglas bíblicas para todos. Los recorridos por Santiago, los salmos y Lucas son ejemplos preparados para mostrar cómo leer y responder; no relatos de resultados que yo haya obtenido.
+En este capítulo integro también consejos personales y recursos que me ayudan. Los comparto como posibilidades, no como reglas bíblicas para todos. Los recorridos por Santiago, los salmos y Lucas son ejemplos preparados para mostrar cómo leer y responder; no relatos de resultados que yo haya obtenido.
 
 ## Un modo sencillo de empezar
 
@@ -43,7 +43,7 @@ Comparar una misma historia en dos versiones puede renovar la atención. Si apar
 
 Para quien prefiere lo digital, MyBible u otra aplicación bíblica puede ser suficiente. Lo importante es poder volver al texto con facilidad, sin que las herramientas ocupen todo el encuentro.
 
-También recomiendo adaptar lectura y escucha al día. A veces tengo más disposición para leer; otras, escuchar me ayuda a prestar atención. Una Biblia en audio, una versión dramatizada o una herramienta de texto a voz como ElevenReader son posibilidades, incluso mientras caminamos. Las voces, la música y los efectos de una dramatización son decisiones de sus productores, no datos añadidos a la Biblia. La herramienta facilita el encuentro; no es la meditación.[^5]
+También recomiendo adaptar lectura y escucha al día. Algunos días puede resultar más cómodo leer; otros, escuchar. Una Biblia en audio, una versión dramatizada o una herramienta de texto a voz como ElevenReader son posibilidades, incluso mientras caminamos. Las voces, la música y los efectos de una dramatización son decisiones de sus productores, no datos añadidos a la Biblia. La herramienta facilita el encuentro; no es la meditación.[^5]
 
 ## Elegir un pasaje que conserve su sentido
 
@@ -61,7 +61,7 @@ Para comenzar necesitamos comprender lo suficiente para saber de dónde sale nue
 
 Con la práctica podemos trabajar un versículo en su contexto, una pequeña unidad, un salmo o un capítulo dividido en varios días. También podemos recorrer un libro poco a poco, seguir la vida de un personaje o un tema: el sábado, los diezmos y las ofrendas, los animales en la Biblia. En un tema, cada pasaje conserva su contexto; reunir versículos no elimina sus diferencias.
 
-La regla práctica sigue siendo tomar porciones pequeñas. Al comer no intentamos tragarnos un bocado enorme: cortamos, masticamos y después seguimos. Avanzar por un libro también permite encontrar palabras que quizá no habríamos elegido por nuestra cuenta, en lugar de quedarnos sólo con las que confirman nuestras ideas.
+La idea es elegir una porción que podamos considerar con atención. Al comer no intentamos tragarnos un bocado enorme: cortamos, masticamos y después seguimos. Avanzar por un libro también permite encontrar palabras que quizá no habríamos elegido por nuestra cuenta, en lugar de quedarnos sólo con las que confirman nuestras ideas.
 
 ## Volver al texto con una pregunta
 
@@ -175,7 +175,7 @@ Así, el género orienta la práctica: seguimos el recorrido de un poema, las ac
 
 ## Orar desde lo comprendido
 
-Meditar es una actividad que podemos hacer con Dios. No hace falta separar artificialmente reflexión y oración. Antes de leer podemos pedir ayuda; mientras pensamos, las preguntas pueden convertirse en conversación: «Jesús, ¿por qué hiciste esto?», «No entiendo esta respuesta», «Esto me muestra algo que no quiero reconocer», «Ayudame a entender», «Gracias» o «Me acordé de esta persona; quiero orar por ella». Son palabras nuestras, no respuestas que inventamos en nombre de Dios.
+Podemos meditar en conversación con Dios. Antes de leer podemos pedir ayuda. Mientras pensamos, las preguntas pueden hacerse oración: «Jesús, ¿por qué hiciste esto?» o «No entiendo esta respuesta». También podemos agradecer, reconocer algo que necesitamos cambiar u orar por una persona que recordamos. Son palabras nuestras, no respuestas que inventamos en nombre de Dios.
 
 Müller relata que, tras pedir brevemente la ayuda de Dios, comenzó a meditar en pequeñas porciones antes de una oración prolongada. Leía para alimentar su propio corazón, no primero para preparar sermones. Lo leído daba lugar a confesión, gratitud, intercesión y petición. Su testimonio muestra cómo meditación y oración pueden alimentarse mutuamente; no exige que todos oren en ese orden.[^22]
 
@@ -193,7 +193,7 @@ La meditación puede alimentar la oración y la oración llevarnos otra vez al t
 
 ## Rumiar: volver para asimilar
 
-La rumia ofrece una imagen útil. Una vaca tiene un estómago con cuatro compartimentos: rumen, retículo, omaso y abomaso. Parte del alimento del rumen y el retículo vuelve a la boca como un bolo, se mastica nuevamente y continúa la digestión. No son cuatro estómagos separados.[^26]
+La rumia ofrece una imagen útil. La vaca tiene un estómago con cuatro compartimentos. Parte del alimento vuelve a la boca para ser masticado otra vez y continuar la digestión.[^26]
 
 Como metáfora, podemos leer, masticar mentalmente, volver al texto y considerarlo otra vez para asimilarlo. Después de terminar una historia, recomiendo regresar al comienzo. Una segunda o tercera lectura puede mostrar relaciones que pasamos por alto. No repetimos para cumplir una cantidad, sino para seguir atendiendo.
 
@@ -237,9 +237,9 @@ Si todavía no hay base suficiente para actuar, nombrá lo que falta. Quizá nec
 
 ## El estudio enriquece la meditación
 
-Estudiar y meditar se relacionan, pero no son lo mismo. El estudio ayuda a comprender el contexto histórico, la cultura, la geografía y los personajes. También las palabras, el género, la estructura, la intención del autor y la relación con el resto del libro y de la Biblia. Cuanto mejor comprendemos el texto, más rico puede ser aquello que consideramos.
+Como vimos en el primer capítulo, el estudio ayuda a comprender y la meditación vuelve con atención sobre lo comprendido. Conocer las palabras, la situación histórica, el género y la relación con el resto de las Escrituras puede enriquecer aquello que consideramos.
 
-Podemos expresar la diferencia así: **el estudio pregunta principalmente «¿qué significa esto?»; la meditación añade «¿qué revela acerca de Dios, de las personas y de mí, y cómo voy a responder?»** No es una frontera rígida. Estudiar puede conducir a oración y examen personal; meditar puede despertar una pregunta que exige estudio. El estudio ayuda a comprender aquello sobre lo que meditamos, aunque también tiene otros propósitos. La búsqueda de información no debe ocupar todo el lugar de la relación con Dios.
+Podemos expresar la diferencia así: **el estudio pregunta principalmente «¿qué significa esto?»; al meditar nos detenemos a considerar «¿qué muestra y cómo voy a responder?»** No es una frontera rígida: estudiar puede conducir a oración y examen personal; meditar puede despertar una pregunta que exige estudio. Cuanto mejor comprendemos el texto, más rica puede ser la meditación.
 
 ### Investigar las preguntas que quedaron
 

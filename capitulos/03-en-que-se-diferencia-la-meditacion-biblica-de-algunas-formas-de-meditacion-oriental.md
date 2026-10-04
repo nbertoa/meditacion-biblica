@@ -4,7 +4,7 @@ Dos personas pueden estar sentadas en silencio y hacer cosas muy distintas. Una 
 
 También puede ocurrir lo contrario: dos personas de religiones diferentes recuerdan cualidades que consideran valiosas y procuran que ese recuerdo oriente su vida. La diferencia de creencias no borra esa semejanza. Pero la semejanza tampoco nos dice a quién recuerdan ni qué entienden por una vida bien orientada.
 
-La comparación de este capítulo necesita conservar ambas cosas. Hay acciones compartidas y diferencias reales. Para reconocerlas, vamos a preguntar qué ocupa la atención, qué se hace con ello, para qué se hace y cómo se lo comprende.
+Para comparar necesitamos conservar ambas cosas: acciones compartidas y diferencias reales. Vamos a preguntar qué ocupa la atención, qué se hace con ello, para qué y desde qué creencias.
 
 Del lado bíblico, partimos de la atención a Dios, a sus palabras y a sus obras que definimos en el primer capítulo. Los pasajes la vinculan con considerar su significado y responder.[^1] Esa definición no abarca automáticamente todo lo que, a lo largo de la historia, se llamó meditación cristiana.
 
@@ -50,11 +50,11 @@ Hay textos que proponen un recorrido hacia la detención de las actividades ment
 
 Los *Yoga Sūtras*, atribuidos a Patañjali, permiten verlo. En una parte del recorrido distinguen fijar la mente en un objeto, sostener allí la atención y quedar absorbido en él. El comentario menciona zonas del cuerpo y objetos externos como posibles apoyos.
 
-En esa absorción, el objeto sigue presente. El texto y sus comentarios distinguen esa práctica de una culminación en la que cesan incluso los contenidos que sostenían la concentración.[^10]
+En esa absorción, es decir, al quedar la atención enteramente concentrada en el objeto, este sigue presente. El texto y sus comentarios distinguen esa práctica de una etapa culminante en la que cesan incluso los contenidos que sostenían la concentración.[^10]
 
 Esta meta no equivale a detenerse un poco para después pensar mejor. Forma parte de una comprensión de la liberación que veremos más adelante. En la meditación bíblica definida en este libro, en cambio, hacer que cese todo contenido mental no es la finalidad que reúne los pasajes. La enseñanza y las obras de Dios conservan su sentido para quien responde a ellas.
 
-El Yoga clásico sitúa esa cesación junto al discernimiento necesario para la liberación. Reconoce formas válidas de conocimiento y distingue la conciencia de los contenidos mentales que cesan. Más adelante volveremos a esa distinción.[^11]
+El Yoga clásico relaciona esa cesación con el discernimiento: aprender a distinguir la conciencia de aquello que aparece en la mente. Reconoce formas válidas de conocimiento; detener esos contenidos no significa, para este sistema, destruir la conciencia. Más adelante veremos cómo entiende esa distinción.[^11]
 
 ## Qué cambia cuando se repiten palabras
 
@@ -124,11 +124,11 @@ Podemos acercarnos a la pregunta con algo sencillo: tener una sensación agradab
 
 Otro discurso lo ilustra con un carro: llamamos así al conjunto de sus partes. De manera semejante, podemos hablar de personas en el lenguaje cotidiano sin afirmar un núcleo independiente que nunca cambia.[^28]
 
-La enseñanza trata, por tanto, del modo de entender los componentes de la experiencia y de identificarse con ellos. Su alcance va más allá de reconocer que uno no es el centro de todo.
+La enseñanza cuestiona, entonces, qué tomamos por «mi yo». Su alcance va más allá de reconocer que uno no es el centro de todo.
 
 El Yoga clásico presenta una explicación diferente. Distingue la conciencia, llamada *puruṣa*, de la naturaleza, a la que pertenecen también la mente y sus operaciones. Su liberación consiste en que esa conciencia quede libre de su confusión con la naturaleza. La cesación que describimos antes se entiende dentro de este recorrido.[^29]
 
-Las escuelas que leen la *Gītā* ofrecen, a su vez, interpretaciones distintas sobre el yo y lo divino. Una lectura destaca la identidad del yo con Brahman, la realidad última; otra conserva la distinción entre los sujetos y explica su semejanza. Son dos maneras diferentes de entender una enseñanza compartida.[^30]
+Las escuelas que leen la *Gītā* ofrecen, a su vez, interpretaciones distintas sobre el yo y lo divino. Una lectura sostiene que el yo y Brahman, la realidad última, son lo mismo. Otra distingue entre los distintos seres y destaca su semejanza. Son dos maneras diferentes de entender una enseñanza compartida.[^30]
 
 ¿Qué necesitamos afirmar del lado bíblico para comparar? Lo que ya encontramos: alguien escucha, recuerda, considera su conducta, confía, pregunta y responde ante Dios. Los dos primeros capítulos no construyeron una teoría completa sobre el alma o la conciencia.
 
