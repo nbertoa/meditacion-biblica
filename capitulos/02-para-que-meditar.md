@@ -1,10 +1,8 @@
 # 2. ¿Para qué meditar?
 
-Podemos entender lo que dice un texto y seguir viviendo como si nunca lo hubiéramos leído. También podemos recordarlo justo antes de contestar un mensaje enojados, mientras evaluamos una decisión o cuando necesitamos palabras para hablar con Dios. La diferencia importa: comprender algo no asegura que llegue a orientar nuestra vida.
+Podemos entender lo que dice un texto y seguir viviendo como si nunca lo hubiéramos leído. También podemos recordarlo mientras evaluamos una decisión difícil o cuando necesitamos palabras para hablar con Dios. La diferencia importa: comprender algo no asegura que llegue a orientar nuestra vida.
 
-En el capítulo anterior definimos la meditación bíblica así:
-
-**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
+Como vimos en el primer capítulo, meditar bíblicamente implica volver con atención a Dios, a sus palabras y a sus obras, considerar qué muestran y dejar que orienten nuestra respuesta.
 
 Ahora la pregunta es para qué volvemos. ¿Qué lugar puede ocupar esa atención en una vida real, con trabajo, relaciones, dudas, culpa, alegría y decisiones?
 
@@ -82,7 +80,7 @@ La oración no necesita esperar a que la meditación produzca una conclusión im
 
 Hay una diferencia entre reconocer algo que hicimos mal y vivir dando vueltas alrededor de la culpa sin saber qué hacer con ella.
 
-La meditación bíblica puede ayudarnos a formular una pregunta más útil: **¿qué respuesta corresponde ahora?**
+El Salmo 32 describe a una persona que primero guarda silencio sobre su falta y después la reconoce delante de Dios. El movimiento del poema va del ocultamiento a la confesión y al perdón.[^6] El salmo no define una técnica de meditación, pero ofrece contenido para una pregunta importante: **si reconozco que hice algo mal, ¿qué respuesta corresponde ahora?**
 
 Si mentimos, quizá debamos corregir lo dicho. Si herimos a alguien, quizá haya que pedir perdón. Si la culpa surge de una exigencia que atribuimos a Dios pero no sabemos justificar, necesitamos volver al texto y examinarla mejor.
 
@@ -94,7 +92,7 @@ La finalidad no es sentirnos mal durante más tiempo. Es permitir que la verdad 
 
 Cuando estamos preocupados, la mente puede volver una y otra vez al mismo escenario. La meditación bíblica ofrece otro contenido al que volver: una palabra, una obra de Dios, una pregunta, una oración.
 
-Eso puede traer consuelo, como muestran varios salmos y Filipenses 4. También puede dejar preguntas abiertas. La Biblia no promete que toda sesión termine con calma inmediata.[^4]
+Filipenses 4:6–9 se dirige a una comunidad que atraviesa tensiones y reúne petición, gratitud, atención a lo verdadero y práctica. En ese contexto habla de la paz de Dios.[^4] El pasaje no presenta una técnica para eliminar toda ansiedad, pero sí muestra que la preocupación puede llevarse a Dios y ponerse en relación con aquello que elegimos mantener delante de la mente.
 
 Por eso conviene mantener una expectativa proporcionada. La práctica espiritual puede acompañar momentos de ansiedad, tristeza o miedo, pero no reemplaza la atención profesional cuando una persona la necesita.
 
@@ -102,21 +100,17 @@ Por eso conviene mantener una expectativa proporcionada. La práctica espiritual
 
 Estudiar la Biblia puede darnos mucha información: fechas, palabras, contexto, conexiones entre libros. Todo eso puede ser valioso.
 
-Pero conocer datos acerca de alguien y conocerlo personalmente no son exactamente lo mismo.
+Pero conocer datos acerca de alguien y conocerlo personalmente no son exactamente lo mismo. En Juan 17, Jesús ora al Padre y relaciona la vida eterna con conocer al único Dios verdadero y a Jesucristo enviado por él.[^7] El pasaje no está enseñando un método de meditación; sí muestra que, desde la perspectiva del evangelio, conocer a Dios ocupa un lugar central.
 
 La meditación toma lo comprendido y permanece con ello. Si descubrimos que Jesús trata con dignidad a una persona despreciada, podemos seguir considerando qué muestra eso acerca de él. Si vemos que confronta una hipocresía, podemos preguntarnos por qué esa conducta le importa. Si una historia cambia nuestra idea de Dios, podemos volver a ella durante días.
 
 La información pasa entonces a alimentar una relación y una respuesta.
 
-## Para recordar durante el día
+## Para que lo leído siga presente en la vida
 
-Una de las funciones más sencillas de la meditación es que lo leído no termine cuando cerramos la Biblia.
+Josué 1:8 y Salmo 1:2 describen una atención a la enseñanza que continúa «día y noche». Como vimos en el capítulo 1, esa expresión presenta una atención habitual, no una lectura ininterrumpida.[^8]
 
-Podemos llevar una frase, una imagen o una pregunta mientras hacemos otras cosas. A veces vuelve sola. Otras veces elegimos recordarla.
-
-Una conversación difícil, un viaje, una pausa en el trabajo o el momento antes de dormir pueden convertirse en ocasiones para volver a lo que ya comprendimos.
-
-La vida no se detiene para que meditemos. En los textos bíblicos, la meditación aparece dentro de responsabilidades, conflictos y necesidades reales.
+El para qué importa aquí: que lo comprendido no quede encerrado en el momento de lectura, sino que pueda acompañar decisiones, preguntas y relaciones a lo largo del día. En el capítulo 5 veremos maneras prácticas de hacerlo.
 
 ## Una expectativa proporcionada
 
@@ -141,3 +135,9 @@ Otras prácticas de meditación también buscan formar la atención y orientar l
 [^4]: Flp 4:2–9; A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 235–240.
 
 [^5]: Sal 63:1–8.
+
+[^6]: Sal 32, especialmente 1–7.
+
+[^7]: Jn 17:1–5, especialmente 17:3.
+
+[^8]: Jos 1:8; Sal 1:1–3.
