@@ -8,8 +8,6 @@ Ahora la pregunta es para qué volvemos. ¿Qué lugar puede ocupar esa atención
 
 Al reunir los pasajes aparece un hilo común: **mantener presente lo conocido de Dios para que oriente nuestra respuesta en la vida concreta**.
 
-[PEDIR AL AUTOR: contar brevemente qué empezó a cambiar en tu vida cuando la Biblia dejó de ser sólo algo que leías y empezaste a volver sobre ella durante el día.]
-
 ## Para que lo comprendido llegue a la vida
 
 Josué 1:8, que vimos en el capítulo anterior, une meditación y conducta: mantener presente la enseñanza tiene como finalidad actuar de acuerdo con ella.[^1]
@@ -37,8 +35,6 @@ Meditar puede ayudarnos a sostener preguntas como estas:
 - ¿Qué parte de lo que conozco de Dios estoy dejando afuera?
 
 No todas esas preguntas aparecen escritas de esa manera en un pasaje. Son formas actuales de dejar que lo comprendido examine una decisión.
-
-[PEDIR AL AUTOR: incluir una decisión concreta en la que volver a un texto o a una enseñanza bíblica te haya hecho frenar, reconsiderar o cambiar de dirección.]
 
 ## Para no vivir solamente desde la reacción del momento
 
@@ -85,8 +81,6 @@ El Salmo 32 describe a una persona que primero guarda silencio sobre su falta y 
 Si mentimos, quizá debamos corregir lo dicho. Si herimos a alguien, quizá haya que pedir perdón. Si la culpa surge de una exigencia que atribuimos a Dios pero no sabemos justificar, necesitamos volver al texto y examinarla mejor.
 
 La finalidad no es sentirnos mal durante más tiempo. Es permitir que la verdad oriente lo que hacemos con aquello que reconocemos.
-
-[PEDIR AL AUTOR: si existe una experiencia que quieras compartir, contar un caso en que meditar te ayudó a pasar de culpa o autorreproche a una respuesta concreta: pedir perdón, corregir algo, aceptar perdón o revisar una idea equivocada de Dios.]
 
 ## Para atravesar la ansiedad sin convertir la meditación en una garantía
 
