@@ -330,7 +330,7 @@ Podemos usar muchas herramientas, pero ninguna reemplaza lo esencial: **volver c
 
 [^2]: Morris L. Venden, «95 Theses on Righteousness by Faith», *Ministry*, mayo de 1986, tesis 50–52; Derek J. Morris, «A passion for revival: An interview with Lee Venden», *Ministry*, febrero de 2012.
 
-[^3]: The Lockman Foundation, «Filosofía de la traducción» de la NBLA, https://www.lockman.org/espanol/nbla/; Tyndale, «Proceso de traducción» de la NTV, https://sites.tyndale.com/ntv/proceso-de-traduccion.html; Sociedad Bíblica Iberoamericana, «Características de la BTX», https://labiblia.org/biblia-textual/caractersticas/.
+[^3]: The Lockman Foundation, «Filosofía de la traducción» de la NBLA, https://www.lockman.org/espanol/nbla/; Tyndale, «Proceso de traducción» de la NTV, https://sites.tyndale.com/ntv/proceso-de-traduccion.html; Sociedad Bíblica Iberoamericana, presentación institucional de la Biblia Textual IV, https://btx4-juan.sociedadbiblicaiberoamericana.net/sbia. Esa página describe entre sus objetivos la «traducción contextual».
 
 [^4]: MyBible, https://mybible.zone/; ElevenReader, https://elevenreader.io/. La Audiobiblia Dramatizada NTV se incluye como recurso práctico.
 
