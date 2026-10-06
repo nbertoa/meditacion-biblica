@@ -10,8 +10,6 @@ Del lado bíblico partimos de la definición del primer capítulo: una atención
 
 La expresión *meditación oriental* abarca tradiciones y métodos muy distintos. No hay una sola práctica budista ni una sola práctica hindú. Por eso vamos a comparar ejemplos concretos.[^1]
 
-[PEDIR AL AUTOR: si tenés una experiencia real con mindfulness, yoga, una aplicación de meditación o una conversación con alguien que practique otra forma de meditación, contar brevemente qué te hizo empezar a preguntarte por las diferencias.]
-
 ## Una mirada rápida antes de entrar en detalle
 
 | Práctica | Qué ocupa la atención | Qué se hace con los pensamientos | Finalidad dentro de su marco |
@@ -116,8 +114,6 @@ También hay diferencias reales: qué ocupa la atención, qué se hace con los p
 Una acción cambia de sentido según su contexto. Respirar lentamente antes de leer un salmo no convierte esa lectura en budismo. Repetir una frase bíblica tampoco garantiza que estemos meditando en ella; podemos repetirla sin considerar su significado.
 
 La particularidad de la meditación bíblica que venimos estudiando está en **volver con atención a Dios, a sus palabras y a sus obras, considerar qué muestran y responder**. No posee en exclusiva el silencio, la memoria, la repetición o la capacidad humana de concentrarse.
-
-[PEDIR AL AUTOR: agregar, si querés, una breve reflexión personal sobre por qué para vos no alcanza con preguntar “¿me hace bien?”, sino que también importa preguntar “¿hacia quién o hacia qué me está orientando?”.]
 
 Comparar con precisión permite respetar mejor a quienes practican de otra manera y, al mismo tiempo, saber qué queremos decir cuando hablamos de meditación bíblica.
 
