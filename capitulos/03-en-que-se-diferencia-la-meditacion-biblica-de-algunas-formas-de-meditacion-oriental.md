@@ -6,9 +6,7 @@ También puede ocurrir lo contrario: personas de religiones diferentes pueden re
 
 Para comparar necesitamos preguntar cuatro cosas: **qué ocupa la atención, qué se hace con los pensamientos, para qué se practica y desde qué creencias se entiende la práctica**.
 
-Del lado bíblico partimos de la definición del primer capítulo:
-
-**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
+Del lado bíblico partimos de la definición del primer capítulo: una atención que vuelve a Dios, a sus palabras y a sus obras, considera qué muestran y se abre a una respuesta.
 
 La expresión *meditación oriental* abarca tradiciones y métodos muy distintos. No hay una sola práctica budista ni una sola práctica hindú. Por eso vamos a comparar ejemplos concretos.[^1]
 
