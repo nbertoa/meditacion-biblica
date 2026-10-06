@@ -1,101 +1,143 @@
 # 2. ¿Para qué meditar?
 
-Podemos entender lo que dice un texto y seguir viviendo como si nunca lo hubiéramos leído. También podemos recordarlo en el momento de tomar una decisión, dejar que cuestione una reacción o encontrar en él palabras para hablar con Dios. La diferencia importa: comprender algo no asegura que eso llegue a orientar nuestra vida.
+Podemos entender lo que dice un texto y seguir viviendo como si nunca lo hubiéramos leído. También podemos recordarlo justo antes de contestar un mensaje enojados, mientras evaluamos una decisión o cuando necesitamos palabras para hablar con Dios. La diferencia importa: comprender algo no asegura que llegue a orientar nuestra vida.
 
-En el capítulo anterior definimos la meditación bíblica como volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta. Ahora la pregunta es qué lugar ocupa esa atención. ¿Qué buscan quienes meditan en los textos bíblicos? ¿Qué esperan recibir y qué cambia en ellos?
+En el capítulo anterior definimos la meditación bíblica así:
 
-Al reunir los pasajes aparece un hilo común: **mantener presente lo conocido de Dios para que oriente nuestra respuesta en la vida concreta**. En algunos textos, ese volver ayuda también a comprender mejor; en otros, se expresa como obedecer, revisar una decisión, agradecer, confiar o seguir buscando a Dios en medio de una pregunta dolorosa. Cada situación nos ayuda a entender para qué se vuelve a Dios y a su enseñanza.
+**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
 
-## Que la enseñanza llegue a la conducta
+Ahora la pregunta es para qué volvemos. ¿Qué lugar puede ocupar esa atención en una vida real, con trabajo, relaciones, dudas, culpa, alegría y decisiones?
 
-En Josué 1:8, que leímos en el capítulo anterior, la finalidad está dicha con claridad: mantener presente la enseñanza para actuar conforme a ella.[^1] Al conducir al pueblo, Josué necesita una orientación que no dependa solamente de sus impulsos o de las presiones que encuentre.
+Al reunir los pasajes aparece un hilo común: **mantener presente lo conocido de Dios para que oriente nuestra respuesta en la vida concreta**.
 
-Podemos aprender de ese vínculo entre atención y conducta sin apropiarnos de todas las promesas de su encargo. El éxito de aquella misión no se convierte en una garantía para cualquier proyecto nuestro.
+[PEDIR AL AUTOR: contar brevemente qué empezó a cambiar en tu vida cuando la Biblia dejó de ser sólo algo que leías y empezaste a volver sobre ella durante el día.]
 
-El Salmo 1 expresa esa orientación mediante el árbol junto al agua: una vida que recibe alimento y da fruto.[^2] Su retrato abarca lo que la persona ama, los consejos que escucha y el camino que sigue. Meditar forma parte de esa vida; el salmo no le atribuye por separado todos sus frutos.
+## Para que lo comprendido llegue a la vida
 
-La imagen tampoco promete protección contra toda pérdida. El mismo libro contiene oraciones de personas fieles que sufren; el Salmo 119 muestra a alguien meditando mientras otros lo calumnian. Una vida orientada por Dios puede atravesar dificultades.
+Josué 1:8, que vimos en el capítulo anterior, une meditación y conducta: mantener presente la enseñanza tiene como finalidad actuar de acuerdo con ella.[^1]
 
-## Comprender para elegir mejor
+El Salmo 119 muestra el mismo movimiento de otra manera. El salmista considera sus caminos y después vuelve sus pasos hacia la enseñanza de Dios. La reflexión no termina en una idea interesante: llega a los pies, por decirlo con la imagen del poema.[^2]
 
-El Salmo 119 permite acercarnos a lo que significa esa orientación. En los versículos 97–104, quien ora dice que ama la enseñanza de Dios. Afirma comprender más que sus maestros porque medita en los testimonios divinos, y más que los ancianos porque guarda sus preceptos. Son las palabras de Dios a las que vuelve y que procura seguir.[^3]
+Eso puede ocurrir en situaciones muy comunes. Leemos acerca de hablar con verdad y, unas horas después, estamos por exagerar una historia porque nos deja mejor parados. Recordar lo leído puede interrumpir la reacción automática.
 
-La afirmación es fuerte, pero su contexto ayuda a entenderla. El salmista habla de apartarse del mal, guardar los preceptos y rechazar los caminos falsos. La sabiduría que celebra tiene que ver con reconocer cómo vivir. No está afirmando que meditar lo haya convertido en experto en cualquier asunto ni que ya no necesite aprender de nadie.
+O quizá un pasaje sobre misericordia vuelve a nuestra mente mientras pensamos en alguien con quien estamos molestos. La meditación no decide mágicamente qué hacer, pero mantiene delante nuestro una verdad que preferiríamos olvidar.
 
-En el mismo poema pide que Dios le abra los ojos, le dé entendimiento y le enseñe. Haber aprendido mucho no significa que pueda arreglárselas solo. Sigue necesitando ayuda.
+## Para elegir con más conciencia
 
-La relación entre meditar y comprender tampoco funciona siempre en una sola dirección. En 119:27 pide comprender los preceptos para considerar las maravillas de Dios. En 119:99 vincula su entendimiento con la meditación en los testimonios. Comprender nos ayuda a meditar, y meditar puede ayudarnos a comprender mejor.
+Muchas decisiones no llegan con una respuesta escrita al lado. Hay que pensar.
 
-Podemos reconocer esa relación en una situación cotidiana. Saber que debemos hablar con verdad no impide que justifiquemos una exageración porque nos conviene. Volver sobre esa enseñanza puede ayudarnos a advertir lo que estábamos evitando: también esa exageración necesita ser revisada.
+Podemos estar por aceptar un trabajo, responder una discusión familiar, gastar dinero, poner un límite o decidir si pedir perdón. La Biblia no siempre ofrece una frase que resuelva el caso directamente. Pero una mente acostumbrada a volver sobre lo que Dios enseña dispone de más elementos para evaluar lo que está haciendo.
 
-El versículo 59 presenta otro movimiento: el salmista considera sus caminos y vuelve sus pasos hacia los testimonios de Dios. Aunque aquí se usa otro verbo, la relación es cercana: examinar la propia conducta puede conducir a corregirla.[^4]
+El Salmo 119 relaciona repetidamente comprensión y orientación. El salmista pide entendimiento, considera la enseñanza y procura apartarse de caminos que reconoce como falsos.[^3]
 
-El paso siguiente importa. El poema no celebra únicamente haber descubierto algo interesante sobre uno mismo. La reflexión llega a los pies, por decirlo con su imagen: cambia el camino.
+Meditar puede ayudarnos a sostener preguntas como estas:
 
-## Recordar quién es Dios
+- ¿Estoy siendo honesto conmigo mismo?
+- ¿Estoy tratando a esta persona como me gustaría que me trataran?
+- ¿Estoy justificando algo sólo porque me conviene?
+- ¿Qué muestra esta decisión acerca de aquello en lo que confío?
+- ¿Qué parte de lo que conozco de Dios estoy dejando afuera?
 
-No todos los pasajes se concentran en una instrucción que cumplir. En Salmo 63:6–8, el salmista recuerda a Dios durante la noche y medita en él. Piensa en quien ha sido su ayuda, expresa alegría bajo su protección y se aferra a él.[^5]
+No todas esas preguntas aparecen escritas de esa manera en un pasaje. Son formas actuales de dejar que lo comprendido examine una decisión.
 
-El salmo recuerda el poder, el amor y la ayuda de Dios. El recuerdo, la alegría y la confianza se entrelazan en la oración. Meditar participa de ese deseo de cercanía, aunque el poema no diga que deba producir siempre los mismos sentimientos.
+[PEDIR AL AUTOR: incluir una decisión concreta en la que volver a un texto o a una enseñanza bíblica te haya hecho frenar, reconsiderar o cambiar de dirección.]
 
-Esa atención también se comparte. El Salmo 48 habla en plural de considerar el amor de Dios en el templo. El Salmo 145 reúne reflexión sobre sus obras, alabanza y el relato que una generación transmite a otra. La respuesta también incluye reconocer juntos a Dios y contar lo que se conoce de él.[^5]
+## Para no vivir solamente desde la reacción del momento
 
-Algo parecido sucede en el Salmo 143. El salmista está abrumado y se siente perseguido. Recuerda los días antiguos, medita en las obras de Dios y extiende sus manos hacia él. Luego pide escuchar su amor, conocer el camino que debe seguir y aprender a hacer su voluntad.[^6]
+Hay momentos en que reaccionamos antes de pensar: llega un mensaje, alguien nos contradice, sentimos miedo, vergüenza o enojo y respondemos desde esa primera impresión.
 
-Lo que recuerda del pasado lo acompaña en su necesidad presente. A partir de lo que Dios hizo, pide ayuda y orientación. La oración sigue siendo una súplica: todavía no se cuenta que el peligro haya desaparecido.
+Meditar introduce una pausa con contenido. No se trata sólo de detenerse. Volvemos a algo que consideramos verdadero acerca de Dios, de nosotros o de cómo queremos vivir.
 
-A veces se vuelve sobre una enseñanza para encontrar orientación. Otras veces se recuerdan las acciones de Dios, y de allí pueden surgir confianza, gratitud o nuevas preguntas. También se medita en Dios mismo, a quien se conoce por lo que enseña y hace. Cada salmo destaca algo distinto dentro de esa relación.
+Filipenses 4 reúne oración, gratitud, atención y conducta. Pablo invita a presentar las peticiones a Dios, a considerar lo verdadero, justo y digno de aprecio, y a practicar lo aprendido.[^4]
 
-## Pensar cuando la experiencia parece contradecir la fe
+Eso no convierte la meditación en una técnica para controlar todas las emociones. Sí muestra una forma de no dejar que la primera reacción sea siempre la última palabra.
 
-El Salmo 77, que vimos en el capítulo anterior, permite precisar qué puede esperarse de meditar. Recordar a Dios puede volver más dolorosa la distancia entre lo que se cree de su fidelidad y lo que se está viviendo.[^7]
+Un ejemplo sencillo: mandamos un mensaje con enojo y después recordamos una enseñanza acerca de la verdad, la paciencia o la reconciliación. Podemos releer lo que escribimos antes de enviarlo. Tal vez decidamos borrarlo, reformularlo o esperar.
 
-Cuando el salmista vuelve a las obras divinas y a la liberación del pueblo, su presente empieza a mirarse desde una historia más amplia. Algunos lectores reconocen allí una recuperación de confianza; otros destacan que el lamento queda abierto. El poema no cuenta qué ocurrió con el problema personal de quien ora ni cómo se sentía al final.
+La enseñanza no vivió por nosotros. Pero estuvo presente en el momento en que necesitábamos decidir.
 
-Meditar puede ayudar a mirar el presente a la luz de lo que se conoce de Dios y sostener una búsqueda que todavía no encontró respuesta. No toda reflexión valiosa termina con una emoción agradable.
+## Para recordar quién es Dios
 
-## La paz que los textos afirman
+No toda meditación se concentra en una instrucción que cumplir. A veces necesitamos volver a quién es Dios.
 
-También hay consuelo y alegría en estos textos. El Salmo 119 los expresa con claridad. El salmista encuentra consuelo al recordar los juicios de Dios, llama a sus palabras la alegría de su corazón y afirma que quienes aman su enseñanza tienen gran paz (119:52, 111, 165).[^8]
+En Salmo 63, el salmista recuerda a Dios durante la noche y medita en quien ha sido su ayuda. Su atención vuelve al amor, al poder y al cuidado que reconoce en él.[^5]
 
-Esas afirmaciones pertenecen al mismo poema que habla de lágrimas, amenazas y espera. No hay que elegir entre creerle cuando dice que encuentra paz y creerle cuando dice que está angustiado. La relación con la enseñanza divina incluye ambas experiencias.
+Eso puede importar especialmente cuando nuestra experiencia presente parece más fuerte que todo lo demás. Una mala noticia puede ocupar toda la pantalla mental. Una culpa puede hacernos pensar que somos solamente nuestro peor error. Una demora puede alimentar la impresión de que Dios nos abandonó.
 
-Además, el versículo sobre la gran paz habla de amar la Ley; no establece que cada sesión de meditación deba terminar sin malestar. Seguir sufriendo no basta para concluir que alguien medita mal o que le falta fe.
+Volver a una historia, una promesa bien comprendida o una acción de Dios puede ampliar el cuadro. No borra automáticamente lo que duele. Nos recuerda que el presente no es toda la historia.
 
-En Filipenses 4:6–9 también aparecen la oración, la atención y la paz. Pablo invita a presentar las peticiones a Dios con gratitud y habla de la paz de Dios que guarda el corazón y el pensamiento. Después pide considerar lo verdadero, justo y digno de aprecio, y practicar lo aprendido.[^9]
+El Salmo 77, desarrollado en el capítulo anterior, muestra justamente eso: una persona angustiada vuelve a las obras de Dios sin que el poema nos obligue a imaginar que su dolor desapareció de inmediato.
 
-La promesa de paz acompaña a la oración en los versículos 6–7. Luego, en 8–9, considerar y practicar lo aprendido aparecen unidos a otra promesa: el Dios de paz estará con ellos. La atención forma parte de ese conjunto; el pasaje no la presenta como una técnica capaz de producir por sí sola todo lo prometido.
+## Para llevar nuestras preguntas a Dios
 
-## Una atención que continúa en la vida
+Meditar también puede conducir a la oración.
 
-Otros textos del Nuevo Testamento prolongan esta relación entre prestar atención, comprender y responder, aunque no usen todos la misma palabra.
+A veces entendemos algo y agradecemos. Otras veces lo que aparece es una contradicción que nos cuesta aceptar. Los salmos permiten ambas cosas: confianza y protesta, gratitud y pregunta.
 
-Después de las comparaciones del soldado, el atleta y el agricultor, 2 Timoteo 2:7 invita a pensar en lo dicho y a confiar en que el Señor dará comprensión. En 1 Timoteo 4:15–16, Timoteo debe dedicarse a cuidar su conducta y su enseñanza. Se espera que persevere y que los demás puedan ver su progreso.[^10]
+Podemos leer una frase y responder: “Esto me cuesta creer”. Podemos recordar una acción de Jesús y preguntar por qué actuó de esa manera. Podemos reconocer una conducta propia y pedir ayuda para cambiarla.
 
-Santiago 1:22–25 ofrece una advertencia complementaria. Una persona puede escuchar la palabra, mirarse como en un espejo y luego olvidar lo que vio. La otra, en cambio, sigue atendiendo a la enseñanza, permanece en ella y la pone en práctica. El contraste no se reduce a cuánto dura la mirada: reúne una atención que persevera con una respuesta concreta.[^11]
+La oración no necesita esperar a que la meditación produzca una conclusión impecable. Una pregunta sincera también puede formar parte de la relación con Dios.
 
-Estas acciones están relacionadas con la meditación, pero conservan su sentido propio. Juntas muestran la importancia de responder a lo comprendido y recordado.
+## Para revisar la culpa sin quedarnos atrapados en ella
+
+Hay una diferencia entre reconocer algo que hicimos mal y vivir dando vueltas alrededor de la culpa sin saber qué hacer con ella.
+
+La meditación bíblica puede ayudarnos a formular una pregunta más útil: **¿qué respuesta corresponde ahora?**
+
+Si mentimos, quizá debamos corregir lo dicho. Si herimos a alguien, quizá haya que pedir perdón. Si la culpa surge de una exigencia que atribuimos a Dios pero no sabemos justificar, necesitamos volver al texto y examinarla mejor.
+
+La finalidad no es sentirnos mal durante más tiempo. Es permitir que la verdad oriente lo que hacemos con aquello que reconocemos.
+
+[PEDIR AL AUTOR: si existe una experiencia que quieras compartir, contar un caso en que meditar te ayudó a pasar de culpa o autorreproche a una respuesta concreta: pedir perdón, corregir algo, aceptar perdón o revisar una idea equivocada de Dios.]
+
+## Para atravesar la ansiedad sin convertir la meditación en una garantía
+
+Cuando estamos preocupados, la mente puede volver una y otra vez al mismo escenario. La meditación bíblica ofrece otro contenido al que volver: una palabra, una obra de Dios, una pregunta, una oración.
+
+Eso puede traer consuelo, como muestran varios salmos y Filipenses 4. También puede dejar preguntas abiertas. La Biblia no promete que toda sesión termine con calma inmediata.[^4]
+
+Por eso conviene mantener una expectativa proporcionada. La práctica espiritual puede acompañar momentos de ansiedad, tristeza o miedo, pero no reemplaza la atención profesional cuando una persona la necesita.
+
+## Para conocer mejor a Dios y no sólo acumular información
+
+Estudiar la Biblia puede darnos mucha información: fechas, palabras, contexto, conexiones entre libros. Todo eso puede ser valioso.
+
+Pero conocer datos acerca de alguien y conocerlo personalmente no son exactamente lo mismo.
+
+La meditación toma lo comprendido y permanece con ello. Si descubrimos que Jesús trata con dignidad a una persona despreciada, podemos seguir considerando qué muestra eso acerca de él. Si vemos que confronta una hipocresía, podemos preguntarnos por qué esa conducta le importa. Si una historia cambia nuestra idea de Dios, podemos volver a ella durante días.
+
+La información pasa entonces a alimentar una relación y una respuesta.
+
+## Para recordar durante el día
+
+Una de las funciones más sencillas de la meditación es que lo leído no termine cuando cerramos la Biblia.
+
+Podemos llevar una frase, una imagen o una pregunta mientras hacemos otras cosas. A veces vuelve sola. Otras veces elegimos recordarla.
+
+Una conversación difícil, un viaje, una pausa en el trabajo o el momento antes de dormir pueden convertirse en ocasiones para volver a lo que ya comprendimos.
+
+La vida no se detiene para que meditemos. En los textos bíblicos, la meditación aparece dentro de responsabilidades, conflictos y necesidades reales.
 
 ## Una expectativa proporcionada
 
-Los textos nos han llevado de la enseñanza a las decisiones, del recuerdo a la oración y de las preguntas a una búsqueda que continúa. La confianza y el consuelo pertenecen a esa relación con Dios; no son resultados asegurados por una práctica aislada. La práctica espiritual tampoco reemplaza la atención profesional cuando una persona la necesita.
+Entonces, ¿para qué meditar?
 
-Volvamos entonces a la pregunta inicial. Según los textos examinados, meditar sirve para mantener presente lo que conocemos de Dios, comprenderlo mejor y dejar que oriente nuestra respuesta. En esa relación pueden aparecer comprensión, confianza, consuelo y una conducta distinta. También pueden permanecer dificultades y preguntas.
+Para mantener presente lo que conocemos de Dios. Para comprenderlo más profundamente. Para que una enseñanza pueda acompañar una decisión. Para revisar una reacción. Para recordar quién es Dios cuando el presente ocupa toda nuestra atención. Para orar desde lo que entendemos y también desde lo que todavía no entendemos. Para que lo leído tenga oportunidad de llegar a la vida.
 
-El fruto que los pasajes buscan no se agota en cómo nos sentimos al terminar de pensar: importa qué hacemos con lo comprendido y hacia dónde dirigimos nuestros pasos. Otras prácticas también procuran orientar la vida. ¿En qué se parecen a esta atención bíblica y en qué se diferencian?
+No todo ocurrirá en cada sesión. Puede quedar una decisión, una gratitud, una pregunta o simplemente una verdad que queremos seguir considerando.
+
+El fruto no se mide solamente por cómo nos sentimos al terminar, sino también por hacia dónde orientamos nuestros pasos.
+
+Otras prácticas de meditación también buscan formar la atención y orientar la vida. La siguiente pregunta es inevitable: **¿en qué se parece la meditación bíblica a esas prácticas y en qué se diferencia?**
 
 ## Notas y fuentes
 
-Los pasajes bíblicos se explican mediante paráfrasis propias, con numeración habitual de Biblias españolas. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md).
+[^1]: Jos 1:1–9, especialmente 1:8; Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», *HTS Teologiese Studies/Theological Studies* 77(1), 2021, https://doi.org/10.4102/hts.v77i1.6668.
 
-[^1]: Jos 1:1–9, especialmente 8. La cláusula hebrea לְמַעַן…לַעֲשׂוֹת expresa la finalidad de actuar. NET, notas a 1:7–8 (COM-NET-01); Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», sección «Deuteronomic antecedents» (EST-01).
-[^2]: Sal 1 completo; Sal 73; Sal 119:23, 78. Philippus J. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119», secciones sobre Sal 119 y conclusión (EST-02).
-[^3]: Sal 119:18, 27, 33–37, 97–104, 108, 125, 169. Michael Kodzo Mensah, «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts», sección C.4, pp. 179–181 (C2-BIB-01), sobre las comparaciones con maestros y ancianos.
-[^4]: Sal 119:59–60. El verbo חָשַׁב, considerar, expresa aquí el examen de los propios caminos (TXT-HEB-01; LEX-HEB-01).
-[^5]: Sal 63 completo, especialmente 6–8; Sal 48:9–14 y 145:4–7. En 48:9 aparece דמה, considerar; en 145:5, שיח permite destacar reflexión o expresión (TXT-HEB-01; LEX-HEB-01).
-[^6]: Sal 143 completo, especialmente 2, 4–10: el recuerdo de las obras de Dios se reúne con las peticiones de ayuda y orientación.
-[^7]: Sal 77 completo. Sobre sus distintas lecturas: Scott Arthur Ellington, *Reality, Remembrance, and Response*, §4.2.7, pp. 148–156 (C2-BIB-02), destaca el lamento no resuelto; Marco Pavan, «La memoria nel Sal 77», resumen institucional consultado (C2-BIB-03), destaca el movimiento hacia la memoria colectiva y la recuperación de la relación con Dios. La nota de NET a 77:10 documenta la dificultad de traducción de ese versículo (COM-NET-01).
-[^8]: Sal 119:49–52, 81–88, 111, 143, 161–176, donde se reúnen consuelo, alegría, paz, aflicción y peticiones de ayuda.
-[^9]: Flp 4 completo, especialmente 2–9, 11–14. A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 235–236 para oración y paz; pp. 237–240 para considerar y practicar (C2-BIB-04). En 4:8, λογίζεσθε significa considerar; el objeto no está restringido explícitamente a versículos bíblicos.
-[^10]: 2 Tim 2:1–13 y 1 Tim 4:6–16. Reproducciones electrónicas del texto griego, identificadas en TXT-NT-01. En 2 Tim 2:7, las variantes «dará» y «dé» mantienen la relación entre considerar lo dicho y recibir comprensión del Señor.
-[^11]: Sant 1:19–27. Nicholas Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», pp. 237–240, especialmente 239 (C2-BIB-05), sobre la mirada al espejo y el olvido. El v. 25 reúne seguir atendiendo, permanecer y hacer.
+[^2]: Sal 119:59–60.
+
+[^3]: Sal 119:18, 27, 33–37, 97–104, 125, 169; Michael Kodzo Mensah, «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts», pp. 179–181.
+
+[^4]: Flp 4:2–9; A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 235–240.
+
+[^5]: Sal 63:1–8.
