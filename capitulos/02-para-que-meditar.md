@@ -52,9 +52,9 @@ Filipenses 4 reúne oración, gratitud, atención y conducta. Pablo invita a pre
 
 Eso no convierte la meditación en una técnica para controlar todas las emociones. Sí muestra una forma de no dejar que la primera reacción sea siempre la última palabra.
 
-Un ejemplo sencillo: mandamos un mensaje con enojo y después recordamos una enseñanza acerca de la verdad, la paciencia o la reconciliación. Podemos releer lo que escribimos antes de enviarlo. Tal vez decidamos borrarlo, reformularlo o esperar.
+Un ejemplo sencillo: escribimos un mensaje con enojo y, antes de enviarlo, recordamos una enseñanza acerca de la verdad, la paciencia o la reconciliación. Podemos releer lo que escribimos. Tal vez decidamos borrarlo, reformularlo o esperar.
 
-La enseñanza no vivió por nosotros. Pero estuvo presente en el momento en que necesitábamos decidir.
+La enseñanza no decide por nosotros, pero está presente en el momento en que necesitamos decidir.
 
 ## Para recordar quién es Dios
 
