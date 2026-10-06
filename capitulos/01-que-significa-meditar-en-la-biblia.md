@@ -158,7 +158,7 @@ Cuando una palabra sigue con nosotros después de leerla, todavía queda por ver
 
 [^2]: NET Bible, notas a Jos 1:8; Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», *HTS Teologiese Studies/Theological Studies* 77(1), 2021, sección «Deuteronomic antecedents», https://doi.org/10.4102/hts.v77i1.6668.
 
-[^3]: A. F. Kirkpatrick, comentario a Sal 1:2; Philippus J. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119».
+[^3]: A. F. Kirkpatrick, comentario a Sal 1:2; Philippus J. Botha, «Interpreting ‘Torah’ in Psalm 1 in the light of Psalm 119», *HTS Teologiese Studies/Theological Studies* 68(1), a1274, 2012, https://doi.org/10.4102/hts.v68i1.1274.
 
 [^4]: Sal 1 completo; NET Bible, nota a Sal 1:2.
 
