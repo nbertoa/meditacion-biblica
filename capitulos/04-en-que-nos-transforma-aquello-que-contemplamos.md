@@ -10,8 +10,6 @@ Lo que conocemos sigue importando. La pregunta es más profunda: **¿cómo parti
 
 El capítulo anterior mostró que las prácticas meditativas no siempre dirigen la atención hacia lo mismo ni buscan la misma meta. Ahora necesitamos preguntar hacia dónde orientan nuestra formación.
 
-[PEDIR AL AUTOR: contar, si tenés una experiencia concreta, un momento en que un pasaje bíblico corrigió una idea que vos tenías acerca de cómo era Dios.]
-
 ## Un rostro descubierto
 
 Segunda de Corintios 3:18 suele resumirse con la frase «por la contemplación somos transformados». Para entenderla, conviene mirar el argumento de Pablo.
@@ -81,8 +79,6 @@ Lucas 6 lo expresa con una frase directa: la misericordia del Padre orienta la m
 Primera de Juan 4 sigue la misma dirección. El amor comienza en Dios y se manifiesta en el envío del Hijo; por eso quienes lo conocen son llamados a amar.[^14]
 
 La imagen de Dios no es un detalle doctrinal separado de la vida. Influye en lo que consideramos bueno, justo y semejante a él.
-
-[PEDIR AL AUTOR: contar un ejemplo personal en el que tu comprensión del carácter de Dios haya cambiado la manera en que trataste a una persona, enfrentaste una culpa o interpretaste una situación difícil.]
 
 ## Conocerlo no alcanza si nos resistimos a responder
 
