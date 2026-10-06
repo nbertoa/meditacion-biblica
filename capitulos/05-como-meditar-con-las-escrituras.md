@@ -2,11 +2,9 @@
 
 Ya vimos qué significa meditar, para qué hacerlo, en qué se diferencia la meditación bíblica de otras prácticas y por qué importa aquello que contemplamos. Ahora llegamos a la pregunta más práctica: **¿cómo hacerlo?**
 
-El punto de partida sigue siendo el del primer capítulo:
+El punto de partida sigue siendo la definición del primer capítulo.[^1]
 
-**Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
-
-No existe una única técnica que todos deban seguir. La Biblia muestra personas que recuerdan, repiten, consideran, oran, preguntan, observan las obras de Dios y vuelven a su enseñanza. Los consejos de este capítulo son herramientas. Algunas te servirán más que otras. Podés probarlas, combinarlas y adaptarlas.[^1]
+No existe una única técnica que todos deban seguir. La Biblia muestra personas que recuerdan, repiten, consideran, oran, preguntan, observan las obras de Dios y vuelven a su enseñanza. Los consejos de este capítulo son herramientas. Algunas te servirán más que otras. Podés probarlas, combinarlas y adaptarlas.
 
 El propósito no es dominar un método. Es conocer mejor a Dios, especialmente como se revela en Jesucristo, y responder a lo que vamos comprendiendo.[^2]
 
@@ -248,7 +246,7 @@ Más tarde volvé a eso. La idea no es repetir mecánicamente, sino mantener pre
 
 A veces una frase o una escena nos toca de una manera particular. No porque hayamos llegado al final de un método, sino porque algo parece atravesar de golpe la distancia entre el texto y nuestra vida.
 
-Puede ser una incomodidad: recordamos un mensaje que mandamos enojados. Puede aparecer una persona con la que necesitamos reconciliarnos. Podemos sentir gratitud, esperanza, consuelo o la necesidad de pedir perdón.
+Puede ser una incomodidad: recordamos una conversación en la que fuimos más duros de lo que queríamos reconocer. Puede aparecer una persona con la que necesitamos reconciliarnos. Podemos sentir gratitud, esperanza, consuelo o la necesidad de pedir perdón.
 
 A esos momentos me gusta llamarlos **«flechazos del corazón»**.
 
@@ -332,7 +330,7 @@ Podemos usar muchas herramientas, pero ninguna reemplaza lo esencial: **volver c
 
 [^2]: Morris L. Venden, «95 Theses on Righteousness by Faith», *Ministry*, mayo de 1986, tesis 50–52; Derek J. Morris, «A passion for revival: An interview with Lee Venden», *Ministry*, febrero de 2012.
 
-[^3]: The Lockman Foundation, «Filosofía de la traducción» de la NBLA, https://www.lockman.org/espanol/nbla/; Tyndale, «Proceso de traducción» de la NTV, https://sites.tyndale.com/ntv/proceso-de-traduccion.html; Sociedad Bíblica Iberoamericana, «Características de la BTX», https://labiblia.org/biblia-textual/caractersticas/.
+[^3]: The Lockman Foundation, presentación/descripción de NBLA, https://biblia.com/books/nblh/article/PRESENTACION; Tyndale, «Proceso de traducción» de la NTV, https://sites.tyndale.com/ntv/proceso-de-traduccion.html; Sociedad Bíblica Iberoamericana, presentación institucional de BTX IV, https://btx4-juan.sociedadbiblicaiberoamericana.net/sbia.
 
 [^4]: MyBible, https://mybible.zone/; ElevenReader, https://elevenreader.io/. La Audiobiblia Dramatizada NTV se incluye como recurso práctico.
 
