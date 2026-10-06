@@ -1,358 +1,416 @@
 # 5. ¿Cómo meditar con las Escrituras?
 
-Ya vimos por qué importa a quién contemplamos. Ahora tenemos un pasaje delante. Lo leemos, entendemos algunas de sus frases y quizá reconocemos algo importante. Pero ¿qué hacemos después? ¿Hay que leerlo otra vez, buscar una explicación, decir algo a Dios o pensar en una decisión?
+Ya vimos qué significa meditar, para qué hacerlo, en qué se diferencia la meditación bíblica de otras prácticas y por qué importa aquello que contemplamos. Ahora llegamos a la pregunta más práctica: **¿cómo hacerlo?**
 
-Cualquiera de esas acciones puede tener lugar. La elección depende de lo que el texto comunica y de lo que todavía necesitamos comprender. Un salmo que expresa angustia pide una atención distinta de una enseñanza sobre cómo tratar a los demás. Una historia se sigue de otra manera que una frase breve de un proverbio.
-
-El punto de partida sigue siendo el que encontramos en el primer capítulo:
+El punto de partida sigue siendo el del primer capítulo:
 
 **Meditar bíblicamente es volver con atención a Dios, a sus palabras y a sus obras, para considerar qué muestran y dejar que orienten nuestra respuesta.**
 
-Ahora vamos a llevar esa definición a la lectura. Los pasajes ofrecen contenidos, preguntas y orientaciones; las propuestas de este capítulo son ayudas para trabajar con ellos. Elegir un tramo, releerlo, escribir una explicación o conversar con alguien son decisiones prácticas. La Biblia no las reúne en una secuencia que todos deban cumplir de la misma manera.[^1]
+No existe una única técnica que todos deban seguir. La Biblia muestra personas que recuerdan, repiten, consideran, oran, preguntan, observan las obras de Dios y vuelven a su enseñanza. Los consejos de este capítulo son herramientas. Algunas te servirán más que otras. Podés probarlas, combinarlas y adaptarlas.[^1]
 
-El propósito sigue siendo conocer a Dios, contemplar su carácter revelado en Cristo y responder a lo que comprendemos. La información ayuda a conocer a alguien; cobra sentido dentro de esa relación. Así podemos leer la Biblia para conocer personalmente a Jesús.[^2]
+El propósito no es dominar un método. Es conocer mejor a Dios, especialmente como se revela en Jesucristo, y responder a lo que vamos comprendiendo.[^2]
 
-En este capítulo integro también consejos personales y recursos que me ayudan. Los comparto como posibilidades, no como reglas bíblicas para todos. Los recorridos por Santiago, los salmos y Lucas son ejemplos preparados para mostrar cómo leer y responder; no relatos de resultados que yo haya obtenido.
+## Antes de empezar
 
-## Un modo sencillo de empezar
+### Reservá un tiempo
 
-Si mañana querés comenzar, elegí un pasaje que puedas leer o escuchar completo. Santiago 1:19–27 puede servir. Reservá un momento, buscá pocas distracciones y pedí a Dios ayuda para comprender. Después probá este recorrido:
+Recomiendo decidir de antemano cuánto tiempo vas a dedicar. Puede ser poco o mucho. Incluso podés usar un cronómetro si eso te ayuda.
 
-1. **Leé o escuchá el pasaje entero.** Tratá de decir de qué habla antes de elegir una frase.
-2. **Volvé a algo concreto.** Una pregunta, una comparación o dos frases relacionadas. Observá qué dicen dentro del conjunto.
-3. **Intentá explicarlo con tus palabras.** Señalá qué sostiene tu explicación. Anotá lo que no entendés para revisarlo después.
-4. **Conversá con Dios y considerá una respuesta.** Puede haber algo que agradecer, pedir, corregir o hacer. También puede quedar una pregunta abierta.
+Tener un tiempo definido evita que terminemos apenas sentimos que ya fue suficiente. No se trata de cumplir una cantidad para que la meditación “valga”, sino de darle a la atención una oportunidad real.
 
-No son etapas obligatorias. La oración puede acompañar todo el recorrido. Al intentar responder quizá necesites leer otra vez. Una Biblia o un audio alcanzan para empezar; las otras herramientas se incorporan cuando ayudan. Escuchar las Escrituras tiene antecedentes bíblicos, aunque una aplicación actual sea distinta de la lectura comunitaria que describe Deuteronomio.[^3]
+### Elegí un momento en que puedas concentrarte
 
-### Reservar tiempo y cuidar la atención
+Si estás excesivamente cansado, con sueño o acabás de comer mucho, probablemente te cueste más concentrarte. Cuando puedas elegir, buscá un momento en que estés despierto y disponible.
 
-Recomiendo decidir de antemano cuánto tiempo vamos a dedicar, incluso usando un cronómetro si resulta útil. A veces buscamos el menor esfuerzo y abandonamos apenas sentimos que «ya está». Me recuerda a salir a trotar: definir antes cuánto correr puede ayudarnos a no detenernos en cuanto aparecen las ganas de volver. Es una comparación práctica, no una medida de espiritualidad. El tiempo puede variar según la persona y el día.
+También ayuda reducir interrupciones. Silenciá notificaciones, dejá el teléfono aparte si no lo necesitás y buscá cierta privacidad.
 
-También recomiendo buscar un momento en el que no estemos excesivamente somnolientos o agotados, ni recién terminada una comida abundante. Así procuramos favorecer la atención; no son condiciones para que Dios nos reciba. Un lugar con cierta privacidad y pocas distracciones puede ayudar. Algunas personas prefieren silencio; otras, música instrumental suave. Silenciá las notificaciones cuando puedas.
+### Encontrá la postura que te ayude
 
-No todos nos concentramos igual. Algunos piensan mejor sentados y quietos. A mí me ayuda caminar. Podés probar ambas posibilidades, leyendo antes de caminar o escuchando un audio. La postura sirve a la atención; no establece una manera superior de meditar.
+No todos pensamos mejor de la misma manera. Algunas personas prefieren sentarse y quedarse quietas. A mí muchas veces me ayuda caminar.
 
-### Una Biblia que resulte cómoda
+Podés leer primero y salir a caminar pensando en lo leído. También podés escuchar la Biblia mientras caminás. La pregunta práctica es sencilla: **¿qué me ayuda a prestar atención?**
 
-La lectura devocional no tiene como tarea principal preparar una tesis, una predicación o una presentación. Podés elegir una traducción fiel y comprensible, que te resulte cómoda de leer. Entre las opciones están Reina-Valera 1960, La Biblia de las Américas, Nueva Biblia de las Américas, Biblia Textual IV, Nueva Versión Internacional y Nueva Traducción Viviente.
+## Elegí una Biblia y un formato que te resulten cómodos
 
-Las traducciones más **formales**, llamadas también literales, procuran conservar más de las palabras y estructuras del original. Las más **dinámicas** buscan expresar su sentido en formas naturales del idioma del lector. Son tendencias, no casilleros absolutos: toda traducción necesita interpretar y tomar decisiones. La NBLA mantiene un enfoque relativamente formal. La NTV emplea un enfoque más dinámico, combinado con recursos formales; es una traducción, no una paráfrasis. Una traducción más literal no siempre comunica mejor el sentido.[^4]
+### No todas las traducciones trabajan de la misma manera
 
-Comparar una misma historia en dos versiones puede renovar la atención. Si aparece una diferencia importante, habrá que examinarla; elegir la frase más agradable no decide cuál explica mejor el original. Más adelante veremos un ejemplo.
+Para la meditación diaria conviene usar una traducción fiel que puedas entender con facilidad.
 
-Para quien prefiere lo digital, MyBible u otra aplicación bíblica puede ser suficiente. Lo importante es poder volver al texto con facilidad, sin que las herramientas ocupen todo el encuentro.
+Las traducciones llamadas **formales** o más literales procuran conservar en mayor medida las palabras y estructuras del idioma original. Las más **dinámicas** buscan comunicar el sentido con formas más naturales para el lector actual. No son dos casilleros absolutos: toda traducción necesita interpretar y tomar decisiones.[^3]
 
-También recomiendo adaptar lectura y escucha al día. Algunos días puede resultar más cómodo leer; otros, escuchar. Una Biblia en audio, una versión dramatizada o una herramienta de texto a voz como ElevenReader son posibilidades, incluso mientras caminamos. Las voces, la música y los efectos de una dramatización son decisiones de sus productores, no datos añadidos a la Biblia. La herramienta facilita el encuentro; no es la meditación.[^5]
+Como orientación general:
 
-## Elegir un pasaje que conserve su sentido
+- **Más formales:** Reina-Valera 1960 (RVR1960), La Biblia de las Américas (LBLA), Nueva Biblia de las Américas (NBLA) y Biblia Textual IV (BTX IV).
+- **Intermedia:** Nueva Versión Internacional (NVI).
+- **Más dinámica:** Nueva Traducción Viviente (NTV).
 
-Recomiendo concentrarse en una sola historia o unidad durante cada sesión. Una unidad es un tramo que permite seguir una idea, una escena o el recorrido de un poema. Conviene que sea manejable: ni tan extenso que disperse la atención, ni tan breve que quede separado de su contexto. No tiene un número fijo de versículos.
+Una traducción más literal no siempre resulta más clara ni necesariamente comunica mejor una frase. Para meditar, muchas veces conviene comenzar con la versión que te permite seguir el texto con naturalidad y recurrir a otra cuando algo llama tu atención o no se entiende bien.
 
-Para reconocerla, mirá cómo empieza y cómo termina. Si comienza con una expresión como *por eso*, buscá qué se dijo antes. Si menciona *estas cosas*, averiguá a qué se refiere. Si termina con una pregunta, leé la respuesta cuando esté a continuación. Los títulos que agregan las ediciones ayudan a orientarse, pero no reemplazan estas relaciones.
+### Compará versiones cuando te ayude
 
-En Lucas 10, por ejemplo, la historia del hombre herido ocupa los versículos 30–35. Sin embargo, conviene empezar en 25 y llegar hasta 37. Así escuchamos por qué Jesús la cuenta y qué pregunta hace al terminar. En Santiago 1, leer el espejo de los versículos 23–25 junto con 19–27 permite ver su relación con recibir la palabra, hablar y cuidar de otros. En el Salmo 77 necesitamos conocer el poema entero para no separar sus preguntas dolorosas del recuerdo que aparece después.
+A veces una segunda traducción hace visible algo que habíamos pasado por alto. Si una palabra o una oración te resulta extraña, leela en dos o tres versiones y fijate qué cambia.
 
-Antes de aplicar una frase, procurá responder algo sencillo: quién habla, a quién se dirige y qué está haciendo con esas palabras. ¿Da una orden, pide ayuda, cuenta lo que alguien hizo o expresa una pregunta? No todo lo narrado es una conducta aprobada. Tampoco una pregunta angustiada funciona como una afirmación definitiva sobre Dios.
+La comparación no consiste en elegir automáticamente la frase que más te gusta. Puede abrir una pregunta que después necesite estudio.
 
-El tipo de texto, o género, también orienta. Una enseñanza puede dar una indicación y explicar por qué; un poema, expresar mediante imágenes lo que cuesta decir de otro modo; un relato, mostrar una diferencia a través de acciones. En cada caso buscamos comprender lo que el texto hace, sin exigirle siempre la forma de una lista de instrucciones.
+### También podés escuchar
 
-Para comenzar necesitamos comprender lo suficiente para saber de dónde sale nuestra reflexión, aunque queden discusiones históricas sin resolver. Si una aplicación depende de una promesa cuyo destinatario desconocemos, habrá que aclararlo primero. La promesa de éxito a Josué, por ejemplo, acompaña su encargo concreto; no decide el resultado de cualquier proyecto nuestro.[^6]
+No hace falta que toda meditación comience con una Biblia impresa. Podés leer en papel, en una aplicación o escuchar.
 
-Con la práctica podemos trabajar un versículo en su contexto, una pequeña unidad, un salmo o un capítulo dividido en varios días. También podemos recorrer un libro poco a poco, seguir la vida de un personaje o un tema: el sábado, los diezmos y las ofrendas, los animales en la Biblia. En un tema, cada pasaje conserva su contexto; reunir versículos no elimina sus diferencias.
+La **Audiobiblia Dramatizada NTV** puede ser especialmente útil para relatos, porque las voces ayudan a seguir a los personajes. También existen otras Biblias en audio y herramientas de texto a voz como ElevenReader.
 
-La idea es elegir una porción que podamos considerar con atención. Al comer no intentamos tragarnos un bocado enorme: cortamos, masticamos y después seguimos. Avanzar por un libro también permite encontrar palabras que quizá no habríamos elegido por nuestra cuenta, en lugar de quedarnos sólo con las que confirman nuestras ideas.
+En una dramatización, las voces, la música y los efectos son decisiones de quienes la produjeron; no forman parte del texto bíblico. Pero pueden ayudarnos a detenernos y escuchar de otra manera.[^4]
 
-## Volver al texto con una pregunta
+Algunos días quizá te resulte mejor leer. Otros, escuchar mientras caminás. Podés alternar.
 
-Releer puede ayudarnos a examinar algo que notamos al principio. Quizá encontramos un contraste y en la siguiente lectura buscamos sus dos partes. O leemos una petición y queremos entender qué necesidad expresa. No hace falta marcar cada palabra ni descubrir algo nuevo cada vez.
+## Elegí una porción que puedas considerar con atención
 
-Podés comenzar por una de estas relaciones: algo que se repite, una razón introducida por *porque*, una pregunta seguida de una respuesta, un cambio entre lo que alguien dice y lo que hace. Elegí la que realmente aparezca. Preguntate qué aporta al conjunto.
+### No hace falta abarcar mucho
 
-Conviene distinguir lo que **observamos** de lo que **interpretamos**. Observar es señalar palabras o acciones que podemos volver a localizar: una persona pregunta, otra responde, una enseñanza se repite. Interpretar es proponer qué significan esas relaciones. También podemos equivocarnos al observar. Esta distinción permite mostrar dónde se apoya una explicación y dónde hace falta revisarla.
+Para meditar no necesitás leer varios capítulos.
 
-De la observación nacen preguntas: ¿qué ocurre?, ¿quién participa?, ¿dónde?, ¿cuándo?, ¿cómo? A mí me resultan especialmente productivas **¿por qué?** y **¿para qué?** ¿Por qué Jesús hizo esto? ¿Por qué no hizo aquello? ¿Para qué formuló esa pregunta? ¿Por qué respondió así? No siempre el texto revela sus motivos; una buena pregunta también permite reconocer lo que no podemos saber.
+Podés trabajar con una historia, una sección de un discurso, un salmo, una parábola o incluso una frase, siempre que conozcas su contexto.
 
-Podemos preguntar como los niños, incluso aquello que parece obvio. A veces los adultos dejamos de mirar porque creemos que «ya sabemos». No descartes una pregunta por sencilla. Intentá responderla con el texto delante. Después buscá qué parte podría poner en duda tu explicación. Si creés que un salmo promete resolver enseguida todo sufrimiento, mirá si realmente cuenta esa resolución. Si entendés que una enseñanza sólo pide cambios a los demás, examiná a quiénes incluye. Este regreso puede ampliar, precisar o descartar una idea.
+La idea es sencilla: tomar una porción suficientemente completa para entender lo que está pasando, pero suficientemente pequeña para poder volver sobre ella.
 
-Las preguntas tampoco tienen que convertirse en un interrogatorio interminable. Cuando una relación se aclara, podemos permanecer considerando lo que muestra: qué dice de Dios, qué descubre de una conducta o por qué resulta difícil recibirla. Ahí el trabajo de comprender alimenta la meditación. Podemos pedir ayuda o responder mientras todavía seguimos leyendo.
+### Conservá el contexto
 
-### Primero pensar; después investigar
+Si una frase comienza con *por eso*, mirá qué viene antes. Si dice *estas cosas*, preguntate cuáles. Si alguien responde, buscá qué le habían preguntado.
 
-Recomiendo no correr inmediatamente a un comentario, Google, un libro, un diccionario o la inteligencia artificial. Primero observá, preguntá, ensayá una respuesta y explicá con tus palabras lo que entendiste. Anotá las dudas para investigarlas después. Así aprendemos a pensar personalmente sobre el texto, en lugar de consumir solamente meditaciones hechas por otros.
+También conviene saber quién habla, a quién y qué clase de texto estamos leyendo. Un poema no funciona igual que una narración. Una pregunta angustiada en un salmo no necesariamente es una afirmación acerca de cómo es Dios.
 
-Esto no significa desconfiar de quienes estudiaron ni prohibir una consulta temprana. Si una palabra impide comprender lo básico, podemos aclararla. El consejo busca que las explicaciones externas no ocupen desde el principio el lugar de nuestra atención.
+No hace falta convertir cada meditación en una clase de interpretación bíblica. Sólo necesitamos comprender lo suficiente para no hacer decir al pasaje algo que no está diciendo.
 
-Para quien lee demasiado rápido, propongo una ayuda: después de conocer el conjunto, leer un versículo, apartar o cerrar la Biblia y pensarlo. Si es un relato, podemos visualizar lo narrado, formular preguntas y anotar algo si surge. Después volvemos a abrirla y pasamos al siguiente. No hace falta usar este recurso siempre ni terminar cada versículo con una idea escrita.
+### Podés quedarte varios días en el mismo lugar
 
-### Escribir para seguir pensando
+No hay ningún premio por avanzar rápido.
 
-Un cuaderno, las notas del teléfono o una aplicación permiten conservar palabras desconocidas, detalles, observaciones, comparaciones y conexiones. También preguntas, posibles aplicaciones y personas que vienen a nuestra mente. No necesitamos redactar un comentario bíblico: una frase puede bastar. Distinguir «el texto dice», «pienso que significa» y «podría responder así» ayuda a revisar después.
+Si una historia sigue generando preguntas, quedate ahí. Si dos versículos ocuparon todo el tiempo que habías reservado, podés continuar mañana.
 
-George Müller cuenta que meditaba con pluma para precisar lo que entendía. Lo dice en un apartado sobre preparación para predicar. Podemos adaptar ese recurso a nuestra lectura personal, sin atribuirle un mandato general de llevar un diario devocional.[^7]
+También podés recorrer lentamente un libro entero, seguir la vida de un personaje o estudiar un tema a lo largo de distintos pasajes. Lo importante es no perder el sentido de cada texto por querer juntar demasiadas cosas.
 
-## Santiago: de escuchar a responder
+## Volvé al texto
 
-Leamos Santiago 1:19–27 después de conocer el comienzo del capítulo. La carta se dirige a las doce tribus de la dispersión, expresión que evoca a Israel esparcido fuera de su tierra. Antes habla de pruebas, sabiduría y dones de Dios. En el versículo 18 menciona la palabra de verdad y la iniciativa divina. La invitación a recibir la palabra aparece en ese marco.[^8]
+### Releé
 
-En la primera lectura podemos seguir el recorrido: escuchar, hablar e ira en 19–20; recibir la palabra con humildad en 21; escuchar y hacer en 22–25; lengua, cuidado de personas afligidas e integridad en 26–27.
+Una de las prácticas más sencillas es volver a leer.
 
-Volvamos a una relación. El 22 advierte contra engañarse al limitarse a oír. El 26 vuelve al engaño, ahora al considerarse religioso sin frenar la lengua. Preguntemos: **¿qué falta cuando alguien recibe una enseñanza y sigue hablando de una manera que daña?**
+La primera lectura nos permite conocer el conjunto. En la segunda quizás notamos una repetición. En la tercera, una reacción de un personaje. Después aparece una pregunta que antes no habíamos visto.
 
-Una primera respuesta podría ser «necesita leer más tiempo». Pero el espejo de 23–24 muestra a alguien que se mira, se va y olvida. El 25 reúne atención, permanencia y acción. La diferencia no consiste simplemente en mirar pocos segundos o muchos.[^9] Podemos interpretar que recibir la palabra necesita una respuesta que continúe en la conducta. Los ejemplos finales impiden reducirlo todo a una experiencia interior. La invitación a escuchar del 19 tampoco prescribe silencio o lectura lenta.[^10]
+No hace falta proponerse descubrir algo nuevo en cada lectura. A veces releer sirve simplemente para permanecer un poco más con lo que ya entendimos.
 
-Como aplicación actual, alguien que reconociera una afirmación injusta propia podría revisar los hechos y corregirla ante quien corresponda. Podría orar: «Ayudame a escuchar y a reconocer qué tengo que corregir en lo que dije». Otra persona quizá se detenga en el cuidado de quienes sufren y averigüe qué ayuda necesitan.
+### Hacé preguntas
 
-Santiago no identifica nuestra conversación ni elige por nosotros la forma de ayudar. Esos pasos necesitan datos de la situación. Tampoco hay que cumplir ambas aplicaciones en una sesión. Si no aparece un caso concreto, puede quedar una pregunta: «¿Estoy dando por cumplida una enseñanza sólo porque estoy de acuerdo con ella?».
+Las preguntas son una de las herramientas que más recomiendo.
 
-## Explicar con palabras propias y comprobar
+Podés empezar con las más básicas:
 
-Una paráfrasis consiste en expresar el sentido con palabras propias. Nos permite descubrir qué comprendimos, agregamos o dejamos afuera. No reemplaza el texto ni pretende ser otra traducción.
+- ¿Qué está pasando?
+- ¿Quién habla?
+- ¿A quién?
+- ¿Qué cambia?
+- ¿Qué se repite?
+- ¿Qué me llama la atención?
 
-En Salmo 119:33–40, el versículo 34 pide entendimiento para guardar la enseñanza; el 36, orientar el corazón hacia ella y apartarlo de la ganancia codiciosa. Un resumen de esas dos peticiones podría ser: «Dame entendimiento para vivir según tu enseñanza; orientá mi corazón hacia ella y apartalo de la codicia».[^11]
+Y después avanzar hacia dos preguntas que a mí me resultan especialmente útiles:
 
-Comparalo con los versículos que acabás de leer. ¿Conserva quién pide, a quién y para qué? ¿Mantiene el contraste con la codicia? ¿Sigue siendo una petición? Escribir «ya comprendo todo y siempre elegiré bien» cambiaría el sentido. Agregar éxito en cualquier asunto introduciría una promesa ausente.
+**¿Por qué?**
 
-Después podemos considerar: ¿estoy dispuesto a pedir orientación sobre lo que deseo, o sólo sobre cómo conseguirlo? Es una posible aplicación, no una decisión que el salmo haya tomado por nosotros. Si escribís, llamá a tu frase *paráfrasis propia*. Dejá pendiente aquello que todavía no sabés explicar.
+**¿Para qué?**
 
-### Cuando ayuda otra traducción
+¿Por qué Jesús hizo esto? ¿Por qué respondió de esa manera? ¿Por qué hizo una pregunta en lugar de dar una respuesta? ¿Para qué cuenta esta historia? ¿Por qué el personaje reacciona así?
 
-Si una palabra te impide entender lo que dice el pasaje, compará ese tramo con otra traducción y fijate cuál estás usando. Buscá exactamente qué cambia. Luego leé el contexto en ambas, en lugar de quedarte con la formulación que más te conviene.
+No siempre vamos a encontrar una respuesta. Y eso también es parte de una buena meditación. Podemos terminar con una pregunta abierta.
 
-En 1 Timoteo 4:15, la Reina-Valera Antigua dice «Medita estas cosas» y la Reina-Valera 1960 dice «Ocúpate en estas cosas». La diferencia abre una pregunta: ¿a qué se refiere *estas cosas*? En 4:12–16 encontramos conducta, lectura pública, enseñanza y cuidado de la propia vida. Ese contexto permite entender una dedicación que abarca más que una sesión de pensamiento silencioso.[^12]
+### Preguntá como un niño
 
-Comparar nos permitió precisar la pregunta y buscar una respuesta en el contexto. Contar cuántas versiones usan cada palabra no resuelve por sí solo la diferencia. Si las versiones dejan una diferencia importante sin aclarar, buscá una nota o comentario sobre ese versículo. Fijate quién lo escribió y qué razones da. Una explicación que sólo propone una aplicación, sin atender a la frase discutida, puede no responder a la pregunta. Volvé después al pasaje y distinguí lo que se aclaró de lo que sigue abierto.
+Muchas veces dejamos de preguntar porque creemos que ya conocemos la historia.
 
-## Seguir la voz de un salmo
+Un niño puede detenerse en algo que un adulto pasa por alto porque parece demasiado obvio. Esa curiosidad puede ser muy valiosa.
 
-Un poema avanza mediante imágenes, recuerdos, repeticiones y cambios de tono. Leé primero el conjunto. Después elegí un movimiento: qué se pide, recuerda o afirma y cómo se relacionan esas voces.
+No descartes una pregunta porque parezca sencilla. Anotala. Intentá responderla con el texto delante. Si no podés, puede convertirse más tarde en una pregunta de estudio.
 
-En el Salmo 77, quien habla clama, busca a Dios de noche y no encuentra consuelo. Recordarlo no elimina enseguida la angustia. Los versículos 7–9 preguntan por su favor, amor y compasión. Son preguntas dolorosas, no una definición según la cual Dios carece de compasión.
+### Cuando algo se aclara, quedate ahí
 
-En 11–12, el salmista se dispone a recordar y considerar las obras divinas. Después destaca el poder de Dios y la liberación del pueblo. El final menciona su conducción mediante Moisés y Aarón.[^13]
+Meditar no consiste solamente en producir preguntas.
 
-Preguntemos: **¿cómo se relaciona aquella liberación con las preguntas que hace ahora?** Volvamos a 7–9 y 11–20. Podemos interpretar que pone el dolor presente ante una historia de acción divina. Hay un movimiento hacia la afirmación de lo que Dios hizo. Pero el poema no cuenta que desapareciera toda angustia ni cómo terminó el problema actual.[^14]
+A veces una frase, una acción o una respuesta se vuelve clara. En ese momento podemos dejar de buscar novedades y simplemente considerar lo que muestra.
 
-El versículo 10 tiene traducciones e interpretaciones diferentes. Podemos anotar esa dificultad y trabajar con lo claro, sin hacer depender todo el recorrido de resolverla.[^15]
+¿Qué me muestra esto acerca de Dios?
 
-Una oración propia podría decir: «Recuerdo la ayuda que este poema cuenta y todavía no entiendo lo que estoy viviendo. Te presento ambas cosas». Esa respuesta no añade un desenlace al salmo. Si nuestra situación es distinta, podemos comprender su voz y orar por quienes necesitan palabras para su dolor. No hace falta provocar angustia ni terminar con una emoción determinada.
+¿Qué me muestra acerca de Jesús?
 
-### Detenerse en una imagen
+¿Qué revela sobre las personas?
 
-Otros salmos invitan a seguir una comparación. En el Salmo 1, la persona que vuelve a la enseñanza divina aparece como un árbol junto al agua; los malvados, como paja que lleva el viento. Para meditar en esa imagen, describí primero qué dice de cada uno. Después preguntá qué aporta el contraste a los dos caminos presentados en el poema.[^16]
+¿Qué pone en evidencia en mí?
 
-Podemos reconocer una vida nutrida y firme frente a la fragilidad. La reflexión puede llevarnos a revisar qué consejo está orientando una decisión. No hace falta asignar una virtud a cada raíz o descubrir un mensaje secreto en cada parte del árbol. La imagen se comprende por su relación con el poema. Tampoco fija un plazo para dar fruto ni asegura prosperidad en todo proyecto.
+¿Qué cambia si esto es verdad?
 
-Podés pensar la comparación mediante palabras, mirar nuevamente sus líneas o representarte el árbol si te resulta natural. La intensidad de una imagen mental no decide si comprendiste el salmo.
+Ahí el trabajo de comprender empieza a convertirse claramente en meditación.
 
-## Recorrer una historia sin escribir otra
+### Cerrá la Biblia por un momento
 
-La imaginación puede ayudarnos a prestar atención a un relato. Podemos reconstruir mentalmente el espacio, los movimientos y las reacciones; intentar comprender el clima emocional y mirar desde distintos personajes. Preguntas como «¿qué sentiría yo en su lugar?» o «¿qué habría hecho?» ayudan a examinar nuestra respuesta. No aseguran que sepamos lo que ellos sintieron.
+Si tenés tendencia a leer demasiado rápido, probá algo muy sencillo: leé una frase o un versículo, apartá la Biblia y pensalo.
 
-Ellen White recomendó repasar la vida de Cristo escena por escena, con ayuda de la imaginación, especialmente su entrega final. Relacionó esa contemplación con confianza, amor y transformación. Es una recomendación devocional suya, no un método prescrito por el evangelio ni una transformación automática.[^17]
+Después volvé al texto y comprobá si lo que estabas pensando realmente sale de ahí.
 
-Mantengamos tres distinciones: **lo que el texto dice**, **lo que inferimos con razones** y **lo que imaginamos como ejercicio**. Imaginar para comprender no es inventar datos sobre lo ocurrido. Si nuestra explicación depende de un detalle añadido, debemos revisarla.
+Ese pequeño movimiento —leer, apartar, pensar y volver— puede frenar la lectura automática.
 
-Probemos con Lucas 10:25–37. Un intérprete de la Ley pregunta por la vida eterna. Jesús le pregunta qué lee; él responde con amor a Dios y al prójimo. Jesús aprueba esa respuesta. Después el interlocutor pregunta quién es su prójimo, queriendo justificarse según el relato. Entonces Jesús cuenta una parábola.[^18] El amor no se opone aquí a una Ley carente de compasión: la respuesta procede de ella.[^19]
+## Usá la imaginación cuando el texto lo permita
 
-Sigamos las acciones. Un hombre es asaltado. Un sacerdote lo ve y pasa de largo. Un levita, vinculado al servicio del templo, hace lo mismo. Un samaritano ve, se compadece, se acerca, venda, lleva a una posada y sostiene el cuidado. El samaritano pertenece a otra comunidad, con tensiones respecto de los judíos. Su ayuda permite reconocer misericordia fuera del propio círculo. No hace falta suponer que todos los miembros de ambas comunidades fueran hostiles entre sí.[^20]
+Los relatos bíblicos se prestan especialmente a esto.
 
-Los tres ven; la diferencia aparece después. Jesús termina preguntando quién se hizo prójimo del herido y llama a actuar como quien practicó misericordia. **¿Qué cambia entre preguntar quién es mi prójimo y reconocer quién actuó como prójimo?** El diálogo permite interpretar que la atención se dirige hacia ejercer misericordia, no sólo delimitar quién merece ayuda.
+Podemos representarnos el lugar, seguir los movimientos de los personajes, escuchar mentalmente una pregunta y mirar la escena desde distintas posiciones.
 
-El texto no explica por qué el sacerdote y el levita pasan de largo. Afirmar que evitaban la impureza ritual convierte una explicación posible en un motivo que Lucas no informa. Tampoco conocemos los pensamientos del herido.
+Podemos preguntarnos:
 
-Podemos imaginar al samaritano acercándose y vendando: acompañamos acciones narradas. La luz de la tarde o una conversación serían añadidos nuestros. Retiralos mentalmente y repasá sólo lo escrito: ¿todavía podés sostener tu interpretación? También podés seguir los verbos o escuchar y pausar sin visualizar.
+**¿Qué habría visto desde ahí?**
 
-Cambiar de perspectiva puede abrir otra pregunta: ¿cómo recibiría yo ayuda de alguien ajeno a mi círculo? Es un ejercicio nuestro, no una reacción que el relato atribuya al herido. Para responder hoy, podemos examinar una necesidad que estamos evitando y averiguar qué ayuda sería pertinente. La parábola orienta hacia la misericordia; no decide por sí sola cuánto dinero o qué compromiso corresponde en cada caso.
+**¿Qué habría sentido yo en su lugar?**
 
-## Un proverbio necesita sus razones
+**¿Qué habría hecho?**
 
-Las mismas preguntas cambian de forma ante un proverbio. Proverbios 26:4 desaconseja responder según la necedad, para no volverse semejante al necio. El versículo siguiente pide responder para que el necio no se considere sabio. Si elegimos sólo el primero, podríamos justificar callar siempre; si elegimos sólo el segundo, discutir siempre. Al leerlos juntos advertimos dos riesgos que hay que considerar.[^21]
+Ellen White recomendó dedicar tiempo a contemplar la vida de Cristo escena por escena y utilizar la imaginación para acercarnos a esos relatos.[^5]
 
-Para trabajar con esa pareja, leé ambas razones y preguntá qué podría pasar en una discusión concreta. ¿Responder sería copiar el insulto o la falta de honestidad? ¿Callar dejaría sin cuestionar una afirmación que necesita respuesta? La pareja exige examinar la situación; no ofrece una fórmula que decida por nosotros. El versículo 12 también cuestiona a quien se tiene por sabio. Nos impide dar por sentado que siempre somos nosotros quienes responden con sabiduría.
+Pero conviene mantener una distinción importante:
 
-Así, el género orienta la práctica: seguimos el recorrido de un poema, las acciones de un relato y las razones de estos dichos. Volver con atención conserva esas diferencias.
+- lo que el texto **dice**;
+- lo que podemos **inferir razonablemente**;
+- lo que estamos **imaginando como ejercicio**.
 
-## Orar desde lo comprendido
+Si el evangelio dice que Jesús tomó a alguien de la mano, podemos imaginar la escena. Si no dice qué estaba pensando esa persona, no deberíamos convertir nuestra imaginación en un dato histórico.
 
-Podemos meditar en conversación con Dios. Antes de leer podemos pedir ayuda. Mientras pensamos, las preguntas pueden hacerse oración: «Jesús, ¿por qué hiciste esto?» o «No entiendo esta respuesta». También podemos agradecer, reconocer algo que necesitamos cambiar u orar por una persona que recordamos. Son palabras nuestras, no respuestas que inventamos en nombre de Dios.
+La imaginación sirve a la contemplación. No reemplaza el texto.
 
-Müller relata que, tras pedir brevemente la ayuda de Dios, comenzó a meditar en pequeñas porciones antes de una oración prolongada. Leía para alimentar su propio corazón, no primero para preparar sermones. Lo leído daba lugar a confesión, gratitud, intercesión y petición. Su testimonio muestra cómo meditación y oración pueden alimentarse mutuamente; no exige que todos oren en ese orden.[^22]
+## Escribí para pensar mejor
 
-Otra posibilidad es responder en oración a las frases de un pasaje. En Lucas 11:1, la petición de aprender a orar puede orientar nuestra propia petición de ayuda.[^23] Adaptamos el sentido comprendido, sin suponer que toda afirmación bíblica sea una promesa dirigida individualmente a nosotros.
+No hace falta llevar un diario elaborado.
 
-El Salmo 143 ofrece un ejemplo. Quien ora está abrumado y pide ayuda. Recuerda las obras de Dios y, en los versículos 8–10, pide conocer el camino que debe seguir y aprender a hacer su voluntad. El recuerdo y la petición se encuentran, mientras la necesidad continúa.[^24]
+Podés anotar una palabra, una pregunta, algo que no entendiste, una relación que viste o una frase que querés recordar.
 
-Podemos observar esa relación y preguntar: ¿cómo pedir orientación sin afirmar que ya recibí una orden concreta sobre mi decisión? Una respuesta propia podría ser: «Necesito aprender a responder con fidelidad. Todavía no sé cómo resolver esta situación; ayudame a comprender qué corresponde hacer». La petición nace del pasaje, pero la situación actual y esas palabras pertenecen a quien ora.
+George Müller contó que utilizaba la escritura para precisar lo que iba comprendiendo. Aunque lo menciona en un contexto relacionado con su preparación para predicar, la herramienta también puede ser útil en la lectura personal.[^6]
 
-Si usamos las palabras exactas de un salmo, conviene conservar su sentido. Si las adaptamos, reconozcamos qué cambiamos. El Salmo 143 termina con una petición contra los enemigos de quien ora. Antes de hacerla nuestra, necesitamos examinar si estamos equiparando esos enemigos con alguien que simplemente nos disgusta. Podemos comprender la súplica urgente del poema sin adoptar cada una de sus palabras como nuestra respuesta inmediata.
+Una forma sencilla de ordenar tus notas es separar:
 
-La oración puede decirse, escribirse o hacerse en silencio. A veces permanecemos atentos a una petición ya leída. Admitir lo que todavía no comprendemos también es una respuesta sincera.[^25]
+**El texto dice...**
 
-La meditación puede alimentar la oración y la oración llevarnos otra vez al texto. Más adelante veremos cómo examinar las impresiones que surjan.
+**Pienso que significa...**
 
-## Rumiar: volver para asimilar
+**Esto me lleva a considerar...**
 
-La rumia ofrece una imagen útil. La vaca tiene un estómago con cuatro compartimentos. Parte del alimento vuelve a la boca para ser masticado otra vez y continuar la digestión.[^26]
+Esa diferencia ayuda a no confundir nuestras conclusiones con las palabras del pasaje.
 
-Como metáfora, podemos leer, masticar mentalmente, volver al texto y considerarlo otra vez para asimilarlo. Después de terminar una historia, recomiendo regresar al comienzo. Una segunda o tercera lectura puede mostrar relaciones que pasamos por alto. No repetimos para cumplir una cantidad, sino para seguir atendiendo.
+### Explicalo con tus propias palabras
 
-White también aconsejó profundizar en un pasaje antes que apresurarse por muchos capítulos. Recomendó conservar palabras en la memoria, volver a ellas durante el día y acompañar la lectura con oración.[^27]
+Intentá decir qué entendiste sin repetir exactamente la traducción.
 
-Si el bloque que reservaste se fue en dos versículos, no pasa nada. Podés dedicar otro bloque ese día, continuar mañana o permanecer varios días en la misma historia. Que haya terminado el tiempo no obliga a abandonar el pasaje. La meta no es cumplir una cantidad de capítulos.
+Si no podés explicarlo de manera sencilla, quizás todavía no lo comprendiste bien.
 
-## Conservar una enseñanza para volver durante el día
+Después volvé al texto. ¿Tu explicación conserva lo que realmente dice? ¿Agregaste algo? ¿Dejaste afuera algo importante?
 
-Cuando conocemos el sentido de un pasaje, podemos retomarlo sin tenerlo abierto todo el tiempo. Recordar ofrece contenido para meditar; decir las palabras puede acompañar esa atención, como vimos al leer Josué 1:8.[^28]
+No tiene que quedar perfecto. Incluso podés escribir: **“Esto todavía no lo entiendo.”**
 
-Para practicarlo, leé primero una unidad. Elegí después una frase que puedas explicar y conservá su referencia. Si querés aprender las palabras exactas, usá una versión identificada: leé la frase, intentá decirla y compará lo que recordaste con el texto. Si preferís llevarte su sentido, formulá un resumen propio. En ambos casos importa volver a considerar lo que el pasaje comunica.
+## Conversá con Dios mientras meditás
 
-Podemos hacerlo con Salmo 119:9–16. En su tramo final, el salmista atiende a lo que Dios pide y considera sus caminos, expresa gusto por la enseñanza y se propone no olvidarla. Después de leerlo, un resumen propio podría ser: «Quiero atender a lo que Dios enseña y mantenerlo presente». Al recordarlo, podemos preguntarnos qué orientación concreta habíamos reconocido en el pasaje.[^29]
+La oración no necesita aparecer solamente al principio o al final.
 
-Elegí una ocasión corriente para retomarlo, por ejemplo antes de una conversación o durante una pausa. Podés usar una tarjeta, una nota o el audio. Al volver, preguntá qué relación tiene lo recordado con ese momento. Si aparece una decisión, regresá al sentido que habías comprendido, en lugar de tratar las palabras como un mensaje privado separado del conjunto.
+Mientras leés podés preguntar:
 
-No es necesario repetir mientras realizás una tarea que requiere toda tu atención. La enseñanza puede acompañar la vida sin que estés pensando conscientemente en ella a cada instante. Si olvidaste la frase, volvé a leerla. La dificultad para recordarla no te impide considerar su significado ni responder a él.
+“Jesús, ¿por qué hiciste esto?”
 
-## Los «flechazos del corazón»
+“¿Qué me querés mostrar de vos acá?”
 
-Llamo así a esos momentos en que una frase o escena nos toca de una manera particular. Puede incomodar, mostrar un defecto o algo que venimos postergando. Quizá recordemos a alguien con quien estamos peleados y deseemos escribirle u orar por él. O aparezcan gozo, consuelo, gratitud, una comprensión nueva o una frase que despierta esperanza. Recomiendo anotarlo, sin apresurarse a explicar su origen.
+“No entiendo esta respuesta.”
 
-Desde mi fe cristiana, entiendo que el Espíritu Santo puede utilizar la Escritura para convencer, recordar, corregir, consolar y orientar, y también traer personas a nuestra atención. Esa convicción no vuelve infalible toda impresión interior. Haberla sentido durante la meditación no la convierte automáticamente en una orden o revelación divina.[^30]
+También podés agradecer, pedir ayuda, reconocer algo o traer a la oración a una persona que recordaste.
 
-Examinemos su relación con el pasaje, el carácter de Dios revelado en Cristo y el resto de las Escrituras. Consideremos también los hechos de la situación y las consecuencias de actuar. Podemos pedir consejo y tomarnos tiempo. Un impulso intenso no sustituye una evaluación responsable. La Escritura puede corregir incluso la primera interpretación que hicimos de nuestra emoción.
+George Müller describió cómo la lectura y la meditación iban dando lugar naturalmente a gratitud, confesión, intercesión y petición. Meditación y oración podían alternarse una y otra vez.[^7]
 
-Ese examen incluye nuestras actitudes: ¿qué necesitamos revisar a la luz de lo leído?[^31] No todo malestar demuestra culpa ni todo entusiasmo confirma que una decisión sea buena.
+No necesitás esperar a terminar de comprender todo para orar. **Lo que no entendemos también puede convertirse en oración.**
 
-## Dar una forma concreta a la respuesta
+## Rumiar
 
-Algunos pasajes llaman expresamente a actuar. Ya vimos esa relación en Santiago y Lucas. Salmo 119:59–60 reúne considerar los propios caminos y dirigir los pasos hacia la enseñanza de Dios. La reflexión puede llevar a corregir algo de la vida; reconocerlo no significa que todo texto deba producir una tarea inmediata.[^32]
+La imagen de la rumia me resulta útil.
 
-Cuando veas una posible acción, tratá de expresar dos cosas: qué entendiste del pasaje y por qué ese paso sería coherente con ello. «Quiero ser mejor» puede expresar un deseo, pero todavía no dice qué harás. «Voy a revisar una afirmación que hice y corregirla si es falsa» identifica una respuesta que podés examinar. También deja lugar a comprobar los hechos antes de actuar.
+Los rumiantes vuelven sobre el alimento y lo mastican otra vez. Como metáfora, describe bastante bien algo que podemos hacer con un pasaje: leerlo, volver sobre él, recordarlo y seguir considerándolo.[^8]
 
-Considerá después qué necesitás saber y qué podés hacer con los medios y el tiempo disponibles. Si querés ayudar a alguien, averiguá qué necesita. Si tenés que corregir lo que dijiste, pensá ante quién corresponde hacerlo. Identificá una oportunidad real para ese paso. La enseñanza orienta la respuesta; los datos de la situación ayudan a darle forma.
+### Profundizá antes que avanzar
 
-Más adelante, volvé sobre lo ocurrido. ¿Hiciste lo que te propusiste? ¿La acción respondía a lo comprendido? ¿Apareció algo que obliga a corregirla? Podés reconsiderarlo en silencio, anotarlo o conversar sobre lo ocurrido con alguien. No hace falta llevar una planilla ni mostrar que todo salió bien.
+Ellen White aconsejó no apresurarse por grandes cantidades de texto, sino detenerse en pasajes, conservar palabras en la memoria y volver a ellas durante el día.[^9]
 
-Si todavía no hay base suficiente para actuar, nombrá lo que falta. Quizá necesites entender una frase o escuchar a otra persona. Y si el pasaje está orientando hacia gratitud o súplica, esa puede ser la respuesta del momento. Dejar clara la pregunta permite reconocer qué falta saber antes de sacar una conclusión.
+Eso significa que una meditación no necesariamente termina cuando cerramos la Biblia.
 
-## El estudio enriquece la meditación
+Podemos seguir pensando una pregunta mientras caminamos, trabajamos o viajamos.
 
-Como vimos en el primer capítulo, el estudio ayuda a comprender y la meditación vuelve con atención sobre lo comprendido. Conocer las palabras, la situación histórica, el género y la relación con el resto de las Escrituras puede enriquecer aquello que consideramos.
+### Llevate una frase o una idea
 
-Podemos expresar la diferencia así: **el estudio pregunta principalmente «¿qué significa esto?»; al meditar nos detenemos a considerar «¿qué muestra y cómo voy a responder?»** No es una frontera rígida: estudiar puede conducir a oración y examen personal; meditar puede despertar una pregunta que exige estudio. Cuanto mejor comprendemos el texto, más rica puede ser la meditación.
+Después de meditar, elegí algo que quieras conservar.
 
-### Investigar las preguntas que quedaron
+Puede ser una frase exacta, una pregunta o un resumen hecho con tus palabras.
 
-Después del primer trabajo personal, volvé a tus notas. Elegí las dudas que necesitan investigación. Buscá otros pasajes relacionados, referencias cruzadas y traducciones. Cuando haga falta, consultá diccionarios, comentarios, libros, artículos o personas que puedan explicar el tema con razones. Google ayuda a encontrar materiales; que una respuesta aparezca primero no la hace más confiable.
+Anotalo en el teléfono, en una tarjeta o simplemente recordalo.
 
-Compará las respuestas con lo que pensaste inicialmente. ¿Qué palabras las sostienen? ¿Qué contexto habías pasado por alto? ¿Hay diferentes interpretaciones? Estar dispuesto a corregirse es parte de atender al texto. Si una aplicación depende de una duda importante, no la des por resuelta mientras investigás.
+Más tarde volvé a ello.
 
-Yo uso bastante la inteligencia artificial después de esa primera meditación. Me ayuda a investigar preguntas, encontrar distintas interpretaciones, buscar contexto y bibliografía, y descubrir conexiones para verificar. Puede equivocarse o inventar referencias. Por eso recomiendo comprobar las afirmaciones importantes, abrir las fuentes y volver al pasaje. Es una herramienta de trabajo, no una autoridad espiritual ni un reemplazo del estudio.
+No se trata de repetir palabras mecánicamente, sino de mantener presente algo que queremos seguir considerando.
 
-## Leer con otras personas
+## Prestá atención a los «flechazos del corazón»
 
-Conversar un pasaje permite escuchar qué vio otra persona y mostrarle dónde se apoya nuestra interpretación. La lectura compartida tiene antecedentes bíblicos, como la reunión para escuchar la Ley en Deuteronomio 31. El procedimiento de conversación que proponemos acá es una ayuda actual, no el reglamento de aquella reunión.[^33]
+A veces una frase o una escena nos toca de una manera especial.
 
-Elijan un mismo pasaje y den tiempo para que todos lo lean o escuchen antes de comentarlo. Alguien puede leerlo en voz alta; quien prefiera simplemente escuchar también participa. Después, cada persona que quiera señala una observación con su referencia. A partir de esas observaciones, elijan una pregunta y ensayen respuestas volviendo al texto.
+Puede incomodarnos. Puede aparecer con mucha claridad una conducta que necesitamos revisar. Podemos recordar a alguien. Podemos sentir gratitud, esperanza o deseo de pedir perdón.
 
-Puede ayudar distinguir tres maneras de hablar: *el pasaje dice*, *entiendo que significa* y *en mi situación podría responder así*. Las tres tienen lugar, pero no afirman lo mismo. Una vivencia personal puede ser importante sin decidir por sí sola el significado para los demás.
+A esos momentos me gusta llamarlos **«flechazos del corazón»**.
 
-En Santiago, por ejemplo, una persona puede notar el espejo y otra, la advertencia sobre la lengua. Al relacionar ambas observaciones con el versículo 25, el grupo considera cómo se unen atención y conducta. No necesita convertir esa conversación en una acusación contra algún participante.
+Recomiendo no ignorarlos, pero tampoco asumir automáticamente que toda impresión es un mensaje directo de Dios.
 
-Si siguen entendiendo el pasaje de maneras distintas, precisen qué palabra o relación deben revisar. Consulten una nota o comentario que dé razones y permita saber quién lo escribió. No hace falta resolverlo por votación. Quien guía también puede tener que corregirse y debe poder mostrar sus razones.
+Desde la fe cristiana podemos entender que el Espíritu Santo utiliza las Escrituras para enseñar, recordar, corregir, consolar y orientar. Pero nuestras impresiones siguen necesitando ser examinadas.[^10]
 
-Acuerden que nadie está obligado a revelar intimidad, contar una falta o aceptar una aplicación que otra persona le asigna. Se puede pasar el turno. Cada uno puede considerar en privado su respuesta. Al terminar, nombren lo que entendieron y, si la hay, la pregunta que queda abierta; pueden orar juntos si quieren. La participación personal se conserva incluso cuando no todos hablan.
+Podemos preguntarnos:
 
-## Cuando la lectura se detiene
+¿Esto es coherente con el pasaje?
 
-A veces perdemos el hilo. Podemos volver a la última frase comprendida y preguntarnos cómo se relaciona con la siguiente. Leerla en voz alta o escucharla de nuevo ofrece otra manera de retomarla. Si el tramo es demasiado amplio, trabajemos una parte, conservando lo que ya conocemos del conjunto. La distracción no basta para juzgar nuestra fe.
+¿Es coherente con el carácter de Dios que vemos en Cristo?
 
-Primero intentá reducirla: apagá notificaciones, buscá otro lugar o avisá que necesitás un momento sin interrupciones. Si las interrupciones siguen y ya no podés concentrarte, puede ser mejor detenerte y retomar después. La constancia no exige forzar una sesión imposible y terminar frustrado.
+¿Es coherente con el resto de las Escrituras?
 
-Otras veces el problema es preciso: no entendemos una palabra, una referencia o una aparente contradicción. Conviene nombrarlo. «No entiendo por qué dice esto después de aquello» permite buscar mejor que «no entiendo nada». Leamos antes y después, comparemos otra versión y, si sigue siendo necesario, consultemos una explicación o pidamos ayuda a alguien que pueda dar razones. Si una aplicación depende de esa duda, dejémosla pendiente hasta aclararla. Podemos seguir considerando lo claro sin fingir que todo quedó resuelto.
+¿Estoy interpretando bien los hechos?
 
-También puede ocurrir que no aparezca nada nuevo. No necesitamos producir originalidad en cada encuentro. Reconocer nuevamente una enseñanza, agradecer lo conocido o volver a una pregunta pendiente puede tener sentido. Si no surge una acción, no hace falta inventarla para dar por terminada la lectura.
+¿Necesito tiempo o consejo antes de actuar?
 
-Hay pasajes que incomodan. Podemos preguntar si comprendimos algo que pide revisar nuestra conducta o si estamos atribuyendo al texto una exigencia que todavía no sabemos justificar. Son problemas distintos. El primero puede llevar a reconocer una falta; el segundo, a seguir buscando comprensión. El malestar por sí solo no prueba ni fracaso ni transformación.
+Una impresión puede ser importante sin ser infalible.
 
-Podemos pausar y buscar una conversación o la ayuda adecuada. No hay obligación de sostener el ejercicio hasta alcanzar cierta emoción. Como vimos en el capítulo 2, la práctica espiritual tampoco reemplaza la atención profesional cuando hace falta.
+## Respondé
 
-Aun con estas dificultades, es posible saber cómo continuar: volver a una frase, aclarar una duda, cambiar de lectura a escucha, pedir ayuda o retomar otro día. Elegimos el recurso por lo que necesitamos hacer con el pasaje, sin convertirlo en una medida de nuestra capacidad espiritual.
+Meditar bíblicamente no termina necesariamente en una idea.
 
-## Una atención que puede continuar
+A veces el pasaje nos lleva a agradecer. Otras veces a pedir ayuda. Puede llevarnos a reconocer una actitud, cambiar una decisión, reparar algo que hicimos o acercarnos a alguien.
 
-Para meditar con las Escrituras podemos comenzar de una manera sencilla: leer o escuchar un pasaje, volver sobre algo que comunica y considerar una respuesta. A medida que lo hacemos, algunas preguntas se aclaran y otras necesitan más tiempo. Un relato nos lleva a seguir acciones; un poema, a escuchar una voz; una enseñanza, a revisar cómo vivimos.
+La respuesta no tiene que ser siempre una tarea.
 
-No tenemos que usar todos los recursos en cada lectura. Podemos elegir el que permita atender mejor a ese texto y regresar al pasaje cuando nuestra interpretación lo necesite. Comprender, recordar, orar y actuar pueden acompañarse sin convertirse en la misma actividad.
+Puede ser una oración.
 
-Al cerrar la Biblia puede quedar una frase, una pregunta, una gratitud o un paso por dar. Volver a ello durante la vida continúa la atención que empezó al leer. El propósito no es producir ideas originales ni dominar una técnica: es conocer mejor a Dios, especialmente como se revela en Jesucristo, y responder a lo comprendido.
+Puede ser una decisión.
+
+Puede ser una pregunta que seguimos llevando.
+
+Puede ser simplemente permanecer contemplando algo que vimos acerca de Dios.
+
+Cuando sí aparece una acción concreta, conviene expresarla con claridad. “Quiero ser mejor” es demasiado general. “Necesito pedir perdón por cómo hablé ayer” ya puede convertirse en un paso real.
+
+## Dejá que el estudio sirva a la meditación
+
+Esta distinción es importante.
+
+**Estudiar y meditar no son lo mismo, pero tampoco compiten.**
+
+El estudio nos ayuda a comprender. Investigamos palabras, contexto histórico, cultura, género literario, conexiones con otros pasajes y distintas interpretaciones.
+
+La meditación vuelve sobre lo que vamos comprendiendo y pregunta qué nos muestra acerca de Dios, qué significa y cómo respondemos.
+
+Cuanto más conocemos la Biblia, su contexto, sus personajes, su cultura, sus libros y su mensaje como un todo, **más rica puede hacerse nuestra meditación**.
+
+El estudio está al servicio de la meditación.
+
+### Primero intentá pensar
+
+Cuando aparece una pregunta, recomiendo no correr inmediatamente a Google, un comentario o la inteligencia artificial.
+
+Primero mirá el texto.
+
+Pensá.
+
+Ensayá una respuesta.
+
+Anotá la pregunta.
+
+Después investigá.
+
+Así evitamos reemplazar nuestra propia atención por respuestas ya preparadas.
+
+### Después investigá todo lo que haga falta
+
+Hay preguntas que no se pueden resolver solamente mirando el pasaje.
+
+Quizás necesites saber cómo era una ciudad, qué significaba una costumbre, cómo se usa una palabra en otros lugares o por qué las traducciones difieren.
+
+Ahí el estudio amplía lo que podés contemplar.
+
+Podés usar referencias cruzadas, diccionarios, comentarios, libros, artículos, mapas y otros recursos.
+
+Yo también uso bastante la inteligencia artificial para investigar preguntas, encontrar distintas interpretaciones, buscar contexto y localizar bibliografía. Puede ser muy útil, pero puede equivocarse o inventar referencias. Por eso las afirmaciones importantes deben comprobarse y siempre conviene volver al texto.
+
+La herramienta ayuda a estudiar. No reemplaza las Escrituras ni decide por nosotros qué es verdad.
+
+### Volvé a meditar después de estudiar
+
+Este paso es fácil de olvidar.
+
+Podemos empezar con una pregunta, investigar durante media hora y terminar con veinte pestañas abiertas.
+
+Pero si el estudio aclaró algo, **volvé al pasaje**.
+
+Leelo otra vez con lo que ahora sabés.
+
+Muchas veces esa segunda meditación es mucho más rica que la primera.
+
+El estudio proporcionó contexto. Ahora podemos volver a contemplar.
+
+## Cuando te cueste
+
+No todas las sesiones van a ser iguales.
+
+Si perdés el hilo, volvé a la última frase que entendiste.
+
+Si el pasaje es demasiado grande, reducí la porción.
+
+Si no entendés una palabra, anotala e investigala.
+
+Si estás demasiado distraído, cambiá de lugar, escuchá el texto o retomá en otro momento.
+
+Si no aparece nada nuevo, no hace falta inventarlo. Podés volver a agradecer por algo que ya conocías.
+
+Si un pasaje te incomoda, no lo descartes inmediatamente. Preguntate si está corrigiendo algo en vos o si quizás todavía no lo entendiste bien.
+
+La meditación no necesita terminar con una gran revelación cada vez.
+
+## Una forma sencilla de empezar
+
+Después de todos estos consejos, podemos resumirlos en un recorrido muy simple. No es una fórmula obligatoria. Es sólo un punto de partida para quien no sabe qué hacer.
+
+**1. Leé o escuchá.**  
+Elegí una porción manejable y conocé primero el conjunto.
+
+**2. Volvé y considerá.**  
+Releé. Hacé preguntas. Detenete en una frase, una imagen, una acción o una respuesta. Si es un relato, podés imaginar la escena sin confundir imaginación con información.
+
+**3. Conversá con Dios.**  
+Preguntá, agradecé, pedí ayuda, reconocé lo que no entendés. Si algo te toca especialmente, quedate ahí.
+
+**4. Respondé y seguí volviendo.**  
+Puede quedar una acción, una oración, una pregunta o una frase para llevar durante el día. Si necesitás estudiar algo, investigalo y después regresá al pasaje.
+
+Eso es todo.
+
+Podemos usar muchas herramientas, pero ninguna reemplaza lo esencial: **volver con atención a Dios, a sus palabras y a sus obras, considerar qué muestran y dejar que orienten nuestra respuesta.**
 
 ## Notas y fuentes
 
-Los pasajes se explican mediante paráfrasis propias, con la numeración habitual de las Biblias españolas. Las dos citas breves de 1 Timoteo 4:15 identifican sus versiones. Las oraciones y los recorridos bíblicos propuestos son ilustraciones pedagógicas actuales; no son palabras añadidas al texto bíblico ni testimonios de resultados. Las recomendaciones personales proceden del aporte de Nicolás para esta revisión. Las fuentes devocionales documentan consejos de sus autores, no mandatos bíblicos. Los identificadores remiten al [registro bibliográfico](../fuentes/registro-bibliografico.md). El [expediente](../investigacion/05-como-meditar-con-las-escrituras.md), la [matriz](../investigacion/capitulo-05/matriz-practicas.md) y el [catálogo](../practicas/catalogo.md) distinguen respaldo textual, interpretación y adaptación, y conservan los grados de acceso. Las ayudas del capítulo no se presentan como tratamientos ni como técnicas cuya eficacia de aprendizaje haya sido medida.
+[^1]: La definición se desarrolla en el [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes), a partir de Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10. Las herramientas de este capítulo son propuestas prácticas; no se presentan como una secuencia bíblica obligatoria.
 
-[^1]: Definición exacta del [capítulo 1](01-que-significa-meditar-en-la-biblia.md#una-definición-que-nace-de-los-pasajes). Base de síntesis: Jos 1:8; Sal 1:2; 63:6–8; 77:11–20; 119:15, 27, 59, 97–104; 143:5–10 (TXT-CONT-01). Se reutilizan las distinciones de C1–C3; las secuencias, preguntas y variantes actuales pertenecen al diseño pedagógico de C5, no al significado de un único término bíblico.
+[^2]: Morris L. Venden, «95 Theses on Righteousness by Faith», *Ministry*, mayo de 1986, tesis 50–52; Derek J. Morris, «A passion for revival: An interview with Lee Venden», *Ministry*, febrero de 2012. Se recupera aquí la idea de acercarse a la Escritura para conocer a una Persona, sin convertir esos testimonios en autoridad bíblica.
 
-[^2]: Morris L. Venden, «95 Theses on Righteousness by Faith», *Ministry*, mayo de 1986, tesis 50–52 (C5-DEV-04), [artículo original](https://www.ministrymagazine.org/archive/1986/05/95-theses-on-righteousness-by-faith). Derek J. Morris, «A passion for revival: An interview with Lee Venden», *Ministry*, febrero de 2012, respuestas sobre estudio para conocer a una Persona y oración como comunión (C5-DEV-05), [entrevista](https://www.ministrymagazine.org/archive/2012/02/a-passion-for-revival:-an-interview-with-lee-venden).
+[^3]: The Lockman Foundation, [NBLA, «Filosofía de la traducción»](https://www.lockman.org/espanol/nbla/); Tyndale, [proceso de traducción de la NTV](https://sites.tyndale.com/ntv/proceso-de-traduccion.html) y [preguntas frecuentes](https://sites.tyndale.com/ntv/preguntas-frecuentes.html). Formal y dinámica describen tendencias, no categorías absolutas.
 
-[^3]: Dt 31:9–13 dentro del capítulo completo (TXT-CONT-01). El pasaje presenta lectura pública, escucha, aprendizaje y conducta; no prescribe audio individual, cantidad de relecturas ni la pauta introductoria de este capítulo.
+[^4]: [MyBible](https://mybible.zone/) y [ElevenReader](https://elevenreader.io/) fueron consultados para comprobar su función general. La Audiobiblia Dramatizada NTV se incluye como recurso práctico del autor. Escuchar las Escrituras tiene antecedentes bíblicos en la lectura pública, por ejemplo Dt 31:9–13, aunque el uso individual de audio es una adaptación actual.
 
-[^4]: The Lockman Foundation, [NBLA, «Filosofía de la traducción»](https://www.lockman.org/espanol/nbla/) (C5-TEC-01); Tyndale, [proceso de traducción](https://sites.tyndale.com/ntv/proceso-de-traduccion.html) y [preguntas frecuentes sobre NTV](https://sites.tyndale.com/ntv/preguntas-frecuentes.html) (C5-TEC-02). Se describen tendencias, no una clasificación absoluta de todas las versiones enumeradas. La Sociedad Bíblica Iberoamericana presenta BTX IV como traducción contextual (C5-TEC-03).
+[^5]: Ellen G. White, *The Desire of Ages* (*El Deseado de todas las gentes*), cap. 8, DA 83.4–83.5. White propone contemplar la vida de Cristo escena por escena con ayuda de la imaginación. La recomendación se usa aquí como práctica devocional, no como descripción histórica adicional de los evangelios.
 
-[^5]: [MyBible](https://mybible.zone/) y [ElevenReader](https://elevenreader.io/), sitios de los proyectos consultados para comprobar su función general (C5-TEC-05). Son ejemplos del aporte personal del autor; no se recomiendan como productos necesarios ni se promete disponibilidad de una versión bíblica determinada.
+[^6]: George Müller, *A Narrative of Some of the Lord’s Dealings with George Müller*, parte I, apartado sobre preparación para el ministerio público. Müller menciona meditar con pluma para precisar lo comprendido; aquí se adapta ese recurso a la lectura personal.
 
-[^6]: Jos 1:1–9; NET, notas a 1:7–8 (COM-NET-01). Se conserva el alcance del encargo ya establecido en C1/C2. Elegir una unidad y comprobar sus referentes son decisiones metodológicas actuales, ejemplificadas en Sant 1:19–27 y Lc 10:25–37.
+[^7]: George Müller, «Soul Nourishment First», testimonio reproducido por GeorgeMuller.org. Describe una práctica en la que la meditación da lugar a confesión, gratitud, intercesión y petición.
 
-[^7]: George Müller, *A Narrative of Some of the Lord’s Dealings with George Müller*, parte I, apartado sobre preparación para el ministerio público, párrafos sobre meditar con pluma y aclarar lo comprendido; [reproducción electrónica](https://www.gutenberg.org/cache/epub/20379/pg20379-images.html) (C5-DEV-02). El contexto es preparación para predicar; la adaptación a notas devocionales es nuestra.
+[^8]: Madison Kovarna, «Ruminants: A Digestive Powerhouse», SDSU Extension, actualización del 5 de enero de 2024; The Open University, «How do ruminants digest?», actualización del 30 de agosto de 2019. La rumia se emplea solamente como metáfora.
 
-[^8]: Sant 1 completo, especialmente 1, 16–27, [texto contextual](https://biblehub.com/bsb/james/1.htm) (TXT-CONT-01). Para «dispersión», NET, nota 3 a Sant 1:1 (COM-NET-01). La explicación no resuelve todas las discusiones sobre la identidad de los destinatarios.
+[^9]: Ellen G. White, *Steps to Christ* (*El camino a Cristo*), cap. 10, SC 90.2–90.3 y 91.1: profundización en pasajes, memoria cotidiana, reflexión y oración.
 
-[^9]: Sant 1:22–27. Nicholas Denyer, «Mirrors in James 1:22–25 and Plato, Alcibiades 132c–133c», *Tyndale Bulletin* 50.2, 1999, pp. 237–240, especialmente 239, [DOI](https://doi.org/10.53751/001c.30315) (C2-BIB-05). El contraste no depende de que la primera mirada sea sólo un vistazo; el capítulo no afirma dependencia literaria de Platón.
-
-[^10]: I-Jin Loh y Howard A. Hatton, *A Handbook on the Letter from James*, United Bible Societies, 1997, [extracto sobre Sant 1:19](https://tips.translation.bible/story/translation-commentary-on-james-119/) (C4-BIB-01; extracto completo consultado, no el manual). Escuchar carece de objeto expreso y admite alcance general y relación contextual con la palabra. La aplicación al habla se apoya también en 1:26.
-
-[^11]: Sal 119:33–40, especialmente 34 y 36 (TXT-CONT-01). La paráfrasis resume esas dos peticiones, no toda la estrofa.
-
-[^12]: 1 Tim 4:12–16; [comparador de 4:15](https://www.biblegateway.com/verse/es/1%20Timoteo%204%3A15) (TR-ES-01). RVA identifica Reina-Valera Antigua, no Reina-Valera Actualizada; RVR1960, Reina-Valera 1960. NET, traducción de 4:15 y nota a 4:13 sobre lectura pública (COM-NET-01). Es el contexto de 4:12–16 el que permite precisar «estas cosas»; véase también el análisis léxico del capítulo 1.
-
-[^13]: Sal 77 completo, [texto contextual](https://biblehub.com/bsb/psalms/77.htm) (TXT-CONT-01), especialmente 1–9, 11–20. El ejercicio destaca relaciones del poema, no fases psicológicas obligatorias. Ya hay apelación directa a Dios antes del v. 13, por ejemplo en 4; no se propone un cambio absoluto de hablar de Dios a hablarle.
-
-[^14]: Scott Arthur Ellington, *Reality, Remembrance, and Response*, tesis, 1999, §4.2.7, pp. 148–156 (C2-BIB-02), destaca el lamento no resuelto. Marco Pavan, «La memoria nel Sal 77», 2012, pp. 69–90, sólo resumen institucional consultado (C2-BIB-03), ofrece una lectura alternativa de la memoria. El cuerpo distingue el movimiento del poema del desenlace personal que no se informa.
-
-[^15]: Sal 77:10; NET, [nota textual 2](https://classic.net.bible.org/verse.php?book=Psa&chapter=77&verse=10) (COM-NET-01); A. F. Kirkpatrick, [comentario a 77:10–12](https://biblehub.com/commentaries/cambridge/psalms/77.htm) (COM-SAL-01). Sal 77:10–12 corresponde a 77:11–13 cuando el encabezamiento se cuenta en el texto hebreo; el salmo es el 76 en la Septuaginta.
-
-[^16]: Sal 1 completo, especialmente 1–4 (TXT-CONT-01); C1/C2 sobre Torá, imagen y límites. El contraste se interpreta dentro de los dos caminos. La extensión a la lectura del conjunto de las Escrituras cristianas es posterior; no se atribuye al salmista ese corpus completo ni una dosificación de la práctica.
-
-[^17]: Ellen G. White, *The Desire of Ages* (*El Deseado de todas las gentes*), capítulo 8, DA 83.4–83.5 (C3-HIS-04), [texto institucional](https://text.egwwritings.org/amp/read/130.295). White propone una hora diaria de contemplación; el capítulo toma su orientación hacia Cristo sin convertir esa duración en obligación universal. La relación con 2 Co 3:18 se desarrolla con su contexto en el capítulo 4 del libro.
-
-[^18]: Lc 10:25–37 dentro de [Lucas 10](https://biblehub.com/bsb/luke/10.htm) (TXT-CONT-01); RVR1960 del mismo tramo (TR-ES-01); NET, notas a Lc 10:25–37, especialmente 84, 90–91, 113, 119 y 123 (COM-NET-01). Los diálogos del cuerpo son paráfrasis propias.
-
-[^19]: Lc 10:26–28; Dt 6:5; Lev 19:18, 33–34. Amy-Jill Levine, anotaciones a Lucas en *The Jewish Annotated New Testament*, eds. Levine y Marc Zvi Brettler, Oxford University Press, 2011, pp. 123–124 (C4-BIB-02; consulta parcial). Los mandamientos de amor pertenecen a la Ley citada. No se reconstruye el judaísmo entero ni una hostilidad uniforme entre comunidades.
-
-[^20]: Lc 10:30–35. Amy-Jill Levine, anotaciones a Lucas en *The Jewish Annotated New Testament*, 2011, pp. 121, 123–124 (C4-BIB-02; consulta parcial); NET, notas 105, 109–110 y 113 (COM-NET-01). Darrell L. Bock, *Luke*, [extracto sobre 10:25–37](https://www.biblegateway.com/resources/ivp-nt/Parable-Good-Samaritan) (C4-BIB-03), para las glosas de levita y samaritano. Lc 9:51–56 muestra tensión en una aldea; no demuestra hostilidad uniforme entre todos los miembros de ambas comunidades.
-
-[^21]: Prov 26:1–12, especialmente 4–5 y 12 (TXT-CONT-01); NET, notas 6–9 del [capítulo 26](https://classic.net.bible.org/bible.php?book=Pro&chapter=26) (COM-NET-01), consulta parcial. La interpretación atiende a las razones distintas de ambos dichos; no toma las referencias rabínicas indirectas como originales consultados ni ofrece un criterio infalible para cada discusión.
-
-[^22]: George Müller, «Soul Nourishment First», [reproducción del testimonio en GeorgeMuller.org](https://www.georgemuller.org/devotional/soul-nourishment-first) (C5-DEV-01). El relato incluye una breve oración antes de meditar y la alternancia posterior con oración; no una prohibición de orar primero. Se cita esta reproducción, no una edición original íntegra de sus diarios.
-
-[^23]: Asociación Ministerial de la Asociación General, *Ten Days of Prayer 2025*, lecturas preparadas por Pavel Goia, día 2, «Teach Us How to Pray», apartado «Praying God’s Word—Luke 11:1»; [material oficial](https://www.tendaysofprayer.org/2025) (C5-DEV-06).
-
-[^24]: Sal 143 completo, especialmente 4–10 y 12 (TXT-CONT-01); contextos y límites de C1/C2. El poema reúne recuerdo y petición sin informar un rescate ya obtenido. La oración propuesta adapta su orientación; no reproduce todas sus peticiones ni certifica una decisión privada.
-
-[^25]: Timothy R. Jennings, *Meditation: Biblical Method Versus Eastern Method: A Guide to a Bible-based Experience with God*, Come and Reason Ministries, 2020, [guía](https://comeandreason.com/files/share/Meditation_Guide_6x9_web.pdf), p. 24, segundo punto, y p. 25, cuarto y quinto puntos (JEN-01).
-
-[^26]: Madison Kovarna, [«Ruminants: A Digestive Powerhouse»](https://extension.sdstate.edu/ruminants-digestive-powerhouse), SDSU Extension, actualización del 5 de enero de 2024, introducción y apartados anatómicos. The Open University, [«How do ruminants digest?»](https://www.open.edu/openlearn/science-maths-technology/biology/how-do-ruminants-digest), actualización del 30 de agosto de 2019, explicación de la regurgitación y nueva masticación (C5-TEC-04). La rumia se usa como metáfora, no como definición de los verbos bíblicos ni explicación fisiológica del pensamiento.
-
-[^27]: Ellen G. White, *Steps to Christ* (*El camino a Cristo*), capítulo 10, SC 90.2–90.3 y 91.1, [texto institucional](https://text.egwwritings.org/read/108.332) (C5-DEV-07): profundización, memoria cotidiana, reflexión y oración. No se exige una cantidad de versículos o repeticiones.
-
-[^28]: Jos 1:1–9, especialmente 8; NET, nota al versículo (COM-NET-01). Cameron Boyd-Taylor, «Meditatio Septuaginta: Torah recitation as a spiritual discipline», 2021, sección «Deuteronomic antecedents», [DOI](https://doi.org/10.4102/hts.v77i1.6668) (EST-01). Recitación y reflexión pueden acompañarse, como se desarrolla en C1.
-
-[^29]: Sal 119:9–16, especialmente 15–16; Dt 6:4–12, 20–25 y Sal 63:6–8 como contextos relacionados, no instrucciones idénticas (TXT-CONT-01). La selección de frase, cotejo de memoria, tarjeta u ocasión cotidiana son adaptaciones actuales. Guardar la palabra no se reduce a reproducirla exactamente.
-
-[^30]: Jn 14:25–26 y 16:7–15 hablan del Espíritu dentro de la despedida de Jesús a sus discípulos. 2 Tim 3:14–17 vincula Escritura, corrección y preparación para obrar; Rom 15:1–7 relaciona Escrituras, consuelo y vida compartida. 1 Ts 5:19–22 pide examinar en un contexto que menciona profecías; 1 Jn 4:1–6, frente a falsos profetas, vincula el discernimiento con Jesucristo (TXT-CONT-01). Su aplicación a las impresiones personales es una orientación cristiana razonada, no una promesa de mensajes privados ni una certificación de su origen.
-
-[^31]: Alejandro Bullón, «Meditad», 12 de diciembre de 2020, reflexión sobre Hag 1:5 y párrafos finales de aplicación, [devocional en su sitio](https://www.alejandrobullon.com/devocionales/meditad) (C5-DEV-03). Se incorpora su consejo de examen personal; el llamado original de Hageo conserva su contexto histórico.
-
-[^32]: Sal 119:59–60; Sant 1:22–27; Lc 10:36–37 (TXT-CONT-01). Se conserva la diferencia léxica de Sal 119:59 ya registrada en C1/C2. Elegir un paso, definir su alcance y revisarlo después son ayudas propias; actuar responde a la meditación y no reemplaza su definición.
-
-[^33]: Dt 31:9–13 (TXT-CONT-01), antecedente de escucha compartida; Sant 1:22–27 y C2-BIB-05 para el ejemplo conversacional. Turnos, derecho a pasar, privacidad y revisión de las razones del guía son decisiones pedagógicas actuales. El acuerdo grupal no se presenta como prueba de interpretación ni se afirma que este procedimiento haya sido probado con lectores.
+[^10]: Jn 14:25–26; 16:7–15; 2 Tim 3:14–17; Rom 15:1–7; 1 Ts 5:19–22; 1 Jn 4:1–6. La aplicación de estos textos a impresiones personales es una orientación cristiana razonada, no una garantía de que toda impresión interior tenga origen divino.
