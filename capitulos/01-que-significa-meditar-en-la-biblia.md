@@ -4,8 +4,6 @@ A veces leemos una página y, apenas cerramos el libro, casi todo queda atrás. 
 
 Esa segunda experiencia nos acerca a lo que la Biblia presenta como meditar. Pero todavía hace falta precisar sobre qué se piensa, cómo se hace y hacia dónde conduce.
 
-[PEDIR AL AUTOR: contar brevemente una ocasión en que una frase bíblica siguió acompañándote durante el día y te hizo volver a pensarla.]
-
 Cuando escuchamos la palabra *meditación*, podemos imaginar a alguien sentado, con los ojos cerrados, pensando en silencio. Esa puede ser una manera de meditar. Los textos bíblicos, sin embargo, ofrecen una escena más amplia: personas que recuerdan a Dios durante la noche, vuelven sobre sus enseñanzas, hablan de sus obras y examinan su propia conducta.
 
 La Biblia no entrega una definición de diccionario. Presenta palabras y situaciones relacionadas. Al reunirlas, aparece una comprensión bastante concreta.
@@ -113,8 +111,6 @@ Estas actividades suelen encontrarse. Distinguirlas ayuda a entender qué hacemo
 **Meditar** es volver con atención sobre un contenido significativo y permanecer considerando qué muestra y qué implica.
 
 Una lectura puede convertirse en meditación mientras todavía leemos. El estudio puede enriquecerla al aclarar una frase. La memoria puede sostenerla durante el día. La oración puede expresar lo que la reflexión despierta.
-
-[PEDIR AL AUTOR: incluir un ejemplo breve de cómo en tu práctica personal estudio, meditación y oración se fueron encadenando sin ser exactamente lo mismo.]
 
 ## ¿Y qué lugar tiene imaginar?
 
