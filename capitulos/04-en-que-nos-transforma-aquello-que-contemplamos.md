@@ -112,7 +112,7 @@ Esta conclusión parte de premisas de fe. No puede demostrarse comparando escán
 
 Y la superioridad de la orientación no significa que cada cristiano medite mejor ni viva mejor que cualquier persona de otra tradición. Una práctica llamada bíblica puede ser usada para confirmar prejuicios o justificar dureza. Si lo que producimos contradice al Cristo que decimos contemplar, necesitamos revisar nuestra interpretación y nuestra respuesta.
 
-Esas dos salvedades alcanzan. La afirmación central puede decirse sin miedo: **si Cristo revela verdaderamente a Dios, contemplarlo y dejar que esa revelación nos forme tiene un valor espiritual que ninguna orientación hacia un objeto distinto puede sustituir.**
+La afirmación central puede decirse sin miedo: **si Cristo revela verdaderamente a Dios, contemplarlo y dejar que esa revelación nos forme tiene un valor espiritual que ninguna orientación hacia un objeto distinto puede sustituir.**
 
 ## La pregunta que llevamos a la lectura
 
@@ -134,7 +134,7 @@ Con esa pregunta presente, podemos dar el paso práctico: **¿cómo meditar conc
 
 [^3]: Éx 34:6–7, 29–35; 2 Co 3:7–18.
 
-[^4]: 2 Co 3:18; NET Bible, nota a 2 Co 3:18; Liddell, Scott y Jones, *A Greek-English Lexicon*, entrada κατοπτρίζω; Philip H. Towner y Roger L. Omanson, material de traducción sobre 2 Co 3:18; véase también el análisis de Peter Tack, 2015, pp. 89–92, 100, 111.
+[^4]: 2 Co 3:18; NET Bible, nota a 2 Co 3:18; Henry George Liddell, Robert Scott y Henry Stuart Jones, *A Greek-English Lexicon*, entrada κατοπτρίζω; Roger L. Omanson y Paul Ellingworth, *A Handbook on Paul's Second Letter to the Corinthians*, United Bible Societies, 1993, comentario a 2 Co 3:18; Laura Tack, «A Face Reflecting Glory. 2 Cor 3,18 in its Literary Context (2 Cor 3,1–4,15)», *Biblica* 96(1), 2015, pp. 85–112, especialmente 89–92, 100 y 111.
 
 [^5]: 2 Co 4:1–12; 5:14–21.
 
