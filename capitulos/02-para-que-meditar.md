@@ -130,9 +130,9 @@ Otras prácticas de meditación también buscan formar la atención y orientar l
 
 [^2]: Sal 119:59–60.
 
-[^3]: Sal 119:18, 27, 33–37, 97–104, 125, 169; Michael Kodzo Mensah, «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts», pp. 179–181.
+[^3]: Sal 119:18, 27, 33–37, 97–104, 125, 169; Michael Kodzo Mensah, «Making Meaning of Wisdom in Psalm 119 and in Contemporary African Contexts», *Old Testament Essays* 34(1), 2021, pp. 165–188, especialmente 179–181, https://doi.org/10.17159/2312-3621/2021/v34n1a10.
 
-[^4]: Flp 4:2–9; A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», pp. 235–240.
+[^4]: Flp 4:2–9; A. H. Snyman, «Philippians 4:1–9 from a rhetorical perspective», *Verbum et Ecclesia* 28(1), 2007, pp. 224–243, especialmente 235–240, https://doi.org/10.4102/ve.v28i1.106.
 
 [^5]: Sal 63:1–8.
 
