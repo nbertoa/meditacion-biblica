@@ -4,7 +4,7 @@
 
 El manuscrito canónico está compuesto por prólogo, cinco capítulos y epílogo. C4 trata la transformación y C5 es el capítulo práctico. Antes de editar, leer `README.md`, `INSTRUCCIONES_PROYECTO.md` y los archivos canónicos pertinentes de `capitulos/`.
 
-Una auditoría independiente posterior a las revisiones anteriores corrigió el 2026-10-14 el tiempo verbal del prólogo, la relación léxica de Salmos 19:14 y 49:3 con la familia de *hāgâ*, el inventario de recuerdos de AN 11.12, la transición específicamente cristológica de C4 y la identificación inicial de Ellen White y George Müller en C5. No reabrir esos puntos sin nueva evidencia.
+Una auditoría posterior realizada con otro modelo corrigió el 2026-10-14 el tiempo verbal del prólogo, la relación léxica de Salmos 19:14 y 49:3 con la familia de *hāgâ*, el inventario de recuerdos de AN 11.12, la transición específicamente cristológica de C4 y la identificación inicial de Ellen White y George Müller en C5. No reabrir esos puntos sin nueva evidencia.
 
 Los registros que siguen documentan encargos y cierres históricos. Las prohibiciones de escribir prólogo o epílogo, las cifras antiguas de palabras/notas y las expresiones como «estado vigente» dentro de esos registros describen el momento de cada encargo y no deben sustituir el estado actual del manuscrito.
 
