@@ -26,7 +26,7 @@ Podría haber leído esas mismas palabras en otro momento y haber seguido adelan
 
 Experiencias como esa hicieron que la meditación bíblica ocupara un lugar especial en mi vida.
 
-El 8 de octubre de 2026 se cumplen nueve años desde que conocí a Jesús. Durante esos años disfruté de muchas maneras de acercarme a la Biblia. Me gusta leerla. Me gusta estudiarla. He disfrutado del estudio de la Escuela Sabática y de los libros de autores cristianos. Todo eso me ha ayudado.
+El 8 de octubre de 2026 se cumplieron nueve años desde que conocí a Jesús. Durante esos años disfruté de muchas maneras de acercarme a la Biblia. Me gusta leerla. Me gusta estudiarla. He disfrutado del estudio de la Escuela Sabática y de los libros de autores cristianos. Todo eso me ha ayudado.
 
 Pero, entre todas esas actividades, la meditación bíblica ha sido la que más satisfacciones y beneficios personales me ha dado.
 
