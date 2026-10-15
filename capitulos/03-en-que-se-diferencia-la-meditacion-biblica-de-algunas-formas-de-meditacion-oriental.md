@@ -31,7 +31,7 @@ Un antiguo discurso budista sobre la respiración propone otra tarea. La persona
 
 Ambas prácticas requieren volver cuando la atención se dispersa. Pero no vuelven a lo mismo. Una vuelve a una enseñanza o a una obra atribuida a Dios; la otra, en ese ejercicio, vuelve a la respiración y a los procesos que se están observando.
 
-El contraste se vuelve más interesante porque el budismo también tiene prácticas de recuerdo. Un discurso invita a evocar las cualidades del Buda, su enseñanza, la comunidad, la virtud y la generosidad.[^3] Ahí la semejanza con los salmos es más cercana: se mantienen presentes cualidades que la persona valora. Cambian aquello que se recuerda y las creencias que le dan sentido.
+El contraste se vuelve más interesante porque el budismo también tiene prácticas de recuerdo. Un discurso invita a evocar las cualidades del Buda, su enseñanza, la comunidad, la propia virtud y generosidad, y las cualidades de los devas.[^3] Ahí la semejanza con los salmos es más cercana: se mantienen presentes cualidades que la persona valora. Cambian aquello que se recuerda y las creencias que le dan sentido.
 
 Por eso el silencio no alcanza para distinguir prácticas. Hay que preguntar **a qué se está prestando atención**.
 
