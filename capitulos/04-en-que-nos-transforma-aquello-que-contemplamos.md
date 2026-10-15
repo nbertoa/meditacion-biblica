@@ -12,7 +12,7 @@ El capítulo anterior mostró que las prácticas meditativas no siempre dirigen 
 
 ## Un rostro descubierto
 
-Segunda de Corintios 3:18 suele resumirse con la frase «por la contemplación somos transformados». Para entenderla, conviene mirar el argumento de Pablo.
+Segunda de Corintios 3:18 ocupa un lugar importante en esta conversación sobre transformación. Para entender el versículo, conviene mirar el argumento de Pablo.
 
 En el capítulo 3, Pablo habla del nuevo pacto y del servicio que procede de Dios. Presenta a los corintios como una carta de Cristo escrita por el Espíritu y afirma que su capacidad para servir viene de Dios.[^2]
 
@@ -95,6 +95,8 @@ Podemos comprender que Dios es misericordioso y seguir queriendo venganza. Podem
 La contemplación cristiana no es acumulación de información. Es atención a una revelación que busca orientar la vida.
 
 ## ¿En qué sentido la meditación bíblica es superior?
+
+La definición del capítulo 1 parte en buena medida de textos que el cristianismo comparte con el judaísmo. Aquí damos un paso específicamente cristiano al preguntar hacia quién y hacia qué semejanza orientamos esa práctica.
 
 Desde la fe cristiana, la vida encuentra su orientación en conocer al único Dios, revelado de manera culminante en Jesucristo, y responder a él.[^16]
 
