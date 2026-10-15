@@ -92,7 +92,7 @@ También hay reflexión interior. Salmo 19:14 habla de la meditación del coraz�
 
 Por eso la meditación puede ser silenciosa o expresarse con palabras. La Biblia no fija un único volumen, postura o forma.
 
-Algunas traducciones usan *meditación* para otras palabras hebreas, como las de Salmos 19:14 y 49:3. Génesis 24:63 ofrece además un caso incierto: algunas versiones dicen que Isaac salió a meditar y otras que salió a pasear.[^9]
+Algunas traducciones usan *meditación* para formas nominales de la misma familia de *hāgâ*, como en Salmos 19:14 y 49:3. Génesis 24:63 ofrece además un caso incierto: algunas versiones dicen que Isaac salió a meditar y otras que salió a pasear.[^9]
 
 La conclusión más segura es sencilla: la palabra española *meditar* reúne expresiones diferentes, y necesitamos mirar cada pasaje en su contexto.
 
