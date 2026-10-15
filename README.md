@@ -16,9 +16,13 @@ Este es un marco general, no un índice cerrado. Los capítulos, apartados y met
 
 ## Manuscrito vigente
 
-Los cinco capítulos escritos tienen archivos canónicos separados y se revisan como una sola obra. La [consolidación integral del 2026-10-04](investigacion/revision-integral-2026-10-04/README.md) parte de la ampliación de C5 ya publicada ese día. Revisa estructura, lenguaje, Biblia y teología, documentación y lectura completa. C4 trata la transformación; el práctico es C5. El [informe actual](investigacion/revision-integral-2026-10-04/informe-autor.md) y la [auditoría](investigacion/revision-integral-2026-10-04/auditoria.md) distinguen trabajo local y publicación comprobada.
+El manuscrito vigente está compuesto por prólogo, cinco capítulos y epílogo, con archivos canónicos separados que se revisan como una sola obra. C4 trata la transformación; el práctico es C5.
 
-**Estado de la consolidación del 2026-10-04:** cinco pasadas completas; contenido publicado y recuperado en [0998e93](https://github.com/nbertoa/meditacion-biblica/commit/0998e934bab03e66706c993d3a5b4371d6b4b794), con coincidencia de los 72 archivos y controles sin errores. La lectura y aprobación editorial del autor siguen pendientes.
+**Auditoría independiente del 2026-10-14:** una lectura externa posterior a las revisiones anteriores detectó y permitió corregir cuatro puntos de precisión sin cambiar la tesis del libro: el tiempo verbal del prólogo, la relación léxica de Salmos 19:14 y 49:3 con la familia de *hāgâ*, el sexto recuerdo de AN 11.12 y la transición entre la definición bíblica inicial y la afirmación específicamente cristológica de C4. También se identificó brevemente a Ellen White y George Müller en su primera aparición en C5. Los registros históricos siguientes conservan las cifras y estados que correspondían a cada cierre anterior.
+
+La [consolidación integral del 2026-10-04](investigacion/revision-integral-2026-10-04/README.md) partió de la ampliación de C5 publicada ese día y revisó estructura, lenguaje, Biblia y teología, documentación y lectura completa. El [informe](investigacion/revision-integral-2026-10-04/informe-autor.md) y la [auditoría](investigacion/revision-integral-2026-10-04/auditoria.md) distinguen trabajo local y publicación comprobada.
+
+**Estado histórico de la consolidación del 2026-10-04:** cinco pasadas completas; contenido publicado y recuperado en [0998e93](https://github.com/nbertoa/meditacion-biblica/commit/0998e934bab03e66706c993d3a5b4371d6b4b794), con coincidencia de los 72 archivos y controles sin errores. En ese cierre, la lectura y aprobación editorial del autor seguían pendientes.
 
 1. [¿Qué significa meditar en la Biblia?](capitulos/01-que-significa-meditar-en-la-biblia.md)
 2. [¿Para qué meditar?](capitulos/02-para-que-meditar.md)
@@ -40,7 +44,7 @@ El [expediente](investigacion/capitulo-05/ampliacion-practica-2026-10-04.md) reg
 
 - `INSTRUCCIONES_PROYECTO.md`: criterios vigentes, incluidas las decisiones del 2026-10-03
 - `plan/decisiones-pendientes.md`: estructura, decisiones confirmadas e historial; lector sin formación teológica y orientación no denominacional confirmados; versión de referencia, aprobación de lectura e inventario léxico siguen abiertos
-- `capitulos/`: cinco manuscritos escritos y plantilla; no hay Prólogo o Epílogo redactados
+- `capitulos/`: prólogo, cinco capítulos, epílogo y plantilla
 - `investigacion/`: expedientes, matrices y auditorías; se conservan los registros anteriores íntegros
 - `fuentes/registro-bibliografico.md`: fuentes consultadas, límites y accesos, incluidas las que ya no aparecen en el manuscrito
 - `practicas/catalogo.md`: ocho fichas investigadas del actual C5; no equivalen a prácticas probadas con lectores o aprobadas por el autor
@@ -97,7 +101,7 @@ El autor decidió insertar un nuevo **capítulo 4, «¿En qué nos transforma aq
 
 ## Nuevo capítulo 4: terminado y verificado en main
 
-El [capítulo completo](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) tiene 3980 palabras de cuerpo y 26 notas. Investiga la dirección de la transformación, explica 2 Corintios 3–4 y pregunta cómo nuestra comprensión de Dios debe dejarse corregir por Cristo. Afirma una superioridad teológica con criterio y premisas explícitos, sin convertirla en prueba científica o ranking moral de personas.
+La versión cerrada en ese ciclo del [capítulo 4](capitulos/04-en-que-nos-transforma-aquello-que-contemplamos.md) tenía 3980 palabras de cuerpo y 26 notas; esas cifras son históricas y no describen automáticamente el manuscrito vigente. El capítulo investiga la dirección de la transformación, explica 2 Corintios 3–4 y pregunta cómo nuestra comprensión de Dios debe dejarse corregir por Cristo. Afirma una superioridad teológica con criterio y premisas explícitos, sin convertirla en prueba científica o ranking moral de personas.
 
 El [expediente general](investigacion/04-en-que-nos-transforma-aquello-que-contemplamos.md) conserva las diez etapas, checkpoints, límites y constancias de publicación. Soportes:
 
