@@ -168,7 +168,7 @@ Podemos preguntarnos:
 
 **¿Qué habría hecho?**
 
-Ellen White recomendó dedicar tiempo a contemplar la vida de Cristo escena por escena y utilizar la imaginación para acercarnos a esos relatos.[^5]
+La escritora adventista Ellen White recomendó dedicar tiempo a contemplar la vida de Cristo escena por escena y utilizar la imaginación para acercarnos a esos relatos.[^5]
 
 Conviene mantener una distinción simple:
 
@@ -184,7 +184,7 @@ No hace falta llevar un diario elaborado.
 
 Podés anotar una palabra, una pregunta, algo que no entendiste, una relación que viste o una frase que querés recordar.
 
-George Müller contó que utilizaba la escritura para precisar lo que iba comprendiendo. La misma herramienta puede ayudarnos en la lectura personal.[^6]
+El evangelista cristiano George Müller contó que utilizaba la escritura para precisar lo que iba comprendiendo. La misma herramienta puede ayudarnos en la lectura personal.[^6]
 
 Una forma sencilla de ordenar tus notas es separar:
 
